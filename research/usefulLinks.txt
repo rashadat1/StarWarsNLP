@@ -1,3 +1,4 @@
+Zero-Shot Classifation:
 https://joeddav.github.io/blog/2020/05/29/ZSL.html
 https://huggingface.co/tasks/zero-shot-classification
 https://huggingface.co/docs/transformers/en/main_classes/pipelines
