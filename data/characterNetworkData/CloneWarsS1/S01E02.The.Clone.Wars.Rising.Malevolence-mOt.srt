@@ -1,0 +1,1547 @@
+1
+00:00:17,855 --> 00:00:20,270
+<i>The clone starfleet is under siege!</i>
+
+2
+00:00:20,433 --> 00:00:22,329
+<i>Dozens of Republic warships
+have been destroyed</i>
+
+3
+00:00:22,396 --> 00:00:25,662
+<i>in merciless surprise attacks
+that leave no survivors.</i>
+
+4
+00:00:25,825 --> 00:00:28,145
+<i>Rumors spread of a terrible
+new Separatist weapon.</i>
+
+5
+00:00:28,459 --> 00:00:29,978
+<i>In the face of growing fear,</i>
+
+6
+00:00:30,141 --> 00:00:32,133
+<i>the Jedi Council sends
+Master Plo Koon</i>
+
+7
+00:00:32,296 --> 00:00:33,877
+<i>to hunt down the menace</i>
+
+8
+00:00:34,040 --> 00:00:36,030
+<i>before it strikes again.</i>
+
+9
+00:00:46,676 --> 00:00:48,733
+The enemy ship has reduced
+its speed, General.
+
+10
+00:00:48,896 --> 00:00:51,217
+They must have realized
+we're tracking them.
+
+11
+00:00:56,165 --> 00:00:58,208
+We're tracking three Republic cruisers.
+
+12
+00:00:58,275 --> 00:00:59,868
+What should we do?
+
+13
+00:01:00,198 --> 00:01:02,028
+Jam their transmissions.
+
+14
+00:01:03,877 --> 00:01:05,721
+The fleet is holding its position, sire.
+
+15
+00:01:05,884 --> 00:01:09,542
+I think it wise to report our position
+before we attack.
+
+16
+00:01:10,869 --> 00:01:13,215
+Skywalker's fleet is nearby,
+in the Bith system.
+
+17
+00:01:13,378 --> 00:01:15,908
+Good.
+Perhaps he can reinforce us.
+
+18
+00:01:16,071 --> 00:01:19,263
+From what I hear,
+Skywalker's always ready for a fight.
+
+19
+00:01:19,426 --> 00:01:20,388
+So I've heard.
+
+20
+00:01:23,163 --> 00:01:24,660
+<i>Koh-to-ya, Master Plo.</i>
+
+21
+00:01:24,990 --> 00:01:26,579
+Koh-to-ya, little 'Soka.
+
+22
+00:01:26,909 --> 00:01:28,658
+<i>How's the hunt for
+the mystery weapon going?</i>
+
+23
+00:01:28,909 --> 00:01:30,831
+We've tracked it to the Abregado system.
+
+24
+00:01:30,994 --> 00:01:32,536
+We need reinforcements.
+
+25
+00:01:32,867 --> 00:01:34,722
+<i>I'll have to ask the Council,
+Master Plo.</i>
+
+26
+00:01:34,885 --> 00:01:37,894
+<i>I was given strict orders
+to protect our staging area.</i>
+
+27
+00:01:39,228 --> 00:01:40,813
+<i>Master Plo, what's happening...</i>
+
+28
+00:01:41,063 --> 00:01:42,832
+What is wrong with the transmission?
+
+29
+00:01:42,995 --> 00:01:45,372
+There's too much interference, sir.
+We've lost 'em.
+
+30
+00:01:45,869 --> 00:01:47,246
+You heard Master Plo.
+
+31
+00:01:47,409 --> 00:01:49,943
+He needs our support.
+We have to go help him.
+
+32
+00:01:50,106 --> 00:01:52,340
+We have to see
+what the Council decides first.
+
+33
+00:01:52,503 --> 00:01:54,201
+This is an important meeting, Ahsoka.
+
+34
+00:01:54,363 --> 00:01:57,942
+Remember, be mindful,
+and speak only when spoken to.
+
+35
+00:01:58,039 --> 00:01:59,477
+Don't I always?
+
+36
+00:02:01,079 --> 00:02:03,451
+<i>This mystery weapon has struck
+in a dozen systems...</i>
+
+37
+00:02:03,614 --> 00:02:05,413
+<i>and disappeared without a trace.</i>
+
+38
+00:02:05,576 --> 00:02:09,177
+<i>We cannot afford to lose
+any more ships, my friends.</i>
+
+39
+00:02:09,650 --> 00:02:10,974
+<i>Master Skywalker,</i>
+
+40
+00:02:11,137 --> 00:02:14,647
+<i>have you had any success in finding
+General Grievous' secret weapon?</i>
+
+41
+00:02:16,264 --> 00:02:19,068
+Master Plo was here in the Abregado system
+when we lost contact.
+
+42
+00:02:22,247 --> 00:02:25,027
+- The enemy ship is closing.
+- Prepare for battle.
+
+43
+00:02:28,499 --> 00:02:29,558
+General Grievous,
+
+44
+00:02:29,721 --> 00:02:32,577
+this will be a suitable test
+for our new weapon.
+
+45
+00:02:33,033 --> 00:02:34,806
+You may fire when ready.
+
+46
+00:02:35,137 --> 00:02:36,246
+Yes, my lord.
+
+47
+00:02:39,576 --> 00:02:41,684
+We're picking up a large energy reading
+from the target, sir.
+
+48
+00:02:41,934 --> 00:02:44,323
+- Open fire.
+- We're not in range yet, sir.
+
+49
+00:02:44,850 --> 00:02:45,639
+Fire!
+
+50
+00:02:52,411 --> 00:02:53,640
+Brace for impact!
+
+51
+00:02:55,689 --> 00:02:57,574
+We're losing all our power.
+
+52
+00:02:58,408 --> 00:03:01,236
+That energy field has left us
+defenseless.
+
+53
+00:03:01,567 --> 00:03:05,277
+- Their shields are down.
+- All cannons, fire.
+
+54
+00:03:09,444 --> 00:03:10,913
+They are tearing us apart one by one.
+
+55
+00:03:22,559 --> 00:03:24,188
+Quickly, into the pods!
+
+56
+00:03:28,597 --> 00:03:31,713
+We don't have much time.
+Get inside! Hurry!
+
+57
+00:03:40,134 --> 00:03:43,660
+Another successful test,
+wouldn't you say, Count?
+
+58
+00:03:43,992 --> 00:03:46,110
+We must keep our position secret.
+
+59
+00:03:46,273 --> 00:03:47,842
+Send out the hunters.
+
+60
+00:03:48,005 --> 00:03:51,337
+I want all of those lifepods destroyed.
+
+61
+00:03:58,215 --> 00:04:00,407
+We've had no further contact
+with General Plo Koon.
+
+62
+00:04:00,474 --> 00:04:02,836
+The absence of distress beacons
+indicates that his fleet was...
+
+63
+00:04:04,326 --> 00:04:06,515
+That his fleet was destroyed,
+like the others.
+
+64
+00:04:06,765 --> 00:04:08,420
+We are about to prepare a rescue mission.
+
+65
+00:04:08,583 --> 00:04:10,281
+<i>Hasn't clone intelligence reported</i>
+
+66
+00:04:10,340 --> 00:04:12,616
+<i>this weapon never leaves any survivors?</i>
+
+67
+00:04:12,779 --> 00:04:14,948
+<i>The Separatists are being unusually tidy.</i>
+
+68
+00:04:15,111 --> 00:04:16,950
+<i>They don't want any witnesses.</i>
+
+69
+00:04:17,481 --> 00:04:20,160
+<i>Tragic are these losses,
+but prevent more...</i>
+
+70
+00:04:20,323 --> 00:04:21,415
+<i>we must.</i>
+
+71
+00:04:24,877 --> 00:04:26,274
+The power grid is burned out.
+
+72
+00:04:26,437 --> 00:04:28,690
+We've no engines,
+communications or...
+
+73
+00:04:29,117 --> 00:04:30,555
+life support recharge.
+
+74
+00:04:30,955 --> 00:04:33,310
+So, we'll just sit here,
+and hold our breath.
+
+75
+00:04:33,552 --> 00:04:35,384
+Someone will come looking for us,
+right?
+
+76
+00:04:36,993 --> 00:04:40,586
+Let's get the power restored,
+so we are here to be found.
+
+77
+00:04:47,149 --> 00:04:50,241
+<i>All our battle groups will be reassigned
+to guard our supply convoys.</i>
+
+78
+00:04:50,404 --> 00:04:52,137
+<i>Including yours, Skywalker.</i>
+
+79
+00:04:52,388 --> 00:04:55,337
+<i>I'm afraid we can't risk
+any more ships with a rescue mission.</i>
+
+80
+00:04:55,587 --> 00:04:56,520
+Wait!
+
+81
+00:04:56,985 --> 00:04:59,314
+Just because there haven't been
+any survivors before...
+
+82
+00:04:59,477 --> 00:05:01,854
+doesn't mean there won't be any this time.
+
+83
+00:05:03,367 --> 00:05:05,332
+<i>Boldly spoken for one so young.</i>
+
+84
+00:05:05,806 --> 00:05:07,360
+<i>She is learning from Anakin.</i>
+
+85
+00:05:07,726 --> 00:05:09,150
+Excuse my padawan.
+
+86
+00:05:09,601 --> 00:05:11,593
+We will deploy as you've instructed,
+Master.
+
+87
+00:05:14,756 --> 00:05:15,714
+Ahsoka!
+
+88
+00:05:16,122 --> 00:05:18,633
+If anyone could survive,
+Master Plo could.
+
+89
+00:05:18,796 --> 00:05:21,009
+- I don't understand why
+- What you don't understand...
+
+90
+00:05:21,172 --> 00:05:24,213
+is Jedi protocol, or your place,
+my young padawan.
+
+91
+00:05:24,376 --> 00:05:25,188
+Admiral.
+
+92
+00:05:25,519 --> 00:05:27,904
+We'll split up our ships
+to maximize our defense area.
+
+93
+00:05:28,067 --> 00:05:29,452
+I'll scout ahead for enemy activity.
+
+94
+00:05:29,615 --> 00:05:32,225
+Isn't that risky, with the
+mystery weapon out there?
+
+95
+00:05:32,556 --> 00:05:35,503
+It might be, but I know you won't
+argue my orders.
+
+96
+00:05:36,689 --> 00:05:37,840
+Come on, Snips.
+
+97
+00:05:43,278 --> 00:05:45,302
+The air in here
+is getting a bit stale.
+
+98
+00:05:45,871 --> 00:05:46,948
+Don't look at me.
+
+99
+00:05:47,111 --> 00:05:50,246
+It's Boost, sir. He only takes a bath
+when he's on leave.
+
+100
+00:05:50,409 --> 00:05:53,138
+Save it. Just keep working on the pod,
+not your jokes.
+
+101
+00:05:53,442 --> 00:05:55,377
+Do you think
+we've got a chance, General?
+
+102
+00:05:55,627 --> 00:05:57,575
+I don't believe in chance, Commander.
+
+103
+00:05:57,907 --> 00:06:00,370
+I know if we work together,
+we will stay alive...
+
+104
+00:06:00,533 --> 00:06:02,730
+and someone will find us.
+
+105
+00:06:03,225 --> 00:06:06,010
+With all due respect, General,
+
+106
+00:06:06,696 --> 00:06:09,997
+strategically it doesn't make any sense
+for someone to come look for us.
+
+107
+00:06:10,373 --> 00:06:12,890
+If I was in command,
+I'd be huntin' that weapon down.
+
+108
+00:06:13,140 --> 00:06:15,089
+I value your life...
+
+109
+00:06:15,252 --> 00:06:17,567
+- more than finding that weapon.
+- Sir.
+
+110
+00:06:17,987 --> 00:06:19,727
+There's another pod out there.
+
+111
+00:06:22,097 --> 00:06:24,379
+If we only had power,
+we could contact them.
+
+112
+00:06:24,542 --> 00:06:27,650
+How 'bout we just wave hello
+when the viewport comes around?
+
+113
+00:06:33,972 --> 00:06:37,116
+- They're dead.
+- Someone busted that pod wide open.
+
+114
+00:06:39,995 --> 00:06:42,212
+We are not alone out here.
+
+115
+00:06:48,608 --> 00:06:50,838
+Set those new coordinates, R2?
+
+116
+00:06:51,001 --> 00:06:53,634
+Master, I should tell you
+why I spoke up before.
+
+117
+00:06:53,966 --> 00:06:55,794
+You don't have to explain anything.
+
+118
+00:07:10,654 --> 00:07:12,668
+Our ships are in defensive formation, sir.
+
+119
+00:07:12,669 --> 00:07:15,353
+All right, Commander.
+I'll check on Anakin's progress.
+
+120
+00:07:18,134 --> 00:07:19,860
+Admiral, how goes escort?
+
+121
+00:07:19,956 --> 00:07:22,832
+<i>Oh, convoys are proceeding
+on schedule, General.</i>
+
+122
+00:07:22,929 --> 00:07:24,559
+<i>No sign of enemy activity.</i>
+
+123
+00:07:24,656 --> 00:07:26,573
+And where's Skywalker?
+
+124
+00:07:26,862 --> 00:07:28,971
+<i>The general felt
+a redeployment of his fleet</i>
+
+125
+00:07:28,972 --> 00:07:31,081
+<i>would increase
+our defensive perimeter.</i>
+
+126
+00:07:31,561 --> 00:07:33,958
+I see. Thank you, Admiral.
+That will be all.
+
+127
+00:07:36,356 --> 00:07:37,506
+Problem, sir?
+
+128
+00:07:37,890 --> 00:07:41,150
+Anakin has just
+redeployed himself... again.
+
+129
+00:07:49,719 --> 00:07:52,773
+R2, set up the scanner.
+Modulate for incoming...
+
+130
+00:07:52,936 --> 00:07:54,392
+..."mystery weapons. "
+
+131
+00:07:55,722 --> 00:07:56,834
+No. R2,
+
+132
+00:07:56,997 --> 00:07:59,430
+tune the scanners for life forms,
+highest sensitivity.
+
+133
+00:07:59,680 --> 00:08:01,142
+Why would we scan for life forms
+
+134
+00:08:01,305 --> 00:08:04,149
+to spot an enemy weapon
+probably just filled with...
+
+135
+00:08:04,399 --> 00:08:05,925
+...battle droids?
+
+136
+00:08:06,635 --> 00:08:07,866
+The Abregado system.
+
+137
+00:08:09,557 --> 00:08:12,065
+So it's okay when you don't follow
+what the council says!
+
+138
+00:08:12,395 --> 00:08:14,693
+Doing what the Jedi Council says,
+that's one thing,
+
+139
+00:08:14,856 --> 00:08:17,107
+how we go about doing it,
+that's another.
+
+140
+00:08:17,444 --> 00:08:19,669
+That's what I'm trying to teach you,
+my young padawan.
+
+141
+00:08:19,832 --> 00:08:22,141
+So you always meant to
+come out here for survivors?
+
+142
+00:08:22,391 --> 00:08:25,612
+Lives are in danger, Ahsoka.
+We can't just turn our backs on them.
+
+143
+00:08:25,775 --> 00:08:27,411
+That's what I said
+back in the briefing room!
+
+144
+00:08:27,574 --> 00:08:30,178
+I know,
+but the way you said it was wrong.
+
+145
+00:08:31,251 --> 00:08:33,058
+Hurry up,
+switch on the illuminator.
+
+146
+00:08:33,308 --> 00:08:35,736
+We haven't got much time
+before the fleet misses us.
+
+147
+00:08:38,586 --> 00:08:39,950
+No, that's not it.
+
+148
+00:08:40,113 --> 00:08:42,644
+This one goes there,
+that one goes there.
+
+149
+00:08:42,983 --> 00:08:45,502
+Are you sure?
+We don't want to make things worse.
+
+150
+00:08:45,665 --> 00:08:47,838
+How are we gonna
+make things worse?
+
+151
+00:08:49,140 --> 00:08:50,715
+When you ask for trouble,
+
+152
+00:08:50,878 --> 00:08:54,170
+you should not be surprised
+when it finds you.
+
+153
+00:08:54,834 --> 00:08:57,125
+I think trouble already found us, sir.
+
+154
+00:08:57,699 --> 00:09:00,006
+What if we connect these two wires,
+right here?
+
+155
+00:09:03,496 --> 00:09:04,889
+I'm getting something.
+
+156
+00:09:05,335 --> 00:09:08,464
+<i>...pod 197... we're under attack.
+Is anyone out there?</i>
+
+157
+00:09:08,627 --> 00:09:10,044
+It's one of our other pods.
+
+158
+00:09:11,060 --> 00:09:13,218
+<i>I repeat, we are under attack!</i>
+
+159
+00:09:14,066 --> 00:09:15,360
+<i>Is anyone out there?!</i>
+
+160
+00:09:15,691 --> 00:09:18,610
+That signal is weak.
+They must be close by.
+
+161
+00:09:22,608 --> 00:09:25,072
+<i>They've locked on to our ship!</i>
+
+162
+00:09:25,408 --> 00:09:26,637
+Go get 'em, boys!
+
+163
+00:09:30,166 --> 00:09:32,195
+<i>Our position is mark 12 at 0.26.</i>
+
+164
+00:09:32,674 --> 00:09:35,473
+- Let's cut this can open.
+- I have visual contact.
+
+165
+00:09:40,802 --> 00:09:43,217
+Pod 1977, do you copy?
+
+166
+00:09:43,721 --> 00:09:46,510
+<i>The droids are hunting for survivors.
+They're cutting through!</i>
+
+167
+00:09:52,146 --> 00:09:53,136
+There they go.
+
+168
+00:09:53,690 --> 00:09:56,057
+Things just got a lot worse.
+
+169
+00:10:04,135 --> 00:10:08,034
+The scanners are practically useless.
+Got anything on the emergency channel, R2?
+
+170
+00:10:11,690 --> 00:10:14,774
+Now, Ahsoka, we might find something
+you don't want to find.
+
+171
+00:10:15,105 --> 00:10:17,612
+I know, Master,
+but I have to believe.
+
+172
+00:10:17,944 --> 00:10:19,573
+How do you know Master Plo anyway?
+
+173
+00:10:19,823 --> 00:10:23,237
+He's one of my oldest friends.
+It was Master Plo Koon who found me
+
+174
+00:10:23,400 --> 00:10:25,389
+and brought me to the temple
+where I belonged.
+
+175
+00:10:25,552 --> 00:10:29,113
+Now he's lost, so I thought
+maybe I could find him.
+
+176
+00:10:32,202 --> 00:10:33,847
+Incoming transmission, Master.
+
+177
+00:10:34,327 --> 00:10:36,340
+I think someone noticed
+we're gone.
+
+178
+00:10:36,683 --> 00:10:38,023
+<i>Anakin, where are you?</i>
+
+179
+00:10:39,090 --> 00:10:42,290
+Hello, Master. We made a quick stop
+in the Abregado system.
+
+180
+00:10:42,483 --> 00:10:44,496
+<i>For a rescue mission,
+I suppose.</i>
+
+181
+00:10:44,634 --> 00:10:47,703
+<i>- You have other orders.
+- It was my idea, Master Obi-Wan.</i>
+
+182
+00:10:48,032 --> 00:10:49,077
+<i>Oh, I'm sure.</i>
+
+183
+00:10:49,240 --> 00:10:52,548
+<i>- Well, have you found any survivors?
+- No, you were right.</i>
+
+184
+00:10:52,955 --> 00:10:55,032
+The Separatists don't want any witnesses.
+
+185
+00:10:55,195 --> 00:10:58,445
+<i>All the more reason for you
+to rejoin the defensive escorts.</i>
+
+186
+00:10:58,608 --> 00:10:59,937
+<i>We need you, Anakin.</i>
+
+187
+00:11:00,268 --> 00:11:03,099
+<i>You're going to miss the rendezvous
+with the fleet if you don't hurry.</i>
+
+188
+00:11:03,262 --> 00:11:05,044
+I know, Master.
+We're on our way.
+
+189
+00:11:06,261 --> 00:11:07,295
+I'm sorry, Ahsoka.
+
+190
+00:11:15,342 --> 00:11:16,671
+What is it, R2?
+
+191
+00:11:17,323 --> 00:11:19,756
+R2 thinks he's got something
+on the emergency channel.
+
+192
+00:11:19,919 --> 00:11:21,117
+Can he trace it?
+
+193
+00:11:21,481 --> 00:11:22,463
+Let's get going.
+
+194
+00:11:24,858 --> 00:11:26,448
+I think they see us.
+
+195
+00:11:27,289 --> 00:11:29,734
+Corporal, there's another pod
+over there.
+
+196
+00:11:44,244 --> 00:11:45,491
+It is time to go.
+
+197
+00:11:46,728 --> 00:11:48,359
+"Go"?
+Where are you going, sir?
+
+198
+00:11:48,981 --> 00:11:50,977
+Outside, to destroy the enemy.
+
+199
+00:11:51,140 --> 00:11:53,277
+I can withstand the pressure
+for a brief time.
+
+200
+00:11:53,654 --> 00:11:54,957
+Put your helmets on.
+
+201
+00:11:55,206 --> 00:11:56,847
+If you say so, sir.
+
+202
+00:11:57,328 --> 00:11:59,053
+This is a difficult situation,
+
+203
+00:11:59,246 --> 00:12:02,697
+but there remains a possibility
+we will survive.
+
+204
+00:12:02,986 --> 00:12:05,095
+That's good enough for me.
+Come on, let's go!
+
+205
+00:12:12,477 --> 00:12:15,267
+Wolf, keep the communications
+signal alive.
+
+206
+00:12:15,812 --> 00:12:18,353
+It is our only chance
+someone will find us.
+
+207
+00:12:19,114 --> 00:12:21,105
+Let's just hope
+someone's looking for us.
+
+208
+00:12:27,045 --> 00:12:28,939
+Are we still picking up that signal?
+
+209
+00:12:29,312 --> 00:12:31,708
+Yes, but why aren't we finding anybody?
+
+210
+00:12:32,084 --> 00:12:34,196
+I don't know, Ahsoka.
+I don't know.
+
+211
+00:12:41,341 --> 00:12:43,364
+Well, this looks like the last one.
+
+212
+00:12:43,880 --> 00:12:45,283
+Let's finish the job.
+
+213
+00:12:46,722 --> 00:12:49,885
+Hey,
+what's a Jedi doing out here?
+
+214
+00:12:57,364 --> 00:12:58,515
+Take cover.
+
+215
+00:13:01,096 --> 00:13:02,086
+Is there anyone out there?
+
+216
+00:13:02,335 --> 00:13:04,885
+This is Ahsoka Tano.
+Can anyone hear me?
+
+217
+00:13:11,117 --> 00:13:12,555
+I can't get a clear shot!
+
+218
+00:13:12,595 --> 00:13:14,784
+Time to put the squeeze on them.
+
+219
+00:13:25,563 --> 00:13:27,688
+<i>Is there anyone out there?
+Come in.</i>
+
+220
+00:13:27,851 --> 00:13:29,198
+<i>This is Ahsoka Tano.</i>
+
+221
+00:13:29,295 --> 00:13:31,404
+<i>Is there anyone out there?
+Come in.</i>
+
+222
+00:13:31,405 --> 00:13:33,203
+It's Ahsoka.
+She must be close.
+
+223
+00:13:33,204 --> 00:13:35,601
+Keep the signal alive, Commander.
+
+224
+00:13:35,611 --> 00:13:37,881
+R2, see if you can boost the reception.
+
+225
+00:13:41,328 --> 00:13:43,998
+Patience. We're trying to
+boost the power. Hang on.
+
+226
+00:13:55,428 --> 00:13:57,857
+We're losing the signal.
+The pod can't take much more damage.
+
+227
+00:13:58,106 --> 00:14:00,616
+- Sinker, your turn.
+- I'm on it, boss.
+
+228
+00:14:03,001 --> 00:14:04,177
+What the...?
+
+229
+00:14:04,881 --> 00:14:06,453
+Eat laser, clankers.
+
+230
+00:14:23,296 --> 00:14:25,886
+Sir, we've lost contact with the pod hunter.
+
+231
+00:14:26,136 --> 00:14:28,974
+Perhaps some survivors are
+putting up a fight.
+
+232
+00:14:29,404 --> 00:14:31,782
+That is something we cannot allow.
+
+233
+00:14:35,772 --> 00:14:38,921
+<i>We must find a way to destroy
+this mystery weapon.</i>
+
+234
+00:14:39,713 --> 00:14:43,191
+<i>In this war, a step ahead of us,
+Dooku always seems.</i>
+
+235
+00:14:44,369 --> 00:14:46,436
+Tell me, has there been any word
+
+236
+00:14:46,599 --> 00:14:48,826
+from Master Plo Koon or his fleet?
+
+237
+00:14:49,767 --> 00:14:51,642
+<i>No.
+We must fear the worst.</i>
+
+238
+00:14:51,805 --> 00:14:53,875
+<i>Actually, I just received word</i>
+
+239
+00:14:54,205 --> 00:14:56,635
+<i>that Anakin has found the remains
+of Master Plo's fleet</i>
+
+240
+00:14:56,798 --> 00:14:58,914
+<i>and is searching the debris
+for survivors.</i>
+
+241
+00:14:59,728 --> 00:15:02,313
+On whose authority has he done this?
+
+242
+00:15:02,451 --> 00:15:03,755
+<i>His own, I'm afraid.</i>
+
+243
+00:15:03,918 --> 00:15:06,431
+<i>With his fleet out of position,
+we are left vulnerable.</i>
+
+244
+00:15:06,681 --> 00:15:08,370
+<i>Oh, his fleet is right where it should be.</i>
+
+245
+00:15:08,533 --> 00:15:11,677
+<i>He's taken only a small ship
+and his padawan.</i>
+
+246
+00:15:12,906 --> 00:15:15,175
+<i>Twice the trouble, they have become.</i>
+
+247
+00:15:15,931 --> 00:15:18,706
+<i>A reckless decision,
+Skywalker has made.</i>
+
+248
+00:15:18,860 --> 00:15:21,660
+Let us hope it is not a costly one.
+
+249
+00:15:23,275 --> 00:15:24,385
+Well, General,
+
+250
+00:15:24,634 --> 00:15:27,023
+another fine mess we've gotten into.
+
+251
+00:15:27,272 --> 00:15:29,421
+Your sense of humor is improving.
+
+252
+00:15:29,672 --> 00:15:31,421
+I don't mean to say
+"I told you so,"
+
+253
+00:15:31,901 --> 00:15:34,661
+but I never believed
+anyone would come looking for us.
+
+254
+00:15:39,132 --> 00:15:41,286
+<i>Anakin, the Council is furious.</i>
+
+255
+00:15:41,605 --> 00:15:43,617
+<i>Why have you left your post?</i>
+
+256
+00:15:43,867 --> 00:15:46,816
+I decided we couldn't just give up
+on Master Plo Koon.
+
+257
+00:15:47,066 --> 00:15:48,393
+<i>A noble gesture, Anakin.</i>
+
+258
+00:15:48,556 --> 00:15:52,653
+<i>But the Council feels
+your daring may put others in danger.</i>
+
+259
+00:15:53,531 --> 00:15:55,532
+<i>Please, listen to me, Anakin.</i>
+
+260
+00:15:55,782 --> 00:15:57,265
+<i>Return at once.</i>
+
+261
+00:15:57,428 --> 00:15:58,698
+Yes, Excellency.
+
+262
+00:16:10,830 --> 00:16:12,104
+Time to go, Ahsoka.
+
+263
+00:16:12,816 --> 00:16:14,006
+We have to stay.
+
+264
+00:16:14,256 --> 00:16:16,576
+Ahsoka, I want to believe
+Master Plo is alive, but...
+
+265
+00:16:16,643 --> 00:16:18,509
+I know he's alive!
+
+266
+00:16:18,774 --> 00:16:20,123
+I can sense it.
+
+267
+00:16:27,099 --> 00:16:28,057
+Sergeant,
+
+268
+00:16:28,371 --> 00:16:31,239
+why are you so certain
+no one is coming?
+
+269
+00:16:31,633 --> 00:16:35,157
+We're just clones, sir.
+We're meant to be expendable.
+
+270
+00:16:35,407 --> 00:16:36,605
+Not to me.
+
+271
+00:16:42,045 --> 00:16:44,154
+- There they are!
+- Ready tow cable.
+
+272
+00:16:48,175 --> 00:16:49,513
+Cable loaded, Master.
+
+273
+00:17:04,819 --> 00:17:05,825
+Come on, hurry!
+
+274
+00:17:06,979 --> 00:17:08,821
+Are you okay, Master Plo?
+
+275
+00:17:09,192 --> 00:17:11,019
+There's someone in the pod.
+
+276
+00:17:18,384 --> 00:17:19,661
+Will they be all right?
+
+277
+00:17:19,911 --> 00:17:21,660
+The pressure suits offer some protection,
+
+278
+00:17:21,910 --> 00:17:24,139
+but they require a medical frigate
+for recovery.
+
+279
+00:17:24,455 --> 00:17:25,979
+I will stabilize them, sir.
+
+280
+00:17:26,449 --> 00:17:27,965
+Your men are safe now.
+
+281
+00:17:28,908 --> 00:17:31,857
+Tell me, were there any survivors?
+
+282
+00:17:32,186 --> 00:17:34,176
+We couldn't find anybody else.
+
+283
+00:17:34,657 --> 00:17:37,518
+The hunters must have destroyed the rest.
+
+284
+00:17:38,152 --> 00:17:40,224
+I'm sorry, Master Plo.
+
+285
+00:17:42,444 --> 00:17:44,851
+We tracked the mystery weapon
+to this system.
+
+286
+00:17:45,322 --> 00:17:48,290
+That is when we found out
+it was an ion cannon.
+
+287
+00:17:48,540 --> 00:17:49,609
+An ion cannon?
+
+288
+00:17:49,860 --> 00:17:52,910
+A weapon that neutralizes
+all power to our ships,
+
+289
+00:17:53,241 --> 00:17:55,370
+leaving the targets defenseless.
+
+290
+00:17:57,809 --> 00:17:59,340
+There's a massive vessel approaching.
+
+291
+00:17:59,503 --> 00:18:01,931
+Shut down the power systems
+before they detect us.
+
+292
+00:18:08,815 --> 00:18:09,773
+The droid!
+
+293
+00:18:12,808 --> 00:18:14,136
+Sorry, little guy.
+
+294
+00:18:22,458 --> 00:18:25,044
+That is one big cruiser-crusher.
+
+295
+00:18:35,893 --> 00:18:38,121
+There's still no signal from the pod hunter.
+
+296
+00:18:38,427 --> 00:18:40,904
+Reduce speed and activate your scanners.
+
+297
+00:18:41,349 --> 00:18:43,526
+We will find who is responsible.
+
+298
+00:18:49,871 --> 00:18:52,579
+- Hey, what's with the lights?
+- Power's gone out.
+
+299
+00:18:53,004 --> 00:18:55,778
+Maybe that ship has returned.
+We should get up to the bridge.
+
+300
+00:18:56,851 --> 00:18:58,217
+You're too weak.
+
+301
+00:18:58,468 --> 00:19:00,137
+Let me go see what is wrong.
+
+302
+00:19:13,342 --> 00:19:15,780
+We're picking up
+a faint signal from a droid.
+
+303
+00:19:15,943 --> 00:19:18,689
+It's not one of ours.
+They're right behind us.
+
+304
+00:19:20,011 --> 00:19:21,914
+Move us into attack position.
+
+305
+00:19:26,305 --> 00:19:27,736
+They're coming back.
+
+306
+00:19:27,896 --> 00:19:29,900
+Are all the systems shut down?
+
+307
+00:19:30,535 --> 00:19:31,884
+Is there a problem, sir?
+
+308
+00:19:32,135 --> 00:19:34,643
+We forgot to shut off the medical droid.
+
+309
+00:19:34,894 --> 00:19:36,483
+We've got to
+get the power back on now!
+
+310
+00:19:36,733 --> 00:19:38,629
+- May I be of assistance?
+- No, thanks.
+
+311
+00:19:38,792 --> 00:19:40,602
+Just get in the back
+and take care of the clones.
+
+312
+00:19:40,852 --> 00:19:42,507
+That is my programming, sir.
+
+313
+00:19:42,575 --> 00:19:44,568
+- Come on, we've gotta get out of here.
+- I know! I know!
+
+314
+00:19:49,094 --> 00:19:52,508
+Sir, the enemy is attempting to flee
+through the debris field.
+
+315
+00:19:52,839 --> 00:19:55,708
+General,
+I don't want any witnesses.
+
+316
+00:19:56,037 --> 00:19:57,907
+Energize plasma rotors.
+
+317
+00:20:01,636 --> 00:20:04,664
+R2, program the navicomputer.
+Be ready to get us out of here.
+
+318
+00:20:04,915 --> 00:20:06,383
+You forgot we turned him off.
+
+319
+00:20:08,953 --> 00:20:10,342
+Koh-to-ya, droid.
+
+320
+00:20:11,752 --> 00:20:13,661
+Target range almost locked, sir.
+
+321
+00:20:13,991 --> 00:20:16,128
+They're not going to make it.
+
+322
+00:20:16,550 --> 00:20:18,259
+R2, program the hyperdrive.
+
+323
+00:20:19,989 --> 00:20:21,098
+Anywhere.
+Hurry!
+
+324
+00:20:21,348 --> 00:20:23,097
+Enemy ship targeted, General.
+
+325
+00:20:23,347 --> 00:20:24,137
+Fire!
+
+326
+00:20:45,382 --> 00:20:46,288
+Master?
+
+327
+00:21:01,325 --> 00:21:02,332
+We're clear.
+
+328
+00:21:09,756 --> 00:21:12,759
+Now the Republic will learn
+of our ion cannon.
+
+329
+00:21:20,885 --> 00:21:23,484
+Your failure is most unfortunate.
+
+330
+00:21:23,974 --> 00:21:27,184
+I will have to discuss this
+with my master.
+
+331
+00:21:30,553 --> 00:21:32,438
+- Get back to work!
+- Roger, roger.
+
+332
+00:21:42,611 --> 00:21:45,106
+Thanks for getting us out of there
+in one piece, General Skywalker.
+
+333
+00:21:45,436 --> 00:21:46,786
+You have my padawan to thank for that.
+
+334
+00:21:47,203 --> 00:21:49,357
+She always said
+you guys would pull through.
+
+335
+00:21:49,675 --> 00:21:51,973
+General Plo said
+someone would come for us.
+
+336
+00:21:52,136 --> 00:21:53,504
+We're glad he was right.
+
+337
+00:21:53,754 --> 00:21:56,518
+Skywalker,
+it is time to give our report
+
+338
+00:21:56,657 --> 00:21:57,702
+to the Council.
+
+339
+00:21:57,952 --> 00:22:00,154
+Right, the Council report...
+
+340
+00:22:02,385 --> 00:22:03,500
+Come on, Ahsoka.
+
+341
+00:22:03,940 --> 00:22:05,216
+You want me there?
+
+342
+00:22:05,379 --> 00:22:08,897
+- I figured because of before...
+- Ahsoka, through it all you never gave up.
+
+343
+00:22:09,228 --> 00:22:12,583
+You did a great job.
+But if I'm getting in trouble for this,
+
+344
+00:22:12,947 --> 00:22:14,591
+you're gonna share
+some of the blame, too.
+
+345
+00:22:15,537 --> 00:22:17,076
+So come on, let's go.
+
+346
+00:22:18,063 --> 00:22:19,679
+Right beside you, sky guy.
+

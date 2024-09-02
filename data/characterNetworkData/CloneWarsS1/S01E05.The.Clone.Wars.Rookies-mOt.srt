@@ -1,0 +1,1425 @@
+1
+00:00:17,184 --> 00:00:18,784
+<i>Clone forces rally!</i>
+
+2
+00:00:19,664 --> 00:00:21,743
+<i>As the war escalates
+in the Outer Rim,</i>
+
+3
+00:00:21,824 --> 00:00:24,463
+<i>the Jedi knights
+are spread thinly across the galaxy.</i>
+
+4
+00:00:25,423 --> 00:00:29,262
+<i>Many new clones are rushed into service
+to support their Jedi generals.</i>
+
+5
+00:00:29,422 --> 00:00:32,301
+<i>Unfortunately, because of
+the relentless demands of battle,</i>
+
+6
+00:00:32,382 --> 00:00:34,461
+<i>many young clones
+must join the struggle</i>
+
+7
+00:00:34,621 --> 00:00:37,181
+<i>before their intensive training
+has been completed.</i>
+
+8
+00:00:37,301 --> 00:00:40,220
+<i>These clones, manning
+a vital network of tracking stations,</i>
+
+9
+00:00:40,300 --> 00:00:43,659
+<i>are all that stand
+between the Republic and invasion.</i>
+
+10
+00:00:51,658 --> 00:00:53,898
+This is the deck officer checking in.
+Nothing going on.
+
+11
+00:00:54,697 --> 00:00:55,657
+<i>As usual.</i>
+
+12
+00:00:56,537 --> 00:00:59,576
+<i>You're listening to the grand army
+of the Republic broadcast,</i>
+
+13
+00:00:59,736 --> 00:01:01,576
+<i>the voice of the Outer Rim.</i>
+
+14
+00:01:01,736 --> 00:01:05,335
+<i>This next one goes out
+to the med-jumpers of the 224th.</i>
+
+15
+00:01:05,495 --> 00:01:07,175
+<i>"Smugging it out on Membom. "</i>
+
+16
+00:01:07,335 --> 00:01:10,134
+<i>Keep your heads down
+and your seals tight, boys.</i>
+
+17
+00:01:12,854 --> 00:01:13,574
+Yes!
+
+18
+00:01:14,894 --> 00:01:16,213
+Who's next? Fives?
+
+19
+00:01:17,013 --> 00:01:19,093
+Shouldn't you be
+watching your scope, Hevy?
+
+20
+00:01:19,172 --> 00:01:20,373
+Let's take a look.
+
+21
+00:01:21,333 --> 00:01:23,572
+What do you know, all clear.
+
+22
+00:01:23,732 --> 00:01:25,812
+Just like the last hundred times
+I looked at it.
+
+23
+00:01:26,132 --> 00:01:28,371
+Personally,
+I like that it's so quiet out here.
+
+24
+00:01:28,451 --> 00:01:29,971
+I can catch up on the rig manuals.
+
+25
+00:01:30,211 --> 00:01:31,970
+Echo, what is wrong with you?
+
+26
+00:01:32,050 --> 00:01:34,850
+We should be out on the front lines,
+blasting droids.
+
+27
+00:01:35,010 --> 00:01:37,729
+Leave him alone. They kept him
+in his girl's chart too long.
+
+28
+00:01:38,049 --> 00:01:39,009
+Yeah.
+
+29
+00:01:40,049 --> 00:01:42,528
+You may not realize it yet, Fives,
+
+30
+00:01:42,928 --> 00:01:46,047
+but you landed on the most boring post
+in the Outer Rim.
+
+31
+00:01:46,447 --> 00:01:48,048
+And one of the most important.
+
+32
+00:01:50,447 --> 00:01:52,206
+Attention! Sergeant on deck!
+
+33
+00:01:53,407 --> 00:01:54,606
+At ease!
+
+34
+00:01:54,766 --> 00:01:57,325
+Even though you're all new here,
+I shouldn't have to remind you
+
+35
+00:01:57,486 --> 00:01:59,565
+that this quadrant is
+key to the Outer Rim.
+
+36
+00:01:59,805 --> 00:02:03,405
+If the droids get past this station,
+they can surprise-attack the facilities
+
+37
+00:02:03,565 --> 00:02:05,884
+where we were born
+on our home world of Kamino.
+
+38
+00:02:06,364 --> 00:02:07,964
+There are some officers on the way,
+
+39
+00:02:08,123 --> 00:02:10,523
+so I want everything squared away
+for inspection.
+
+40
+00:02:10,843 --> 00:02:12,522
+- Understood?
+- Sir, yes, sir!
+
+41
+00:02:27,397 --> 00:02:28,836
+Still here, Anakin.
+
+42
+00:02:29,077 --> 00:02:30,837
+When was the last time you slept?
+
+43
+00:02:30,957 --> 00:02:33,076
+I'll sleep
+after we find General Grievous.
+
+44
+00:02:33,636 --> 00:02:36,036
+Clone intelligence spotted him
+in the Balmorra system.
+
+45
+00:02:36,115 --> 00:02:37,475
+That was weeks ago.
+
+46
+00:02:37,555 --> 00:02:38,995
+Since then, he vanished.
+
+47
+00:02:39,155 --> 00:02:42,674
+Well, unlike you, maybe he's
+getting some much-needed rest.
+
+48
+00:02:45,194 --> 00:02:48,353
+Excuse me, General. Incoming
+transmission from Commander Cody.
+
+49
+00:02:49,793 --> 00:02:51,233
+<i>General Kenobi, General Skywalker.</i>
+
+50
+00:02:51,553 --> 00:02:53,392
+Cody.
+How goes the inspections?
+
+51
+00:02:53,872 --> 00:02:56,111
+<i>The tracking station in Pastil
+is fully operational.</i>
+
+52
+00:02:56,271 --> 00:02:59,151
+<i>Captain Rex and I are proceeding
+to the outpost in the Rishi system.</i>
+
+53
+00:02:59,311 --> 00:03:01,470
+Good.
+Report back once you've arrived.
+
+54
+00:03:01,551 --> 00:03:02,351
+<i>Copy that.</i>
+
+55
+00:03:02,511 --> 00:03:03,471
+<i>Cody out.</i>
+
+56
+00:03:04,270 --> 00:03:06,990
+Good man, that Cody.
+Don't worry, Anakin.
+
+57
+00:03:07,070 --> 00:03:10,909
+If General Grievous comes anywhere near
+this quadrant, we'll know about it.
+
+58
+00:03:16,348 --> 00:03:18,828
+- Sir, incoming meteor shower.
+- Raise the shield.
+
+59
+00:03:21,787 --> 00:03:23,306
+You wanted excitement, Hevy.
+
+60
+00:03:23,387 --> 00:03:24,347
+Right.
+
+61
+00:03:25,386 --> 00:03:26,666
+Meteor shower.
+
+62
+00:03:49,811 --> 00:03:50,852
+What the...?
+
+63
+00:04:07,729 --> 00:04:10,448
+- Get these doors open.
+- Roger, roger.
+
+64
+00:04:14,205 --> 00:04:15,724
+CT-327, report in.
+
+65
+00:04:15,964 --> 00:04:18,923
+- Sentry, do you copy?
+- Interference from the meteors?
+
+66
+00:04:19,004 --> 00:04:22,123
+- I don't see him down there, Sarge.
+- You two, go find him.
+
+67
+00:04:29,081 --> 00:04:29,802
+Droids!
+
+68
+00:04:38,920 --> 00:04:39,840
+Sound the alarm!
+
+69
+00:04:44,199 --> 00:04:45,999
+They've disabled the beacon.
+
+70
+00:04:47,878 --> 00:04:50,278
+Get a message to the fleet!
+We have to warn...
+
+71
+00:04:53,318 --> 00:04:54,037
+Sarge!
+
+72
+00:05:02,356 --> 00:05:03,955
+That should slow those buckets down.
+
+73
+00:05:06,195 --> 00:05:08,675
+- This way. Hurry!
+- No, we can...
+
+74
+00:05:09,394 --> 00:05:10,753
+There's too many.
+
+75
+00:05:25,521 --> 00:05:27,534
+Four clones escaped, Captain.
+
+76
+00:05:27,727 --> 00:05:28,974
+They don't matter.
+
+77
+00:05:29,071 --> 00:05:33,290
+Hard-wire the all-clear signal
+and contact General Grievous.
+
+78
+00:05:39,329 --> 00:05:41,009
+<i>The outpost is secure, General.</i>
+
+79
+00:05:41,449 --> 00:05:44,929
+<i>We shut down the alarm
+and turned on the all-clear signal.</i>
+
+80
+00:05:45,088 --> 00:05:46,048
+Excellent.
+
+81
+00:05:46,208 --> 00:05:47,728
+Keep that signal alive.
+
+82
+00:05:48,208 --> 00:05:51,727
+I don't want the Republic
+to find out we're coming.
+
+83
+00:05:51,888 --> 00:05:54,607
+General, our spy on Kamino
+is making contact.
+
+84
+00:05:55,407 --> 00:05:57,326
+<i>All the preparations
+for your invasion</i>
+
+85
+00:05:57,486 --> 00:05:58,686
+<i>are in order.</i>
+
+86
+00:05:59,006 --> 00:05:59,966
+Good.
+
+87
+00:06:00,606 --> 00:06:02,766
+Our fleet is approaching the system.
+
+88
+00:06:03,006 --> 00:06:05,725
+We are almost
+at the rendezvous point.
+
+89
+00:06:06,125 --> 00:06:07,484
+<i>Very good, my lord.</i>
+
+90
+00:06:08,205 --> 00:06:09,724
+<i>I will await your arrival.</i>
+
+91
+00:06:10,204 --> 00:06:12,204
+The destruction of Kamino
+
+92
+00:06:12,284 --> 00:06:16,043
+will stop their production of clones
+for good.
+
+93
+00:06:20,682 --> 00:06:23,322
+Rishi outpost, this is Commander Cody.
+Do you copy?
+
+94
+00:06:23,882 --> 00:06:25,561
+<i>Rishi outpost, please respond.</i>
+
+95
+00:06:26,841 --> 00:06:28,600
+Open...
+Open...
+
+96
+00:06:28,761 --> 00:06:30,520
+Open comlink channel.
+
+97
+00:06:31,320 --> 00:06:32,440
+Rishi outpost, come in.
+
+98
+00:06:32,920 --> 00:06:34,520
+Rishi outpost, come in.
+
+99
+00:06:34,759 --> 00:06:35,959
+<i>Sorry, Commander.</i>
+
+100
+00:06:36,119 --> 00:06:39,398
+<i>We're experiencing
+technical difficulties.</i>
+
+101
+00:06:39,879 --> 00:06:41,318
+This is the inspection team.
+
+102
+00:06:41,559 --> 00:06:43,797
+<i>Inspection?
+Negative, negative.</i>
+
+103
+00:06:43,958 --> 00:06:46,437
+<i>We do not require an inspection.</i>
+
+104
+00:06:46,597 --> 00:06:48,436
+<i>Everything is fine here.
+Thank you.</i>
+
+105
+00:06:48,917 --> 00:06:51,636
+We'll be the judge of that.
+Prepare for our arrival.
+
+106
+00:06:52,196 --> 00:06:53,316
+<i>Roger, roger.</i>
+
+107
+00:06:54,516 --> 00:06:56,356
+Something's not right here.
+
+108
+00:06:57,155 --> 00:06:59,795
+Well, good luck.
+I'm putting you in charge of this one.
+
+109
+00:07:22,350 --> 00:07:24,270
+What do we do without the sarge?
+
+110
+00:07:24,351 --> 00:07:26,830
+- The reg manual says the next...
+- Wait. Wait.
+
+111
+00:07:27,310 --> 00:07:30,109
+- Did you hear that?
+- Yeah, what is that?
+
+112
+00:07:30,349 --> 00:07:32,188
+It doesn't sound like droids.
+
+113
+00:07:35,308 --> 00:07:37,468
+Don't forget about those giant eels.
+
+114
+00:07:37,868 --> 00:07:39,148
+I've never seen...
+
+115
+00:07:40,747 --> 00:07:41,707
+Cutup!
+
+116
+00:07:46,666 --> 00:07:48,265
+What the hell was that?!
+
+117
+00:07:48,505 --> 00:07:49,706
+That was an eel.
+
+118
+00:07:49,866 --> 00:07:52,425
+Now, that's why we have the regulation
+not to go outside.
+
+119
+00:07:52,585 --> 00:07:54,584
+Let's move before it comes back.
+
+120
+00:07:54,744 --> 00:07:55,864
+Poor Cutup.
+
+121
+00:07:58,344 --> 00:08:00,104
+Look! It's Commander Cody.
+
+122
+00:08:00,183 --> 00:08:01,943
+It's the inspection team.
+
+123
+00:08:13,781 --> 00:08:16,980
+This is not good.
+I don't see the deck officer anywhere.
+
+124
+00:08:18,180 --> 00:08:19,620
+These boys are sloppy.
+
+125
+00:08:19,779 --> 00:08:22,259
+There should always be
+an officer on duty.
+
+126
+00:08:23,219 --> 00:08:25,779
+We have to warn them.
+Get on the comlink.
+
+127
+00:08:29,618 --> 00:08:31,938
+I have a bad feeling about this.
+
+128
+00:08:32,257 --> 00:08:34,017
+Welcome to Rishi, Commander.
+
+129
+00:08:34,177 --> 00:08:37,536
+As you can see, the outpost is
+operating at peak efficiency.
+
+130
+00:08:38,417 --> 00:08:40,976
+Thank you for visiting,
+and have a safe trip back.
+
+131
+00:08:43,056 --> 00:08:45,135
+We need to inspect the base
+just the same.
+
+132
+00:08:46,254 --> 00:08:47,614
+There is no need.
+
+133
+00:08:47,774 --> 00:08:50,094
+Everything is fine
+and fully operational.
+
+134
+00:08:55,134 --> 00:08:57,853
+It's no good. Their comlinks
+are on a different scramble set.
+
+135
+00:08:57,932 --> 00:08:59,612
+I'll signal them with this flare.
+
+136
+00:08:59,772 --> 00:09:01,612
+Take us to the sergeant in command.
+
+137
+00:09:02,172 --> 00:09:03,291
+Roger, roger.
+
+138
+00:09:06,051 --> 00:09:07,531
+A droid attack flare?
+
+139
+00:09:08,971 --> 00:09:10,730
+Rex!
+What the heck are you doing?
+
+140
+00:09:11,850 --> 00:09:12,770
+Relax.
+
+141
+00:09:14,570 --> 00:09:15,889
+Just as I thought.
+
+142
+00:09:16,169 --> 00:09:18,328
+Looks like one of those
+new commando droids.
+
+143
+00:09:18,409 --> 00:09:20,728
+That flare must have come
+from the survivors.
+
+144
+00:09:22,488 --> 00:09:23,448
+Ambush!
+
+145
+00:09:32,997 --> 00:09:34,997
+Those clankers have tough armor.
+
+146
+00:09:42,265 --> 00:09:43,426
+We're cut off.
+
+147
+00:09:47,425 --> 00:09:48,672
+Off the platform!
+
+148
+00:09:50,144 --> 00:09:51,144
+Copy that.
+
+149
+00:10:02,422 --> 00:10:05,422
+No sign of them.
+They must have been pulverized.
+
+150
+00:10:06,061 --> 00:10:07,821
+Resume defensive posts.
+
+151
+00:10:19,018 --> 00:10:21,818
+Well, that sure complicates things,
+Commander.
+
+152
+00:10:21,898 --> 00:10:25,258
+- No worse than that time on Tibrin.
+- We had Jedi with us on Tibrin.
+
+153
+00:10:25,418 --> 00:10:26,418
+They helped.
+
+154
+00:10:29,977 --> 00:10:32,857
+Hands above your heads.
+Take your sun bonnets off.
+
+155
+00:10:33,257 --> 00:10:35,176
+- Sir?
+- Take 'em off! Now!
+
+156
+00:10:49,413 --> 00:10:50,373
+Nice shot.
+
+157
+00:10:50,773 --> 00:10:51,812
+The name's Rex.
+
+158
+00:10:52,772 --> 00:10:54,933
+But you'll call me "Captain",
+or "sir".
+
+159
+00:10:55,332 --> 00:10:56,532
+Sir, yes, sir!
+
+160
+00:10:57,332 --> 00:10:59,491
+I'm Commander Cody, your new boss.
+
+161
+00:11:00,131 --> 00:11:02,930
+My designation is trooper 27-5555, sir.
+
+162
+00:11:03,251 --> 00:11:05,170
+We call him Fives.
+I'm Hevy.
+
+163
+00:11:05,491 --> 00:11:06,610
+This is Echo.
+
+164
+00:11:07,010 --> 00:11:08,370
+Where's your sergeant?
+
+165
+00:11:08,529 --> 00:11:10,690
+Dead, sir.
+We're all that's left.
+
+166
+00:11:11,009 --> 00:11:13,809
+Looks like we got ourselves
+a batch of shinies, Commander.
+
+167
+00:11:14,568 --> 00:11:16,609
+- Shinies, sir?
+- That's right.
+
+168
+00:11:17,088 --> 00:11:19,087
+Your armor, it's shiny and new...
+
+169
+00:11:19,407 --> 00:11:20,527
+just like you.
+
+170
+00:11:21,647 --> 00:11:22,527
+Sir,
+
+171
+00:11:22,687 --> 00:11:25,006
+me and my batchers
+are trained and ready.
+
+172
+00:11:25,087 --> 00:11:27,486
+We'll take back our post,
+shiny or not.
+
+173
+00:11:28,046 --> 00:11:29,726
+There's hope for you yet, rookie.
+
+174
+00:11:33,949 --> 00:11:35,789
+Commander Cody, do you copy?
+
+175
+00:11:36,748 --> 00:11:38,428
+Captain Rex, please respond.
+
+176
+00:11:38,828 --> 00:11:41,708
+They should have checked in
+from the Rishi station hours ago.
+
+177
+00:11:41,868 --> 00:11:44,507
+It appears your captain follows orders
+as well as you do.
+
+178
+00:11:45,162 --> 00:11:48,682
+Perhaps Cody is boring Rex
+with standard procedures and protocol.
+
+179
+00:11:49,082 --> 00:11:51,721
+We need to work on our own
+boring procedures
+
+180
+00:11:51,881 --> 00:11:54,201
+and figure out a strategy
+to find Grievous.
+
+181
+00:11:54,841 --> 00:11:57,800
+Right. Admiral, let me know
+if you hear from Rex.
+
+182
+00:12:04,519 --> 00:12:05,799
+Look sharp, rookies.
+
+183
+00:12:05,879 --> 00:12:07,958
+As long as those tweezers
+occupy this post,
+
+184
+00:12:08,119 --> 00:12:10,358
+our home planet of Kamino
+is at risk.
+
+185
+00:12:10,598 --> 00:12:13,638
+- But there's so many of them.
+- Doesn't matter, kid.
+
+186
+00:12:13,717 --> 00:12:17,236
+We have to retake this base,
+so we will retake this base.
+
+187
+00:12:19,557 --> 00:12:23,076
+How do you propose we get through
+those blast doors, Rex, old boy?
+
+188
+00:12:23,155 --> 00:12:24,995
+I have a few ideas.
+
+189
+00:12:28,514 --> 00:12:29,634
+What is that?
+
+190
+00:12:33,794 --> 00:12:35,953
+Unit 2-6, is that you?
+
+191
+00:12:38,512 --> 00:12:39,553
+<i>Roger, roger.</i>
+
+192
+00:12:40,032 --> 00:12:41,392
+You sound strange.
+
+193
+00:12:41,712 --> 00:12:43,632
+Is something wrong
+with your vocabulator?
+
+194
+00:12:44,912 --> 00:12:47,071
+- Roger, roger.
+- Take off your helmet.
+
+195
+00:12:47,151 --> 00:12:48,751
+Let me see your faceplate.
+
+196
+00:12:49,470 --> 00:12:50,671
+<i>Roger, roger.</i>
+
+197
+00:12:54,590 --> 00:12:56,270
+This is never gonna work.
+
+198
+00:13:00,109 --> 00:13:01,868
+- Clones!
+- Roger, roger.
+
+199
+00:13:04,508 --> 00:13:05,787
+Right. Let's move.
+
+200
+00:13:10,615 --> 00:13:13,894
+- Permission to take point, sir?
+- I'm always first, kid.
+
+201
+00:13:24,165 --> 00:13:26,213
+- Fives!
+- He's okay. Focus on the battle.
+
+202
+00:13:37,250 --> 00:13:38,131
+I got one!
+
+203
+00:13:38,291 --> 00:13:41,489
+- Sorry, Echo. I jumped that one.
+- Like hell you did.
+
+204
+00:13:45,134 --> 00:13:48,011
+Not so tough now,
+are ya, Sparky?
+
+205
+00:13:50,044 --> 00:13:51,164
+Get to the window.
+
+206
+00:13:51,244 --> 00:13:53,484
+It looks like we have
+more visitors.
+
+207
+00:13:58,762 --> 00:14:00,842
+It looks like a Separatist fleet.
+
+208
+00:14:03,482 --> 00:14:05,481
+That's why they commandeered
+the outpost.
+
+209
+00:14:05,562 --> 00:14:07,481
+They're mounting
+a full-scale invasion.
+
+210
+00:14:07,561 --> 00:14:09,241
+We have to warn command.
+
+211
+00:14:10,840 --> 00:14:13,880
+The Republic base is still transmitting
+the all-clear signal,
+
+212
+00:14:13,959 --> 00:14:17,079
+but for some reason, our commando
+droids are not responding.
+
+213
+00:14:17,080 --> 00:14:19,382
+We can leave nothing to chance.
+
+214
+00:14:19,508 --> 00:14:23,268
+That base cannot be allowed
+to alert the Jedi that we're coming.
+
+215
+00:14:23,987 --> 00:14:26,547
+Send down reinforcements
+to investigate.
+
+216
+00:14:28,467 --> 00:14:30,306
+Those clankers sabotaged
+our transmitter,
+
+217
+00:14:30,387 --> 00:14:32,946
+and they hard-wired the all-clear signal.
+It'll take time to repair.
+
+218
+00:14:33,106 --> 00:14:34,945
+- We don't have time.
+- Look.
+
+219
+00:14:40,624 --> 00:14:44,224
+Well, buddy, you always said
+you wanted to be on the front lines.
+
+220
+00:15:03,420 --> 00:15:06,219
+We can't protect the outpost long
+against that army of clankers.
+
+221
+00:15:06,620 --> 00:15:09,299
+Then we'll destroy the outpost instead.
+
+222
+00:15:09,939 --> 00:15:13,538
+But, sir, our mission is to defend
+this facility at all costs.
+
+223
+00:15:13,698 --> 00:15:16,058
+We have to warn the Republic
+about the invasion.
+
+224
+00:15:16,178 --> 00:15:18,417
+They'll take notice
+when the all-clear signal stops.
+
+225
+00:15:18,857 --> 00:15:19,857
+That's right.
+
+226
+00:15:19,937 --> 00:15:22,097
+When they stop receiving our beacon,
+
+227
+00:15:22,217 --> 00:15:24,096
+they'll get the message
+something's wrong.
+
+228
+00:15:24,216 --> 00:15:26,456
+We'll need every thermal detonator
+in the inventory.
+
+229
+00:15:26,535 --> 00:15:29,575
+It'll take more than a few detonators
+to destroy this outpost.
+
+230
+00:15:29,695 --> 00:15:31,055
+We can use the LT.
+
+231
+00:15:31,174 --> 00:15:33,374
+This moon freezes
+for over half the year.
+
+232
+00:15:33,414 --> 00:15:35,894
+We use liquid tibanna as fuel
+to heat the base.
+
+233
+00:15:36,054 --> 00:15:39,173
+- Liquid tibanna... highly explosive.
+- Good.
+
+234
+00:15:39,573 --> 00:15:42,053
+Bring the tanks here
+and prime the detonators.
+
+235
+00:15:50,531 --> 00:15:51,651
+All right, listen up.
+
+236
+00:15:51,811 --> 00:15:55,090
+There's only one target of interest
+in this sector: Kamino.
+
+237
+00:15:55,250 --> 00:15:57,330
+It's the closest thing
+we clones have to a home.
+
+238
+00:15:57,490 --> 00:15:59,329
+Today we fight
+for more than the Republic.
+
+239
+00:15:59,410 --> 00:16:01,809
+Today we fight for all our brothers
+back home.
+
+240
+00:16:01,969 --> 00:16:03,808
+- Understood?
+- Sir, yes, sir!
+
+241
+00:16:11,487 --> 00:16:13,807
+I think we can even the odds a bit,
+Commander,
+
+242
+00:16:13,966 --> 00:16:16,046
+especially since they don't know
+we're here.
+
+243
+00:16:16,206 --> 00:16:17,647
+This one here is mine.
+
+244
+00:16:18,606 --> 00:16:20,606
+Big gun doesn't make a big man.
+
+245
+00:16:26,285 --> 00:16:28,044
+- Reinforcements reporting.
+- Open up.
+
+246
+00:16:31,484 --> 00:16:33,083
+Didn't say "please. "
+
+247
+00:16:35,243 --> 00:16:36,602
+Clones! Get 'em!
+
+248
+00:16:45,481 --> 00:16:47,401
+We could use a Jedi about now.
+
+249
+00:16:51,880 --> 00:16:53,160
+Captain Rex, come in.
+
+250
+00:16:53,239 --> 00:16:55,159
+Commander Cody, are you there?
+
+251
+00:16:56,279 --> 00:16:58,039
+General, there's still no response.
+
+252
+00:16:58,599 --> 00:17:01,878
+How about the all-clear signal?
+Is the base still transmitting?
+
+253
+00:17:01,957 --> 00:17:02,838
+Yes, sir.
+
+254
+00:17:02,917 --> 00:17:05,317
+If something were wrong,
+Cody would contact us.
+
+255
+00:17:05,477 --> 00:17:07,077
+What is the status of the base?
+
+256
+00:17:08,276 --> 00:17:10,196
+We've run into some difficulties.
+
+257
+00:17:10,277 --> 00:17:12,596
+There seem to be
+a few clones left, sir.
+
+258
+00:17:12,676 --> 00:17:14,116
+Then wipe them out.
+
+259
+00:17:14,276 --> 00:17:17,235
+We can't let a few puny clones
+stop us.
+
+260
+00:17:24,287 --> 00:17:26,207
+Fall back to the op center.
+Move!
+
+261
+00:17:31,645 --> 00:17:34,124
+<i>- Rex, time's wasting.
+- Almost ready.</i>
+
+262
+00:17:36,363 --> 00:17:39,163
+The handset isn't linking up
+with the detonator.
+
+263
+00:17:40,256 --> 00:17:41,655
+- Hevy.
+- Yes, sir.
+
+264
+00:17:41,815 --> 00:17:43,895
+- This detonator isn't working.
+- I'll take care of it.
+
+265
+00:17:43,959 --> 00:17:46,119
+It'll be fixed in no time.
+You guys get out of here.
+
+266
+00:17:46,199 --> 00:17:49,158
+Just make it fast.
+Those droids are getting close.
+
+267
+00:17:55,237 --> 00:17:57,476
+There.
+That should fix it.
+
+268
+00:18:02,276 --> 00:18:03,515
+This isn't good.
+
+269
+00:18:04,036 --> 00:18:05,956
+There's got to be another way.
+
+270
+00:18:20,320 --> 00:18:22,000
+The base is ours again, sir.
+
+271
+00:18:22,159 --> 00:18:24,079
+- The clones are fleeing.
+- Cowards.
+
+272
+00:18:24,200 --> 00:18:25,119
+Secure the area.
+
+273
+00:18:31,103 --> 00:18:32,462
+Hevy, hit the...
+
+274
+00:18:32,542 --> 00:18:34,462
+<i>- Where's Hevy?
+- I'm on it, sir.</i>
+
+275
+00:18:35,022 --> 00:18:36,781
+Hevy, get out of there.
+
+276
+00:18:36,941 --> 00:18:39,500
+The remote isn't working.
+I have to detonate it manually.
+
+277
+00:18:39,821 --> 00:18:41,900
+Hold on there.
+Blast him!
+
+278
+00:18:43,340 --> 00:18:45,419
+We've got to get up there.
+Back to the maintenance pipe.
+
+279
+00:18:45,500 --> 00:18:48,059
+- Let's move.
+- It's no use. I know what I have to do.
+
+280
+00:18:49,819 --> 00:18:51,898
+I don't like your tone, rookie.
+
+281
+00:18:57,258 --> 00:18:58,377
+<i>Soldier, come in.</i>
+
+282
+00:18:58,537 --> 00:18:59,657
+<i>Are you there?</i>
+
+283
+00:19:06,456 --> 00:19:09,399
+<i>Soldier, come in!
+Respond!</i>
+
+284
+00:19:09,783 --> 00:19:11,030
+<i>Talk to us!</i>
+
+285
+00:19:26,929 --> 00:19:29,026
+Hevy, come in.
+Come in, Hevy!
+
+286
+00:19:29,794 --> 00:19:30,944
+<i>Hevy, come in!</i>
+
+287
+00:19:33,105 --> 00:19:34,945
+Do we take prisoners?
+
+288
+00:19:35,744 --> 00:19:36,784
+I don't.
+
+289
+00:19:52,789 --> 00:19:55,212
+Hevy always did hate that place.
+
+290
+00:19:59,100 --> 00:20:00,939
+The all-clear signal
+has been disabled?
+
+291
+00:20:01,099 --> 00:20:02,779
+The Rishi base has
+stopped transmitting.
+
+292
+00:20:03,124 --> 00:20:05,403
+- Grievous.
+- Sound the invasion alarm.
+
+293
+00:20:05,563 --> 00:20:07,402
+Let's get the fleet under way.
+
+294
+00:20:09,882 --> 00:20:12,361
+I didn't tell them
+to blow up the station.
+
+295
+00:20:12,729 --> 00:20:14,920
+But isn't it good
+that the base is destroyed?
+
+296
+00:20:15,001 --> 00:20:15,961
+Idiot!
+
+297
+00:20:17,481 --> 00:20:19,000
+The Republic fleet.
+
+298
+00:20:19,120 --> 00:20:21,360
+We're outgunned.
+Get us out of here.
+
+299
+00:20:31,718 --> 00:20:33,558
+We've got those tinnies on the run.
+
+300
+00:20:33,637 --> 00:20:34,877
+Thanks to Hevy.
+
+301
+00:20:35,141 --> 00:20:36,181
+Gunships.
+
+302
+00:20:36,470 --> 00:20:38,004
+Getting off this crater, boys.
+
+303
+00:20:54,964 --> 00:20:56,484
+On behalf of the Republic,
+
+304
+00:20:56,499 --> 00:20:58,698
+we thank you
+for your valiant service,
+
+305
+00:20:58,858 --> 00:21:01,258
+and we honor
+your comrade's sacrifice.
+
+306
+00:21:02,537 --> 00:21:04,737
+Your new unit is lucky to have you.
+
+307
+00:21:05,497 --> 00:21:08,296
+I'd be proud to fight
+beside you anytime, anywhere.
+
+308
+00:21:12,736 --> 00:21:14,055
+Congratulations.
+
+309
+00:21:14,295 --> 00:21:16,055
+You're not shinies anymore.
+
+310
+00:21:17,615 --> 00:21:20,214
+With all due respect, sir,
+we failed our mission.
+
+311
+00:21:20,374 --> 00:21:22,014
+We don't deserve this honor.
+
+312
+00:21:22,134 --> 00:21:25,413
+No. If it weren't for you,
+the Republic wouldn't have learned
+
+313
+00:21:25,493 --> 00:21:28,133
+of the Separatists' invasion
+until it was too late.
+
+314
+00:21:28,253 --> 00:21:29,972
+You showed me something today.
+
+315
+00:21:30,252 --> 00:21:33,371
+You're exactly the kind of men
+I need in the 501st.
+
+316
+00:21:34,012 --> 00:21:35,331
+Sir, yes, sir!
+

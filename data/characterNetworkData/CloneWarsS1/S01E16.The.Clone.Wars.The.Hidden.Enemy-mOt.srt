@@ -1,0 +1,1323 @@
+1
+00:00:16,834 --> 00:00:18,594
+<i>A planet under siege!</i>
+
+2
+00:00:18,994 --> 00:00:21,074
+<i>Separatist forces mercilessly batter</i>
+
+3
+00:00:21,235 --> 00:00:23,315
+<i>the beautiful and elegant world
+of Christophsis.</i>
+
+4
+00:00:24,035 --> 00:00:26,275
+<i>Unable to defend themselves
+any longer,</i>
+
+5
+00:00:26,435 --> 00:00:29,636
+<i>the people of Christophsis
+call on the Jedi for assistance.</i>
+
+6
+00:00:30,356 --> 00:00:33,237
+<i>Hoping to save lives
+and prevent further destruction,</i>
+
+7
+00:00:33,356 --> 00:00:37,477
+<i>Obi-Wan Kenobi and Anakin Skywalker
+plan a daring ambush</i>
+
+8
+00:00:37,557 --> 00:00:41,317
+<i>which could turn the tide in the fight
+for this crucial star system.</i>
+
+9
+00:00:41,598 --> 00:00:42,278
+Anakin,
+
+10
+00:00:42,397 --> 00:00:44,438
+<i>- how are you doing over there?
+- We're set.</i>
+
+11
+00:00:44,517 --> 00:00:46,758
+I've got some guys here
+that are anxious to get going.
+
+12
+00:00:46,918 --> 00:00:47,958
+<i>Glad to hear it.</i>
+
+13
+00:00:56,359 --> 00:00:57,799
+We're back, General.
+
+14
+00:00:58,279 --> 00:01:00,360
+Good.
+The show is about to begin.
+
+15
+00:01:02,599 --> 00:01:04,519
+How's that cannon coming, boys?
+
+16
+00:01:04,680 --> 00:01:07,241
+We'll have this one back in business
+in no time, sir.
+
+17
+00:01:11,161 --> 00:01:12,441
+The droids are advancing.
+
+18
+00:01:15,961 --> 00:01:19,002
+I'm seeing a full battalion
+coming right on schedule.
+
+19
+00:01:20,482 --> 00:01:22,042
+Tanks!
+They brought tanks.
+
+20
+00:01:31,323 --> 00:01:32,523
+A little closer.
+
+21
+00:01:36,364 --> 00:01:37,724
+They're splitting up.
+
+22
+00:01:38,204 --> 00:01:38,924
+What?
+
+23
+00:01:41,245 --> 00:01:43,325
+Something's gone wrong.
+Prepare all troops for...
+
+24
+00:01:54,606 --> 00:01:55,966
+Abort the mission!
+
+25
+00:02:00,366 --> 00:02:02,447
+Our position's been compromised.
+
+26
+00:02:07,087 --> 00:02:08,368
+Obi-Wan, what's going on?
+
+27
+00:02:09,248 --> 00:02:11,608
+We're cut off.
+The droids are on to us.
+
+28
+00:02:17,729 --> 00:02:20,770
+Gunship, come in. Hawk,
+we need an evac in the south tower.
+
+29
+00:02:21,170 --> 00:02:23,090
+Roger that, sir. We're coming.
+
+30
+00:02:26,210 --> 00:02:29,090
+- South tower? We're in the north.
+- Not for long.
+
+31
+00:02:31,490 --> 00:02:32,851
+Rex, fire your cables.
+
+32
+00:02:40,452 --> 00:02:41,492
+Blast them!
+
+33
+00:02:56,294 --> 00:02:58,774
+- This way is clear.
+- How did you get over here?
+
+34
+00:02:59,014 --> 00:03:00,134
+I improvised.
+
+35
+00:03:18,296 --> 00:03:19,177
+Now what?
+
+36
+00:03:57,981 --> 00:04:00,941
+Maybe this tactical droid will tell us
+how they knew our plan.
+
+37
+00:04:08,543 --> 00:04:11,503
+<i>The Republic army
+is in the north and south towers,</i>
+
+38
+00:04:11,983 --> 00:04:12,943
+<i>level 46.</i>
+
+39
+00:04:13,743 --> 00:04:15,184
+It just doesn't make sense.
+
+40
+00:04:18,864 --> 00:04:19,664
+Blast!
+
+41
+00:04:21,144 --> 00:04:23,665
+Well, at least we're not the only ones
+having a bad day.
+
+42
+00:04:23,864 --> 00:04:24,785
+Generals.
+
+43
+00:04:26,864 --> 00:04:28,305
+They had all our intel.
+
+44
+00:04:28,705 --> 00:04:30,305
+That would explain the ambush.
+
+45
+00:04:30,385 --> 00:04:33,345
+How could we have left ourselves
+so vulnerable to a security breach?
+
+46
+00:04:34,425 --> 00:04:36,867
+- I don't think we did.
+- You think someone...
+
+47
+00:04:36,986 --> 00:04:39,427
+- ... infiltrated our defenses?
+- Possibly.
+
+48
+00:04:40,147 --> 00:04:42,307
+It'd have to be someone
+cunning and resourceful enough
+
+49
+00:04:42,386 --> 00:04:44,227
+to gain access to all our plans.
+
+50
+00:04:44,307 --> 00:04:46,707
+But that still wouldn't explain
+how they got our intel.
+
+51
+00:04:47,268 --> 00:04:48,707
+No, you're right.
+
+52
+00:04:49,428 --> 00:04:52,308
+They wouldn't act alone. They'd have
+someone working with them.
+
+53
+00:04:52,628 --> 00:04:53,588
+A spy, sir?
+
+54
+00:04:54,308 --> 00:04:57,348
+But who would want to
+betray our troops to the Seppies?
+
+55
+00:04:57,588 --> 00:04:59,149
+Excellent question, Commander.
+
+56
+00:04:59,269 --> 00:05:01,749
+Perhaps it's time we made a visit
+behind enemy lines.
+
+57
+00:05:01,909 --> 00:05:04,629
+- I think we'll find our answers there.
+- We'll get right on it.
+
+58
+00:05:04,869 --> 00:05:07,590
+No, Captain. I need you here
+to find the security breach.
+
+59
+00:05:07,910 --> 00:05:10,630
+- You can count on us, sir.
+- One more thing.
+
+60
+00:05:10,790 --> 00:05:13,031
+This mission
+is extremely confidential.
+
+61
+00:05:13,151 --> 00:05:14,791
+The spy could be anyone.
+
+62
+00:05:14,870 --> 00:05:16,791
+Let no one know of our mission.
+
+63
+00:05:17,671 --> 00:05:18,952
+Understood, sir.
+
+64
+00:05:26,072 --> 00:05:27,712
+Someone left his com-link on.
+
+65
+00:05:28,232 --> 00:05:31,752
+Someone has been listening
+to everything we said.
+
+66
+00:05:33,353 --> 00:05:34,233
+Hey! Stop!
+
+67
+00:05:36,553 --> 00:05:37,513
+Who's that?
+
+68
+00:05:41,594 --> 00:05:43,675
+I'll follow him.
+You take the west corridor.
+
+69
+00:05:43,834 --> 00:05:44,794
+I'm on it.
+
+70
+00:05:58,556 --> 00:06:00,397
+He must have gone in the mess hall.
+
+71
+00:06:04,957 --> 00:06:06,637
+We've got a big problem.
+
+72
+00:06:07,277 --> 00:06:07,997
+Yeah.
+
+73
+00:06:08,557 --> 00:06:10,958
+The only people in here
+are brothers.
+
+74
+00:06:13,558 --> 00:06:14,518
+One of us?
+
+75
+00:06:15,158 --> 00:06:16,638
+Great, but which one?
+
+76
+00:06:17,838 --> 00:06:21,079
+We'll have to wait for his next move.
+Keep this to ourselves.
+
+77
+00:06:21,239 --> 00:06:22,799
+Better contact the Jedi.
+
+78
+00:06:22,919 --> 00:06:23,879
+I'm on it.
+
+79
+00:06:38,881 --> 00:06:41,842
+Don't shoot. Just keep
+their communications jammed.
+
+80
+00:06:42,121 --> 00:06:43,202
+- Roger, roger.
+- Roger, roger.
+
+81
+00:06:43,801 --> 00:06:45,722
+We can't reach General Kenobi.
+
+82
+00:06:45,842 --> 00:06:48,563
+Whoever it is
+has blocked our communications.
+
+83
+00:06:48,683 --> 00:06:51,283
+We're gonna have to
+find this guy ourselves.
+
+84
+00:06:51,803 --> 00:06:53,763
+R2, come over here and plug in.
+
+85
+00:06:57,643 --> 00:06:58,763
+What are you doing?
+
+86
+00:06:58,883 --> 00:07:01,323
+The guard got his messages
+out there somehow.
+
+87
+00:07:01,444 --> 00:07:03,604
+- We just got to find 'em.
+- What do you think?
+
+88
+00:07:03,724 --> 00:07:06,844
+- He just sat down and wrote a note?
+- You have to start somewhere.
+
+89
+00:07:10,965 --> 00:07:13,125
+We appear to have picked up
+some friends.
+
+90
+00:07:13,246 --> 00:07:14,166
+Indeed.
+
+91
+00:07:14,285 --> 00:07:17,806
+In fact, I believe the number of eyes
+watching us has been steadily growing.
+
+92
+00:07:18,126 --> 00:07:21,607
+Great. Perhaps this means our adversary
+has learned about our mission.
+
+93
+00:07:21,846 --> 00:07:22,847
+Perhaps it does.
+
+94
+00:07:23,006 --> 00:07:25,327
+Of course,
+nobody's tried to stop us yet.
+
+95
+00:07:25,606 --> 00:07:26,767
+Also true.
+
+96
+00:07:26,887 --> 00:07:29,087
+They want us to get to
+the Separatist headquarters,
+
+97
+00:07:29,207 --> 00:07:30,808
+which means this is a trap.
+
+98
+00:07:30,928 --> 00:07:32,087
+I imagine it is.
+
+99
+00:07:32,368 --> 00:07:34,568
+Well, that's unfortunate.
+For them.
+
+100
+00:07:38,329 --> 00:07:39,849
+R2's found something.
+
+101
+00:07:40,728 --> 00:07:42,409
+What is it? Is it the traitor?
+
+102
+00:07:43,289 --> 00:07:44,369
+I'm not sure.
+
+103
+00:07:45,529 --> 00:07:47,890
+- Maybe.
+- What is he looking for?
+
+104
+00:07:48,170 --> 00:07:51,730
+Wavelength interference,
+weak frequencies, spotty, irregular.
+
+105
+00:07:51,930 --> 00:07:54,050
+See how it shows up
+every few days...
+
+106
+00:07:54,170 --> 00:07:56,811
+then disappears?
+Day to day, you wouldn't notice it.
+
+107
+00:07:58,411 --> 00:08:00,251
+- What?
+- It's the pattern.
+
+108
+00:08:00,691 --> 00:08:04,012
+The band's only coming
+off one terminal in the whole base.
+
+109
+00:08:04,412 --> 00:08:05,492
+Check it out.
+
+110
+00:08:06,491 --> 00:08:07,652
+Slick's barracks.
+
+111
+00:08:07,972 --> 00:08:10,252
+Only Slick's men
+would have access to that terminal.
+
+112
+00:08:11,653 --> 00:08:13,453
+Slick's not gonna like that.
+
+113
+00:08:13,772 --> 00:08:14,852
+No, he's not.
+
+114
+00:08:14,973 --> 00:08:17,773
+But if one of his men
+is giving away our intel,
+
+115
+00:08:17,933 --> 00:08:19,894
+we have to find him
+and sort this out.
+
+116
+00:08:29,814 --> 00:08:31,655
+No guards, no barricades.
+
+117
+00:08:32,655 --> 00:08:35,536
+You'd think the Separatist headquarters
+would be better protected.
+
+118
+00:08:38,496 --> 00:08:41,776
+But clearly, keeping us out
+is not what they intend.
+
+119
+00:08:47,096 --> 00:08:49,097
+No way.
+My guys are the best.
+
+120
+00:08:49,697 --> 00:08:51,858
+No way they're capable
+of something like this.
+
+121
+00:08:52,018 --> 00:08:53,458
+Something like what?
+
+122
+00:08:56,738 --> 00:08:59,058
+- You called them here?
+- Of course we did.
+
+123
+00:08:59,178 --> 00:09:01,619
+We're getting to
+the bottom of this now.
+
+124
+00:09:01,899 --> 00:09:04,739
+Look, let me have a few minutes
+with them first.
+
+125
+00:09:05,339 --> 00:09:06,739
+It's gonna hit them hard.
+
+126
+00:09:06,859 --> 00:09:09,980
+They trust each other,
+and if one of our own betrayed us...
+
+127
+00:09:10,100 --> 00:09:13,421
+I don't think that's necessary.
+Your men are tough, right?
+
+128
+00:09:13,940 --> 00:09:15,540
+Take a seat, gentlemen.
+
+129
+00:09:18,741 --> 00:09:20,541
+We have a turncoat in our midst,
+
+130
+00:09:21,541 --> 00:09:23,422
+and we think it's one of you.
+
+131
+00:09:33,383 --> 00:09:35,503
+So this is the belly of the beast.
+
+132
+00:09:43,024 --> 00:09:43,944
+Ventress.
+
+133
+00:09:44,464 --> 00:09:46,904
+And here I thought this mission
+would be unpleasant.
+
+134
+00:09:47,264 --> 00:09:50,185
+The pleasure's all mine,
+my dear Obi-Wan.
+
+135
+00:09:51,145 --> 00:09:52,384
+I've missed you.
+
+136
+00:09:59,545 --> 00:10:02,986
+I don't know, I was doing the things
+I always do after a mission.
+
+137
+00:10:03,506 --> 00:10:05,827
+- Things like what?
+- I'm sorry, sir.
+
+138
+00:10:06,106 --> 00:10:08,827
+I'm just a little nervous.
+You're my C.O.
+
+139
+00:10:09,347 --> 00:10:10,787
+The way I figure it,
+
+140
+00:10:10,907 --> 00:10:14,028
+you tell the truth,
+you got nothing to be nervous about.
+
+141
+00:10:14,148 --> 00:10:17,188
+Jester is telling the truth. He cleans
+his weapon after every mission.
+
+142
+00:10:17,308 --> 00:10:20,308
+First thing, every time.
+He's kind of obsessed that way.
+
+143
+00:10:20,428 --> 00:10:21,388
+Is that right?
+
+144
+00:10:21,508 --> 00:10:23,429
+- You were cleaning your weapon?
+- Yes, sir.
+
+145
+00:10:23,589 --> 00:10:25,269
+Go on the computer
+while you were in here?
+
+146
+00:10:25,469 --> 00:10:28,389
+No, sir. I didn't even power it up.
+You can check.
+
+147
+00:10:30,510 --> 00:10:31,950
+Show me your weapon.
+
+148
+00:10:34,030 --> 00:10:35,550
+Yep, freshly scrubbed.
+
+149
+00:10:36,111 --> 00:10:38,871
+- The rag's over there in the corner.
+- Good man.
+
+150
+00:10:38,991 --> 00:10:39,791
+You.
+
+151
+00:10:40,031 --> 00:10:43,231
+- You were cleaning your weapon too?
+- No, I was hungry.
+
+152
+00:10:43,471 --> 00:10:45,071
+I went back to the mess.
+
+153
+00:10:45,592 --> 00:10:47,151
+- Right away?
+- Yeah.
+
+154
+00:10:48,511 --> 00:10:49,552
+Anyone with you?
+
+155
+00:10:50,672 --> 00:10:51,712
+Sketch, sir.
+
+156
+00:10:51,832 --> 00:10:55,073
+We got to the mess at the same time,
+got our grub, and sat together.
+
+157
+00:10:55,352 --> 00:10:58,553
+Anyone else in the mess able to confirm
+what you two are saying?
+
+158
+00:10:58,833 --> 00:11:00,713
+Lots of guys there.
+Ask any of them.
+
+159
+00:11:01,313 --> 00:11:03,993
+- We will.
+- Captain, give me a moment with them.
+
+160
+00:11:04,153 --> 00:11:06,234
+No, it's okay, Sarge.
+I got nothing to hide.
+
+161
+00:11:06,354 --> 00:11:07,594
+I was in the infirmary.
+
+162
+00:11:08,154 --> 00:11:10,555
+Got banged up pretty good
+by one of those clankers.
+
+163
+00:11:10,675 --> 00:11:12,355
+A med droid was fixing me up.
+
+164
+00:11:12,475 --> 00:11:15,516
+Doc's got all the records there
+if you want to check.
+
+165
+00:11:18,315 --> 00:11:20,195
+So, Chopper, old boy,
+
+166
+00:11:20,716 --> 00:11:22,916
+- what's your alibi?
+- I was in the mess hall.
+
+167
+00:11:23,197 --> 00:11:24,356
+No, you weren't!
+
+168
+00:11:24,756 --> 00:11:25,996
+I mean, you...
+
+169
+00:11:26,477 --> 00:11:28,997
+If you know something, kid,
+you should speak up.
+
+170
+00:11:29,917 --> 00:11:32,197
+Chopper came in a lot later.
+
+171
+00:11:32,677 --> 00:11:34,118
+After everyone else.
+
+172
+00:11:44,559 --> 00:11:47,839
+My loyal informant let me know
+you were coming.
+
+173
+00:11:48,399 --> 00:11:50,959
+Well, then, we thank you
+for your hospitality.
+
+174
+00:11:58,920 --> 00:12:01,080
+Where were you
+before you went to the mess, Chopper?
+
+175
+00:12:01,200 --> 00:12:03,121
+Nowhere.
+Walking around.
+
+176
+00:12:03,401 --> 00:12:06,081
+Son, you know we'll need
+a better answer than that.
+
+177
+00:12:07,842 --> 00:12:08,881
+I was hiding...
+
+178
+00:12:09,602 --> 00:12:10,962
+at the south exit.
+
+179
+00:12:11,722 --> 00:12:13,962
+I didn't want anyone to see me
+string these together.
+
+180
+00:12:15,803 --> 00:12:17,483
+Battle droid fingers.
+
+181
+00:12:19,003 --> 00:12:19,923
+I just...
+
+182
+00:12:20,323 --> 00:12:22,203
+I just wanted something back.
+
+183
+00:12:22,323 --> 00:12:24,403
+I guess I felt like they owed me.
+
+184
+00:12:25,124 --> 00:12:27,604
+I always knew there was something
+deficient about you.
+
+185
+00:12:30,645 --> 00:12:33,685
+This isn't good, Chopper.
+Lying about where you were,
+
+186
+00:12:33,805 --> 00:12:36,325
+taking forbidden items
+from a battlefield...
+
+187
+00:12:37,005 --> 00:12:37,806
+I know.
+
+188
+00:12:38,005 --> 00:12:40,885
+I put up with the attitude
+'cause you have skill.
+
+189
+00:12:41,086 --> 00:12:44,366
+But if you could break these rules,
+your whole character's in question here.
+
+190
+00:12:44,726 --> 00:12:46,047
+Wait, no! Hang on.
+
+191
+00:12:46,526 --> 00:12:47,566
+I'm no spy!
+
+192
+00:12:57,288 --> 00:12:58,888
+Chopper, we're all brothers.
+
+193
+00:12:59,008 --> 00:13:01,528
+But how can we trust anything
+you say now?
+
+194
+00:13:02,048 --> 00:13:05,128
+- No, sir, I'm telling you, I did not...
+- It's okay.
+
+195
+00:13:05,408 --> 00:13:07,409
+We'll get you
+a proper investigation.
+
+196
+00:13:07,529 --> 00:13:10,850
+You don't have to say anything
+till the Jedi come back and talk to you.
+
+197
+00:13:10,969 --> 00:13:13,249
+Maybe you should talk, sir.
+Tell them where you went.
+
+198
+00:13:13,529 --> 00:13:15,570
+I was at the south exit, remember?
+
+199
+00:13:15,689 --> 00:13:17,690
+I saw you go in, sir.
+I saw you.
+
+200
+00:13:17,810 --> 00:13:19,570
+Chopper, I have been patient.
+
+201
+00:13:19,690 --> 00:13:22,251
+Everyone else turned right
+toward the barracks and the mess.
+
+202
+00:13:22,371 --> 00:13:24,931
+You turned left,
+toward the command center.
+
+203
+00:13:25,811 --> 00:13:29,652
+- Where were you going, sir?
+- Obviously, the kid feels cornered.
+
+204
+00:13:30,172 --> 00:13:33,332
+Sergeant, what did you mean,
+"till the Jedi come back"?
+
+205
+00:13:34,012 --> 00:13:36,052
+How did you know
+the Jedi were gone?
+
+206
+00:13:37,772 --> 00:13:40,493
+I really wish
+you hadn't noticed that, sir.
+
+207
+00:13:42,933 --> 00:13:43,774
+It's Slick?
+
+208
+00:13:46,054 --> 00:13:47,494
+Slick's the traitor?
+
+209
+00:14:08,776 --> 00:14:11,777
+- I've got someone by the gunships.
+- That's our Slick.
+
+210
+00:14:11,897 --> 00:14:14,377
+Now that he's exposed,
+he has to get out of this base.
+
+211
+00:14:15,537 --> 00:14:18,178
+There's no escape now,
+you piece of rankweed!
+
+212
+00:14:22,978 --> 00:14:23,979
+Move. Move!
+
+213
+00:14:36,260 --> 00:14:38,140
+He took out our weapons depot.
+
+214
+00:14:40,181 --> 00:14:41,781
+He knew where we'd look.
+
+215
+00:14:42,140 --> 00:14:43,741
+He's not trying to escape.
+
+216
+00:14:43,861 --> 00:14:46,701
+He knows all our moves
+before we even make 'em.
+
+217
+00:14:50,742 --> 00:14:51,902
+Give up, Ventress!
+
+218
+00:14:52,462 --> 00:14:54,942
+I am all yours, Obi-Wan.
+
+219
+00:15:04,103 --> 00:15:05,863
+You've served your purpose.
+
+220
+00:15:06,143 --> 00:15:09,224
+- We have to get back. Now!
+- It's already too late.
+
+221
+00:15:09,504 --> 00:15:12,904
+So hard to know
+whom to trust these days, isn't it?
+
+222
+00:15:13,264 --> 00:15:14,865
+What's the plan, Master?
+
+223
+00:15:14,985 --> 00:15:17,504
+Bringing us here was a mistake,
+my sweet.
+
+224
+00:15:18,185 --> 00:15:20,385
+You've overestimated your abilities.
+
+225
+00:15:20,906 --> 00:15:21,706
+Really?
+
+226
+00:15:33,547 --> 00:15:35,067
+Come and get me, boys!
+
+227
+00:15:37,908 --> 00:15:40,348
+You didn't tell us
+you were bringing friends.
+
+228
+00:15:40,868 --> 00:15:42,148
+Poor Obi-Wan.
+
+229
+00:15:42,668 --> 00:15:44,148
+You've been betrayed.
+
+230
+00:15:44,388 --> 00:15:47,109
+And now we're about
+to take control of this world.
+
+231
+00:15:50,909 --> 00:15:52,989
+- How do we get this guy?
+- Sir.
+
+232
+00:15:53,389 --> 00:15:54,989
+Slick ran into the command center.
+
+233
+00:15:55,350 --> 00:15:57,750
+You guys stay here.
+Seal the perimeter.
+
+234
+00:16:15,752 --> 00:16:16,632
+Anakin!
+
+235
+00:16:25,433 --> 00:16:27,314
+Prepare to march on the city.
+
+236
+00:16:33,755 --> 00:16:37,035
+Have General Loathesome
+delay the Jedi as long as possible.
+
+237
+00:16:37,234 --> 00:16:40,756
+I will need time to execute
+the next part of my master's plan.
+
+238
+00:16:41,036 --> 00:16:42,195
+Yes, Mistress.
+
+239
+00:16:58,318 --> 00:17:00,878
+Pretend you're Slick.
+What's in your head?
+
+240
+00:17:01,198 --> 00:17:03,078
+My cover's blown, it's time to go,
+
+241
+00:17:03,198 --> 00:17:06,399
+but I decide not to use a ship
+because it's too obvious.
+
+242
+00:17:12,519 --> 00:17:13,599
+The lockdown.
+
+243
+00:17:14,119 --> 00:17:15,799
+He wants to get around the lockdown.
+
+244
+00:17:16,039 --> 00:17:18,160
+He's blinded us
+by taking out the power.
+
+245
+00:17:18,280 --> 00:17:20,400
+He could disable
+the entire security system.
+
+246
+00:17:21,600 --> 00:17:24,081
+But he knows we'd expect him
+to do that.
+
+247
+00:17:27,361 --> 00:17:28,361
+Or does he?
+
+248
+00:17:28,881 --> 00:17:32,042
+- Yeah, I see what you're getting at.
+- Go to the south exit.
+
+249
+00:17:32,361 --> 00:17:36,042
+- What are you gonna do?
+- I'll stay here, get the power back up.
+
+250
+00:17:36,162 --> 00:17:37,882
+- That'll help.
+- Got it.
+
+251
+00:17:44,483 --> 00:17:45,883
+Hey there, Slick.
+
+252
+00:17:46,923 --> 00:17:47,964
+Gun's empty.
+
+253
+00:17:50,724 --> 00:17:52,724
+You know what's funny, traitor?
+
+254
+00:17:53,244 --> 00:17:56,964
+We knew you'd never take a chance
+on the exits while they were blocked.
+
+255
+00:17:57,604 --> 00:18:00,045
+I'd stay here
+to open them myself first.
+
+256
+00:18:00,605 --> 00:18:01,765
+Just like you.
+
+257
+00:18:02,125 --> 00:18:05,526
+Don't do a job till you've guaranteed
+the best odds, right?
+
+258
+00:18:06,046 --> 00:18:07,485
+You knew I was here.
+
+259
+00:18:07,806 --> 00:18:09,166
+Of course we knew.
+
+260
+00:18:09,686 --> 00:18:11,326
+You think we wouldn't have a plan?
+
+261
+00:18:11,646 --> 00:18:13,087
+I'm not the traitor.
+
+262
+00:18:13,727 --> 00:18:14,606
+You are!
+
+263
+00:18:28,289 --> 00:18:31,329
+All of you just blindly
+following orders, for what?
+
+264
+00:18:35,609 --> 00:18:38,570
+At least I got something
+out of all this suffering.
+
+265
+00:18:40,450 --> 00:18:43,690
+I bet you sold out your brothers
+for some real shiny coin.
+
+266
+00:18:50,651 --> 00:18:52,371
+Yes, she offered me money.
+
+267
+00:18:52,852 --> 00:18:54,811
+But she offered me
+something more important.
+
+268
+00:18:54,931 --> 00:18:57,492
+Something you wouldn't understand.
+Freedom!
+
+269
+00:19:02,652 --> 00:19:05,173
+I think freedom's
+gonna have to wait, kid.
+
+270
+00:19:07,853 --> 00:19:08,614
+Slick?
+
+271
+00:19:09,054 --> 00:19:11,654
+- It was you?
+- He gave us a bit of a chase, sir.
+
+272
+00:19:11,894 --> 00:19:14,014
+You couldn't be
+a greater disappointment.
+
+273
+00:19:14,134 --> 00:19:15,974
+How could you do this
+to your brothers?
+
+274
+00:19:17,174 --> 00:19:18,974
+Only a Jedi would ask that.
+
+275
+00:19:19,895 --> 00:19:22,535
+It's the Jedi
+who keep my brothers enslaved.
+
+276
+00:19:22,935 --> 00:19:24,335
+We do your bidding.
+
+277
+00:19:24,455 --> 00:19:26,016
+We serve at your whim.
+
+278
+00:19:26,535 --> 00:19:28,376
+I just wanted something more.
+
+279
+00:19:28,496 --> 00:19:32,176
+And all you had to do to get it
+was put the rest of us all at risk.
+
+280
+00:19:34,137 --> 00:19:35,536
+I love my brothers.
+
+281
+00:19:36,057 --> 00:19:37,456
+You're too blind to see it,
+
+282
+00:19:37,577 --> 00:19:39,617
+but I was striking the blow
+for all clones.
+
+283
+00:19:40,017 --> 00:19:43,537
+If you loved your brothers,
+you wouldn't have put them at risk.
+
+284
+00:19:43,978 --> 00:19:45,818
+You betrayed everyone of us.
+
+285
+00:19:46,938 --> 00:19:48,338
+Take him to lockup.
+
+286
+00:19:52,219 --> 00:19:54,819
+Were you able to salvage anything
+from the weapons depot?
+
+287
+00:19:55,339 --> 00:19:57,819
+Slick pretty much scorched
+the whole thing.
+
+288
+00:19:57,939 --> 00:20:00,099
+That seemed to be
+what he was going for all along.
+
+289
+00:20:00,220 --> 00:20:02,260
+We managed to save
+the heavy cannons, though.
+
+290
+00:20:02,380 --> 00:20:03,340
+That's good,
+
+291
+00:20:03,460 --> 00:20:06,261
+'cause there are about
+1,000 battle droids on their way here.
+
+292
+00:20:06,540 --> 00:20:08,421
+The fight goes on, gentlemen.
+

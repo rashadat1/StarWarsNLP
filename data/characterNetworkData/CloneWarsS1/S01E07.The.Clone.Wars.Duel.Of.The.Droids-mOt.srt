@@ -1,0 +1,1088 @@
+1
+00:00:17,535 --> 00:00:18,895
+<i>Missing in action!</i>
+
+2
+00:00:19,534 --> 00:00:24,174
+<i>Anakin Skywalker's heroic droid navigator
+R2-D2 was lost in battle.</i>
+
+3
+00:00:24,494 --> 00:00:26,861
+<i>When a desperate search fails
+to locate R2,</i>
+
+4
+00:00:26,894 --> 00:00:30,893
+<i>Anakin is forced to take on
+a new navigator, R3-S6.</i>
+
+5
+00:00:31,213 --> 00:00:33,773
+<i>Now the Jedi embark
+on a dangerous new mission...</i>
+
+6
+00:00:33,813 --> 00:00:35,814
+<i>to find a secret enemy listening post.</i>
+
+7
+00:00:36,533 --> 00:00:41,052
+<i>Meanwhile, R2-D2 has fallen
+into the hands of a vile droid smuggler</i>
+
+8
+00:00:41,086 --> 00:00:43,572
+<i>and is on his way
+to General Grievous...</i>
+
+9
+00:00:43,613 --> 00:00:47,252
+<i>who will surely plunder
+the Republic's secrets hidden within him.</i>
+
+10
+00:00:53,092 --> 00:00:55,451
+I am entering your orbit now, General.
+
+11
+00:00:56,051 --> 00:00:57,851
+I will be at your station shortly.
+
+12
+00:00:58,091 --> 00:00:59,451
+And, General...
+
+13
+00:00:59,611 --> 00:01:01,531
+<i>What is it, Gha Nachkt?</i>
+
+14
+00:01:01,610 --> 00:01:04,891
+I prefer to get my reward in cash.
+
+15
+00:01:13,650 --> 00:01:15,290
+We've searched their supply grids, sir.
+
+16
+00:01:15,450 --> 00:01:18,169
+There's nothing to indicate
+the presence of an enemy outpost.
+
+17
+00:01:35,328 --> 00:01:36,008
+Huh?
+
+18
+00:01:39,087 --> 00:01:42,527
+Master, I'm receiving
+a strange transmission.
+
+19
+00:01:42,560 --> 00:01:43,967
+I can't seem to make it out, though.
+
+20
+00:01:45,846 --> 00:01:46,966
+Boost the volume, Goldie.
+
+21
+00:01:49,166 --> 00:01:50,646
+No, you're losing it.
+
+22
+00:01:54,646 --> 00:01:55,405
+That's R2.
+
+23
+00:01:55,486 --> 00:01:58,005
+Uh, that doesn't sound like R2.
+
+24
+00:01:58,038 --> 00:01:58,651
+It's him.
+
+25
+00:01:58,685 --> 00:02:00,285
+I could never forget that voice.
+
+26
+00:02:00,319 --> 00:02:01,245
+Trace it, Rex.
+
+27
+00:02:01,325 --> 00:02:02,205
+Sir.
+
+28
+00:02:02,365 --> 00:02:04,324
+What is going on here?
+
+29
+00:02:08,564 --> 00:02:10,764
+You sneaky little scrap pile.
+
+30
+00:02:14,004 --> 00:02:16,044
+You'd better be worth all this trouble.
+
+31
+00:02:20,163 --> 00:02:23,123
+Master, our orders were
+to find the Separatist listening post.
+
+32
+00:02:23,163 --> 00:02:25,442
+Perhaps R2 is at the listening post.
+
+33
+00:02:25,682 --> 00:02:26,682
+Did you consider that?
+
+34
+00:02:28,003 --> 00:02:29,722
+We have a lock on the droid's location, sir.
+
+35
+00:02:29,962 --> 00:02:31,441
+Prepare to jump to those coordinates.
+
+36
+00:02:31,562 --> 00:02:32,202
+Yes, sir.
+
+37
+00:02:35,242 --> 00:02:36,681
+Hold on, R2, old buddy.
+
+38
+00:02:36,762 --> 00:02:37,722
+We're coming.
+
+39
+00:02:47,201 --> 00:02:49,121
+<i>What is it, Gha Nachkt?</i>
+
+40
+00:02:49,154 --> 00:02:50,127
+I've arrived.
+
+41
+00:02:50,160 --> 00:02:51,520
+Could you lower your shields?
+
+42
+00:03:04,959 --> 00:03:06,718
+Keep moving, grease spot.
+
+43
+00:03:12,718 --> 00:03:13,798
+Aah.
+
+44
+00:03:14,517 --> 00:03:18,277
+This is the droid
+those Jedi came looking for, General.
+
+45
+00:03:18,478 --> 00:03:22,357
+What secrets do you carry, my little friend?
+
+46
+00:03:24,197 --> 00:03:25,957
+So defiant.
+
+47
+00:03:26,036 --> 00:03:27,723
+No need for fear.
+
+48
+00:03:27,757 --> 00:03:29,956
+We're all droids here.
+
+49
+00:03:31,036 --> 00:03:32,963
+Rip this little rat apart,
+
+50
+00:03:32,996 --> 00:03:34,916
+and find out everything he knows.
+
+51
+00:03:38,036 --> 00:03:39,436
+Right away, General.
+
+52
+00:03:51,154 --> 00:03:54,434
+Sir, the last transmission came from
+that moon's upper atmosphere,
+
+53
+00:03:54,467 --> 00:03:55,434
+directly ahead.
+
+54
+00:03:57,313 --> 00:03:59,034
+That's a Separatist battle sphere.
+
+55
+00:03:59,393 --> 00:04:01,313
+I'm picking up a lot of encrypted chatter.
+
+56
+00:04:01,833 --> 00:04:02,793
+Contact Obi-Wan.
+
+57
+00:04:02,953 --> 00:04:06,393
+Stubby, scramble secret code set 1477.
+
+58
+00:04:07,153 --> 00:04:09,073
+I don't want that station to pick this up.
+
+59
+00:04:12,513 --> 00:04:13,193
+<i>Anakin?</i>
+
+60
+00:04:13,392 --> 00:04:16,272
+Master, I believe we've found
+your Separatist listening post.
+
+61
+00:04:16,472 --> 00:04:17,438
+<i>Excellent work.</i>
+
+62
+00:04:17,471 --> 00:04:18,558
+<i>Back off and wait.</i>
+
+63
+00:04:18,591 --> 00:04:21,112
+<i>I'll send two mainline cruisers
+to help you destroy it.</i>
+
+64
+00:04:21,152 --> 00:04:21,952
+But R2...
+
+65
+00:04:22,191 --> 00:04:24,431
+We believe my droid, R2, is on board.
+
+66
+00:04:24,465 --> 00:04:25,671
+He's the one that led us here.
+
+67
+00:04:26,071 --> 00:04:29,071
+<i>Hmm, this complicates things.</i>
+
+68
+00:04:29,111 --> 00:04:31,790
+<i>You must sneak aboard that station
+and destroy it</i>
+
+69
+00:04:31,824 --> 00:04:33,750
+<i>before they crack R2's memory banks.</i>
+
+70
+00:04:33,950 --> 00:04:35,750
+<i>I know you're fond of that droid,</i>
+
+71
+00:04:35,783 --> 00:04:37,550
+<i>but he's fallen into enemy hands.</i>
+
+72
+00:04:37,670 --> 00:04:39,829
+I could rescue R2.
+
+73
+00:04:40,150 --> 00:04:42,629
+<i>No, this is not a rescue mission.</i>
+
+74
+00:04:43,869 --> 00:04:45,269
+Keep jamming their scanners.
+
+75
+00:04:45,349 --> 00:04:47,149
+If they spot us, we're dead.
+
+76
+00:04:57,588 --> 00:04:58,708
+We're bringing the droid?
+
+77
+00:04:58,948 --> 00:05:02,907
+We'll need Goldie to open secured hatches
+and access the station's computer for us.
+
+78
+00:05:03,067 --> 00:05:06,027
+Oh, and, Rex...
+you get to carry him.
+
+79
+00:05:09,306 --> 00:05:10,706
+Ah, that's just great.
+
+80
+00:05:22,625 --> 00:05:24,185
+Follow me, boys!
+
+81
+00:05:47,903 --> 00:05:50,783
+Take this upstairs,
+and be sure not to drop it.
+
+82
+00:05:50,816 --> 00:05:52,262
+Whoa!
+Ow.
+
+83
+00:05:54,582 --> 00:05:57,822
+Those 631s are not
+the brightest lights on the ship.
+
+84
+00:06:06,221 --> 00:06:08,781
+Next time, you're lugging
+this astromech around.
+
+85
+00:06:19,980 --> 00:06:22,940
+All this moisture is corroding
+my servo-motors.
+
+86
+00:06:23,099 --> 00:06:24,279
+Go up to level eight.
+
+87
+00:06:24,312 --> 00:06:25,459
+Get your head adjusted.
+
+88
+00:06:25,493 --> 00:06:26,579
+It feels great.
+
+89
+00:06:26,620 --> 00:06:27,819
+That'll feel gr-
+
+90
+00:06:28,779 --> 00:06:29,419
+What the...?
+
+91
+00:06:36,499 --> 00:06:37,899
+All right, Stubby.
+Get to work.
+
+92
+00:06:41,538 --> 00:06:42,538
+We are here.
+
+93
+00:06:42,778 --> 00:06:45,777
+The reactors are 30 levels below us, there.
+
+94
+00:06:46,177 --> 00:06:48,937
+Ahsoka, you take the squad
+and blow up those reactors.
+
+95
+00:06:48,971 --> 00:06:50,097
+Gravity will do the rest.
+
+96
+00:06:50,177 --> 00:06:51,337
+We'll meet in the landing bay.
+
+97
+00:06:51,657 --> 00:06:52,657
+Where are you going?
+
+98
+00:06:53,097 --> 00:06:55,177
+I'm just going to
+have a little look around.
+
+99
+00:06:55,336 --> 00:06:57,696
+I hope you find R2 in one piece.
+
+100
+00:07:05,176 --> 00:07:07,056
+This is...
+This is...!
+
+101
+00:07:07,455 --> 00:07:08,415
+General Grievous!
+
+102
+00:07:09,135 --> 00:07:10,495
+What is it?
+
+103
+00:07:10,655 --> 00:07:14,375
+It appears this droid's mission memory
+has never been erased.
+
+104
+00:07:14,615 --> 00:07:19,134
+It contains every Republic formation
+and strategy they have.
+
+105
+00:07:20,614 --> 00:07:21,660
+Good work.
+
+106
+00:07:21,694 --> 00:07:24,654
+You certainly earned your fee this time.
+
+107
+00:07:24,934 --> 00:07:26,620
+More than my fee.
+
+108
+00:07:26,654 --> 00:07:29,973
+This droid is worth more,
+I get paid more.
+
+109
+00:07:30,007 --> 00:07:31,293
+Now, I suggest-
+
+110
+00:07:35,013 --> 00:07:36,733
+There is your bonus.
+
+111
+00:07:47,932 --> 00:07:50,211
+Report, agent R3.
+
+112
+00:07:52,051 --> 00:07:53,531
+The Jedi are here?
+
+113
+00:07:53,771 --> 00:07:55,651
+<i>Delay them until I arrive.</i>
+
+114
+00:07:57,171 --> 00:07:58,931
+Goldie, where are you?
+
+115
+00:08:01,170 --> 00:08:02,570
+Sound the alarm.
+
+116
+00:08:04,650 --> 00:08:05,969
+What are you doing back here?
+
+117
+00:08:06,170 --> 00:08:07,170
+Come on.
+
+118
+00:08:11,010 --> 00:08:14,769
+Now we will transfer all your secrets to me.
+
+119
+00:08:16,049 --> 00:08:19,769
+Don't worry.
+I won't let anything happen to you.
+
+120
+00:08:25,128 --> 00:08:27,767
+Republic troops have infiltrated the base.
+
+121
+00:08:27,801 --> 00:08:29,687
+Keep this droid secure.
+
+122
+00:08:31,008 --> 00:08:33,967
+I will deal with the Jedi myself.
+
+123
+00:08:42,446 --> 00:08:43,806
+We found the reactor room, sir.
+
+124
+00:08:44,222 --> 00:08:46,007
+<i>The alarm triggered
+another security door...</i>
+
+125
+00:08:46,488 --> 00:08:47,639
+...ray-shielded.
+
+126
+00:08:47,966 --> 00:08:50,046
+This could take a while to bypass.
+
+127
+00:08:50,079 --> 00:08:51,062
+Good luck with that.
+
+128
+00:08:51,096 --> 00:08:52,150
+Go ahead, Goldie.
+
+129
+00:08:52,184 --> 00:08:53,205
+Make me proud.
+
+130
+00:08:56,045 --> 00:08:57,205
+Oh, this'll be good.
+
+131
+00:09:03,125 --> 00:09:04,564
+Those droids are getting close, sir.
+
+132
+00:09:05,044 --> 00:09:07,403
+Do you think R3's going to
+open up that door any time soon?
+
+133
+00:09:07,724 --> 00:09:09,043
+He's working on it.
+
+134
+00:09:09,077 --> 00:09:10,364
+Patience, Captain.
+
+135
+00:09:13,363 --> 00:09:14,923
+I can always hot-wire it, sir.
+
+136
+00:09:15,204 --> 00:09:16,363
+Hurry up, Goldie.
+
+137
+00:09:18,163 --> 00:09:19,523
+I think we've run out of time.
+
+138
+00:09:19,683 --> 00:09:20,602
+Blast 'em!
+
+139
+00:09:43,600 --> 00:09:45,720
+Rex, droid poppers, now!
+
+140
+00:09:45,840 --> 00:09:47,040
+Droid poppers!
+
+141
+00:10:11,638 --> 00:10:14,357
+<i>Take the captured R2 unit to my ship.</i>
+
+142
+00:10:20,717 --> 00:10:23,716
+They sent a child to destroy my station?
+
+143
+00:10:24,277 --> 00:10:26,636
+The Republic must be running out of Jedi.
+
+144
+00:10:27,477 --> 00:10:29,556
+You must be General Grievous.
+
+145
+00:10:32,116 --> 00:10:33,876
+He's just another tinny, boys.
+
+146
+00:10:34,275 --> 00:10:36,236
+Let's scrap him like the rest.
+
+147
+00:10:55,473 --> 00:10:57,473
+Sorry to interrupt your playtime, grumpy,
+
+148
+00:10:57,633 --> 00:10:59,393
+but wouldn't you prefer a challenge?
+
+149
+00:10:59,553 --> 00:11:01,273
+That wouldn't be you.
+
+150
+00:11:22,711 --> 00:11:24,751
+All units, stay on high alert.
+
+151
+00:11:24,990 --> 00:11:28,270
+Watch out for a second Jedi
+loose in the station.
+
+152
+00:11:36,150 --> 00:11:36,909
+R2!
+
+153
+00:11:41,109 --> 00:11:42,229
+Hang on, R2!
+
+154
+00:11:50,108 --> 00:11:53,028
+Where is the fight
+you promised me, youngling?
+
+155
+00:12:03,267 --> 00:12:04,866
+Ahsoka, it's me, Rex.
+
+156
+00:12:05,026 --> 00:12:06,206
+There are only two of us left.
+
+157
+00:12:06,239 --> 00:12:07,386
+Should we abort the mission?
+
+158
+00:12:07,547 --> 00:12:09,146
+No, complete the mission.
+
+159
+00:12:09,266 --> 00:12:11,546
+Set the charges
+and rendezvous at the landing bay.
+
+160
+00:12:11,706 --> 00:12:12,346
+<i>But, sir...</i>
+
+161
+00:12:12,506 --> 00:12:13,826
+That's an order, Rex.
+
+162
+00:12:13,946 --> 00:12:15,106
+I'll keep the general busy.
+
+163
+00:12:15,146 --> 00:12:16,466
+Ahsoka out.
+
+164
+00:12:17,105 --> 00:12:18,271
+She's distracting Grievous.
+
+165
+00:12:18,305 --> 00:12:20,385
+Come on.
+We still got a job to do.
+
+166
+00:12:21,945 --> 00:12:23,545
+Come here, child.
+
+167
+00:12:23,665 --> 00:12:25,225
+I'm looking for you.
+
+168
+00:12:25,705 --> 00:12:28,384
+So far, you have failed to impress me.
+
+169
+00:12:29,424 --> 00:12:30,944
+Goldie, over here.
+
+170
+00:12:32,744 --> 00:12:33,784
+Goldie, no!
+
+171
+00:12:35,024 --> 00:12:36,944
+<i>Ahsoka, we're in the reactor-</i>
+
+172
+00:12:38,943 --> 00:12:40,663
+Your friends won't help you.
+
+173
+00:12:40,784 --> 00:12:42,304
+You're stuck with me.
+
+174
+00:12:55,662 --> 00:12:57,261
+You have something that belongs to me.
+
+175
+00:13:35,818 --> 00:13:36,818
+Thanks, R2.
+
+176
+00:13:38,297 --> 00:13:39,777
+It's great to see you too, buddy.
+
+177
+00:13:39,937 --> 00:13:41,457
+You don't look so good.
+You okay?
+
+178
+00:13:46,857 --> 00:13:48,537
+Rex?
+Rex, can you hear me?
+
+179
+00:13:48,657 --> 00:13:50,577
+R3? R3, is that you?
+
+180
+00:13:51,016 --> 00:13:51,856
+I've got R2.
+
+181
+00:13:52,256 --> 00:13:53,696
+I'll meet you back at the landing bay.
+
+182
+00:13:56,776 --> 00:13:57,360
+R3?
+
+183
+00:13:57,456 --> 00:13:59,736
+Uh, yeah,
+I had to get a replacement droid.
+
+184
+00:13:59,856 --> 00:14:01,136
+Look, sorry, R2.
+
+185
+00:14:02,295 --> 00:14:03,616
+It was Obi-Wan's idea.
+
+186
+00:14:03,736 --> 00:14:05,695
+Look, we'll talk about this later.
+
+187
+00:14:05,815 --> 00:14:07,255
+Twilight, this is Skywalker.
+
+188
+00:14:09,215 --> 00:14:11,975
+<i>Rendezvous at the south landing bay
+immediately for evacuation.</i>
+
+189
+00:14:12,054 --> 00:14:13,055
+Acknowledged, General.
+
+190
+00:14:13,088 --> 00:14:14,374
+I'm on my way.
+
+191
+00:14:18,774 --> 00:14:21,694
+R3, what have you to report?
+
+192
+00:14:25,453 --> 00:14:27,893
+That stubby little backstabber.
+
+193
+00:14:28,133 --> 00:14:31,253
+So Skywalker has come
+for his R2 unit.
+
+194
+00:14:32,772 --> 00:14:35,052
+Go and make certain
+they do not escape.
+
+195
+00:14:48,051 --> 00:14:49,491
+Great, there's the Twilight.
+
+196
+00:14:49,531 --> 00:14:50,531
+Now where's everyone else?
+
+197
+00:14:54,010 --> 00:14:54,690
+Sir.
+
+198
+00:14:56,330 --> 00:14:58,170
+Hey, Stubby, where's Ahsoka?
+
+199
+00:15:01,450 --> 00:15:02,410
+General Skywalker.
+
+200
+00:15:02,649 --> 00:15:03,889
+Explosives are in place, sir.
+
+201
+00:15:03,923 --> 00:15:04,969
+Objective completed.
+
+202
+00:15:05,089 --> 00:15:06,249
+Where is Ahsoka?
+
+203
+00:15:06,409 --> 00:15:07,810
+She engaged General Grievous.
+
+204
+00:15:07,929 --> 00:15:08,809
+Alone?
+
+205
+00:15:09,009 --> 00:15:11,209
+She distracted him
+while we completed the mission.
+
+206
+00:15:11,489 --> 00:15:12,768
+It was on her orders, sir.
+
+207
+00:15:13,129 --> 00:15:14,129
+The droid was with her.
+
+208
+00:15:14,209 --> 00:15:16,289
+- We've got to find her.
+- I can take you to her, sir.
+
+209
+00:15:24,447 --> 00:15:25,687
+What is the matter with you?
+
+210
+00:15:25,768 --> 00:15:27,327
+Are you trying to get us killed?
+
+211
+00:15:39,766 --> 00:15:42,525
+I've got a bad feeling about this, sir.
+
+212
+00:15:43,645 --> 00:15:45,685
+That double-crossing droid is a spy.
+
+213
+00:16:17,483 --> 00:16:20,682
+Another lightsaber to add to my collection.
+
+214
+00:16:21,002 --> 00:16:22,962
+My spy droid, R3,
+
+215
+00:16:23,082 --> 00:16:25,402
+has trapped your precious master.
+
+216
+00:16:25,761 --> 00:16:28,961
+When I'm finished with you,
+he's next.
+
+217
+00:16:29,002 --> 00:16:30,041
+You're wrong.
+
+218
+00:16:30,521 --> 00:16:31,681
+He's gone by now,
+
+219
+00:16:31,721 --> 00:16:35,480
+and he's going to blow up
+your precious spy station.
+
+220
+00:16:35,961 --> 00:16:37,560
+Not this time.
+
+221
+00:16:44,880 --> 00:16:46,840
+Captain, trigger the explosives.
+
+222
+00:16:46,999 --> 00:16:49,199
+But, sir,
+we're still in the station.
+
+223
+00:16:49,280 --> 00:16:51,399
+You just let me worry about the details.
+
+224
+00:16:51,559 --> 00:16:52,559
+Sir, yes, sir.
+
+225
+00:17:19,477 --> 00:17:21,636
+R2, I need you
+to get the hangar door open.
+
+226
+00:17:22,716 --> 00:17:24,676
+See if there are any controls
+on the outer platform.
+
+227
+00:18:19,191 --> 00:18:20,710
+So, what did I miss?
+
+228
+00:18:21,431 --> 00:18:22,710
+Oh, the usual.
+
+229
+00:18:24,630 --> 00:18:27,190
+It was foolish of you
+to take on Grievous by yourself.
+
+230
+00:18:27,224 --> 00:18:29,716
+Well, I was leading the mission,
+
+231
+00:18:29,749 --> 00:18:31,789
+and it seemed like a good idea
+at the time.
+
+232
+00:18:37,668 --> 00:18:40,789
+Did he tell you your stubby
+little gold droid pal works for him?
+
+233
+00:18:41,309 --> 00:18:43,028
+He might have mentioned it.
+
+234
+00:18:43,228 --> 00:18:44,948
+I guess we were all fooled.
+
+235
+00:18:48,108 --> 00:18:50,908
+General Skywalker,
+there are fuel cells over here.
+
+236
+00:18:51,107 --> 00:18:52,067
+Get ready, Rex.
+
+237
+00:19:03,066 --> 00:19:04,787
+- R2 did it.
+- Of course he did it.
+
+238
+00:19:04,826 --> 00:19:06,026
+Now let's get out of here.
+
+239
+00:19:08,986 --> 00:19:10,346
+R2, where are you?
+
+240
+00:19:29,144 --> 00:19:30,903
+General Skywalker has
+gotten into his fighter.
+
+241
+00:19:30,937 --> 00:19:31,824
+Where's he going?
+
+242
+00:19:32,024 --> 00:19:33,744
+He's going after R2.
+
+243
+00:19:33,903 --> 00:19:36,183
+I'll be right back.
+Don't wait for me.
+
+244
+00:20:00,461 --> 00:20:01,421
+Come on, R2.
+
+245
+00:20:18,979 --> 00:20:20,859
+<i>So, let me get this straight, Anakin.</i>
+
+246
+00:20:21,099 --> 00:20:23,538
+<i>You risked the mission,
+all your men,</i>
+
+247
+00:20:23,698 --> 00:20:25,378
+<i>even your padawan,</i>
+
+248
+00:20:25,539 --> 00:20:27,018
+<i>to save a droid.</i>
+
+249
+00:20:28,338 --> 00:20:30,058
+R2 found the listening post,
+
+250
+00:20:30,092 --> 00:20:31,464
+and he saved our lives.
+
+251
+00:20:31,497 --> 00:20:33,417
+We couldn't just leave him there,
+Obi-Wan.
+
+252
+00:20:33,577 --> 00:20:36,138
+<i>Oh, Anakin. One day...</i>
+
+253
+00:20:37,658 --> 00:20:39,657
+I'm glad we got R2 back, Master.
+
+254
+00:20:39,697 --> 00:20:41,817
+But Obi-Wan does have a point.
+
+255
+00:20:41,937 --> 00:20:44,097
+Ahsoka, I knew you would
+complete the mission.
+
+256
+00:20:44,256 --> 00:20:46,896
+Besides,
+R2 is more than a droid.
+
+257
+00:20:47,136 --> 00:20:48,176
+He's a friend.
+

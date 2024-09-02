@@ -1,0 +1,1393 @@
+1
+00:00:16,734 --> 00:00:18,374
+<i>Dooku held for ransom!</i>
+
+2
+00:00:19,134 --> 00:00:21,614
+<i>After escaping capture
+by Jedi Knights Anakin Skywalker</i>
+
+3
+00:00:21,773 --> 00:00:23,453
+<i>and Obi-Wan Kenobi,</i>
+
+4
+00:00:23,534 --> 00:00:26,414
+<i>the villainous Count Dooku
+fell into the clutches of pirates</i>
+
+5
+00:00:26,813 --> 00:00:28,653
+<i>led by the brigand Hondo Ohnaka.</i>
+
+6
+00:00:29,053 --> 00:00:30,613
+<i>Eager to get custody of Dooku,</i>
+
+7
+00:00:30,733 --> 00:00:32,973
+<i>the Republic agreed
+to pay Hondo a hefty sum</i>
+
+8
+00:00:33,093 --> 00:00:35,053
+<i>in exchange for the Sith lord.</i>
+
+9
+00:00:35,212 --> 00:00:36,932
+<i>But Anakin and Obi-Wan
+had not counted</i>
+
+10
+00:00:37,092 --> 00:00:40,092
+<i>on the treacherous cunning
+of Ohnaka and his band.</i>
+
+11
+00:00:46,491 --> 00:00:47,451
+Master.
+
+12
+00:00:48,411 --> 00:00:49,531
+What happened?
+
+13
+00:00:50,091 --> 00:00:53,850
+Well, I guess that pirate brew
+is stronger than we thought.
+
+14
+00:00:54,251 --> 00:00:55,450
+I only took a sip.
+
+15
+00:00:55,850 --> 00:00:57,610
+We were drugged, obviously.
+
+16
+00:00:58,090 --> 00:00:59,770
+Why would they risk
+losing the ransom?
+
+17
+00:01:00,330 --> 00:01:02,010
+The deal appears to have changed.
+
+18
+00:01:02,089 --> 00:01:04,090
+They must be trying to
+triple their payday.
+
+19
+00:01:04,169 --> 00:01:07,449
+A shrewd observation, Master Kenobi.
+
+20
+00:01:07,849 --> 00:01:09,369
+Great. It's you.
+
+21
+00:01:09,689 --> 00:01:12,729
+I did warn you
+these pirates were devious.
+
+22
+00:01:13,048 --> 00:01:15,649
+You will notice our shackles
+are bound together.
+
+23
+00:01:15,769 --> 00:01:17,848
+I have tried to separate us
+
+24
+00:01:18,008 --> 00:01:19,848
+to no avail.
+
+25
+00:01:20,168 --> 00:01:22,407
+It's bad enough
+we have to be in the same cell,
+
+26
+00:01:22,567 --> 00:01:25,528
+but could you at least spare me
+the sound of your constant chatter?
+
+27
+00:01:25,687 --> 00:01:28,007
+And while I hold my tongue,
+
+28
+00:01:28,087 --> 00:01:30,967
+the two of you will devise
+a brilliant strategy
+
+29
+00:01:31,127 --> 00:01:33,126
+for getting off
+this godforsaken planet?
+
+30
+00:01:33,526 --> 00:01:34,486
+- Yes!
+- Yes!
+
+31
+00:01:34,806 --> 00:01:35,766
+Excellent.
+
+32
+00:01:37,526 --> 00:01:39,766
+I told you
+kidnapping the Sith lord
+
+33
+00:01:39,846 --> 00:01:41,846
+was a stroke of brilliance.
+
+34
+00:01:42,165 --> 00:01:45,205
+I can almost smell that spice now.
+
+35
+00:01:45,285 --> 00:01:47,765
+It'll be worth twice as much to us
+on the black market.
+
+36
+00:01:47,925 --> 00:01:51,604
+But I think we could've gotten
+a bigger ransom from the Separatists.
+
+37
+00:01:52,405 --> 00:01:53,365
+You fool.
+
+38
+00:01:53,765 --> 00:01:56,164
+Sometimes I wonder
+why I bother to keep you around.
+
+39
+00:01:56,964 --> 00:02:00,803
+If we tried to ransom Count Dooku off
+to the Separatists,
+
+40
+00:02:01,044 --> 00:02:04,003
+they would simply send
+their droid armies here
+
+41
+00:02:04,164 --> 00:02:05,523
+to wipe us out.
+
+42
+00:02:07,363 --> 00:02:10,163
+Now, as my sweet mother always said,
+
+43
+00:02:10,802 --> 00:02:13,042
+"Son, if one hostage is good,
+
+44
+00:02:13,442 --> 00:02:14,723
+"two are better.
+
+45
+00:02:15,042 --> 00:02:17,682
+"And three?
+Well, that's just good business. "
+
+46
+00:02:18,642 --> 00:02:21,761
+How much do you think they'll fetch?
+
+47
+00:02:21,882 --> 00:02:24,961
+Don't you worry about how much.
+You'll get your cut.
+
+48
+00:02:25,121 --> 00:02:27,681
+Just see to it
+that the Republic's ransom gets here.
+
+49
+00:02:27,761 --> 00:02:29,761
+Once we get the ransom for the Sith,
+
+50
+00:02:29,881 --> 00:02:32,320
+then we'll get the ransom
+for the Jedi.
+
+51
+00:02:32,480 --> 00:02:33,681
+Thank you, mom.
+
+52
+00:02:37,840 --> 00:02:39,200
+The spice is on its way.
+
+53
+00:02:39,360 --> 00:02:41,760
+Hondo has asked me to go out
+and meet the Republic senators
+
+54
+00:02:41,840 --> 00:02:43,680
+and bring them here with the ransom.
+
+55
+00:02:43,759 --> 00:02:46,959
+But I want you to intercept that ship
+and force it down.
+
+56
+00:02:47,120 --> 00:02:48,559
+Be careful.
+
+57
+00:02:49,039 --> 00:02:50,879
+I want that spice intact.
+
+58
+00:02:52,638 --> 00:02:54,878
+It's too risky.
+What about Hondo?
+
+59
+00:02:55,438 --> 00:02:59,278
+Yeah, that nitwit couldn't kill a nuna.
+He depends on me for that.
+
+60
+00:02:59,358 --> 00:03:01,758
+I'll tell him the ship was destroyed
+with everyone on it,
+
+61
+00:03:01,837 --> 00:03:03,197
+including the spice.
+
+62
+00:03:03,357 --> 00:03:06,477
+By the time he finds out the truth,
+we'll be long gone.
+
+63
+00:03:10,557 --> 00:03:13,196
+<i>- ... and we'll be landing...
+- Hidey-ho, Chancellor.</i>
+
+64
+00:03:13,277 --> 00:03:16,636
+<i>- Me-sa have a question.
+- In a moment, Representative Binks.</i>
+
+65
+00:03:17,516 --> 00:03:19,676
+Good work, Senator Kharrus.
+
+66
+00:03:19,836 --> 00:03:23,355
+I am relieved you're about to arrive
+at the pirates' stronghold safely.
+
+67
+00:03:23,755 --> 00:03:26,875
+Captain Hondo,
+the leader of those brigands,
+
+68
+00:03:27,036 --> 00:03:28,555
+will accept the ransom
+
+69
+00:03:28,795 --> 00:03:31,275
+and turn Count Dooku
+over to the Jedi.
+
+70
+00:03:31,355 --> 00:03:33,435
+And then
+they will bring him back with you.
+
+71
+00:03:33,674 --> 00:03:37,034
+Once we've landed,
+our signal will be strong enough
+
+72
+00:03:37,114 --> 00:03:39,434
+to set up proper communications.
+
+73
+00:03:39,594 --> 00:03:40,954
+<i>Thank you, Senator.</i>
+
+74
+00:03:45,433 --> 00:03:47,993
+Senator Kharrus, Representative Binks,
+take your seats.
+
+75
+00:03:48,073 --> 00:03:50,073
+We are coming in for a landing.
+
+76
+00:03:50,473 --> 00:03:53,512
+The last time I went
+on one of these ransom missions,
+
+77
+00:03:53,992 --> 00:03:56,072
+I spent three weeks in a dungeon.
+
+78
+00:03:57,192 --> 00:03:59,432
+Representative Binks,
+stop fooling around.
+
+79
+00:03:59,512 --> 00:04:01,751
+We're landing.
+Secure yourself.
+
+80
+00:04:02,072 --> 00:04:03,271
+Me-sa trying.
+
+81
+00:04:03,671 --> 00:04:05,111
+Is-sa stucken.
+
+82
+00:04:16,990 --> 00:04:19,510
+- We're under attack.
+- We've been betrayed.
+
+83
+00:04:30,709 --> 00:04:32,269
+Missile closing.
+Bank left!
+
+84
+00:04:37,908 --> 00:04:38,988
+What the...?
+
+85
+00:04:39,748 --> 00:04:42,787
+- Jar Jar, what are you doing?
+- Sorry. Me-sa fix it.
+
+86
+00:04:43,347 --> 00:04:46,428
+- Mack, what's going on back there?
+- Sir, you must get out of the cockpit.
+
+87
+00:04:48,467 --> 00:04:50,147
+- We're hit!
+- Sir, you must leave.
+
+88
+00:04:52,147 --> 00:04:53,746
+Get back into your seat.
+
+89
+00:05:00,826 --> 00:05:01,985
+We're going down.
+
+90
+00:05:22,983 --> 00:05:26,383
+Don't you think our priority
+should be escape first, eat second?
+
+91
+00:05:31,423 --> 00:05:35,182
+Do control your protege's insolence
+so I can concentrate.
+
+92
+00:05:38,302 --> 00:05:39,582
+- Anakin.
+- What?
+
+93
+00:05:39,662 --> 00:05:43,022
+Control your insolence.
+The count is concentrating.
+
+94
+00:05:50,461 --> 00:05:53,020
+Well done, if I do say so myself.
+
+95
+00:05:53,501 --> 00:05:54,780
+Most impressive.
+
+96
+00:06:07,899 --> 00:06:09,819
+Me-sa no see-a Senator Kharrus.
+
+97
+00:06:11,259 --> 00:06:12,219
+Pilots are dead.
+
+98
+00:06:13,418 --> 00:06:15,498
+Sir, over here.
+I found the senator.
+
+99
+00:06:21,018 --> 00:06:22,138
+He can't be dead.
+
+100
+00:06:22,698 --> 00:06:25,578
+We've got to figure out
+a way to contact Coruscant.
+
+101
+00:06:28,377 --> 00:06:30,136
+They crashed into Doshar field.
+
+102
+00:06:30,617 --> 00:06:33,896
+Good, good.
+And you have the spice?
+
+103
+00:06:35,177 --> 00:06:36,936
+No, not exactly. No.
+
+104
+00:06:37,016 --> 00:06:38,856
+I think there are survivors.
+
+105
+00:06:39,176 --> 00:06:42,296
+We have to call it off.
+Maybe we should tell Hondo.
+
+106
+00:06:42,935 --> 00:06:44,776
+No one tells Hondo anything!
+
+107
+00:06:45,176 --> 00:06:47,735
+If anyone survived that crash,
+we'll take care of 'em.
+
+108
+00:06:49,255 --> 00:06:50,215
+Trust me,
+
+109
+00:06:50,775 --> 00:06:52,695
+we're getting that spice.
+
+110
+00:07:01,174 --> 00:07:04,613
+We do know where we're going,
+don't we?
+
+111
+00:07:04,773 --> 00:07:05,813
+Hush, Anakin.
+
+112
+00:07:05,973 --> 00:07:07,893
+Do we know where we're going?
+
+113
+00:07:08,053 --> 00:07:09,013
+Quiet.
+
+114
+00:07:09,813 --> 00:07:13,573
+I was brought this way
+when I was captured. It was open then.
+
+115
+00:07:14,373 --> 00:07:15,732
+I found the door key.
+
+116
+00:07:17,892 --> 00:07:19,812
+This is the way to the hangar.
+
+117
+00:07:19,892 --> 00:07:22,612
+Yes, but are you sure it's safe?
+
+118
+00:07:22,772 --> 00:07:24,852
+- The key works.
+- Is it safe?
+
+119
+00:07:25,331 --> 00:07:26,612
+Of course it is.
+
+120
+00:07:27,571 --> 00:07:28,531
+Right.
+
+121
+00:07:31,611 --> 00:07:33,731
+Hold it right there, Jedi.
+
+122
+00:07:42,050 --> 00:07:44,730
+What were we thinking,
+following a Sith lord?
+
+123
+00:07:45,130 --> 00:07:47,769
+Oh, what to do,
+what to do, what to do?
+
+124
+00:07:48,209 --> 00:07:51,129
+I don't want to kill you, per se.
+
+125
+00:07:51,729 --> 00:07:54,528
+In fact,
+you seem like decent fellows.
+
+126
+00:07:54,928 --> 00:07:57,608
+Even you, Count.
+This is just business,
+
+127
+00:07:57,769 --> 00:08:01,288
+and once I get my money,
+we can go back to being friends.
+
+128
+00:08:02,248 --> 00:08:03,528
+It's very simple.
+
+129
+00:08:03,687 --> 00:08:07,207
+Now, try not to complicate things
+by breaking out again.
+
+130
+00:08:11,287 --> 00:08:15,007
+We have to get out of here before
+the Republic arrives with the ransom.
+
+131
+00:08:15,126 --> 00:08:17,206
+For once, I agree with you.
+
+132
+00:08:27,165 --> 00:08:30,125
+- Any luck repairing the homing beacon?
+- No, sir.
+
+133
+00:08:34,164 --> 00:08:35,924
+You-sa find rest, Senator.
+
+134
+00:08:36,924 --> 00:08:38,924
+Thosen with good in their heart
+
+135
+00:08:39,044 --> 00:08:40,884
+always passen too soon.
+
+136
+00:08:42,324 --> 00:08:46,164
+Sir, with the death of Senator Kharrus,
+are you now in command of the mission?
+
+137
+00:08:46,483 --> 00:08:47,843
+Technically, no.
+
+138
+00:08:48,323 --> 00:08:50,043
+Then, who is?
+
+139
+00:08:50,643 --> 00:08:53,642
+Representative Binks
+is the highest-ranking person here.
+
+140
+00:08:53,803 --> 00:08:56,802
+- We be missing you, Senator.
+- Sir, this place is dangerous.
+
+141
+00:08:56,962 --> 00:08:59,442
+Look, those geysers
+are spitting out acid.
+
+142
+00:09:01,442 --> 00:09:03,722
+These-a beasties
+don't like the geysers neither.
+
+143
+00:09:06,521 --> 00:09:07,881
+What is it, Sergeant?
+
+144
+00:09:08,001 --> 00:09:11,681
+How are we gonna deliver the ransom
+to the Jedi and get Count Dooku back?
+
+145
+00:09:15,960 --> 00:09:18,281
+You do not want to stand guard.
+
+146
+00:09:18,760 --> 00:09:21,640
+I do not want to stand guard.
+
+147
+00:09:21,800 --> 00:09:24,319
+You want to deactivate the cell bars
+
+148
+00:09:24,440 --> 00:09:26,839
+and go out drinking.
+
+149
+00:09:27,320 --> 00:09:30,079
+I want to deactivate the cell bars
+
+150
+00:09:30,199 --> 00:09:31,479
+and go out drinking.
+
+151
+00:09:34,638 --> 00:09:35,598
+Not bad.
+
+152
+00:09:35,838 --> 00:09:39,158
+Yes, most impressive, Master Kenobi.
+
+153
+00:09:41,278 --> 00:09:42,598
+What's-a that?
+
+154
+00:09:47,597 --> 00:09:49,037
+You think this is trouble, sir?
+
+155
+00:09:49,397 --> 00:09:51,917
+They could be the ones
+we're supposed to deliver the ransom to.
+
+156
+00:09:52,036 --> 00:09:54,597
+Or they-sa the ones
+that be shooting us down.
+
+157
+00:09:59,476 --> 00:10:02,516
+You're right, Binks. Incoming!
+Form a circle!
+
+158
+00:10:11,275 --> 00:10:13,075
+There's not enough cover out here.
+
+159
+00:10:13,314 --> 00:10:15,754
+They're cutting us off
+from the shuttle.
+
+160
+00:10:16,794 --> 00:10:18,314
+We've got to regroup.
+
+161
+00:10:22,274 --> 00:10:23,794
+Follow me. Let's hide.
+
+162
+00:10:24,594 --> 00:10:25,673
+Come on, men.
+
+163
+00:10:34,793 --> 00:10:35,873
+Where'd they go?
+
+164
+00:10:35,993 --> 00:10:38,272
+I don't know.
+Maybe they fell in a crater.
+
+165
+00:10:39,992 --> 00:10:41,152
+Find the spice.
+
+166
+00:10:41,272 --> 00:10:43,392
+Should we look for the clones
+in the crater?
+
+167
+00:10:43,512 --> 00:10:44,711
+Get back here.
+
+168
+00:10:44,831 --> 00:10:46,951
+Once that geyser goes off,
+they're broiled.
+
+169
+00:10:49,871 --> 00:10:52,351
+- We're not gonna last long in here.
+- Don't worry.
+
+170
+00:10:52,471 --> 00:10:54,990
+As long as those beasties
+are up there, we're safe.
+
+171
+00:10:55,110 --> 00:10:56,790
+When they run, we run.
+
+172
+00:10:59,270 --> 00:11:02,630
+See? Me-sa knew it was safe,
+since the beasties are nearby.
+
+173
+00:11:23,308 --> 00:11:24,668
+Come on, let's go!
+
+174
+00:11:33,347 --> 00:11:35,706
+Commander, you're right.
+The ransom's gone.
+
+175
+00:11:37,386 --> 00:11:39,466
+I suggest we stay here
+and wait for the Republic
+
+176
+00:11:39,586 --> 00:11:41,826
+- to send a rescue party.
+- We-sa can't wait.
+
+177
+00:11:42,266 --> 00:11:43,986
+We don't have much choice.
+
+178
+00:11:44,426 --> 00:11:46,946
+Ani and Obi are waiting for us
+to deliver the spicen.
+
+179
+00:11:47,346 --> 00:11:49,985
+Those pirates are on speeders.
+How are we gonna catch them?
+
+180
+00:11:50,705 --> 00:11:52,304
+Me-sa be having an idea.
+
+181
+00:11:58,704 --> 00:12:00,184
+Hurry it up, Dooku.
+
+182
+00:12:05,943 --> 00:12:08,023
+You should be more patient, Master.
+
+183
+00:12:08,143 --> 00:12:10,703
+After all, the count
+is an elderly gentleman
+
+184
+00:12:10,823 --> 00:12:13,943
+- and doesn't move like he used to.
+- I suppose you're right.
+
+185
+00:12:14,343 --> 00:12:16,342
+I would kill you both right now
+
+186
+00:12:16,462 --> 00:12:19,062
+if I did not have to
+drag your bodies.
+
+187
+00:12:23,741 --> 00:12:25,141
+Look! There they are.
+
+188
+00:12:25,742 --> 00:12:26,702
+Giddy up!
+
+189
+00:12:57,178 --> 00:12:59,738
+Let him go, sir.
+We've got the spice back.
+
+190
+00:13:06,618 --> 00:13:08,457
+Now we just have to
+get beyond that wall.
+
+191
+00:13:08,937 --> 00:13:09,977
+Let's go!
+
+192
+00:13:26,096 --> 00:13:27,616
+This is not going well.
+
+193
+00:13:27,895 --> 00:13:29,495
+Don't let them get away!
+
+194
+00:13:35,494 --> 00:13:37,294
+Hey, what are you guys doing?
+
+195
+00:13:38,254 --> 00:13:40,374
+You're too heavy.
+I can't do it.
+
+196
+00:13:42,614 --> 00:13:44,014
+Drop Dooku!
+
+197
+00:13:45,854 --> 00:13:48,574
+I guess this means
+we won't be friends.
+
+198
+00:13:51,573 --> 00:13:54,773
+Right, now that we have the spice,
+we need to find the compound.
+
+199
+00:13:54,893 --> 00:13:56,933
+- Anything to the south?
+- Nothing, sir.
+
+200
+00:13:57,052 --> 00:14:00,052
+Who knows where
+that pirate stronghold is from here.
+
+201
+00:14:00,332 --> 00:14:01,812
+Well, look at that.
+
+202
+00:14:02,532 --> 00:14:03,571
+Power lines.
+
+203
+00:14:04,372 --> 00:14:05,795
+They must lead somewhere.
+
+204
+00:14:05,891 --> 00:14:08,571
+There's-a power,
+there's-a be people too.
+
+205
+00:14:16,330 --> 00:14:17,170
+Captain!
+
+206
+00:14:17,490 --> 00:14:18,491
+Well, Turk,
+
+207
+00:14:18,690 --> 00:14:21,810
+did the Republic arrive
+with my spice?
+
+208
+00:14:22,090 --> 00:14:23,449
+The Republic deceived us.
+
+209
+00:14:23,810 --> 00:14:26,290
+They didn't send the ransom,
+they sent an army.
+
+210
+00:14:26,410 --> 00:14:28,090
+They ambushed us in Doshar field.
+
+211
+00:14:28,210 --> 00:14:30,209
+I suggest we counterattack
+with tanks.
+
+212
+00:14:30,849 --> 00:14:33,728
+- Where are your men?
+- I was the only survivor.
+
+213
+00:14:34,209 --> 00:14:36,449
+I think they will attack us
+to try and free the Jedi.
+
+214
+00:14:38,448 --> 00:14:39,568
+I warned them.
+
+215
+00:14:40,169 --> 00:14:42,848
+I didn't want
+to torture anyone.
+
+216
+00:14:42,968 --> 00:14:45,527
+But now?
+Even in a galaxy at war...
+
+217
+00:14:46,448 --> 00:14:48,368
+you hope to find some honor.
+
+218
+00:14:48,767 --> 00:14:51,247
+Let me take our tanks.
+I'll make 'em pay.
+
+219
+00:14:52,007 --> 00:14:54,767
+Go. Stop them before they reach
+the compound.
+
+220
+00:14:55,367 --> 00:14:57,167
+I will deal with the Jedi.
+
+221
+00:14:57,766 --> 00:14:58,846
+Yes, Captain.
+
+222
+00:15:02,125 --> 00:15:03,806
+We have to find a way out of here
+
+223
+00:15:03,925 --> 00:15:05,725
+before Senator Kharrus
+and Jar Jar arrive.
+
+224
+00:15:06,046 --> 00:15:07,365
+We'll look like fools.
+
+225
+00:15:07,925 --> 00:15:10,405
+I think it's time
+to lose the dead weight.
+
+226
+00:15:13,644 --> 00:15:15,044
+You two, come with us.
+
+227
+00:15:23,564 --> 00:15:26,524
+There be some bombad clankens
+coming this-a way.
+
+228
+00:15:27,324 --> 00:15:29,203
+What?
+Bombad clankens?
+
+229
+00:15:29,883 --> 00:15:30,883
+Right there!
+
+230
+00:15:31,003 --> 00:15:32,283
+- Where?
+- There!
+
+231
+00:15:33,083 --> 00:15:35,403
+- Wait!
+- Over there! Come on! There!
+
+232
+00:15:36,923 --> 00:15:39,202
+You're right.
+Bombad clankers.
+
+233
+00:15:43,202 --> 00:15:46,082
+Representative Binks,
+we're going to need your services
+
+234
+00:15:46,201 --> 00:15:49,041
+- for this part of the mission.
+- Who-sa? Me-sa?
+
+235
+00:15:49,161 --> 00:15:52,001
+Yes, sir.
+You are the Senate representative.
+
+236
+00:15:52,320 --> 00:15:55,721
+We need you to go out there
+and negotiate with the pirates.
+
+237
+00:15:57,160 --> 00:15:58,840
+Me-sa no liken this idea,
+
+238
+00:15:58,960 --> 00:16:01,880
+but I think is-sa
+what Senator Kharrus woulda do-sa.
+
+239
+00:16:03,159 --> 00:16:05,000
+He's probably going
+to get himself killed.
+
+240
+00:16:05,120 --> 00:16:07,559
+Don't worry.
+He's smarter than he looks.
+
+241
+00:16:17,038 --> 00:16:19,798
+I take it the Republic didn't arrive
+with the ransom.
+
+242
+00:16:22,998 --> 00:16:25,998
+Your Republic obviously doesn't want
+
+243
+00:16:26,477 --> 00:16:27,637
+the Sith lord.
+
+244
+00:16:28,037 --> 00:16:29,117
+They didn't show?
+
+245
+00:16:30,397 --> 00:16:32,077
+They did.
+They did show...
+
+246
+00:16:32,197 --> 00:16:34,957
+...with a huge army
+that they thought would be enough
+
+247
+00:16:35,077 --> 00:16:37,036
+to get the better of me,
+
+248
+00:16:37,436 --> 00:16:39,477
+- Hondo!
+- That can't be right.
+
+249
+00:16:39,876 --> 00:16:41,316
+Are you calling me a liar?
+
+250
+00:16:41,996 --> 00:16:43,956
+Isn't that kind of what you do
+for a living?
+
+251
+00:16:44,676 --> 00:16:46,876
+You reject my hospitality,
+
+252
+00:16:47,276 --> 00:16:49,795
+refuse to wait in your cell,
+
+253
+00:16:50,355 --> 00:16:53,555
+and now
+you're going to insult me?
+
+254
+00:16:53,955 --> 00:16:55,755
+- I'm just saying.
+- Anakin.
+
+255
+00:16:55,875 --> 00:16:57,514
+What? He is a pirate.
+
+256
+00:16:57,754 --> 00:17:01,394
+Yes, but this may not be the best time
+for you to speak.
+
+257
+00:17:01,954 --> 00:17:03,594
+- But you...
+- At all, Anakin!
+
+258
+00:17:13,633 --> 00:17:15,673
+What are you supposed to be?
+
+259
+00:17:16,712 --> 00:17:18,553
+Me-sa Representative Binks.
+
+260
+00:17:18,833 --> 00:17:20,672
+Me-sa coming to deliver the spicen.
+
+261
+00:17:21,992 --> 00:17:24,071
+Where's the army Turk reported?
+
+262
+00:17:24,432 --> 00:17:25,512
+Don't know.
+
+263
+00:17:25,672 --> 00:17:27,911
+Let's fry this one
+and look around.
+
+264
+00:17:28,351 --> 00:17:30,671
+No, if he's a representative,
+
+265
+00:17:31,231 --> 00:17:33,511
+he might be worth something as well.
+
+266
+00:17:33,950 --> 00:17:35,831
+You, Representative Bink,
+
+267
+00:17:36,190 --> 00:17:37,871
+we'll take you to your Jedi friends
+
+268
+00:17:38,230 --> 00:17:40,231
+so you can... negotiate.
+
+269
+00:17:43,070 --> 00:17:44,030
+Okey-day.
+
+270
+00:17:45,909 --> 00:17:47,230
+Sir, they're taking
+
+271
+00:17:47,389 --> 00:17:49,830
+- Representative Binks hostage.
+- Get ready.
+
+272
+00:17:56,149 --> 00:17:57,268
+Sorry. Sorry!
+
+273
+00:18:08,188 --> 00:18:10,828
+What happened to the power?
+I was having fun.
+
+274
+00:18:21,706 --> 00:18:22,786
+What the...?
+
+275
+00:18:37,784 --> 00:18:39,024
+Hold it right there.
+
+276
+00:18:39,784 --> 00:18:41,184
+Kill him. Kill him!
+
+277
+00:18:41,624 --> 00:18:43,984
+He's no representative.
+He's a plague!
+
+278
+00:18:44,784 --> 00:18:46,383
+Who's-a plague-a? Me-sa?
+
+279
+00:18:47,824 --> 00:18:50,703
+I wouldn't do that if I were you.
+Nice work, sir!
+
+280
+00:18:56,743 --> 00:18:58,302
+We're leaving without the spice?
+
+281
+00:18:59,022 --> 00:19:02,222
+It won't be long until Hondo
+figures out what's happened.
+
+282
+00:19:09,141 --> 00:19:10,781
+What are you doing?
+
+283
+00:19:19,300 --> 00:19:21,860
+What chance
+do you really have, Jedi?
+
+284
+00:19:22,620 --> 00:19:23,820
+Now let me go,
+
+285
+00:19:24,340 --> 00:19:26,100
+and I might let you live.
+
+286
+00:19:26,740 --> 00:19:28,499
+Approach us, and he dies.
+
+287
+00:19:31,619 --> 00:19:34,778
+Looks like your forces
+were destroyed, Jedi.
+
+288
+00:19:35,979 --> 00:19:37,179
+Ani! Obi!
+
+289
+00:19:38,098 --> 00:19:38,979
+Jar Jar?
+
+290
+00:19:39,298 --> 00:19:41,178
+Me-sa have arrived with the spicen.
+
+291
+00:19:41,658 --> 00:19:45,378
+Excellent, Jar Jar, assuming
+the pirates still have Count Dooku to trade.
+
+292
+00:19:52,736 --> 00:19:54,897
+Well, that answers that question.
+
+293
+00:19:59,776 --> 00:20:02,016
+Commander,
+start the engines, please.
+
+294
+00:20:02,136 --> 00:20:03,776
+So what now, Jedi?
+
+295
+00:20:04,815 --> 00:20:06,816
+You're going to arrest me?
+
+296
+00:20:07,695 --> 00:20:10,175
+- No. Anakin, release him.
+- What?
+
+297
+00:20:10,735 --> 00:20:12,535
+Captain,
+you have nothing we want,
+
+298
+00:20:12,655 --> 00:20:15,654
+and since we're not prisoners anymore,
+you have no bargaining power.
+
+299
+00:20:15,774 --> 00:20:18,014
+What?
+You-sa was in bombad trouble?
+
+300
+00:20:18,574 --> 00:20:19,774
+Me-sa rescued you.
+
+301
+00:20:20,295 --> 00:20:22,734
+No, Jar Jar.
+We weren't in any trouble.
+
+302
+00:20:23,574 --> 00:20:25,294
+Let's leave on even terms.
+
+303
+00:20:28,053 --> 00:20:29,093
+Hold. Hold!
+
+304
+00:20:29,734 --> 00:20:30,493
+Jedi,
+
+305
+00:20:30,854 --> 00:20:32,133
+after everything,
+
+306
+00:20:32,733 --> 00:20:34,733
+you're just going to walk away?
+
+307
+00:20:35,293 --> 00:20:38,093
+We have no quarrel with you,
+and we seek no revenge.
+
+308
+00:20:38,612 --> 00:20:42,532
+Indeed very honorable,
+Master Jedi.
+
+309
+00:20:43,211 --> 00:20:44,052
+Oh, Captain,
+
+310
+00:20:44,171 --> 00:20:47,611
+you will find that Count Dooku
+does not share our sense of honor,
+
+311
+00:20:47,731 --> 00:20:49,772
+and he knows where you live.
+

@@ -1,0 +1,1234 @@
+1
+00:00:17,001 --> 00:00:18,681
+<i>Republic victory is at hand!</i>
+
+2
+00:00:19,081 --> 00:00:21,320
+<i>Clone troopers,
+under the command of the Jedi,</i>
+
+3
+00:00:21,401 --> 00:00:24,440
+<i>have successfully invaded
+the Separatist-occupied world of Ryloth.</i>
+
+4
+00:00:25,080 --> 00:00:27,960
+<i>Anakin Skywalker
+battles the enemies in the skies,</i>
+
+5
+00:00:28,120 --> 00:00:30,519
+<i>while Obi-Wan Kenobi frees villages</i>
+
+6
+00:00:30,679 --> 00:00:33,639
+<i>from the grip of vile Separatist leader
+Wat Tambor.</i>
+
+7
+00:00:34,439 --> 00:00:37,958
+<i>Now Jedi General Mace Windu
+leads the attack on enemy lines</i>
+
+8
+00:00:38,118 --> 00:00:41,558
+<i>in the final offensive to liberate
+the capital city of Lessu.</i>
+
+9
+00:01:00,436 --> 00:01:01,476
+Take cover.
+
+10
+00:01:05,876 --> 00:01:08,914
+- We have stopped the enemy advance.
+- Give me those.
+
+11
+00:01:10,434 --> 00:01:11,315
+Good.
+
+12
+00:01:11,434 --> 00:01:14,034
+Now order our cannon
+to target their rear units.
+
+13
+00:01:14,515 --> 00:01:17,114
+We'll box them in
+and blast them to pieces.
+
+14
+00:01:23,393 --> 00:01:24,353
+We're pinned down!
+
+15
+00:01:24,513 --> 00:01:26,433
+Commander,
+bring out the Lightning squad.
+
+16
+00:01:27,152 --> 00:01:28,672
+I want Lightning up here now!
+
+17
+00:01:40,351 --> 00:01:43,070
+Get the injured back.
+I'm gonna clear the road.
+
+18
+00:01:56,350 --> 00:01:59,229
+- Sir, the enemy is advancing again.
+- Let me see.
+
+19
+00:02:00,189 --> 00:02:02,349
+Find some cover.
+Move it! Let's go!
+
+20
+00:02:06,188 --> 00:02:07,788
+He's all yours, General.
+
+21
+00:02:08,748 --> 00:02:10,627
+We'll lead the way, Commander.
+
+22
+00:02:13,068 --> 00:02:13,947
+Forward!
+
+23
+00:02:23,318 --> 00:02:25,573
+Now that Jedi is leading the attack.
+
+24
+00:02:26,341 --> 00:02:27,875
+This doesn't look good.
+
+25
+00:02:28,211 --> 00:02:30,402
+Concentrate all your fire
+on those walkers!
+
+26
+00:02:34,718 --> 00:02:35,581
+Did we hit 'em?
+
+27
+00:02:45,705 --> 00:02:46,673
+Should we run?
+
+28
+00:02:49,704 --> 00:02:52,304
+It would be better
+if we just surrendered.
+
+29
+00:03:08,782 --> 00:03:10,462
+How many men did we lose?
+
+30
+00:03:10,942 --> 00:03:13,901
+32, I think,
+including command crews of 3 walkers.
+
+31
+00:03:14,702 --> 00:03:17,101
+The good news is,
+General Kenobi's broken their lines.
+
+32
+00:03:17,181 --> 00:03:19,741
+We have a clear path
+straight to the capital now.
+
+33
+00:03:20,780 --> 00:03:22,300
+<i>This battle was costly.</i>
+
+34
+00:03:24,140 --> 00:03:25,980
+<i>We're going to need help
+to take the city.</i>
+
+35
+00:03:26,460 --> 00:03:29,340
+The Republic is advancing faster
+than I expected.
+
+36
+00:03:29,740 --> 00:03:32,299
+I calculate they will reach
+the main gates by morning.
+
+37
+00:03:32,379 --> 00:03:35,819
+- I recommend we prepare our retreat.
+- I will not retreat.
+
+38
+00:03:36,379 --> 00:03:39,418
+That Jedi does not have the troops
+to take this city.
+
+39
+00:03:39,738 --> 00:03:43,098
+Bring our units inside the walls
+and secure the bridge.
+
+40
+00:03:47,097 --> 00:03:48,777
+<i>What's your progress, Skywalker?</i>
+
+41
+00:03:49,417 --> 00:03:52,137
+<i>My fighters have secured control
+of the space around Ryloth.</i>
+
+42
+00:03:52,296 --> 00:03:54,216
+<i>We have the Separatist cruisers
+on the run.</i>
+
+43
+00:03:54,376 --> 00:03:56,216
+<i>Very good, General Skywalker.</i>
+
+44
+00:03:56,537 --> 00:03:58,856
+Master Kenobi has taken
+the Jixuan desert,
+
+45
+00:03:59,016 --> 00:04:01,016
+so the southern hemisphere is ours.
+
+46
+00:04:01,495 --> 00:04:03,735
+<i>Then it's almost over.</i>
+
+47
+00:04:03,975 --> 00:04:06,695
+Not yet. The key position
+is the capital of Lessu.
+
+48
+00:04:07,015 --> 00:04:07,855
+Our spies are certain
+
+49
+00:04:07,975 --> 00:04:10,694
+the Separatist leader Wat Tambor
+has his command center there.
+
+50
+00:04:11,094 --> 00:04:14,614
+<i>When taken the city we have,
+capture Tambor we must.</i>
+
+51
+00:04:14,854 --> 00:04:16,374
+It's not going to be easy, Master.
+
+52
+00:04:16,454 --> 00:04:18,854
+Tambor has chosen
+his stronghold well.
+
+53
+00:04:19,014 --> 00:04:21,653
+This plasma bridge
+is the only way in or out.
+
+54
+00:04:22,133 --> 00:04:25,333
+<i>I'm afraid a siege
+could drag on indefinitely.</i>
+
+55
+00:04:25,573 --> 00:04:27,572
+<i>My people have suffered so much
+already.</i>
+
+56
+00:04:27,972 --> 00:04:30,852
+<i>A plan you have, to take the bridge,
+Master Windu?</i>
+
+57
+00:04:31,252 --> 00:04:33,172
+With our forces stretched so thinly,
+
+58
+00:04:33,252 --> 00:04:37,092
+I'm gonna enlist the help of the freedom
+fighters led by Cham Syndulla.
+
+59
+00:04:37,331 --> 00:04:40,451
+His fight against the droids has made him
+a symbol of freedom for the people.
+
+60
+00:04:40,611 --> 00:04:41,891
+<i>Cham Syndulla...</i>
+
+61
+00:04:42,371 --> 00:04:44,451
+<i>...was a radical before the war.</i>
+
+62
+00:04:45,011 --> 00:04:46,691
+<i>He is very unpredictable.</i>
+
+63
+00:04:46,930 --> 00:04:48,371
+<i>He can't be trusted.</i>
+
+64
+00:04:48,931 --> 00:04:51,090
+<i>I know
+Syndulla seeks to gain power.</i>
+
+65
+00:04:51,650 --> 00:04:53,010
+<i>We were political rivals.</i>
+
+66
+00:04:53,170 --> 00:04:55,449
+I'll leave the politics to you,
+Senator.
+
+67
+00:04:55,610 --> 00:04:57,889
+I'm gonna do whatever I can
+to help these people.
+
+68
+00:04:58,009 --> 00:05:01,712
+<i>Perhaps we could send you
+Republic reinforcements instead.</i>
+
+69
+00:05:02,008 --> 00:05:05,168
+<i>There are no reinforcements available,
+Chancellor.</i>
+
+70
+00:05:05,649 --> 00:05:07,808
+We can't win without Syndulla's help.
+
+71
+00:05:16,127 --> 00:05:18,927
+What makes you think
+the rebels are this way, General?
+
+72
+00:05:21,007 --> 00:05:21,967
+What is it, sir?
+
+73
+00:05:22,846 --> 00:05:25,806
+The resistance fighters
+ride creatures native to this region.
+
+74
+00:05:25,965 --> 00:05:27,406
+And these tracks are fresh.
+
+75
+00:05:31,245 --> 00:05:33,197
+Which means they can't be that far.
+
+76
+00:05:35,645 --> 00:05:37,605
+Isn't this the spot
+where they were massacred?
+
+77
+00:05:37,885 --> 00:05:39,805
+Looks like
+it was a hell of a fight.
+
+78
+00:05:40,724 --> 00:05:43,004
+Wonder who put up these gravestones.
+
+79
+00:05:43,803 --> 00:05:44,923
+Is that them?
+
+80
+00:05:59,242 --> 00:06:01,722
+<i>Your tactical droid has informed me</i>
+
+81
+00:06:01,882 --> 00:06:05,722
+<i>of the pitiful job you have done
+protecting our investment on Ryloth.</i>
+
+82
+00:06:07,001 --> 00:06:08,601
+That droid exaggerates.
+
+83
+00:06:09,161 --> 00:06:10,761
+I have not lost yet.
+
+84
+00:06:11,161 --> 00:06:13,480
+<i>You're no match for Master Windu.</i>
+
+85
+00:06:14,040 --> 00:06:16,200
+<i>Do not become greedy,
+Emir Tambor.</i>
+
+86
+00:06:16,840 --> 00:06:20,039
+<i>Take what valuables you can
+and destroy everything else.</i>
+
+87
+00:06:20,439 --> 00:06:21,480
+Everything?
+
+88
+00:06:21,799 --> 00:06:24,759
+<i>We can put this defeat
+to political use.</i>
+
+89
+00:06:25,239 --> 00:06:28,759
+<i>The charred ruins of Ryloth
+will demonstrate to the galaxy</i>
+
+90
+00:06:29,078 --> 00:06:32,118
+<i>the cost of a Republic victory.</i>
+
+91
+00:06:32,598 --> 00:06:33,717
+As you wish.
+
+92
+00:06:42,759 --> 00:06:44,999
+Keep on the lookout
+for that lost patrol.
+
+93
+00:06:48,998 --> 00:06:50,359
+Did you hear that?
+
+94
+00:07:01,283 --> 00:07:02,706
+I don't see anything.
+
+95
+00:07:03,474 --> 00:07:05,583
+Look, it's RB-551.
+
+96
+00:07:06,064 --> 00:07:07,694
+No wonder he got blasted.
+
+97
+00:07:07,791 --> 00:07:11,051
+He's one of those older models
+programmed by a central computer.
+
+98
+00:07:11,244 --> 00:07:13,450
+Not us.
+We're independent thinkers.
+
+99
+00:07:13,546 --> 00:07:15,560
+- Roger, roger.
+- Roger, roger.
+
+100
+00:07:22,290 --> 00:07:23,889
+Why didn't we take them out, sir?
+
+101
+00:07:24,130 --> 00:07:27,489
+I have a feeling
+the rebels will do it for us.
+
+102
+00:07:29,490 --> 00:07:31,729
+- Look out! It's an ambush!
+- Help!
+
+103
+00:07:31,889 --> 00:07:33,329
+It's the resistance!
+
+104
+00:07:53,726 --> 00:07:56,606
+I was wondering when you'd find me,
+Master Jedi.
+
+105
+00:07:56,925 --> 00:07:58,206
+General Syndulla,
+
+106
+00:07:59,086 --> 00:08:02,685
+- I've come for your help.
+- What makes you think you'll get it?
+
+107
+00:08:08,084 --> 00:08:11,324
+Emir Tambor, our bombers
+are nearly ready for launch.
+
+108
+00:08:16,443 --> 00:08:19,283
+And now I will ready your ship
+for evacuation.
+
+109
+00:08:19,580 --> 00:08:22,354
+No!
+I am not yet ready to leave.
+
+110
+00:08:22,842 --> 00:08:26,322
+In any case, we have a schedule to keep.
+The ship will be ready.
+
+111
+00:08:44,120 --> 00:08:47,040
+- Some hideout you have here.
+- It has advantages.
+
+112
+00:08:51,600 --> 00:08:53,239
+We saw the graves
+
+113
+00:08:53,479 --> 00:08:56,439
+of many of your people
+in that battlefield as well.
+
+114
+00:08:56,559 --> 00:08:59,399
+Together, we can prevent that
+from happening again.
+
+115
+00:08:59,518 --> 00:09:02,078
+Do you know why we were massacred,
+Master Jedi?
+
+116
+00:09:02,199 --> 00:09:04,038
+When the droids swept over Ryloth,
+
+117
+00:09:04,158 --> 00:09:06,317
+the Republic was unable to help us.
+
+118
+00:09:06,438 --> 00:09:09,557
+We were forced to surrender,
+and we came here unarmed.
+
+119
+00:09:10,077 --> 00:09:12,917
+The Separatists brought tanks
+to exterminate us.
+
+120
+00:09:13,957 --> 00:09:15,157
+Come here, boy.
+
+121
+00:09:15,357 --> 00:09:16,557
+Come on. Don't be afraid.
+
+122
+00:09:17,117 --> 00:09:18,956
+See, there's nothing
+to be afraid of here.
+
+123
+00:09:23,355 --> 00:09:25,196
+He says his blurrg
+may be ill-tempered,
+
+124
+00:09:25,476 --> 00:09:27,515
+but she's much faster
+than your riding machines.
+
+125
+00:09:28,275 --> 00:09:29,914
+I don't know about that.
+
+126
+00:09:41,073 --> 00:09:42,673
+What is this, a scratch?
+
+127
+00:09:44,473 --> 00:09:46,873
+Gobi, get better.
+I need you.
+
+128
+00:09:49,593 --> 00:09:51,232
+We have little food or drink,
+
+129
+00:09:51,352 --> 00:09:54,672
+but it is our tradition to share
+what we do have with our guests.
+
+130
+00:10:07,059 --> 00:10:09,500
+Target every Twi'lek village
+in range,
+
+131
+00:10:09,819 --> 00:10:12,499
+- the inhabited ones first.
+- Of course.
+
+132
+00:10:25,378 --> 00:10:27,458
+Our scouts reported in
+from the village up ahead.
+
+133
+00:10:27,578 --> 00:10:29,017
+The enemy's already pulled out, sir.
+
+134
+00:10:29,098 --> 00:10:31,417
+Friendlies are all that's left,
+mostly women and children.
+
+135
+00:10:31,577 --> 00:10:34,216
+See if we can spare some rations.
+They'll be hungry.
+
+136
+00:10:34,617 --> 00:10:37,057
+Sir, enemy ships
+are entering our sector.
+
+137
+00:10:43,336 --> 00:10:45,696
+- Damage report!
+- There's no tactical damage, sir.
+
+138
+00:10:45,815 --> 00:10:48,055
+It didn't hit us.
+They bombed the village.
+
+139
+00:10:56,974 --> 00:10:58,686
+Make contact with General Windu.
+
+140
+00:11:06,813 --> 00:11:08,733
+I hope you don't mind this.
+
+141
+00:11:09,652 --> 00:11:13,492
+A little distraction goes far
+to ease the burden of the war on my men.
+
+142
+00:11:13,972 --> 00:11:17,052
+You have provided well for your men,
+all your people.
+
+143
+00:11:17,571 --> 00:11:19,931
+So why won't you help me
+free them from this occupation?
+
+144
+00:11:20,331 --> 00:11:24,251
+I don't trust Senator Taa. His plans
+for our world after the war...
+
+145
+00:11:24,811 --> 00:11:26,851
+The Republic will help you rebuild.
+
+146
+00:11:26,971 --> 00:11:30,330
+- We won't abandon you.
+- Your troops will stay for security?
+
+147
+00:11:31,210 --> 00:11:33,090
+For a while, to keep the peace.
+
+148
+00:11:33,329 --> 00:11:36,249
+Another armed occupation
+is not a free Ryloth.
+
+149
+00:11:36,969 --> 00:11:39,769
+How long before I am fighting you,
+Master Jedi?
+
+150
+00:11:43,768 --> 00:11:44,728
+What is it, Commander?
+
+151
+00:11:44,888 --> 00:11:46,808
+<i>The droids have begun
+a firebombing campaign.</i>
+
+152
+00:11:46,928 --> 00:11:49,248
+<i>Several villages in our sector
+have been destroyed, sir.</i>
+
+153
+00:11:59,927 --> 00:12:01,446
+Make the arrangements.
+
+154
+00:12:01,567 --> 00:12:03,207
+I will speak to Senator Taa.
+
+155
+00:12:08,725 --> 00:12:09,886
+Is this all of it?
+
+156
+00:12:10,269 --> 00:12:13,765
+We are still awaiting two transports
+from our southern base.
+
+157
+00:12:13,885 --> 00:12:16,205
+- Should we depart without them?
+- No.
+
+158
+00:12:16,325 --> 00:12:19,484
+I will have every valuable on this rock
+before I leave.
+
+159
+00:12:19,868 --> 00:12:22,508
+<i>Emir Tambor,
+why haven't you evacuated?</i>
+
+160
+00:12:23,028 --> 00:12:26,828
+Our exit strategy
+is taking more time to implement.
+
+161
+00:12:27,547 --> 00:12:30,987
+<i>I want you out of the city
+before the Republic arrives.</i>
+
+162
+00:12:31,387 --> 00:12:33,907
+<i>Once Master Windu
+has invaded the capital,</i>
+
+163
+00:12:34,227 --> 00:12:36,027
+<i>you will bomb it from afar.</i>
+
+164
+00:12:36,386 --> 00:12:38,786
+<i>- Am I understood?
+- Yes, Count Dooku.</i>
+
+165
+00:12:40,346 --> 00:12:43,185
+You will not do anything
+until I give the order.
+
+166
+00:12:43,865 --> 00:12:45,545
+We have our orders, Emir.
+
+167
+00:12:51,864 --> 00:12:52,905
+Senator Taa,
+
+168
+00:12:53,184 --> 00:12:56,264
+so glad you could join us
+from comfortable Coruscant.
+
+169
+00:12:56,544 --> 00:12:58,904
+Our people have survived
+with only me.
+
+170
+00:12:59,383 --> 00:13:02,943
+<i>I knew you would try to turn this
+into a campaign to take power.</i>
+
+171
+00:13:03,304 --> 00:13:05,423
+<i>Need I remind you
+that it is I...</i>
+
+172
+00:13:06,103 --> 00:13:07,903
+<i>who leads our people in the Senate?</i>
+
+173
+00:13:08,422 --> 00:13:11,263
+And it is I who leads our people
+here and now.
+
+174
+00:13:11,902 --> 00:13:15,062
+There will be nothing left to lead
+if you two refuse to work together.
+
+175
+00:13:15,182 --> 00:13:18,181
+<i>- General Windu, do you copy?
+- I hear you, Skywalker.</i>
+
+176
+00:13:18,701 --> 00:13:20,462
+My fighters are
+taking out the bombers
+
+177
+00:13:20,581 --> 00:13:22,901
+as fast as they can, Master Windu,
+but there are just too many.
+
+178
+00:13:23,141 --> 00:13:24,781
+<i>I doubt we can stop them all.</i>
+
+179
+00:13:24,900 --> 00:13:27,220
+<i>I suggest you get the people
+away from the cities.</i>
+
+180
+00:13:27,340 --> 00:13:29,580
+You must destroy those bombers,
+Skywalker.
+
+181
+00:13:29,700 --> 00:13:32,740
+<i>- Then meet me at the capital.
+- I'll do what I can.</i>
+
+182
+00:13:38,739 --> 00:13:41,058
+<i>What can the Separatists
+hope to gain</i>
+
+183
+00:13:41,338 --> 00:13:42,858
+<i>from burning our homes?</i>
+
+184
+00:13:43,138 --> 00:13:44,098
+Nothing.
+
+185
+00:13:44,299 --> 00:13:47,378
+Wat Tambor spoils for others
+what he cannot possess.
+
+186
+00:13:47,858 --> 00:13:49,378
+<i>Then we must act quickly.</i>
+
+187
+00:13:49,658 --> 00:13:52,057
+Senator,
+your people are hesitant to join us
+
+188
+00:13:52,177 --> 00:13:54,857
+because they're worried there'll be
+another military occupation.
+
+189
+00:13:55,417 --> 00:13:57,656
+<i>The people have my promise</i>
+
+190
+00:13:58,377 --> 00:14:00,296
+<i>that the clone army will leave</i>
+
+191
+00:14:00,657 --> 00:14:03,616
+<i>once Ryloth is free of those droids.</i>
+
+192
+00:14:04,768 --> 00:14:05,631
+General,
+
+193
+00:14:05,920 --> 00:14:09,855
+what assurance can you give Senator Taa
+you will not try to assume power?
+
+194
+00:14:10,376 --> 00:14:13,135
+I only want to see my people free,
+Master Jedi.
+
+195
+00:14:13,575 --> 00:14:14,775
+I give my word.
+
+196
+00:14:15,175 --> 00:14:16,734
+I believe in democracy.
+
+197
+00:14:18,814 --> 00:14:20,694
+Then we are together in this.
+
+198
+00:14:25,054 --> 00:14:26,213
+Men of Ryloth,
+
+199
+00:14:27,094 --> 00:14:28,373
+the time has come
+
+200
+00:14:29,093 --> 00:14:30,653
+to free ourselves!
+
+201
+00:14:38,805 --> 00:14:40,435
+They're deactivating the bridge.
+
+202
+00:14:40,820 --> 00:14:42,354
+Let's move!
+
+203
+00:14:43,122 --> 00:14:44,656
+Get off the bridge!
+
+204
+00:14:48,972 --> 00:14:51,370
+- Deactivate the bridge.
+- Roger, roger.
+
+205
+00:14:53,001 --> 00:14:53,768
+What the...?
+
+206
+00:14:56,742 --> 00:14:58,660
+What about the city inhabitants?
+
+207
+00:14:58,756 --> 00:15:01,729
+Drive them outside,
+but not too far.
+
+208
+00:15:01,826 --> 00:15:06,045
+The Jedi will reconsider an attack
+when he sees them in his line of fire.
+
+209
+00:15:23,340 --> 00:15:24,381
+Keep moving.
+
+210
+00:15:29,580 --> 00:15:31,180
+Try and keep up, clone.
+
+211
+00:15:42,059 --> 00:15:43,459
+Tambor is still there.
+
+212
+00:15:43,859 --> 00:15:46,818
+How are we going to attack
+with my people so close?
+
+213
+00:15:47,338 --> 00:15:48,697
+Your people will never be in danger
+
+214
+00:15:48,778 --> 00:15:51,337
+if our walkers can cross the bridge
+into the city.
+
+215
+00:15:51,457 --> 00:15:53,617
+The key is
+getting control of that bridge.
+
+216
+00:15:55,377 --> 00:15:57,097
+Perhaps there is your way.
+
+217
+00:16:00,896 --> 00:16:03,552
+My spies tell me
+those transports carry treasure.
+
+218
+00:16:04,032 --> 00:16:07,101
+It's not enough for the Separatists
+to enslave and murder us.
+
+219
+00:16:07,294 --> 00:16:08,732
+They must rob us, too.
+
+220
+00:16:08,938 --> 00:16:11,058
+You think we can use them
+to get across the bridge?
+
+221
+00:16:11,362 --> 00:16:14,442
+It is risky.
+They are usually scanned while crossing.
+
+222
+00:16:24,881 --> 00:16:27,760
+When I get control of the bridge,
+you must start the attack.
+
+223
+00:16:40,118 --> 00:16:41,479
+They're in. Let's go.
+
+224
+00:16:50,157 --> 00:16:52,517
+Commander,
+I'll need you to create a diversion.
+
+225
+00:16:52,917 --> 00:16:54,836
+<i>Get the rest
+of Lightning squadron ready.</i>
+
+226
+00:16:54,956 --> 00:16:55,916
+Yes, sir.
+
+227
+00:16:56,756 --> 00:16:58,036
+My men are ready.
+
+228
+00:17:02,635 --> 00:17:04,076
+It is time to leave.
+
+229
+00:17:04,196 --> 00:17:06,915
+The Republic walkers
+are holding at 1,200 meters.
+
+230
+00:17:08,035 --> 00:17:10,675
+Sir, the last shipments of treasure
+are approaching.
+
+231
+00:17:11,114 --> 00:17:12,195
+Just in time.
+
+232
+00:17:12,634 --> 00:17:15,434
+Activate the bridge
+and get them across immediately.
+
+233
+00:17:16,274 --> 00:17:18,154
+Initiating plasma projectors.
+
+234
+00:17:48,310 --> 00:17:49,990
+All right, hold it there.
+
+235
+00:17:50,110 --> 00:17:52,269
+Let's go.
+The boss wants this done.
+
+236
+00:18:03,349 --> 00:18:04,589
+This one's all clear.
+
+237
+00:18:04,989 --> 00:18:05,988
+Here they come.
+
+238
+00:18:08,412 --> 00:18:10,892
+Wait!
+I'm picking up an anomaly in there.
+
+239
+00:18:11,531 --> 00:18:12,532
+Stay alert.
+
+240
+00:18:19,234 --> 00:18:20,530
+Trooper, prepare to fire.
+
+241
+00:18:21,545 --> 00:18:23,065
+Open the cargo hatch.
+
+242
+00:18:26,544 --> 00:18:29,385
+- Oh, no!
+- You're under arrest. You have the ri...
+
+243
+00:18:30,216 --> 00:18:31,424
+We're under attack!
+
+244
+00:18:36,696 --> 00:18:37,975
+Deactivate the bridge!
+
+245
+00:18:38,655 --> 00:18:40,414
+Oh, well.
+Too bad for them.
+
+246
+00:18:41,223 --> 00:18:43,342
+Run for it!
+They're turning the bridge off!
+
+247
+00:19:11,259 --> 00:19:13,819
+I'll hold them off.
+Get that bridge back up.
+
+248
+00:19:13,923 --> 00:19:15,018
+Sir, yes, sir!
+
+249
+00:19:15,898 --> 00:19:16,858
+Charge!
+
+250
+00:19:44,662 --> 00:19:46,580
+Hey!
+You're not authorized.
+
+251
+00:19:46,773 --> 00:19:47,749
+Save it.
+
+252
+00:19:51,149 --> 00:19:52,468
+Bridge is up, sir.
+
+253
+00:20:16,666 --> 00:20:19,385
+You take these droids.
+I'll go find Wat Tambor.
+
+254
+00:20:45,992 --> 00:20:47,527
+Start my ship.
+
+255
+00:20:48,199 --> 00:20:50,309
+Wat Tambor is a fool.
+
+256
+00:20:58,459 --> 00:20:59,300
+My ship!
+
+257
+00:21:04,283 --> 00:21:07,930
+I'm afraid Emir Tambor refused
+to retreat in time.
+
+258
+00:21:08,186 --> 00:21:10,402
+<i>That is... unfortunate.</i>
+
+259
+00:21:11,202 --> 00:21:14,002
+<i>Order our bombers
+to destroy the capital immediately.</i>
+
+260
+00:21:25,160 --> 00:21:26,120
+Surrender.
+
+261
+00:21:26,840 --> 00:21:30,000
+General Windu,
+perhaps we can come to a compromise.
+
+262
+00:21:30,560 --> 00:21:32,479
+Not when I hold all the cards.
+
+263
+00:21:32,879 --> 00:21:35,639
+It appears
+a surrender is unnecessary.
+
+264
+00:21:35,959 --> 00:21:39,239
+We will all perish for the glory
+of the Separatist alliance.
+
+265
+00:21:48,181 --> 00:21:51,140
+- That was close, Master.
+- Isn't it always, Snips?
+
+266
+00:21:54,580 --> 00:21:56,500
+What are your terms for surrender?
+
+267
+00:21:57,220 --> 00:21:58,699
+They're unconditional.
+
+268
+00:22:00,420 --> 00:22:01,379
+Agreed.
+
+269
+00:22:02,419 --> 00:22:04,099
+I thank you, Master Jedi.
+
+270
+00:22:04,459 --> 00:22:06,738
+Today,
+all of Ryloth thanks you.
+
+271
+00:22:07,858 --> 00:22:10,658
+You've earned your freedom, General,
+all of you.
+

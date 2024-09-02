@@ -1,0 +1,1188 @@
+1
+00:00:16,993 --> 00:00:18,672
+<i>Republic outpost overrun!</i>
+
+2
+00:00:19,233 --> 00:00:22,313
+<i>The Jedi have lost all contact
+with the clone security force</i>
+
+3
+00:00:22,433 --> 00:00:25,634
+<i>stationed on the bleak
+snow-covered planet of Orto-Plutonia.</i>
+
+4
+00:00:25,754 --> 00:00:27,834
+<i>Obi-Wan Kenobi and Anakin Skywalker,</i>
+
+5
+00:00:27,954 --> 00:00:30,714
+<i>accompanied by dignitaries
+from the nearby moon of Pantora,</i>
+
+6
+00:00:30,954 --> 00:00:33,714
+<i>are sent to investigate
+the disappearance of the clone troopers</i>
+
+7
+00:00:34,074 --> 00:00:36,554
+<i>on the desolate
+and forbidding landscape.</i>
+
+8
+00:00:42,275 --> 00:00:44,395
+And this is the planet's
+tropical zone.
+
+9
+00:00:44,515 --> 00:00:46,876
+It's not Tatooine, that's for sure.
+
+10
+00:00:47,276 --> 00:00:49,756
+Captain Rex,
+have your men survey the area.
+
+11
+00:00:49,876 --> 00:00:52,836
+Place as many sensor beacons
+as you can before dark.
+
+12
+00:00:53,156 --> 00:00:55,316
+Right away, sir.
+Unload that gear!
+
+13
+00:00:55,436 --> 00:00:56,436
+Let's move!
+
+14
+00:00:57,796 --> 00:01:00,717
+Why would the Republic
+want an outpost way out here?
+
+15
+00:01:01,196 --> 00:01:02,237
+The chairman...
+
+16
+00:01:02,837 --> 00:01:05,637
+of Orto-Plutonia requested it?
+Why?
+
+17
+00:01:07,157 --> 00:01:08,317
+General Kenobi.
+
+18
+00:01:08,798 --> 00:01:10,677
+Chairman Cho, Senator Chuchi.
+
+19
+00:01:11,077 --> 00:01:13,758
+I suggest you wait here
+until we can secure the area.
+
+20
+00:01:14,438 --> 00:01:16,318
+I respect your judgment,
+General Kenobi,
+
+21
+00:01:16,438 --> 00:01:20,039
+but I will go where I choose.
+This is sovereign Pantora territory.
+
+22
+00:01:20,398 --> 00:01:23,759
+I thought this planet was uninhabited,
+and therefore, it's not aligned.
+
+23
+00:01:23,919 --> 00:01:27,439
+Our moon of Pantora
+is the only civilization in this system.
+
+24
+00:01:27,839 --> 00:01:30,439
+I'm the one who asked the Senate
+to protect this planet.
+
+25
+00:01:31,040 --> 00:01:33,040
+This wasteland belongs to us.
+
+26
+00:01:34,080 --> 00:01:35,881
+With all due respect, Chairman,
+
+27
+00:01:36,000 --> 00:01:38,321
+this is for the Senate to decide,
+not us.
+
+28
+00:01:38,840 --> 00:01:40,961
+But the Jedi report to the Senate,
+
+29
+00:01:41,161 --> 00:01:43,321
+which is Senator Chuchi of Pantora.
+
+30
+00:01:43,721 --> 00:01:46,842
+Technically speaking, Master Jedi,
+the chairman is correct.
+
+31
+00:01:47,001 --> 00:01:49,962
+Since the planet is uninhabited,
+the moon of Pantora reserves the right
+
+32
+00:01:50,122 --> 00:01:52,081
+to continue as its protectorate.
+
+33
+00:01:52,402 --> 00:01:53,922
+Point taken, Senator.
+
+34
+00:01:54,202 --> 00:01:56,442
+Anakin, stay here with the senator
+and the droids
+
+35
+00:01:56,562 --> 00:01:58,162
+while we secure the base.
+
+36
+00:02:11,043 --> 00:02:12,164
+I don't get it.
+
+37
+00:02:12,644 --> 00:02:14,244
+It must be Separatists.
+
+38
+00:02:14,364 --> 00:02:15,524
+I am not sure.
+
+39
+00:02:17,124 --> 00:02:19,244
+Might we go inside, Master Anakin?
+
+40
+00:02:19,524 --> 00:02:21,364
+R2 would like to
+get out of the cold.
+
+41
+00:02:23,205 --> 00:02:26,005
+We'll go inside as soon as
+Obi-Wan signals that it's safe.
+
+42
+00:02:30,886 --> 00:02:34,566
+Do you think the Separatists are building
+a forward base to attack Pantora?
+
+43
+00:02:34,966 --> 00:02:37,166
+I don't think we're dealing
+with Separatists.
+
+44
+00:02:37,286 --> 00:02:39,127
+These computers
+haven't been touched.
+
+45
+00:02:39,247 --> 00:02:41,526
+Sir, our scouts have spotted
+a droid base
+
+46
+00:02:41,646 --> 00:02:43,806
+on the other side of the ice ridge.
+
+47
+00:03:02,289 --> 00:03:05,488
+By the look of things,
+I'd say whoever attacked our base
+
+48
+00:03:05,768 --> 00:03:07,209
+took out the droids also.
+
+49
+00:03:07,769 --> 00:03:10,249
+Rex, help Anakin
+place the sensor beacons.
+
+50
+00:03:10,369 --> 00:03:12,889
+- You four, come with me.
+- Yes, General.
+
+51
+00:03:13,449 --> 00:03:14,370
+Let's go.
+
+52
+00:03:34,611 --> 00:03:35,892
+Did you find anything?
+
+53
+00:03:39,412 --> 00:03:41,332
+I found some large footprints.
+
+54
+00:03:42,012 --> 00:03:44,492
+Have one of your men make a cast.
+
+55
+00:03:54,773 --> 00:03:57,934
+- Sensors are in place.
+- I think I've found something.
+
+56
+00:03:58,453 --> 00:03:59,374
+Blast it.
+
+57
+00:04:02,774 --> 00:04:05,454
+<i>685 to command.
+There are too many of them!</i>
+
+58
+00:04:06,014 --> 00:04:09,095
+<i>They've overrun the base.
+We need reinforcements!</i>
+
+59
+00:04:10,175 --> 00:04:13,415
+- What was that?
+- Whatever it was, it's a good warrior.
+
+60
+00:04:13,575 --> 00:04:16,616
+The droid's log indicates they were
+investigating the southern canyon.
+
+61
+00:04:17,056 --> 00:04:19,176
+Sounds like a good place to start.
+
+62
+00:04:22,696 --> 00:04:25,417
+I want the weapon system back online
+and the shields operational.
+
+63
+00:04:25,536 --> 00:04:27,617
+There's no telling
+what the Separatists have planned.
+
+64
+00:04:27,737 --> 00:04:29,696
+Chairman, what makes you so certain
+
+65
+00:04:29,817 --> 00:04:31,737
+the Separatists
+are behind this attack?
+
+66
+00:04:32,257 --> 00:04:33,657
+Look around, Senator.
+
+67
+00:04:33,817 --> 00:04:35,817
+Isn't this carnage proof enough?
+
+68
+00:04:36,137 --> 00:04:38,377
+I know,
+but there are no dead droids here,
+
+69
+00:04:38,497 --> 00:04:41,178
+no blast marks. The clones' injuries
+were not consistent with what...
+
+70
+00:04:41,274 --> 00:04:44,258
+So you're an expert on war now,
+are you, Senator?
+
+71
+00:04:44,658 --> 00:04:45,739
+No, Chairman.
+
+72
+00:04:46,419 --> 00:04:48,979
+- No, I only...
+- Let me tell you something, Senator.
+
+73
+00:04:49,098 --> 00:04:51,819
+I have led our people
+since before you were born.
+
+74
+00:04:51,938 --> 00:04:55,179
+I've seen 100 planets rise and fall
+through force of arms.
+
+75
+00:04:55,379 --> 00:04:56,619
+If it's not the Separatists
+out there,
+
+76
+00:04:56,700 --> 00:04:58,819
+then it's a malevolent
+and aggressive enemy nonetheless.
+
+77
+00:04:58,939 --> 00:05:01,460
+And I will not let whoever it is
+jeopardize the security
+
+78
+00:05:01,580 --> 00:05:03,260
+of the people of Pantora.
+
+79
+00:05:03,380 --> 00:05:06,540
+But if the Jedi discover
+that the Separatists aren't behind this,
+
+80
+00:05:06,700 --> 00:05:09,181
+then perhaps
+there is a peaceful resolution.
+
+81
+00:05:09,940 --> 00:05:13,581
+Senator, I am willing to fight and die
+for my people.
+
+82
+00:05:14,101 --> 00:05:17,741
+It's time to ask yourself
+if you are brave enough to do the same.
+
+83
+00:05:24,142 --> 00:05:26,102
+There's some kind of reflection
+up there.
+
+84
+00:05:26,262 --> 00:05:27,422
+Do you see it?
+
+85
+00:05:27,542 --> 00:05:28,383
+Yep.
+
+86
+00:05:33,102 --> 00:05:35,503
+Well, they know we're coming.
+Let's go.
+
+87
+00:06:08,186 --> 00:06:10,666
+Steady, Anakin.
+They're only curious.
+
+88
+00:06:13,266 --> 00:06:16,987
+Let's not provoke them as the droids
+and our troops must have done.
+
+89
+00:06:32,748 --> 00:06:34,708
+Too bad we didn't bring 3PO along.
+
+90
+00:06:34,828 --> 00:06:36,989
+How do you plan on communicating
+with these things?
+
+91
+00:06:37,109 --> 00:06:40,069
+Patience.
+Maybe they're smarter than we are.
+
+92
+00:06:48,190 --> 00:06:49,749
+Well, say something.
+
+93
+00:06:50,390 --> 00:06:51,470
+Just shut up.
+
+94
+00:07:11,992 --> 00:07:13,832
+We come to you in peace.
+
+95
+00:07:14,792 --> 00:07:16,552
+We will not bring harm.
+
+96
+00:07:20,072 --> 00:07:20,833
+Peace.
+
+97
+00:07:53,276 --> 00:07:56,196
+Glad you made it back, sir.
+It's getting nasty out there.
+
+98
+00:07:56,636 --> 00:07:58,557
+You don't know the half of it.
+
+99
+00:08:01,916 --> 00:08:02,957
+What did you find?
+
+100
+00:08:03,117 --> 00:08:05,637
+It seems we've stumbled
+onto an inhabited planet.
+
+101
+00:08:05,998 --> 00:08:06,997
+Impossible.
+
+102
+00:08:07,238 --> 00:08:10,638
+Our explorers have spent much time here
+over the long history of Pantora.
+
+103
+00:08:10,758 --> 00:08:13,238
+No one lives here.
+They're trespassers.
+
+104
+00:08:13,638 --> 00:08:16,598
+With respect, Chairman Cho,
+these creatures, the Talz,
+
+105
+00:08:16,718 --> 00:08:19,118
+aren't advanced enough
+to master space travel.
+
+106
+00:08:19,238 --> 00:08:21,719
+I think they may have been here
+longer than Pantora.
+
+107
+00:08:22,039 --> 00:08:24,279
+Whoever they are, they belong to us.
+
+108
+00:08:24,679 --> 00:08:26,559
+This whole system belongs to us.
+
+109
+00:08:26,959 --> 00:08:29,639
+Your Majesty,
+if there are life forms here,
+
+110
+00:08:29,919 --> 00:08:32,200
+then the Senate
+must decide jurisdiction.
+
+111
+00:08:32,359 --> 00:08:33,640
+They are savages.
+
+112
+00:08:33,760 --> 00:08:36,320
+Look at what they've done.
+They've slaughtered your troops.
+
+113
+00:08:36,640 --> 00:08:38,641
+They only want to be left alone.
+
+114
+00:08:39,080 --> 00:08:42,361
+The droids attacked them, and I'm afraid
+our outpost got caught in the middle.
+
+115
+00:08:42,721 --> 00:08:45,281
+They must be subdued.
+They're dangerous.
+
+116
+00:08:45,601 --> 00:08:47,761
+Captain Rex,
+prepare your troops for battle.
+
+117
+00:08:48,281 --> 00:08:50,761
+We promised their chief
+there would be no retaliation.
+
+118
+00:08:51,081 --> 00:08:53,761
+We've arranged a meeting
+between their High Council and you
+
+119
+00:08:53,882 --> 00:08:56,002
+and the senator.
+They want peace.
+
+120
+00:08:56,122 --> 00:08:58,362
+We can't send troopers.
+They'll think we lied.
+
+121
+00:08:58,522 --> 00:09:00,642
+These creatures
+are little more than animals.
+
+122
+00:09:00,762 --> 00:09:03,603
+You can't lie to an animal.
+They can't be trusted.
+
+123
+00:09:03,922 --> 00:09:05,723
+- But, Your Majesty...
+- No!
+
+124
+00:09:05,843 --> 00:09:07,963
+It is obvious
+these creatures are not covered
+
+125
+00:09:08,083 --> 00:09:10,003
+by the convention
+of civilized systems.
+
+126
+00:09:10,123 --> 00:09:12,003
+The Jedi Council
+has no say in the matter.
+
+127
+00:09:12,683 --> 00:09:15,404
+If the Jedi are able
+to communicate with them,
+
+128
+00:09:15,924 --> 00:09:17,524
+their status is in doubt.
+
+129
+00:09:17,844 --> 00:09:20,205
+Do you stand against your chairman,
+Senator?
+
+130
+00:09:20,365 --> 00:09:21,725
+Of course not, Your Majesty.
+
+131
+00:09:21,884 --> 00:09:25,005
+If we're going to meet with Thi-Sen
+and his council at the arranged time,
+
+132
+00:09:25,125 --> 00:09:26,284
+we'll have to leave now.
+
+133
+00:09:35,526 --> 00:09:37,406
+Sir, the gunships can't
+take off in this storm.
+
+134
+00:09:37,525 --> 00:09:39,606
+We don't have enough bikes
+for the entire platoon.
+
+135
+00:09:39,726 --> 00:09:41,607
+Have the rest of the men
+stand by here.
+
+136
+00:09:41,726 --> 00:09:45,086
+No matter what the chairman thinks,
+we're not going to war.
+
+137
+00:10:04,089 --> 00:10:06,529
+Captain, put your men
+on that ice ridge.
+
+138
+00:10:06,649 --> 00:10:09,329
+We will attack
+as soon as the savages arrive.
+
+139
+00:10:09,849 --> 00:10:13,329
+- There will be no attack, Chairman.
+- You will do as I command.
+
+140
+00:10:13,450 --> 00:10:15,730
+This planet
+is under my jurisdiction.
+
+141
+00:10:15,849 --> 00:10:18,250
+Nothing is under your control,
+Chairman.
+
+142
+00:10:18,370 --> 00:10:20,090
+The Talz are already here.
+
+143
+00:10:20,210 --> 00:10:23,171
+Their scouts have been following us
+for some time.
+
+144
+00:10:23,690 --> 00:10:27,371
+It seems Thi-Sen doesn't trust you
+any more than you trust him.
+
+145
+00:10:35,011 --> 00:10:37,292
+Rex, tell your men to stand down.
+
+146
+00:10:37,532 --> 00:10:40,052
+Stay here and don't do anything
+to provoke them.
+
+147
+00:10:40,491 --> 00:10:41,372
+Yes, sir.
+
+148
+00:10:49,292 --> 00:10:51,452
+- Your Highness.
+- We have returned...
+
+149
+00:10:53,133 --> 00:10:54,173
+...as promised.
+
+150
+00:11:02,774 --> 00:11:04,854
+These savages have no rights here.
+
+151
+00:11:06,095 --> 00:11:08,455
+Chieftain Thi-Sen
+welcomes you to his home
+
+152
+00:11:08,575 --> 00:11:11,815
+and hopes you come in peace.
+He wishes to be good neighbors,
+
+153
+00:11:11,935 --> 00:11:14,335
+but he does not wish you
+to remain on his planet.
+
+154
+00:11:14,655 --> 00:11:17,616
+Listen, droid,
+translate everything I say,
+
+155
+00:11:17,975 --> 00:11:19,855
+and exactly as I say it.
+
+156
+00:11:20,336 --> 00:11:22,696
+Would you like me to
+represent Pantora in this matter?
+
+157
+00:11:22,976 --> 00:11:26,697
+Not on your life, Senator.
+There will be no diplomacy this time.
+
+158
+00:11:27,256 --> 00:11:28,617
+Listen here, you savage.
+
+159
+00:11:28,897 --> 00:11:31,457
+This world belongs
+to the moon of Pantora.
+
+160
+00:11:31,577 --> 00:11:34,857
+And as the Supreme Chairman
+and exalted ruler of Pantora,
+
+161
+00:11:35,017 --> 00:11:38,657
+you will not command me to leave
+this planet or do anything else.
+
+162
+00:11:39,298 --> 00:11:41,458
+Your Majesty, we can't.
+
+163
+00:11:42,377 --> 00:11:44,018
+Droid, tell him.
+
+164
+00:11:44,537 --> 00:11:45,578
+Oh dear.
+
+165
+00:11:46,658 --> 00:11:49,538
+I recommend
+a less confrontational discussion.
+
+166
+00:11:49,658 --> 00:11:51,538
+The Talz are easily provoked.
+
+167
+00:11:56,779 --> 00:11:58,380
+That didn't go over very well.
+
+168
+00:11:58,500 --> 00:12:02,099
+Chairman, I promised the Talz
+that we would leave them in peace.
+
+169
+00:12:02,860 --> 00:12:04,940
+This is now an internal affair
+of Pantora.
+
+170
+00:12:07,820 --> 00:12:10,260
+The great Thi-Sen, son of suns,
+
+171
+00:12:10,380 --> 00:12:13,341
+asks again that you leave
+or it will mean war.
+
+172
+00:12:13,741 --> 00:12:15,181
+Then war it is.
+
+173
+00:12:36,183 --> 00:12:38,263
+Troopers, mount up and follow me.
+
+174
+00:12:40,904 --> 00:12:41,864
+What's up, General?
+
+175
+00:12:41,903 --> 00:12:43,344
+You're going to have to
+stay with the chairman
+
+176
+00:12:43,464 --> 00:12:44,824
+until we can work things out.
+
+177
+00:12:44,944 --> 00:12:46,624
+Protect him at all costs.
+
+178
+00:12:46,944 --> 00:12:48,744
+Mount up! We're moving out!
+
+179
+00:12:50,144 --> 00:12:52,744
+Senator, you know
+a pre-emptive strike is illegal.
+
+180
+00:12:52,904 --> 00:12:55,025
+Isn't there anything you can do
+to stop him?
+
+181
+00:12:55,145 --> 00:12:56,345
+I'm afraid not.
+
+182
+00:12:56,465 --> 00:12:58,985
+He has proclaimed this conflict
+an internal affair.
+
+183
+00:12:59,145 --> 00:13:01,985
+You could petition the Jedi Council
+for an intervention.
+
+184
+00:13:02,345 --> 00:13:04,385
+You mean, without his authorization?
+
+185
+00:13:04,545 --> 00:13:06,705
+There must be someone on your moon
+who could approve it.
+
+186
+00:13:07,186 --> 00:13:09,946
+The speaker of the assembly.
+He has the power.
+
+187
+00:13:10,066 --> 00:13:12,426
+Let's get back to the base.
+The storm is letting up.
+
+188
+00:13:12,546 --> 00:13:14,467
+Maybe we can get
+a transmission through.
+
+189
+00:13:21,987 --> 00:13:24,027
+Here they are.
+Fire when you're in range.
+
+190
+00:13:26,187 --> 00:13:29,428
+Sir, with all due respect,
+we're only here to protect you.
+
+191
+00:13:37,468 --> 00:13:39,549
+- Ambush!
+- It's a trap. Kill them!
+
+192
+00:13:54,390 --> 00:13:56,230
+We're surrounded.
+Defensive formation!
+
+193
+00:14:01,231 --> 00:14:02,351
+Chairman, get down!
+
+194
+00:14:16,472 --> 00:14:17,993
+We've got to hold out!
+
+195
+00:14:23,233 --> 00:14:25,913
+Fall back!
+First squad, cover the retreat!
+
+196
+00:14:26,033 --> 00:14:26,914
+Retreat?
+
+197
+00:14:27,033 --> 00:14:29,234
+We can't retreat from these animals.
+
+198
+00:14:33,914 --> 00:14:34,754
+Savages.
+
+199
+00:15:05,077 --> 00:15:06,517
+<i>The assembly has decided</i>
+
+200
+00:15:06,637 --> 00:15:08,797
+<i>that the actions of Chairman Cho
+are out of order.</i>
+
+201
+00:15:09,237 --> 00:15:11,277
+<i>Senator Chuchi,
+you're given the authority</i>
+
+202
+00:15:11,397 --> 00:15:13,118
+<i>to negotiate a peaceful settlement</i>
+
+203
+00:15:13,238 --> 00:15:15,638
+<i>between the sovereign planet
+of Pantora and the Talz.</i>
+
+204
+00:15:16,198 --> 00:15:18,998
+- It is decided then.
+- Pilot, let's get moving.
+
+205
+00:15:37,000 --> 00:15:38,200
+Here they come!
+
+206
+00:15:46,761 --> 00:15:48,801
+Senator, now that you have
+the authority,
+
+207
+00:15:48,921 --> 00:15:51,081
+how do you plan on making peace
+with the Talz?
+
+208
+00:15:51,962 --> 00:15:55,202
+Actually, Master Jedi,
+since you're far more experienced,
+
+209
+00:15:55,321 --> 00:15:57,682
+I was hoping you could negotiate
+on Pantora's behalf.
+
+210
+00:16:00,162 --> 00:16:02,042
+I'm afraid that's not possible,
+Senator.
+
+211
+00:16:02,923 --> 00:16:05,523
+But I don't understand.
+The Jedi serve the Senate.
+
+212
+00:16:05,643 --> 00:16:07,443
+- I must order you to...
+- Senator,
+
+213
+00:16:07,563 --> 00:16:09,883
+it is your people
+the Talz are at war with.
+
+214
+00:16:10,003 --> 00:16:13,364
+If the violence is to stop, it is you
+who must represent your people.
+
+215
+00:17:26,771 --> 00:17:29,171
+- Good to see you, sir.
+- You okay, Rex?
+
+216
+00:17:29,290 --> 00:17:31,571
+- It's just a scratch.
+- What's going on?
+
+217
+00:17:31,730 --> 00:17:33,171
+We're in quite a mess, sir.
+
+218
+00:17:33,291 --> 00:17:35,812
+11 dead, the rest wounded,
+including the chairman.
+
+219
+00:17:40,892 --> 00:17:42,612
+Chairman, can you hear me?
+
+220
+00:17:43,372 --> 00:17:44,772
+Senator, good.
+
+221
+00:17:46,332 --> 00:17:48,013
+You must avenge me.
+
+222
+00:17:48,612 --> 00:17:51,253
+As my final command
+as chairman of Pantora,
+
+223
+00:17:52,213 --> 00:17:54,613
+I order you to destroy the Talz!
+
+224
+00:17:55,213 --> 00:17:57,494
+I'm afraid
+I cannot do that, Chairman.
+
+225
+00:17:57,614 --> 00:18:00,334
+The Pantoran assembly
+has called you out of order.
+
+226
+00:18:00,454 --> 00:18:01,933
+I am to negotiate peace.
+
+227
+00:18:02,654 --> 00:18:03,414
+No.
+
+228
+00:18:04,054 --> 00:18:05,054
+Impossible!
+
+229
+00:18:05,494 --> 00:18:06,214
+Peace?
+
+230
+00:18:07,454 --> 00:18:08,215
+Never!
+
+231
+00:18:09,295 --> 00:18:11,374
+I died for our people.
+
+232
+00:18:17,775 --> 00:18:18,655
+Senator,
+
+233
+00:18:19,416 --> 00:18:20,656
+now is the time.
+
+234
+00:18:30,937 --> 00:18:33,056
+Protocol droid, come with me.
+
+235
+00:18:33,417 --> 00:18:35,097
+3PO, get going.
+
+236
+00:18:35,377 --> 00:18:36,657
+Yes, Master Ani.
+
+237
+00:18:59,699 --> 00:19:00,460
+Droid,
+
+238
+00:19:00,740 --> 00:19:02,979
+- translate for me.
+- Yes, Mistress.
+
+239
+00:19:07,860 --> 00:19:09,460
+To die for one's people
+
+240
+00:19:09,700 --> 00:19:11,181
+is a great sacrifice.
+
+241
+00:19:11,620 --> 00:19:13,300
+To live for one's people,
+
+242
+00:19:13,940 --> 00:19:15,541
+an even greater sacrifice.
+
+243
+00:19:22,021 --> 00:19:23,981
+I choose to live for my people.
+
+244
+00:19:24,501 --> 00:19:25,582
+What do you choose?
+
+245
+00:19:43,504 --> 00:19:45,264
+He chooses to live as well.
+
+246
+00:19:45,584 --> 00:19:47,143
+We will leave Orto-Plutonia
+
+247
+00:19:47,263 --> 00:19:50,424
+under the watchful eyes of the Talz
+from this day forth
+
+248
+00:19:50,545 --> 00:19:52,264
+and recognize your sovereignty
+
+249
+00:19:52,424 --> 00:19:54,184
+as a free and equal people.
+
+250
+00:20:22,027 --> 00:20:25,707
+- Well done, Senator.
+- Yes, most impressive.
+
+251
+00:20:25,947 --> 00:20:27,507
+Thank you, Master Jedi.
+
+252
+00:20:28,188 --> 00:20:30,908
+Now that you have created peace
+between your people and the Talz,
+
+253
+00:20:32,188 --> 00:20:33,948
+remember one crucial thing.
+
+254
+00:20:34,068 --> 00:20:35,468
+Yes, Master Kenobi?
+
+255
+00:20:35,789 --> 00:20:37,309
+Make it last, Senator.
+
+256
+00:20:38,068 --> 00:20:39,189
+Make it last.
+
+257
+00:20:39,629 --> 00:20:42,669
+And be an example to others,
+so not only this war,
+
+258
+00:20:42,789 --> 00:20:45,830
+but every war waged
+may come to an end as well.
+
+259
+00:20:46,470 --> 00:20:47,269
+I will.
+
+260
+00:20:47,702 --> 00:20:48,790
+I promise you.
+

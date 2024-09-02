@@ -1,0 +1,7933 @@
+1
+00:02:36,890 --> 00:02:38,881
+[Alarm]
+
+2
+00:02:40,326 --> 00:02:42,157
+[Alarm]
+
+3
+00:02:47,534 --> 00:02:49,502
+Did you hear that?
+
+4
+00:02:49,569 --> 00:02:51,264
+They shut down the main reactor.
+
+5
+00:02:51,337 --> 00:02:52,998
+We'll be destroyed for sure.
+
+6
+00:02:53,072 --> 00:02:54,061
+This is madness.
+
+7
+00:02:54,140 --> 00:02:56,074
+<i>[Beep Whistle Blip]</i>
+
+8
+00:02:56,142 --> 00:02:57,803
+<i>[Whistle Beep Beep]</i>
+
+9
+00:03:04,117 --> 00:03:05,379
+We're doomed.
+
+10
+00:03:05,451 --> 00:03:07,885
+<i>[Beep Beep]</i>
+
+11
+00:03:07,954 --> 00:03:12,653
+There'll be no escape
+for the princess this time.
+
+12
+00:03:12,725 --> 00:03:13,657
+[Clanking]
+
+13
+00:03:13,726 --> 00:03:14,886
+What's that?
+
+14
+00:04:53,226 --> 00:04:54,021
+<i>[Beep Blip Beep]</i>
+
+15
+00:04:54,056 --> 00:04:54,816
+<i>[Beep Blip Beep]</i>
+
+16
+00:04:57,297 --> 00:04:59,731
+R2-D2, where are you?
+
+17
+00:05:03,836 --> 00:05:05,895
+<i>[Beep Blip Blip]</i>
+
+18
+00:05:15,815 --> 00:05:16,941
+At last!
+
+19
+00:05:17,016 --> 00:05:18,847
+Where have you been?
+
+20
+00:05:18,918 --> 00:05:20,112
+They're heading in this direction.
+
+21
+00:05:20,186 --> 00:05:22,051
+What are we going to do?
+
+22
+00:05:22,121 --> 00:05:23,918
+We'll be sent to
+the spice mines of Kessel...
+
+23
+00:05:23,990 --> 00:05:25,651
+smashed into who knows what!
+
+24
+00:05:26,759 --> 00:05:29,523
+Wait a minute.
+Where are you going?
+
+25
+00:05:41,374 --> 00:05:44,400
+The Death Star plans
+are <i>not</i> in the main computer.
+
+26
+00:05:44,477 --> 00:05:47,139
+Where are those transmissions
+you intercepted?
+
+27
+00:05:47,213 --> 00:05:50,080
+What have you done with those plans?
+
+28
+00:05:50,149 --> 00:05:53,050
+We intercepted no transmissions.
+
+29
+00:05:53,119 --> 00:05:54,916
+This is a consular ship.
+
+30
+00:05:54,987 --> 00:05:57,114
+We're on a diplomatic mission.
+
+31
+00:05:57,190 --> 00:05:59,454
+If this is a consular ship...
+
+32
+00:05:59,525 --> 00:06:01,789
+where is the ambassador?
+
+33
+00:06:05,231 --> 00:06:08,667
+Commander, tear this ship apart
+until you've found those plans...
+
+34
+00:06:08,735 --> 00:06:11,795
+and bring me the passengers!
+I want them alive!
+
+35
+00:06:24,317 --> 00:06:25,807
+There's one. Set for stun.
+
+36
+00:06:31,357 --> 00:06:33,257
+She'll be all right.
+
+37
+00:06:33,326 --> 00:06:35,260
+Inform Lord Vader we have a prisoner.
+
+38
+00:06:35,328 --> 00:06:38,491
+Hey! You're not permitted in there.
+It's restricted.
+
+39
+00:06:38,564 --> 00:06:41,362
+You'll be deactivated for sure.
+
+40
+00:06:41,434 --> 00:06:43,265
+<i>[Beep Blip]</i>
+
+41
+00:06:43,336 --> 00:06:44,701
+Don't you call me
+a mindless philosopher...
+
+42
+00:06:44,771 --> 00:06:45,965
+you overweight glob of grease!
+
+43
+00:06:46,038 --> 00:06:47,699
+Now come out before
+somebody sees you.
+
+44
+00:06:47,774 --> 00:06:50,004
+<i>[Whistle Blip Blip]</i>
+
+45
+00:06:50,076 --> 00:06:51,976
+Secret mission?
+What plans?
+
+46
+00:06:52,044 --> 00:06:53,375
+What are you talking about?
+
+47
+00:06:53,446 --> 00:06:54,970
+I'm not getting in there.
+
+48
+00:06:57,683 --> 00:06:59,514
+I'm going to regret this.
+
+49
+00:07:07,026 --> 00:07:08,425
+There goes another one.
+
+50
+00:07:08,494 --> 00:07:10,928
+Hold your fire.
+There's no life-forms.
+
+51
+00:07:10,997 --> 00:07:12,487
+It must have short-circuited.
+
+52
+00:07:12,565 --> 00:07:16,934
+That's funny. The damage
+doesn't look as bad from out here.
+
+53
+00:07:17,003 --> 00:07:18,937
+Are you sure this thing is safe?
+
+54
+00:07:19,005 --> 00:07:20,939
+<i>[Whistle Beep Whistle]</i>
+
+55
+00:07:21,007 --> 00:07:22,065
+Oh.
+
+56
+00:07:38,024 --> 00:07:41,687
+Darth Vader.
+Only you could be so bold.
+
+57
+00:07:41,761 --> 00:07:44,161
+The Imperial Senate will
+not sit still for this.
+
+58
+00:07:44,230 --> 00:07:45,390
+When they hear you've
+attacked a diplomatic...
+
+59
+00:07:45,465 --> 00:07:46,955
+Don't act so surprised,
+Your Highness.
+
+60
+00:07:47,033 --> 00:07:49,558
+You weren't on any
+mercy mission this time.
+
+61
+00:07:49,635 --> 00:07:53,765
+Several transmissions were
+beamed to this ship by rebel spies.
+
+62
+00:07:53,840 --> 00:07:56,741
+I want to know what happened
+to the plans they sent you.
+
+63
+00:07:56,809 --> 00:07:58,572
+I don't know what
+you're talking about.
+
+64
+00:07:58,644 --> 00:08:00,441
+I'm a member of the Imperial Senate...
+
+65
+00:08:00,513 --> 00:08:01,946
+on a diplomatic mission to Alderaan.
+
+66
+00:08:02,014 --> 00:08:04,915
+You are part of the Rebel Alliance
+and a traitor.
+
+67
+00:08:04,984 --> 00:08:06,611
+Take her away!
+
+68
+00:08:10,623 --> 00:08:12,420
+Holding her is dangerous.
+
+69
+00:08:12,492 --> 00:08:13,925
+If word of this gets out...
+
+70
+00:08:13,993 --> 00:08:15,927
+it could generate sympathy
+for the rebellion in the senate.
+
+71
+00:08:15,995 --> 00:08:18,623
+I've traced the rebel spies to her.
+
+72
+00:08:18,698 --> 00:08:21,428
+Now she is my only link
+to finding their secret base.
+
+73
+00:08:21,501 --> 00:08:23,935
+She'll die before
+she'll tell you anything.
+
+74
+00:08:24,003 --> 00:08:25,436
+Leave that to me.
+
+75
+00:08:25,505 --> 00:08:26,938
+Send a distress signal...
+
+76
+00:08:27,006 --> 00:08:29,440
+and then inform the senate
+that all aboard were killed.
+
+77
+00:08:29,509 --> 00:08:30,942
+Lord Vader,
+the battle station plans...
+
+78
+00:08:31,010 --> 00:08:32,238
+are not aboard this ship...
+
+79
+00:08:32,311 --> 00:08:33,778
+and no transmissions were made.
+
+80
+00:08:33,846 --> 00:08:36,406
+An escape pod was jettisoned
+during the fighting...
+
+81
+00:08:36,482 --> 00:08:38,074
+but no life-forms were aboard.
+
+82
+00:08:38,150 --> 00:08:40,948
+She must have hidden
+the plans in the escape pod.
+
+83
+00:08:41,020 --> 00:08:44,820
+Send a detachment down to retrieve
+them... See to it personally, Commander.
+
+84
+00:08:44,891 --> 00:08:47,451
+There'll be no one
+to stop us this time.
+
+85
+00:08:47,527 --> 00:08:48,619
+Yes, sir.
+
+86
+00:09:01,541 --> 00:09:04,908
+How did we get into this mess?
+
+87
+00:09:04,977 --> 00:09:07,741
+I really don't know how.
+
+88
+00:09:07,813 --> 00:09:09,405
+We seem to be made to suffer.
+
+89
+00:09:09,482 --> 00:09:10,881
+It's our lot in life.
+
+90
+00:09:10,950 --> 00:09:12,975
+<i>[Blip Whistle]</i>
+
+91
+00:09:13,052 --> 00:09:16,317
+I've got to rest before I fall apart.
+
+92
+00:09:16,389 --> 00:09:18,380
+My joints are almost frozen.
+
+93
+00:09:24,163 --> 00:09:26,961
+What a desolate place this is!
+
+94
+00:09:27,033 --> 00:09:28,933
+<i>[Bleep Blip]</i>
+
+95
+00:09:31,237 --> 00:09:32,966
+Where do you think you're going?
+
+96
+00:09:33,039 --> 00:09:34,768
+Well, I'm not going that way.
+
+97
+00:09:34,840 --> 00:09:36,432
+It's much too rocky.
+
+98
+00:09:36,509 --> 00:09:38,409
+This way is much easier.
+
+99
+00:09:38,477 --> 00:09:40,445
+What makes you think...
+
+100
+00:09:40,513 --> 00:09:42,447
+there are settlements over there?
+
+101
+00:09:42,515 --> 00:09:43,914
+<i>[Beep Blip]</i>
+
+102
+00:09:43,983 --> 00:09:45,507
+Don't get technical with me.
+
+103
+00:09:45,585 --> 00:09:48,884
+What mission?
+What are you talking about?
+
+104
+00:09:48,955 --> 00:09:50,684
+<i>[Beep Beep]</i>
+
+105
+00:09:50,756 --> 00:09:53,350
+I've just about had enough of you.
+
+106
+00:09:53,426 --> 00:09:54,859
+Go that way.
+
+107
+00:09:54,927 --> 00:09:56,861
+You'll be malfunctioning within a day...
+
+108
+00:09:56,929 --> 00:09:58,521
+you nearsighted scrap pile.
+
+109
+00:09:58,598 --> 00:10:01,032
+And don't let me catch you
+following me begging for help...
+
+110
+00:10:01,100 --> 00:10:02,590
+because you won't get it.
+
+111
+00:10:07,974 --> 00:10:10,442
+<i>[Beep Whistle]</i>
+
+112
+00:10:15,147 --> 00:10:16,580
+<i>[Blip Bleep Blip]</i>
+
+113
+00:10:16,649 --> 00:10:18,378
+No more adventures.
+
+114
+00:10:18,451 --> 00:10:20,442
+I'm not going that way.
+
+115
+00:10:54,086 --> 00:10:55,519
+That malfunctioning little twerp.
+
+116
+00:10:55,588 --> 00:10:57,749
+This is all his fault.
+
+117
+00:10:57,823 --> 00:11:00,519
+He tricked me into going this way...
+
+118
+00:11:00,593 --> 00:11:02,527
+but he'll do no better.
+
+119
+00:11:06,265 --> 00:11:07,926
+Wait! What's that?
+
+120
+00:11:08,000 --> 00:11:09,433
+A transport.
+
+121
+00:11:09,502 --> 00:11:11,231
+I'm saved!
+
+122
+00:11:11,303 --> 00:11:13,066
+Over here!
+
+123
+00:11:13,139 --> 00:11:14,197
+Hey!
+
+124
+00:11:14,273 --> 00:11:16,002
+Hey!
+
+125
+00:11:16,075 --> 00:11:19,602
+Help! Please help!
+
+126
+00:11:21,714 --> 00:11:24,444
+<i>[Whistle Whistle]</i>
+
+127
+00:11:45,037 --> 00:11:47,665
+<i>[Beep Blip Blip Beep]</i>
+
+128
+00:12:04,256 --> 00:12:05,746
+[Speaking Alien Language]
+
+129
+00:12:26,178 --> 00:12:28,305
+[Speaking Alien Language]
+
+130
+00:14:01,373 --> 00:14:03,170
+[Speaking Alien Language]
+
+131
+00:14:08,514 --> 00:14:10,880
+<i>[Beep Whistle Blip]</i>
+
+132
+00:14:15,387 --> 00:14:17,321
+<i>[Whistle Blip Blip]</i>
+
+133
+00:14:48,554 --> 00:14:49,953
+R2?
+
+134
+00:14:50,022 --> 00:14:51,421
+<i>[Blip Blip]</i>
+
+135
+00:14:53,392 --> 00:14:56,987
+R2-D2, it is you! It is you!
+
+136
+00:14:57,062 --> 00:14:59,223
+<i>[Whistle Whistle]</i>
+
+137
+00:15:15,814 --> 00:15:17,179
+Someone was in the pod.
+
+138
+00:15:17,249 --> 00:15:19,945
+The tracks go off in this direction.
+
+139
+00:15:20,019 --> 00:15:21,987
+Look, sir, droids.
+
+140
+00:15:33,666 --> 00:15:35,361
+Wake up! Wake up!
+
+141
+00:15:35,434 --> 00:15:39,063
+<i>[Beep Blip Beep Beep]</i>
+
+142
+00:15:41,373 --> 00:15:43,273
+We're doomed.
+
+143
+00:15:45,077 --> 00:15:47,477
+[Speaking Alien Language]
+
+144
+00:15:51,083 --> 00:15:53,210
+Do you think they'll melt us down?
+
+145
+00:15:53,285 --> 00:15:55,685
+<i>[Beep Blip]</i>
+
+146
+00:16:06,999 --> 00:16:08,990
+Don't shoot!
+Don't shoot!
+
+147
+00:16:09,068 --> 00:16:10,729
+Will this never end?
+
+148
+00:16:50,109 --> 00:16:51,576
+[Speaking Alien Language]
+
+149
+00:16:51,643 --> 00:16:53,076
+All right, fine. Let's go.
+
+150
+00:16:53,145 --> 00:16:55,306
+Woman: Luke! Luke!
+
+151
+00:16:58,650 --> 00:17:02,108
+Luke, tell Uncle
+if he gets a translator...
+
+152
+00:17:02,187 --> 00:17:03,745
+be sure it speaks Bocce.
+
+153
+00:17:03,822 --> 00:17:06,313
+Doesn't look like we have much
+of a choice, but I'll remind him.
+
+154
+00:17:16,168 --> 00:17:18,898
+- [Speaking Alien Language]
+- Yeah, we'll take that red one.
+
+155
+00:17:18,971 --> 00:17:21,064
+No, not that one.
+
+156
+00:17:21,140 --> 00:17:23,938
+[Speaking Alien Language]
+
+157
+00:17:24,009 --> 00:17:26,477
+I suppose you're programmed
+for etiquette and protocol.
+
+158
+00:17:26,545 --> 00:17:27,978
+Protocol? Why, it's
+my primary function, sir.
+
+159
+00:17:28,047 --> 00:17:30,572
+I am well-versed in all the customs...
+
+160
+00:17:30,649 --> 00:17:32,310
+I have no need for a protocol droid.
+
+161
+00:17:32,384 --> 00:17:33,976
+Of course you haven't, sir.
+
+162
+00:17:34,053 --> 00:17:35,315
+Not in an environment such as this.
+
+163
+00:17:35,387 --> 00:17:36,581
+That is why I have
+been programmed...
+
+164
+00:17:36,655 --> 00:17:38,987
+What I really need is
+a droid who understands...
+
+165
+00:17:39,058 --> 00:17:41,026
+the binary language
+of moisture vaporators.
+
+166
+00:17:41,093 --> 00:17:44,426
+Vaporators? Sir, my first job
+was programming binary load lifters...
+
+167
+00:17:44,496 --> 00:17:46,088
+very similar to your vaporators
+in most respects.
+
+168
+00:17:46,165 --> 00:17:47,530
+Can you speak Bocce?
+
+169
+00:17:47,599 --> 00:17:50,193
+Of course I can, sir.
+It's like a second language to me...
+
+170
+00:17:50,269 --> 00:17:51,634
+Yeah, all right. Shut up.
+I'll take this one.
+
+171
+00:17:51,703 --> 00:17:53,000
+Luke!
+
+172
+00:17:55,607 --> 00:17:57,734
+Take these two over
+to the garage, will you?
+
+173
+00:17:57,810 --> 00:17:59,038
+I want them cleaned up before dinner.
+
+174
+00:17:59,111 --> 00:18:00,169
+But I was going into Tosche Station...
+
+175
+00:18:00,245 --> 00:18:01,678
+to pick up some power converters.
+
+176
+00:18:01,747 --> 00:18:03,271
+You can waste time
+with your friends...
+
+177
+00:18:03,348 --> 00:18:04,838
+when your chores are done.
+
+178
+00:18:04,917 --> 00:18:06,942
+Now come on. Get to it.
+
+179
+00:18:07,019 --> 00:18:09,180
+All right. Come on.
+
+180
+00:18:09,254 --> 00:18:11,814
+[Whining]
+
+181
+00:18:11,890 --> 00:18:13,949
+And the red one. Come on.
+
+182
+00:18:14,026 --> 00:18:15,118
+<i>[Beep Beep]</i>
+
+183
+00:18:15,194 --> 00:18:17,662
+Well, come on, red. Let's go.
+
+184
+00:18:20,532 --> 00:18:22,500
+<i>[Beep Whistle]</i>
+
+185
+00:18:36,048 --> 00:18:37,140
+Uncle Owen!
+
+186
+00:18:37,216 --> 00:18:38,649
+Yeah?
+
+187
+00:18:38,717 --> 00:18:41,481
+This R2 unit has
+a bad motivator. Look.
+
+188
+00:18:41,553 --> 00:18:43,987
+Hey, what are you
+trying to push on us?
+
+189
+00:18:44,056 --> 00:18:46,217
+<i>[Bleep Bleep Bleep]</i>
+
+190
+00:18:46,291 --> 00:18:47,781
+Excuse me, sir...
+
+191
+00:18:47,860 --> 00:18:51,523
+but that R2 unit is in prime condition,
+a real bargain.
+
+192
+00:18:51,597 --> 00:18:53,929
+Uncle Owen, what about that one?
+
+193
+00:18:53,999 --> 00:18:55,398
+What about that blue one?
+
+194
+00:18:55,467 --> 00:18:57,833
+We'll take that one.
+
+195
+00:18:57,903 --> 00:18:59,097
+Take this away.
+
+196
+00:18:59,171 --> 00:19:00,661
+You'll be very pleased
+with that one, sir.
+
+197
+00:19:00,739 --> 00:19:02,604
+He really is in first-class condition.
+
+198
+00:19:02,674 --> 00:19:03,902
+I've worked with him before.
+
+199
+00:19:03,976 --> 00:19:04,874
+Here he comes.
+
+200
+00:19:04,943 --> 00:19:07,275
+<i>[Beep Blip]</i>
+
+201
+00:19:08,647 --> 00:19:10,080
+OK Let's go.
+
+202
+00:19:10,149 --> 00:19:12,049
+Now, don't you forget this.
+
+203
+00:19:12,117 --> 00:19:13,914
+Why I should stick
+my neck out for you...
+
+204
+00:19:13,986 --> 00:19:15,977
+is quite beyond my capacity.
+
+205
+00:19:16,054 --> 00:19:17,214
+<i>[Whistle]</i>
+
+206
+00:19:21,727 --> 00:19:23,558
+Thank the maker!
+
+207
+00:19:23,629 --> 00:19:25,688
+This oil bath is going to feel so good.
+
+208
+00:19:25,764 --> 00:19:29,427
+I've got such a bad case
+of dust contamination...
+
+209
+00:19:29,501 --> 00:19:30,627
+I can barely move.
+
+210
+00:19:30,702 --> 00:19:31,760
+It just isn't fair.
+
+211
+00:19:31,837 --> 00:19:33,464
+Oh, Biggs is right.
+
+212
+00:19:33,539 --> 00:19:35,871
+I'm never gonna get out of here.
+
+213
+00:19:35,941 --> 00:19:37,966
+Is there anything I might do to help?
+
+214
+00:19:38,043 --> 00:19:40,511
+No. Not unless you can alter time...
+
+215
+00:19:40,579 --> 00:19:42,979
+speed up the harvest,
+or teleport me off this rock.
+
+216
+00:19:43,048 --> 00:19:44,709
+I don't think so, sir.
+
+217
+00:19:44,783 --> 00:19:46,045
+I'm only a droid...
+
+218
+00:19:46,118 --> 00:19:47,710
+and not very knowledgeable
+about such things...
+
+219
+00:19:47,786 --> 00:19:49,549
+not on this planet, anyway.
+
+220
+00:19:49,621 --> 00:19:53,057
+As a matter of fact,
+I'm not even sure which planet I'm on.
+
+221
+00:19:53,125 --> 00:19:55,559
+Well, if there's
+a bright center to the universe...
+
+222
+00:19:55,627 --> 00:19:58,095
+you're on the planet
+that it's farthest from.
+
+223
+00:19:58,163 --> 00:19:59,357
+I see, sir.
+
+224
+00:19:59,431 --> 00:20:01,194
+You can call me Luke.
+
+225
+00:20:01,266 --> 00:20:02,699
+I see, Sir Luke.
+
+226
+00:20:02,768 --> 00:20:04,030
+Ha ha.
+
+227
+00:20:04,102 --> 00:20:05,262
+Just Luke.
+
+228
+00:20:05,337 --> 00:20:09,205
+Oh... And I am C-3PO,
+human-cyborg relations.
+
+229
+00:20:09,274 --> 00:20:11,708
+This is my counterpart... R2-D2.
+
+230
+00:20:11,777 --> 00:20:13,039
+Hello.
+
+231
+00:20:13,111 --> 00:20:14,203
+<i>[Beep Beep Blip]</i>
+
+232
+00:20:14,279 --> 00:20:16,543
+You got a lot of carbon scoring.
+
+233
+00:20:16,615 --> 00:20:18,674
+Looks like you boys have
+seen a lot of action.
+
+234
+00:20:18,750 --> 00:20:20,308
+With all we've been through...
+
+235
+00:20:20,385 --> 00:20:22,319
+sometimes I'm amazed we're in
+as good condition as we are...
+
+236
+00:20:22,387 --> 00:20:23,854
+what with the rebellion and all.
+
+237
+00:20:23,922 --> 00:20:25,856
+You know of the rebellion
+against the Empire?!
+
+238
+00:20:25,924 --> 00:20:27,983
+That's how we came
+to be in your service...
+
+239
+00:20:28,060 --> 00:20:29,493
+if you take my meaning, sir.
+
+240
+00:20:29,561 --> 00:20:30,687
+Have you been in many battles?
+
+241
+00:20:30,762 --> 00:20:32,161
+Several, I think.
+
+242
+00:20:32,231 --> 00:20:33,789
+Actually, there's not much to tell.
+
+243
+00:20:33,865 --> 00:20:35,765
+I'm not much more
+than an interpreter...
+
+244
+00:20:35,834 --> 00:20:37,699
+and not very good at telling stories.
+
+245
+00:20:37,769 --> 00:20:40,169
+Well, not at making them
+interesting, anyway.
+
+246
+00:20:40,239 --> 00:20:42,264
+Well, my little friend...
+
+247
+00:20:42,341 --> 00:20:45,174
+you got something jammed
+in here real good.
+
+248
+00:20:45,244 --> 00:20:46,677
+Were you on a Starcruiser or...
+
+249
+00:20:46,745 --> 00:20:50,181
+Help me, Obi-Wan Kenobi.
+You're my only hope.
+
+250
+00:20:50,249 --> 00:20:52,342
+What's this?
+
+251
+00:20:52,417 --> 00:20:54,442
+"What is what"?
+He asked you a question.
+
+252
+00:20:54,519 --> 00:20:55,543
+What is that?
+
+253
+00:20:55,621 --> 00:20:57,088
+Help me, Obi-Wan Kenobi.
+
+254
+00:20:57,155 --> 00:20:59,316
+You're my only hope.
+
+255
+00:21:03,061 --> 00:21:04,756
+Help me, Obi-Wan Kenobi.
+
+256
+00:21:04,830 --> 00:21:06,593
+You're my only hope.
+
+257
+00:21:06,665 --> 00:21:08,132
+<i>[Beep Blip Blip]</i>
+
+258
+00:21:08,200 --> 00:21:10,998
+He says it's nothing, sir,
+merely a malfunction.
+
+259
+00:21:11,069 --> 00:21:13,537
+Old data. Pay it no mind.
+
+260
+00:21:13,605 --> 00:21:16,039
+Who is she?
+She's beautiful.
+
+261
+00:21:16,108 --> 00:21:19,509
+I'm afraid I'm not quite sure, sir.
+
+262
+00:21:19,578 --> 00:21:22,012
+I think she was a passenger
+on our last voyage.
+
+263
+00:21:22,080 --> 00:21:23,843
+A person of some importance, I believe.
+
+264
+00:21:23,915 --> 00:21:25,007
+Our captain was attached...
+
+265
+00:21:25,083 --> 00:21:26,345
+Is there any more
+to this recording?
+
+266
+00:21:26,418 --> 00:21:28,249
+<i>[Whistle Blip Beep]</i>
+
+267
+00:21:28,320 --> 00:21:29,787
+Behave yourself, R2.
+
+268
+00:21:29,855 --> 00:21:31,686
+You're going to get us into trouble.
+
+269
+00:21:31,757 --> 00:21:34,555
+It's all right. You can trust him.
+He's our new master.
+
+270
+00:21:34,626 --> 00:21:37,220
+<i>[Beep Blip Beep]</i>
+
+271
+00:21:37,296 --> 00:21:40,754
+He says that he's the property
+of Obi-Wan Kenobi...
+
+272
+00:21:40,832 --> 00:21:42,322
+a resident of these parts...
+
+273
+00:21:42,401 --> 00:21:44,266
+and it's a private message for him.
+
+274
+00:21:44,336 --> 00:21:46,327
+Quite frankly, sir, I don't know what
+he's talking about.
+
+275
+00:21:46,405 --> 00:21:48,396
+Our last master
+was Captain Antilles.
+
+276
+00:21:48,473 --> 00:21:49,997
+But with all
+we've been through...
+
+277
+00:21:50,075 --> 00:21:53,169
+this little R2 unit has
+become a bit eccentric.
+
+278
+00:21:53,245 --> 00:21:56,408
+Obi-Wan Kenobi.
+I wonder if he means old Ben Kenobi.
+
+279
+00:21:56,481 --> 00:21:59,177
+I beg your pardon, sir, but do you know
+what he's talking about?
+
+280
+00:21:59,251 --> 00:22:01,185
+I don't know any Obi-Wan...
+
+281
+00:22:01,253 --> 00:22:04,689
+but old Ben lives out
+beyond the Dune Sea.
+
+282
+00:22:04,756 --> 00:22:06,553
+He's kind of a strange old hermit.
+
+283
+00:22:06,625 --> 00:22:08,115
+Help me,
+Obi-Wan Kenobi.
+
+284
+00:22:08,193 --> 00:22:09,683
+I wonder who she is.
+
+285
+00:22:09,761 --> 00:22:10,785
+Sounds like she's in trouble.
+
+286
+00:22:10,862 --> 00:22:12,853
+I better play back the whole thing.
+
+287
+00:22:12,931 --> 00:22:14,592
+<i>[Beep! Beep!]</i>
+
+288
+00:22:14,666 --> 00:22:16,930
+He says the restraining bolt...
+
+289
+00:22:17,002 --> 00:22:19,732
+has short-circuited
+his recording system.
+
+290
+00:22:19,805 --> 00:22:22,638
+He suggests that if you remove the bolt...
+
+291
+00:22:22,708 --> 00:22:25,074
+he might be able to play
+back the entire recording.
+
+292
+00:22:25,143 --> 00:22:27,577
+Oh, yeah. Well...
+
+293
+00:22:27,646 --> 00:22:30,114
+I guess you're too small
+to run away on me...
+
+294
+00:22:30,182 --> 00:22:31,444
+if I take this off.
+
+295
+00:22:31,516 --> 00:22:32,574
+OK...
+
+296
+00:22:35,120 --> 00:22:37,088
+There you go.
+
+297
+00:22:37,155 --> 00:22:39,214
+Wait a minute.
+Where'd she go?
+
+298
+00:22:39,291 --> 00:22:41,782
+Bring her back.
+Play back the entire message.
+
+299
+00:22:41,860 --> 00:22:42,986
+"What message"?
+
+300
+00:22:43,061 --> 00:22:45,325
+The one you've just been playing!
+
+301
+00:22:45,397 --> 00:22:47,422
+The one you're carrying
+inside your rusty innards.
+
+302
+00:22:47,499 --> 00:22:49,626
+Woman: Luke! Luke!
+
+303
+00:22:49,701 --> 00:22:51,191
+All right, I'll be right there, Aunt Beru.
+
+304
+00:22:51,269 --> 00:22:52,759
+I'm sorry, sir...
+
+305
+00:22:52,838 --> 00:22:55,671
+but he appears to have
+picked up a slight flutter.
+
+306
+00:22:55,741 --> 00:22:57,436
+Here. See what you can do with him.
+
+307
+00:22:57,509 --> 00:22:59,170
+I'll be right back.
+
+308
+00:22:59,244 --> 00:23:00,734
+<i>[Beep Blip]</i>
+
+309
+00:23:00,812 --> 00:23:04,748
+Just you reconsider playing
+that message for him.
+
+310
+00:23:04,816 --> 00:23:05,783
+<i>[Beep Beep]</i>
+
+311
+00:23:05,851 --> 00:23:08,251
+No, I don't think he likes you at all.
+
+312
+00:23:08,320 --> 00:23:10,686
+No, I don't like you, either.
+
+313
+00:23:10,756 --> 00:23:12,690
+<i>[Beep Beep]</i>
+
+314
+00:23:17,229 --> 00:23:20,596
+You know, I think that R2 unit
+we bought might have been stolen.
+
+315
+00:23:20,665 --> 00:23:23,293
+What makes you think that?
+
+316
+00:23:23,368 --> 00:23:25,836
+Well, I stumbled across a recording
+while I was cleaning him.
+
+317
+00:23:25,904 --> 00:23:28,873
+He says he belongs to someone
+called Obi-Wan Kenobi.
+
+318
+00:23:30,809 --> 00:23:33,243
+I thought he might have meant old Ben.
+
+319
+00:23:33,311 --> 00:23:34,801
+Do you know what
+he's talking about?
+
+320
+00:23:34,880 --> 00:23:35,778
+Mm-mm.
+
+321
+00:23:35,847 --> 00:23:39,112
+I wonder if he's related to Ben.
+
+322
+00:23:39,184 --> 00:23:40,981
+That wizard's just a crazy old man.
+
+323
+00:23:41,052 --> 00:23:44,488
+Tomorrow, I want you to take
+that R2 unit to Anchorhead...
+
+324
+00:23:44,556 --> 00:23:46,080
+and have its memory erased.
+
+325
+00:23:46,158 --> 00:23:48,149
+That'll be the end of it.
+It belongs to us now.
+
+326
+00:23:49,861 --> 00:23:52,625
+But what if this Obi-Wan
+comes looking for him?
+
+327
+00:23:52,697 --> 00:23:53,686
+He won't.
+
+328
+00:23:53,765 --> 00:23:56,233
+I don't think he exists anymore.
+
+329
+00:23:56,301 --> 00:23:58,701
+He died about the same time
+as your father.
+
+330
+00:23:58,770 --> 00:24:00,067
+He knew my father?
+
+331
+00:24:00,138 --> 00:24:01,867
+I told you to forget it.
+
+332
+00:24:01,940 --> 00:24:06,434
+Your only concern is to prepare
+those new droids for tomorrow.
+
+333
+00:24:06,511 --> 00:24:08,479
+In the morning, I want them
+up there on the south ridge...
+
+334
+00:24:08,547 --> 00:24:10,447
+working on those condensers.
+
+335
+00:24:10,515 --> 00:24:11,573
+Yes, sir.
+
+336
+00:24:12,884 --> 00:24:15,614
+I think those new droids
+are gonna work out fine.
+
+337
+00:24:15,687 --> 00:24:19,453
+In fact, I, uh, was also thinking
+about our agreement...
+
+338
+00:24:19,524 --> 00:24:22,755
+about me staying on another season?
+
+339
+00:24:22,828 --> 00:24:25,058
+And if these new droids
+do work out...
+
+340
+00:24:25,130 --> 00:24:27,098
+I want to transmit my application
+to the academy this year.
+
+341
+00:24:27,165 --> 00:24:29,998
+You mean the next semester
+before the harvest?
+
+342
+00:24:30,068 --> 00:24:31,899
+Sure. There's more
+than enough droids.
+
+343
+00:24:31,970 --> 00:24:34,029
+Harvest is when I need you the most.
+
+344
+00:24:34,105 --> 00:24:36,164
+It's only one season more.
+
+345
+00:24:36,241 --> 00:24:37,868
+This year we'll make
+enough on the harvest...
+
+346
+00:24:37,943 --> 00:24:39,604
+that I'll be able
+to hire more hands...
+
+347
+00:24:39,678 --> 00:24:42,613
+and then you can go
+to the academy next year.
+
+348
+00:24:42,681 --> 00:24:44,478
+You must understand
+I need you here, Luke.
+
+349
+00:24:44,549 --> 00:24:46,380
+But it's a whole 'nother year!
+
+350
+00:24:46,451 --> 00:24:47,748
+Look, it's only one more season.
+
+351
+00:24:47,819 --> 00:24:50,117
+Yeah, that's what you said
+when Biggs and Tank left.
+
+352
+00:24:50,188 --> 00:24:51,120
+Where are you going?
+
+353
+00:24:51,189 --> 00:24:52,383
+Looks like I'm going nowhere.
+
+354
+00:24:52,457 --> 00:24:54,391
+I have to go finish
+cleaning those droids.
+
+355
+00:24:54,459 --> 00:24:56,450
+Owen, he can't stay here forever.
+
+356
+00:24:56,528 --> 00:24:57,859
+Most of his friends have gone.
+
+357
+00:24:57,929 --> 00:25:00,056
+It means so much to him.
+
+358
+00:25:00,131 --> 00:25:01,962
+I'll make it up to him next year.
+
+359
+00:25:02,033 --> 00:25:03,057
+I promise.
+
+360
+00:25:03,134 --> 00:25:06,570
+Luke's just not a farmer, Owen.
+
+361
+00:25:06,638 --> 00:25:08,697
+He has too much of his father in him.
+
+362
+00:25:08,773 --> 00:25:10,866
+That's what I'm afraid of.
+
+363
+00:25:58,256 --> 00:26:00,087
+Ooh!
+
+364
+00:26:00,158 --> 00:26:01,489
+What are you doing
+hiding back there?
+
+365
+00:26:01,560 --> 00:26:05,018
+It wasn't my fault, sir.
+Please don't deactivate me.
+
+366
+00:26:05,096 --> 00:26:07,963
+I told him not to go,
+but he's faulty, malfunctioning.
+
+367
+00:26:08,033 --> 00:26:09,625
+Kept babbling on about his mission.
+
+368
+00:26:09,701 --> 00:26:11,362
+Oh, no.
+
+369
+00:26:19,144 --> 00:26:22,136
+That R2 unit has always
+been a problem.
+
+370
+00:26:22,213 --> 00:26:24,773
+These astrodroids
+are getting quite out of hand.
+
+371
+00:26:24,849 --> 00:26:26,840
+Even I can't understand
+their logic at times.
+
+372
+00:26:26,918 --> 00:26:28,442
+How could I be so stupid?
+
+373
+00:26:28,520 --> 00:26:29,851
+He's nowhere in sight.
+
+374
+00:26:29,921 --> 00:26:31,013
+Blast it!
+
+375
+00:26:31,089 --> 00:26:33,717
+Pardon me, sir,
+but couldn't we go after him?
+
+376
+00:26:33,792 --> 00:26:35,555
+It's too dangerous
+with all the Sand People around.
+
+377
+00:26:35,627 --> 00:26:37,652
+We'll have to wait until morning.
+
+378
+00:26:37,729 --> 00:26:38,957
+Uncle Owen:
+Luke! I'm shutting the power down.
+
+379
+00:26:39,030 --> 00:26:41,521
+All right!
+I'll be there in a few minutes.
+
+380
+00:26:41,600 --> 00:26:43,124
+Boy, am I gonna get it.
+
+381
+00:26:43,201 --> 00:26:46,102
+That little droid's going to
+cause me a lotta trouble.
+
+382
+00:26:46,171 --> 00:26:48,571
+Oh, he excels at that, sir.
+
+383
+00:26:58,516 --> 00:26:59,744
+Luke?
+
+384
+00:27:00,986 --> 00:27:02,180
+Luke!
+
+385
+00:27:03,622 --> 00:27:05,021
+Luke!
+
+386
+00:27:10,695 --> 00:27:13,027
+Have you seen Luke this morning?
+
+387
+00:27:13,098 --> 00:27:15,259
+He said he had some things to do
+before he started today...
+
+388
+00:27:15,333 --> 00:27:16,527
+so he left early.
+
+389
+00:27:16,601 --> 00:27:18,125
+Did he take those
+two new droids with him?
+
+390
+00:27:18,203 --> 00:27:19,636
+I think so.
+
+391
+00:27:19,704 --> 00:27:22,434
+Well, he better have those units
+in the south range...
+
+392
+00:27:22,507 --> 00:27:24,941
+repaired by midday,
+or there'll be hell to pay.
+
+393
+00:27:25,143 --> 00:27:27,111
+Lookit, there's a droid on the scanner.
+
+394
+00:27:27,178 --> 00:27:28,543
+Dead ahead.
+
+395
+00:27:28,613 --> 00:27:31,741
+It might be our little R2 unit.
+Hit the accelerator!
+
+396
+00:27:37,155 --> 00:27:40,056
+[Speaking Alien Language]
+
+397
+00:27:52,937 --> 00:27:55,770
+Hey, whoa! Where do
+you think you're going?
+
+398
+00:27:55,840 --> 00:27:56,932
+<i>[Beep Beep Beep]</i>
+
+399
+00:27:57,008 --> 00:27:58,976
+Master Luke is your rightful owner now.
+
+400
+00:27:59,044 --> 00:28:02,070
+We'll have no more
+of this Obi-Wan Kenobi gibberish.
+
+401
+00:28:02,147 --> 00:28:03,409
+<i>[Beep]</i>
+
+402
+00:28:03,481 --> 00:28:04,914
+And don't talk to me
+of your mission, either.
+
+403
+00:28:04,983 --> 00:28:06,314
+You're fortunate he doesn't blast you...
+
+404
+00:28:06,384 --> 00:28:07,851
+into a million pieces right here!
+
+405
+00:28:07,919 --> 00:28:10,046
+No. It's all right,
+but I think we'd better go.
+
+406
+00:28:10,121 --> 00:28:11,611
+<i>[Whistle Whistle]</i>
+
+407
+00:28:11,690 --> 00:28:13,658
+What's wrong with him now?
+
+408
+00:28:13,725 --> 00:28:16,057
+There are several creatures
+approaching from the southeast.
+
+409
+00:28:16,127 --> 00:28:19,995
+Sand People, or worse.
+
+410
+00:28:20,065 --> 00:28:22,033
+Come on.
+Let's go have a look.
+
+411
+00:28:22,100 --> 00:28:23,192
+Come on!
+
+412
+00:28:25,270 --> 00:28:28,603
+Well, there are
+two Banthas down there...
+
+413
+00:28:28,673 --> 00:28:30,664
+but I don't see any...
+Wait a second.
+
+414
+00:28:30,742 --> 00:28:32,209
+They're Sand People, all right.
+
+415
+00:28:32,277 --> 00:28:34,973
+I can see one of them now.
+
+416
+00:29:00,071 --> 00:29:01,766
+<i>[Beep Whistle]</i>
+
+417
+00:29:13,017 --> 00:29:14,780
+<i>[Beep Beep]</i>
+
+418
+00:29:15,987 --> 00:29:18,353
+[Howl]
+
+419
+00:29:48,853 --> 00:29:50,514
+Hello, there.
+
+420
+00:29:50,588 --> 00:29:52,818
+<i>[Beep Blip]</i>
+
+421
+00:29:52,891 --> 00:29:56,190
+Come here, my little friend.
+Don't be afraid.
+
+422
+00:29:56,261 --> 00:29:58,161
+<i>[Beep Blip Blip]</i>
+
+423
+00:29:58,229 --> 00:30:00,595
+Oh, don't worry.
+He'll be all right.
+
+424
+00:30:06,538 --> 00:30:09,371
+Rest easy, son.
+You've had a busy day.
+
+425
+00:30:09,440 --> 00:30:13,171
+You're fortunate
+to be all in one piece.
+
+426
+00:30:15,647 --> 00:30:17,012
+Ben?
+
+427
+00:30:17,081 --> 00:30:18,605
+Ben Kenobi?
+
+428
+00:30:18,683 --> 00:30:20,708
+Boy, am I glad to see you.
+
+429
+00:30:20,785 --> 00:30:23,845
+The Jundland Wastes are not
+to be traveled lightly.
+
+430
+00:30:23,922 --> 00:30:25,890
+<i>[Beep Beep]</i>
+
+431
+00:30:25,957 --> 00:30:28,118
+Tell me, young Luke...
+
+432
+00:30:28,193 --> 00:30:31,094
+what brings you out this far?
+
+433
+00:30:31,162 --> 00:30:32,891
+This little droid.
+
+434
+00:30:32,964 --> 00:30:34,864
+<i>[Blip Blip]</i>
+
+435
+00:30:34,933 --> 00:30:36,525
+I think he's searching
+for his former master...
+
+436
+00:30:36,601 --> 00:30:40,037
+but I've never seen such devotion
+in a droid before.
+
+437
+00:30:40,104 --> 00:30:42,072
+He claims to be the property...
+
+438
+00:30:42,140 --> 00:30:43,767
+of an Obi-Wan Kenobi.
+
+439
+00:30:43,842 --> 00:30:45,070
+Is he a relative of yours?
+
+440
+00:30:45,143 --> 00:30:47,577
+Do you know who
+he's talking about?
+
+441
+00:30:47,645 --> 00:30:49,772
+Obi-Wan Kenobi?
+
+442
+00:30:51,349 --> 00:30:53,579
+Obi-Wan.
+
+443
+00:30:53,651 --> 00:30:58,645
+Now, that's a name
+I've not heard in a long time.
+
+444
+00:30:58,723 --> 00:31:01,157
+A long time.
+
+445
+00:31:01,226 --> 00:31:03,592
+I think my uncle knows him.
+
+446
+00:31:03,661 --> 00:31:05,219
+He said he was dead.
+
+447
+00:31:05,296 --> 00:31:07,127
+Oh, he's not dead.
+
+448
+00:31:07,198 --> 00:31:08,392
+Not yet.
+
+449
+00:31:08,466 --> 00:31:09,933
+You know him?
+
+450
+00:31:10,001 --> 00:31:12,936
+Well, of course I know him.
+He's me.
+
+451
+00:31:13,004 --> 00:31:14,904
+<i>[Beep Beep]</i>
+
+452
+00:31:14,973 --> 00:31:18,909
+I haven't gone by the name of Obi-Wan...
+
+453
+00:31:18,977 --> 00:31:21,445
+since, oh, before you were born.
+
+454
+00:31:21,512 --> 00:31:23,343
+Well, then the droid
+does belong to you.
+
+455
+00:31:23,414 --> 00:31:26,110
+I don't seem to remember
+ever owning a droid.
+
+456
+00:31:27,919 --> 00:31:29,216
+Very interesting.
+
+457
+00:31:29,287 --> 00:31:30,618
+[Growling]
+
+458
+00:31:30,688 --> 00:31:33,589
+I think we better get indoors.
+
+459
+00:31:33,658 --> 00:31:36,183
+The Sand People are easily startled...
+
+460
+00:31:36,261 --> 00:31:39,662
+but they'll soon be back,
+and in greater numbers.
+
+461
+00:31:39,731 --> 00:31:40,993
+<i>[Beep]</i>
+
+462
+00:31:42,467 --> 00:31:43,866
+3PO.
+
+463
+00:31:53,211 --> 00:31:55,975
+Where am I?
+I must have taken a bad step.
+
+464
+00:31:57,415 --> 00:31:58,814
+Can you stand?
+
+465
+00:31:58,883 --> 00:32:00,748
+We've got to get out of here before
+the Sand People return.
+
+466
+00:32:00,818 --> 00:32:03,343
+I don't think I can make it.
+You go on, Master Luke.
+
+467
+00:32:03,421 --> 00:32:06,151
+There's no sense in you risking yourself
+on my account.
+
+468
+00:32:06,224 --> 00:32:07,657
+I'm done for.
+
+469
+00:32:07,725 --> 00:32:09,522
+Luke: No, you're not.
+
+470
+00:32:09,594 --> 00:32:10,686
+What kind of talk is that?
+
+471
+00:32:10,762 --> 00:32:12,457
+Quickly. They're on the move.
+
+472
+00:32:17,235 --> 00:32:19,328
+No, my father didn't
+fight in the wars.
+
+473
+00:32:19,404 --> 00:32:21,201
+He was a navigator
+on a spice freighter.
+
+474
+00:32:21,272 --> 00:32:23,172
+That's what your uncle told you.
+
+475
+00:32:23,241 --> 00:32:25,106
+He didn't hold
+with your father's ideals.
+
+476
+00:32:25,176 --> 00:32:26,404
+Thought he should
+have stayed here...
+
+477
+00:32:26,477 --> 00:32:28,342
+and not gotten involved.
+
+478
+00:32:28,413 --> 00:32:30,381
+You fought in the Clone Wars?
+
+479
+00:32:30,448 --> 00:32:33,417
+Yes. I was once a Jedi knight...
+
+480
+00:32:33,484 --> 00:32:34,781
+the same as your father.
+
+481
+00:32:37,355 --> 00:32:39,152
+I wish I'd known him.
+
+482
+00:32:39,223 --> 00:32:43,091
+He was the best starpilot in the galaxy...
+
+483
+00:32:43,161 --> 00:32:44,753
+and a cunning warrior.
+
+484
+00:32:44,829 --> 00:32:45,761
+I understand you've become...
+
+485
+00:32:45,830 --> 00:32:48,594
+quite a good pilot yourself.
+
+486
+00:32:48,666 --> 00:32:51,635
+And he was a good friend.
+
+487
+00:32:51,703 --> 00:32:53,864
+Which reminds me...
+
+488
+00:32:53,938 --> 00:32:56,702
+I have something here for you.
+
+489
+00:32:58,843 --> 00:33:01,710
+Your father wanted you to have this...
+
+490
+00:33:01,779 --> 00:33:03,212
+when you were old enough...
+
+491
+00:33:03,281 --> 00:33:05,374
+but your uncle
+wouldn't allow it.
+
+492
+00:33:05,450 --> 00:33:07,042
+He feared you might
+follow old Obi-Wan...
+
+493
+00:33:07,118 --> 00:33:09,143
+on some damn-fool
+idealistic crusade...
+
+494
+00:33:09,220 --> 00:33:11,017
+like your father did.
+
+495
+00:33:11,089 --> 00:33:12,920
+Sir, if you'll not be needing me...
+
+496
+00:33:12,991 --> 00:33:14,015
+I'll close down for a while.
+
+497
+00:33:14,092 --> 00:33:15,719
+Sure. Go ahead.
+
+498
+00:33:17,128 --> 00:33:19,028
+What is it?
+
+499
+00:33:19,097 --> 00:33:21,895
+It's your father's lightsaber.
+
+500
+00:33:21,966 --> 00:33:25,265
+This is the weapon of a Jedi knight.
+
+501
+00:33:25,336 --> 00:33:29,272
+Not as clumsy or random
+as a blaster.
+
+502
+00:33:29,340 --> 00:33:35,245
+An elegant weapon
+for a more civilized age.
+
+503
+00:33:35,313 --> 00:33:37,577
+For over a thousand generations...
+
+504
+00:33:37,648 --> 00:33:39,582
+the Jedi knights were the guardians...
+
+505
+00:33:39,650 --> 00:33:42,744
+of peace and justice
+in the old Republic...
+
+506
+00:33:42,820 --> 00:33:45,687
+before the dark times...
+
+507
+00:33:45,757 --> 00:33:47,384
+before the Empire.
+
+508
+00:33:49,894 --> 00:33:52,294
+How did my father die?
+
+509
+00:33:53,631 --> 00:33:56,725
+A young Jedi named Darth Vader...
+
+510
+00:33:56,801 --> 00:33:59,964
+who was a pupil of mine
+until he turned to evil...
+
+511
+00:34:00,038 --> 00:34:04,099
+helped the Empire hunt down
+and destroy the Jedi knights.
+
+512
+00:34:05,643 --> 00:34:08,305
+He betrayed and
+murdered your father.
+
+513
+00:34:08,379 --> 00:34:12,338
+Now the Jedi are all but extinct.
+
+514
+00:34:12,417 --> 00:34:17,354
+Vader was seduced
+by the dark side of the Force.
+
+515
+00:34:17,422 --> 00:34:18,980
+The Force?
+
+516
+00:34:19,057 --> 00:34:22,493
+The Force is what gives
+a Jedi his power.
+
+517
+00:34:22,560 --> 00:34:26,656
+It's an energy field created
+by all living things.
+
+518
+00:34:26,731 --> 00:34:28,631
+It surrounds us, penetrates us...
+
+519
+00:34:28,699 --> 00:34:30,792
+it binds the galaxy together.
+
+520
+00:34:30,868 --> 00:34:32,495
+<i>[Beep Blip Blip Beep]</i>
+
+521
+00:34:37,208 --> 00:34:41,372
+Now let's see if we can't figure out
+what you are, my little friend...
+
+522
+00:34:41,446 --> 00:34:43,414
+and where you come from.
+
+523
+00:34:43,481 --> 00:34:45,176
+I saw part of a message he was...
+
+524
+00:34:45,249 --> 00:34:47,114
+I seem to have found it.
+
+525
+00:34:47,185 --> 00:34:51,451
+General Kenobi, years ago
+you served my father in the Clone Wars.
+
+526
+00:34:51,522 --> 00:34:53,046
+Now he begs you to help him...
+
+527
+00:34:53,124 --> 00:34:55,092
+in his struggle against the Empire.
+
+528
+00:34:55,159 --> 00:34:58,219
+I regret that I am unable to present
+my father's request to you in person.
+
+529
+00:34:58,296 --> 00:35:00,093
+But my ship has fallen under attack...
+
+530
+00:35:00,164 --> 00:35:02,530
+and I am afraid my mission
+to bring you to Alderaan has failed.
+
+531
+00:35:02,600 --> 00:35:04,397
+I have placed information...
+
+532
+00:35:04,469 --> 00:35:06,130
+vital to the survival
+of the rebellion...
+
+533
+00:35:06,204 --> 00:35:08,069
+into the memory systems
+of this R2 unit.
+
+534
+00:35:08,139 --> 00:35:10,004
+My father will know
+how to retrieve it.
+
+535
+00:35:10,074 --> 00:35:11,769
+You must see this droid...
+
+536
+00:35:11,843 --> 00:35:14,437
+safely delivered to him on Alderaan.
+
+537
+00:35:14,512 --> 00:35:16,241
+This is our most desperate hour.
+
+538
+00:35:16,314 --> 00:35:20,375
+Help me, Obi-Wan Kenobi.
+You're my only hope.
+
+539
+00:35:34,499 --> 00:35:37,127
+You must learn
+the ways of the Force...
+
+540
+00:35:37,201 --> 00:35:39,431
+if you're to come
+with me to Alderaan.
+
+541
+00:35:39,504 --> 00:35:41,995
+Alderaan?
+I'm not going to Alderaan.
+
+542
+00:35:42,073 --> 00:35:43,563
+I've got to get home.
+
+543
+00:35:43,641 --> 00:35:45,040
+It's late.
+I'm in for it as it is.
+
+544
+00:35:45,109 --> 00:35:47,907
+I need your help, Luke.
+<i>She</i> needs your help.
+
+545
+00:35:47,979 --> 00:35:51,107
+I'm getting too old
+for this sort of thing.
+
+546
+00:35:55,186 --> 00:35:56,585
+I can't get involved.
+
+547
+00:35:56,654 --> 00:35:59,088
+I've got work to do.
+
+548
+00:35:59,157 --> 00:36:01,751
+It's not that I like the Empire.
+I hate it...
+
+549
+00:36:01,826 --> 00:36:05,125
+but there's nothing
+I can do about it right now.
+
+550
+00:36:05,196 --> 00:36:07,357
+It's all such a long way from here.
+
+551
+00:36:07,431 --> 00:36:09,422
+That's your uncle talking.
+
+552
+00:36:09,500 --> 00:36:10,762
+My uncle.
+
+553
+00:36:10,835 --> 00:36:13,395
+How am I ever gonna explain this?
+
+554
+00:36:13,471 --> 00:36:15,200
+Learn about the Force, Luke.
+
+555
+00:36:22,213 --> 00:36:24,511
+Look, I can take you
+as far as Anchorhead.
+
+556
+00:36:24,582 --> 00:36:28,609
+You can get a transport there to
+Mos Eisley or wherever you're going.
+
+557
+00:36:28,686 --> 00:36:32,713
+You must do what you feel
+is right, of course.
+
+558
+00:36:40,398 --> 00:36:42,525
+Until this battle station
+is fully operational...
+
+559
+00:36:42,600 --> 00:36:44,067
+we are vulnerable.
+
+560
+00:36:44,135 --> 00:36:46,228
+The Rebel Alliance
+is too well equipped.
+
+561
+00:36:46,304 --> 00:36:48,295
+They're more dangerous
+than you realize.
+
+562
+00:36:48,372 --> 00:36:50,840
+Dangerous to
+your starfleet, Commander...
+
+563
+00:36:50,908 --> 00:36:53,103
+not to this battle station.
+
+564
+00:36:53,177 --> 00:36:56,169
+The rebellion will
+continue to gain support...
+
+565
+00:36:56,247 --> 00:36:57,737
+in the Imperial Senate...
+
+566
+00:36:57,815 --> 00:37:01,148
+The Imperial Senate will no longer
+be of any concern to us.
+
+567
+00:37:01,219 --> 00:37:02,652
+I have just received word...
+
+568
+00:37:02,720 --> 00:37:05,314
+that the emperor has
+dissolved the council permanently.
+
+569
+00:37:05,389 --> 00:37:07,983
+The last remnants
+of the old Republic...
+
+570
+00:37:08,059 --> 00:37:09,651
+have been swept away.
+
+571
+00:37:09,727 --> 00:37:11,217
+That's impossible.
+
+572
+00:37:11,295 --> 00:37:13,695
+How will the emperor maintain control
+without the bureaucracy?
+
+573
+00:37:13,764 --> 00:37:16,733
+The regional governors
+now have direct control...
+
+574
+00:37:16,801 --> 00:37:18,564
+over their territories.
+
+575
+00:37:18,636 --> 00:37:22,697
+Fear will keep
+the local systems in line...
+
+576
+00:37:22,773 --> 00:37:24,240
+fear of this battle station.
+
+577
+00:37:24,308 --> 00:37:26,173
+And what of the rebellion?
+
+578
+00:37:26,244 --> 00:37:28,212
+If the rebels have obtained...
+
+579
+00:37:28,279 --> 00:37:29,576
+a complete technical readout
+of this station...
+
+580
+00:37:29,647 --> 00:37:31,376
+it is possible, however unlikely...
+
+581
+00:37:31,449 --> 00:37:33,781
+that they might find a weakness
+and exploit it.
+
+582
+00:37:33,851 --> 00:37:38,117
+The plans you refer to will
+soon be back in our hands.
+
+583
+00:37:38,189 --> 00:37:40,657
+Any attack made by the rebels
+against this station...
+
+584
+00:37:40,725 --> 00:37:41,953
+would be a useless gesture...
+
+585
+00:37:42,026 --> 00:37:44,551
+no matter what technical data
+they've obtained.
+
+586
+00:37:44,629 --> 00:37:48,292
+This station is now the ultimate power
+in the universe.
+
+587
+00:37:48,366 --> 00:37:50,698
+I suggest we use it.
+
+588
+00:37:50,768 --> 00:37:52,235
+Don't be too proud...
+
+589
+00:37:52,303 --> 00:37:54,601
+of this technological terror
+you've constructed.
+
+590
+00:37:54,672 --> 00:37:58,108
+The ability to destroy
+a planet is insignificant...
+
+591
+00:37:58,175 --> 00:38:00,473
+next to the power of the Force.
+
+592
+00:38:00,544 --> 00:38:04,002
+Don't try to frighten us with
+your sorcerer's ways, Lord Vader.
+
+593
+00:38:04,081 --> 00:38:07,073
+Your sad devotion
+to that ancient religion...
+
+594
+00:38:07,151 --> 00:38:09,642
+hasn't helped you conjure up
+the stolen data tapes...
+
+595
+00:38:09,720 --> 00:38:11,745
+or given you
+clairvoyance enough...
+
+596
+00:38:11,822 --> 00:38:14,052
+to find the rebels'
+hidden fortre...
+
+597
+00:38:19,964 --> 00:38:22,762
+I find your lack
+of faith disturbing.
+
+598
+00:38:24,769 --> 00:38:27,397
+Enough of this.
+Vader, release him.
+
+599
+00:38:27,471 --> 00:38:29,029
+As you wish.
+
+600
+00:38:31,242 --> 00:38:33,335
+This bickering is pointless.
+
+601
+00:38:33,411 --> 00:38:38,212
+Lord Vader will provide us with
+the location of the rebel fortress...
+
+602
+00:38:38,282 --> 00:38:41,149
+by the time this station
+is operational.
+
+603
+00:38:41,218 --> 00:38:43,584
+We will then crush the rebellion...
+
+604
+00:38:43,654 --> 00:38:45,121
+with one swift stroke.
+
+605
+00:38:51,896 --> 00:38:53,921
+It looks like the Sand People
+did this, all right.
+
+606
+00:38:53,998 --> 00:38:55,761
+Look. There's gaffi sticks,
+Bantha tracks.
+
+607
+00:38:55,833 --> 00:38:56,959
+It's just, I've never heard of them...
+
+608
+00:38:57,034 --> 00:38:58,126
+hitting anything this big before.
+
+609
+00:38:58,202 --> 00:38:59,191
+They didn't...
+
+610
+00:38:59,270 --> 00:39:01,795
+but we are meant to think they did.
+
+611
+00:39:01,872 --> 00:39:03,806
+These tracks are side-by-side.
+
+612
+00:39:03,874 --> 00:39:06,069
+Sand People always ride single file...
+
+613
+00:39:06,143 --> 00:39:08,077
+to hide their numbers.
+
+614
+00:39:08,145 --> 00:39:10,511
+These are the same Jawas
+that sold us R2 and 3PO.
+
+615
+00:39:10,581 --> 00:39:14,073
+And these blast points,
+too accurate...
+
+616
+00:39:14,151 --> 00:39:15,379
+for Sand People.
+
+617
+00:39:15,453 --> 00:39:19,082
+Only imperial stormtroopers
+are so precise.
+
+618
+00:39:19,156 --> 00:39:22,284
+But why would imperial troops
+want to slaughter Jawas?
+
+619
+00:39:26,864 --> 00:39:29,094
+If they traced the robots here...
+
+620
+00:39:29,166 --> 00:39:30,428
+they may have learned
+who they sold them to...
+
+621
+00:39:30,501 --> 00:39:32,560
+and that would lead
+them back... home!
+
+622
+00:39:32,636 --> 00:39:34,228
+Wait, Luke!
+
+623
+00:39:34,305 --> 00:39:36,296
+It's too dangerous!
+
+624
+00:40:00,064 --> 00:40:01,622
+Uncle Owen!
+
+625
+00:40:01,699 --> 00:40:04,190
+Aunt Beru!
+
+626
+00:40:04,268 --> 00:40:05,633
+Uncle Owen!
+
+627
+00:40:54,718 --> 00:40:56,151
+And now, Your Highness...
+
+628
+00:40:56,220 --> 00:40:58,154
+we will discuss the location...
+
+629
+00:40:58,222 --> 00:41:00,520
+of your hidden rebel base.
+
+630
+00:41:42,266 --> 00:41:44,200
+There's nothing you could
+have done, Luke...
+
+631
+00:41:44,268 --> 00:41:45,860
+had you been there.
+
+632
+00:41:45,936 --> 00:41:47,699
+You'd have been killed, too...
+
+633
+00:41:47,771 --> 00:41:51,400
+and the droids would now be
+in the hands of the Empire.
+
+634
+00:41:51,475 --> 00:41:55,206
+I want to come
+with you to Alderaan.
+
+635
+00:41:55,279 --> 00:41:57,076
+There's nothing for me here now.
+
+636
+00:41:57,147 --> 00:41:59,411
+I want to learn
+the ways of the Force...
+
+637
+00:41:59,483 --> 00:42:01,041
+and become a Jedi
+like my father.
+
+638
+00:42:16,233 --> 00:42:19,100
+Obi-Wan: Mos Eisley spaceport.
+
+639
+00:42:19,169 --> 00:42:24,436
+You will never find a more
+wretched hive of scum and villainy.
+
+640
+00:42:24,508 --> 00:42:26,499
+We must be cautious.
+
+641
+00:42:42,326 --> 00:42:44,590
+How long have you
+had these droids?
+
+642
+00:42:44,662 --> 00:42:45,924
+Three or four seasons.
+
+643
+00:42:45,996 --> 00:42:47,361
+They're up for sale
+if you want them.
+
+644
+00:42:47,431 --> 00:42:49,331
+Let me see your identification.
+
+645
+00:42:49,400 --> 00:42:52,767
+You don't need to see
+his identification.
+
+646
+00:42:52,836 --> 00:42:55,202
+We don't need to see
+his identification.
+
+647
+00:42:55,272 --> 00:42:57,672
+These aren't the droids
+you're looking for.
+
+648
+00:42:57,741 --> 00:42:59,834
+These aren't the droids
+we're looking for.
+
+649
+00:42:59,910 --> 00:43:03,175
+He can go about his business.
+
+650
+00:43:03,247 --> 00:43:05,681
+You can go about your business.
+
+651
+00:43:05,749 --> 00:43:06,773
+Move along.
+
+652
+00:43:06,850 --> 00:43:08,112
+Move along.
+
+653
+00:43:08,185 --> 00:43:09,379
+Move along.
+
+654
+00:43:19,697 --> 00:43:23,633
+I can't abide those Jawas.
+Disgusting creatures!
+
+655
+00:43:23,701 --> 00:43:26,192
+Go on, go on.
+
+656
+00:43:27,538 --> 00:43:29,972
+I can't understand how
+we got by those troops.
+
+657
+00:43:30,040 --> 00:43:31,439
+I thought we were dead.
+
+658
+00:43:31,508 --> 00:43:34,272
+The Force can have
+a strong influence...
+
+659
+00:43:34,345 --> 00:43:35,812
+on the weak-minded.
+
+660
+00:43:37,915 --> 00:43:40,008
+Do you really think we're
+gonna find a pilot here...
+
+661
+00:43:40,084 --> 00:43:42,177
+that'll take us to Alderaan?
+
+662
+00:43:42,252 --> 00:43:45,221
+Most of the best freighter pilots
+are to be found here...
+
+663
+00:43:45,289 --> 00:43:46,722
+only watch your step.
+
+664
+00:43:46,790 --> 00:43:48,553
+This place can be a little rough.
+
+665
+00:43:48,626 --> 00:43:50,753
+I'm ready for anything.
+
+666
+00:43:54,231 --> 00:43:55,789
+Come along, R2.
+
+667
+00:43:59,737 --> 00:44:01,671
+[Alien Lounge Music Plays]
+
+668
+00:44:27,798 --> 00:44:30,062
+[Laughter]
+
+669
+00:44:46,216 --> 00:44:49,310
+Hey! We don't serve their kind here.
+
+670
+00:44:49,386 --> 00:44:50,444
+What?
+
+671
+00:44:50,521 --> 00:44:52,079
+Your droids,
+they'll have to wait outside.
+
+672
+00:44:52,156 --> 00:44:53,316
+We don't want them here.
+
+673
+00:44:53,390 --> 00:44:54,584
+Why don't you wait
+out by the speeder?
+
+674
+00:44:54,658 --> 00:44:55,750
+We don't want any trouble.
+
+675
+00:44:55,826 --> 00:44:57,726
+I heartily agree with you, sir.
+
+676
+00:45:05,402 --> 00:45:07,393
+Uh...
+
+677
+00:45:07,471 --> 00:45:08,768
+I'll have one of those.
+
+678
+00:45:37,234 --> 00:45:38,462
+[Speaking Alien Language]
+
+679
+00:45:44,274 --> 00:45:46,037
+He doesn't like you.
+
+680
+00:45:46,110 --> 00:45:47,941
+I'm sorry.
+
+681
+00:45:48,011 --> 00:45:50,639
+I don't like you, either.
+
+682
+00:45:50,714 --> 00:45:52,545
+You just watch yourself.
+
+683
+00:45:52,616 --> 00:45:53,810
+We're wanted men.
+
+684
+00:45:53,884 --> 00:45:57,217
+I have the death sentence on 12 systems.
+
+685
+00:45:57,287 --> 00:45:58,811
+I'll be careful.
+
+686
+00:45:58,889 --> 00:46:00,151
+You'll be dead!
+
+687
+00:46:00,224 --> 00:46:02,158
+This little one's not worth the effort.
+
+688
+00:46:02,226 --> 00:46:04,524
+Come, let me get you something.
+
+689
+00:46:10,367 --> 00:46:13,336
+Aah!
+
+690
+00:46:31,555 --> 00:46:33,079
+I'm all right.
+
+691
+00:46:34,191 --> 00:46:36,625
+Chewbacca here is first mate...
+
+692
+00:46:36,693 --> 00:46:39,753
+on a ship that might suit us.
+
+693
+00:46:42,699 --> 00:46:46,191
+I don't like the look of this.
+
+694
+00:47:00,651 --> 00:47:04,747
+Han Solo. I'm captain
+of the <i>Millennium Falcon.</i>
+
+695
+00:47:04,822 --> 00:47:08,223
+Chewie here tells me you're looking
+for passage to the Alderaan system.
+
+696
+00:47:08,292 --> 00:47:10,624
+Yes, indeed,
+if it's a fast ship.
+
+697
+00:47:10,694 --> 00:47:13,629
+Fast ship? You've never heard
+of the <i>Millennium Falcon?</i>
+
+698
+00:47:13,697 --> 00:47:16,222
+Should I have?
+
+699
+00:47:16,300 --> 00:47:19,463
+It's the ship that made the Kessel run
+in less than 12 parsecs.
+
+700
+00:47:21,471 --> 00:47:23,701
+I've outrun imperial starships.
+
+701
+00:47:23,774 --> 00:47:25,867
+Not the local bulk cruisers,
+mind you.
+
+702
+00:47:25,943 --> 00:47:28,070
+I'm talking about
+the big Corellian ships now.
+
+703
+00:47:29,880 --> 00:47:32,246
+She's fast enough for you,
+old man.
+
+704
+00:47:32,316 --> 00:47:33,977
+What's the cargo?
+
+705
+00:47:34,051 --> 00:47:37,214
+Only passengers...
+myself, the boy...
+
+706
+00:47:37,287 --> 00:47:38,811
+two droids...
+
+707
+00:47:38,889 --> 00:47:41,881
+and no questions asked.
+
+708
+00:47:41,959 --> 00:47:44,985
+What is it, some kind
+of local trouble?
+
+709
+00:47:45,062 --> 00:47:48,225
+Let's just say we'd like to avoid...
+
+710
+00:47:48,298 --> 00:47:50,266
+any imperial entanglements.
+
+711
+00:47:50,334 --> 00:47:54,134
+Well, that's the real trick, isn't it?
+
+712
+00:47:54,204 --> 00:47:56,502
+And it's gonna cost you
+something extra.
+
+713
+00:47:58,308 --> 00:48:00,071
+10,000, all in advance.
+
+714
+00:48:01,845 --> 00:48:03,107
+10,000?
+
+715
+00:48:03,180 --> 00:48:06,980
+We could almost
+buy our own ship for that!
+
+716
+00:48:07,050 --> 00:48:09,314
+But who's gonna fly it,
+kid, you?
+
+717
+00:48:09,386 --> 00:48:11,479
+You bet I could.
+I'm not such a bad pilot myself.
+
+718
+00:48:11,555 --> 00:48:13,989
+We don't have
+to sit here and listen...
+
+719
+00:48:14,057 --> 00:48:17,185
+We can pay you 2,000 now...
+
+720
+00:48:17,261 --> 00:48:20,321
+plus 15 when
+we reach Alderaan.
+
+721
+00:48:20,397 --> 00:48:22,262
+Seventeen, huh?
+
+722
+00:48:24,234 --> 00:48:28,261
+OK You guys got
+yourselves a ship.
+
+723
+00:48:28,338 --> 00:48:29,635
+We'll leave as soon
+as you're ready.
+
+724
+00:48:29,706 --> 00:48:30,832
+Docking Bay 94.
+
+725
+00:48:30,908 --> 00:48:32,102
+Ninety-four.
+
+726
+00:48:33,477 --> 00:48:36,105
+Looks like somebody's
+beginning to take an interest...
+
+727
+00:48:36,179 --> 00:48:38,613
+in your handiwork.
+
+728
+00:48:38,682 --> 00:48:40,809
+All right.
+We'll check it out.
+
+729
+00:48:51,895 --> 00:48:54,125
+17,000!
+
+730
+00:48:54,197 --> 00:48:55,755
+Those guys must really
+be desperate.
+
+731
+00:48:55,832 --> 00:48:57,925
+This could really save my neck.
+
+732
+00:48:58,001 --> 00:49:00,697
+Get back to the ship,
+get it ready.
+
+733
+00:49:00,771 --> 00:49:02,363
+You'll have to sell your speeder.
+
+734
+00:49:02,439 --> 00:49:06,012
+That's OK I'm never coming back
+to this planet again.
+
+735
+00:49:06,047 --> 00:49:08,537
+[Speaking Huttese]
+Going somewhere, Solo?
+
+736
+00:49:08,682 --> 00:49:10,479
+[Speaking English]
+Yes, Greedo.
+
+737
+00:49:10,550 --> 00:49:11,710
+As a matter of fact,
+I was just going to see your boss.
+
+738
+00:49:11,785 --> 00:49:13,878
+Tell Jabba that I've got his money.
+
+739
+00:49:13,954 --> 00:49:16,047
+[Speaking Huttese]
+It's too late.
+
+740
+00:49:16,122 --> 00:49:18,556
+You should have paid him
+when you had the chance.
+
+741
+00:49:18,625 --> 00:49:22,061
+Jabba's put a price on your head
+so large...
+
+742
+00:49:22,128 --> 00:49:25,120
+every bounty hunter in the galaxy
+will be looking for you.
+
+743
+00:49:25,198 --> 00:49:27,223
+I'm lucky I found you first.
+
+744
+00:49:27,300 --> 00:49:29,495
+[English]
+Yeah, but this time I've got the money.
+
+745
+00:49:29,569 --> 00:49:33,164
+[Huttese] If you give it to me,
+I might forget I found you.
+
+746
+00:49:33,239 --> 00:49:35,833
+[English]
+I don't have it with me.
+
+747
+00:49:35,909 --> 00:49:36,933
+Tell Jabba...
+
+748
+00:49:37,010 --> 00:49:39,171
+[Huttese]
+Jabba's through with you.
+
+749
+00:49:39,245 --> 00:49:41,805
+He has no time for smugglers...
+
+750
+00:49:41,881 --> 00:49:44,475
+who drop their shipments at
+the first sign of an imperial cruiser.
+
+751
+00:49:44,551 --> 00:49:46,246
+Han: Even I get boarded sometimes.
+
+752
+00:49:46,319 --> 00:49:48,412
+Do you think I had a choice?
+
+753
+00:49:48,488 --> 00:49:52,618
+[Huttese] You can tell that to Jabba.
+He may only take your ship.
+
+754
+00:49:52,692 --> 00:49:54,785
+Over my dead body.
+
+755
+00:49:54,861 --> 00:49:56,158
+Greedo: That's the idea.
+
+756
+00:49:56,229 --> 00:50:00,256
+I've been looking forward to this
+for a long time.
+
+757
+00:50:00,333 --> 00:50:02,028
+I'll bet you have.
+
+758
+00:50:15,015 --> 00:50:16,915
+Sorry about the mess.
+
+759
+00:50:26,092 --> 00:50:29,687
+Her resistance to the mind probe
+is considerable.
+
+760
+00:50:29,763 --> 00:50:32,857
+It'll be some time before we can
+extract any information from her.
+
+761
+00:50:32,932 --> 00:50:34,900
+The final checkout is completed.
+
+762
+00:50:34,968 --> 00:50:36,526
+All systems are operational.
+
+763
+00:50:36,603 --> 00:50:38,537
+What course shall we set?
+
+764
+00:50:38,605 --> 00:50:40,300
+Perhaps she would respond...
+
+765
+00:50:40,373 --> 00:50:42,307
+to an alternative
+form of persuasion.
+
+766
+00:50:42,375 --> 00:50:43,808
+What do you mean?
+
+767
+00:50:43,877 --> 00:50:45,811
+I think it is time
+we demonstrated...
+
+768
+00:50:45,879 --> 00:50:47,642
+the full power of this station.
+
+769
+00:50:47,714 --> 00:50:49,272
+Set your course for Alderaan.
+
+770
+00:50:49,349 --> 00:50:50,782
+With pleasure.
+
+771
+00:50:50,850 --> 00:50:53,182
+Lock the door, R2.
+
+772
+00:50:54,387 --> 00:50:57,720
+Check this side of the street.
+
+773
+00:51:01,061 --> 00:51:04,224
+The door's locked.
+Move on to the next.
+
+774
+00:51:09,369 --> 00:51:12,236
+I would much rather have
+gone with Master Luke...
+
+775
+00:51:12,305 --> 00:51:13,829
+than stay here with you.
+
+776
+00:51:13,907 --> 00:51:16,273
+I don't know what
+all this trouble is about...
+
+777
+00:51:16,342 --> 00:51:18,037
+but I'm sure
+it must be your fault.
+
+778
+00:51:18,111 --> 00:51:19,043
+<i>[Beep Beep]</i>
+
+779
+00:51:19,112 --> 00:51:20,374
+You watch your language.
+
+780
+00:51:22,415 --> 00:51:25,680
+All right. Give it to me.
+I'll take it.
+
+781
+00:51:25,752 --> 00:51:27,151
+Look at this.
+
+782
+00:51:27,220 --> 00:51:29,381
+Ever since the XP-38 came out,
+they just aren't in demand.
+
+783
+00:51:29,456 --> 00:51:30,946
+It'll be enough.
+
+784
+00:51:48,575 --> 00:51:50,634
+If the ship's as fast as he's boasting...
+
+785
+00:51:50,710 --> 00:51:52,075
+we ought to do well.
+
+786
+00:52:03,056 --> 00:52:04,717
+[Speaking Alien Language]
+
+787
+00:52:14,400 --> 00:52:16,334
+What a piece of junk!
+
+788
+00:52:16,402 --> 00:52:18,632
+She'll make.5 past light speed.
+
+789
+00:52:18,705 --> 00:52:20,229
+She may not look like much...
+
+790
+00:52:20,306 --> 00:52:21,967
+but she's got it
+where it counts, kid.
+
+791
+00:52:22,041 --> 00:52:24,771
+I've made a lot of
+special modifications myself.
+
+792
+00:52:24,844 --> 00:52:27,369
+But we're a little rushed,
+so if you'll just get on board...
+
+793
+00:52:27,447 --> 00:52:28,937
+we'll get outta here.
+
+794
+00:52:33,520 --> 00:52:34,748
+Hello, sir.
+
+795
+00:52:43,830 --> 00:52:45,297
+Which way?
+
+796
+00:52:45,365 --> 00:52:46,798
+[Speaking Alien Language]
+
+797
+00:52:46,866 --> 00:52:49,232
+All right, men,
+load your weapons.
+
+798
+00:52:50,770 --> 00:52:53,364
+Stop that ship!
+Blast them!
+
+799
+00:53:02,682 --> 00:53:04,479
+Chewie, get us out of here!
+
+800
+00:53:05,919 --> 00:53:10,185
+Oh, my. I'd forgotten how much
+I hate space travel.
+
+801
+00:53:21,467 --> 00:53:24,493
+[Grrr]
+
+802
+00:53:25,572 --> 00:53:27,039
+Looks like an imperial cruiser.
+
+803
+00:53:27,106 --> 00:53:28,073
+Our passengers must be hotter
+than I thought.
+
+804
+00:53:28,141 --> 00:53:29,574
+Try and hold 'em off.
+
+805
+00:53:29,642 --> 00:53:31,633
+Angle the deflector shields
+while I make the calculations...
+
+806
+00:53:31,711 --> 00:53:32,643
+for the jump to light speed.
+
+807
+00:53:42,889 --> 00:53:44,720
+Stay sharp.
+There's two more comin' in.
+
+808
+00:53:44,791 --> 00:53:46,349
+They're gonna try
+and cut us off.
+
+809
+00:53:46,426 --> 00:53:48,291
+Why don't you outrun 'em?
+I thought you said this thing was fast!
+
+810
+00:53:48,361 --> 00:53:50,420
+Watch your mouth, kid, or you're
+gonna find yourself floating home.
+
+811
+00:53:50,496 --> 00:53:51,895
+We'll be safe enough...
+
+812
+00:53:51,965 --> 00:53:53,933
+once we make the jump
+to hyperspace.
+
+813
+00:53:54,000 --> 00:53:55,900
+Besides, I know a few maneuvers.
+We'll lose 'em.
+
+814
+00:53:59,973 --> 00:54:02,032
+Here's where the fun begins.
+
+815
+00:54:02,108 --> 00:54:03,905
+How long before you can make
+the jump to light speed?
+
+816
+00:54:03,977 --> 00:54:06,741
+It'll take a few moments to get
+the coordinates from the navicomputer.
+
+817
+00:54:06,813 --> 00:54:08,576
+Are you kidding?
+At the rate they're gaining?
+
+818
+00:54:08,648 --> 00:54:11,845
+Traveling through hyperspace
+ain't like dustin' crops, boy!
+
+819
+00:54:11,918 --> 00:54:13,146
+Without precise calculations...
+
+820
+00:54:13,219 --> 00:54:14,243
+we'd fly right through a star...
+
+821
+00:54:14,320 --> 00:54:15,810
+or bounce too close
+to a supernova...
+
+822
+00:54:15,888 --> 00:54:17,981
+and that would end your trip
+real quick, wouldn't it?
+
+823
+00:54:18,057 --> 00:54:18,955
+What's that flashing?
+
+824
+00:54:19,025 --> 00:54:19,992
+We're losing a deflector shield.
+
+825
+00:54:20,059 --> 00:54:21,492
+Go strap yourselves in.
+
+826
+00:54:21,561 --> 00:54:23,461
+I'm gonna make the jump to light speed.
+
+827
+00:54:44,450 --> 00:54:46,850
+We've entered the Alderaan system.
+
+828
+00:54:46,919 --> 00:54:48,181
+Governor Tarkin.
+
+829
+00:54:48,254 --> 00:54:49,721
+I should have expected...
+
+830
+00:54:49,789 --> 00:54:51,757
+to find you holding Vader's leash.
+
+831
+00:54:51,824 --> 00:54:53,416
+I recognized your foul stench...
+
+832
+00:54:53,493 --> 00:54:55,484
+when I was brought on board.
+
+833
+00:54:56,596 --> 00:54:58,860
+Charming to the last.
+
+834
+00:54:58,931 --> 00:55:01,627
+You don't know
+how hard I found it...
+
+835
+00:55:01,701 --> 00:55:03,760
+signing the order
+to terminate your life.
+
+836
+00:55:03,836 --> 00:55:04,928
+I'm surprised you had the courage...
+
+837
+00:55:05,004 --> 00:55:06,596
+to take the responsibility yourself.
+
+838
+00:55:06,673 --> 00:55:09,733
+Princess Leia,
+before your execution...
+
+839
+00:55:09,809 --> 00:55:11,436
+I would like you to be my guest...
+
+840
+00:55:11,511 --> 00:55:15,140
+at a ceremony that will make
+this battle station operational.
+
+841
+00:55:15,214 --> 00:55:18,342
+No star system will dare
+oppose the emperor now.
+
+842
+00:55:18,418 --> 00:55:20,886
+The more you tighten
+your grip, Tarkin...
+
+843
+00:55:20,953 --> 00:55:23,751
+the more star systems
+will slip through your fingers.
+
+844
+00:55:23,823 --> 00:55:26,815
+Not after we demonstrate
+the power of this station.
+
+845
+00:55:26,893 --> 00:55:29,327
+In a way,
+you have determined...
+
+846
+00:55:29,395 --> 00:55:32,262
+the choice of the planet
+that will be destroyed first.
+
+847
+00:55:32,332 --> 00:55:34,232
+Since you are reluctant...
+
+848
+00:55:34,300 --> 00:55:37,269
+to provide us with the location
+of the rebel base...
+
+849
+00:55:37,337 --> 00:55:40,272
+I have chosen to test this station's
+destructive power...
+
+850
+00:55:40,340 --> 00:55:43,434
+on your home planet of Alderaan.
+
+851
+00:55:43,509 --> 00:55:44,567
+No! Alderaan is peaceful.
+
+852
+00:55:44,644 --> 00:55:45,975
+We have no weapons.
+You can't possibly...
+
+853
+00:55:46,045 --> 00:55:48,411
+You would prefer another target?
+A military target?
+
+854
+00:55:48,481 --> 00:55:50,972
+Then name the system.
+
+855
+00:55:52,885 --> 00:55:56,286
+I grow tired of asking this,
+so it will be the last time.
+
+856
+00:55:56,356 --> 00:55:59,018
+Where is the rebel base?
+
+857
+00:56:02,562 --> 00:56:04,792
+Dantooine.
+
+858
+00:56:04,864 --> 00:56:06,331
+They're on Dantooine.
+
+859
+00:56:06,399 --> 00:56:08,833
+There. You see, Lord Vader?
+
+860
+00:56:08,901 --> 00:56:10,334
+She can be reasonable.
+
+861
+00:56:10,403 --> 00:56:12,303
+Continue with the operation.
+You may fire when ready.
+
+862
+00:56:12,372 --> 00:56:13,862
+What?
+
+863
+00:56:13,940 --> 00:56:15,339
+You're far too trusting.
+
+864
+00:56:15,408 --> 00:56:16,875
+Dantooine is too remote...
+
+865
+00:56:16,943 --> 00:56:19,537
+to make an effective demonstration,
+but don't worry.
+
+866
+00:56:19,612 --> 00:56:22,547
+We will deal with your rebel friends
+soon enough.
+
+867
+00:56:22,615 --> 00:56:23,707
+No!
+
+868
+00:56:24,951 --> 00:56:27,044
+Commence primary ignition.
+
+869
+00:56:50,176 --> 00:56:53,577
+Are you all right?
+What's wrong?
+
+870
+00:56:53,646 --> 00:56:56,080
+I felt a great disturbance
+in the Force...
+
+871
+00:56:56,149 --> 00:56:57,673
+as if millions of voices...
+
+872
+00:56:57,750 --> 00:56:59,684
+suddenly cried out in terror...
+
+873
+00:56:59,752 --> 00:57:01,344
+and were suddenly silenced.
+
+874
+00:57:01,421 --> 00:57:04,219
+I fear something terrible
+has happened.
+
+875
+00:57:05,491 --> 00:57:08,324
+You'd better get on
+with your exercises.
+
+876
+00:57:10,363 --> 00:57:13,127
+Well, you can forget your troubles
+with those imperial slugs.
+
+877
+00:57:13,199 --> 00:57:15,190
+I told you I'd outrun them.
+
+878
+00:57:19,205 --> 00:57:21,298
+Don't everybody thank me at once.
+
+879
+00:57:21,374 --> 00:57:25,868
+Anyway, we should be at Alderaan
+about 0200 hours.
+
+880
+00:57:33,352 --> 00:57:35,183
+Now be careful, R2.
+
+881
+00:57:43,196 --> 00:57:44,788
+Argh!
+
+882
+00:57:44,864 --> 00:57:46,661
+He made a fair move.
+Screaming about it can't help you.
+
+883
+00:57:46,732 --> 00:57:49,599
+Let him have it. It's not wise
+to upset a Wookiee.
+
+884
+00:57:49,669 --> 00:57:52,069
+But, sir, nobody worries
+about upsetting a droid.
+
+885
+00:57:52,138 --> 00:57:55,198
+That's 'cause a droid don't pull
+people's arms out of their sockets...
+
+886
+00:57:55,274 --> 00:57:56,741
+when they lose.
+
+887
+00:57:56,809 --> 00:57:58,868
+Wookiees are known to do that.
+
+888
+00:57:58,945 --> 00:58:00,640
+Grrr...
+
+889
+00:58:00,713 --> 00:58:03,204
+I see your point, sir.
+
+890
+00:58:03,282 --> 00:58:04,749
+I suggest a new strategy, R2.
+
+891
+00:58:04,817 --> 00:58:06,307
+Let the Wookiee win.
+
+892
+00:58:06,385 --> 00:58:08,945
+Argh!
+
+893
+00:58:24,203 --> 00:58:28,435
+Remember, a Jedi can feel the Force
+flowing through him.
+
+894
+00:58:28,508 --> 00:58:30,533
+You mean it controls your actions?
+
+895
+00:58:30,610 --> 00:58:33,511
+Partially, but it also
+obeys your commands.
+
+896
+00:58:36,382 --> 00:58:37,974
+[Han Solo Laughs]
+
+897
+00:58:38,050 --> 00:58:41,144
+Hokey religions and
+ancient weapons are no match...
+
+898
+00:58:41,220 --> 00:58:42,949
+for a good blaster
+at your side, kid.
+
+899
+00:58:43,022 --> 00:58:45,354
+You don't believe
+in the Force, do you?
+
+900
+00:58:45,424 --> 00:58:48,723
+Kid, I've flown from
+one side of this galaxy to the other.
+
+901
+00:58:48,794 --> 00:58:50,386
+I've seen a lot of strange stuff...
+
+902
+00:58:50,463 --> 00:58:52,829
+but I've never seen anything
+to make me believe...
+
+903
+00:58:52,899 --> 00:58:56,391
+there's one all-powerful force
+controlling everything.
+
+904
+00:58:56,469 --> 00:59:00,633
+Han: There's no mystical
+energy field controls my destiny.
+
+905
+00:59:00,706 --> 00:59:04,699
+It's all a lot of
+simple tricks and nonsense.
+
+906
+00:59:04,777 --> 00:59:07,712
+I suggest you try it again, Luke.
+
+907
+00:59:07,780 --> 00:59:10,715
+This time, let go
+your conscious self...
+
+908
+00:59:12,652 --> 00:59:14,813
+and act on instinct.
+
+909
+00:59:14,887 --> 00:59:18,254
+With the blast shield down,
+I can't even see.
+
+910
+00:59:18,324 --> 00:59:19,757
+How am I supposed to fight?
+
+911
+00:59:19,825 --> 00:59:20,849
+Your eyes can deceive you.
+
+912
+00:59:20,927 --> 00:59:22,019
+Don't trust them.
+
+913
+00:59:31,437 --> 00:59:33,769
+Stretch out with your feelings.
+
+914
+00:59:48,187 --> 00:59:50,382
+You see? You can do it.
+
+915
+00:59:50,456 --> 00:59:52,117
+Han: I call it luck.
+
+916
+00:59:52,191 --> 00:59:54,853
+In my experience,
+there's no such thing as luck.
+
+917
+00:59:54,927 --> 00:59:57,327
+Look, good against remotes
+is one thing.
+
+918
+00:59:57,396 --> 01:00:00,331
+Good against the living,
+that's something else.
+
+919
+01:00:00,399 --> 01:00:01,661
+[Beeping]
+
+920
+01:00:01,734 --> 01:00:03,361
+Looks like we're coming
+up on Alderaan.
+
+921
+01:00:06,706 --> 01:00:08,071
+You know, I did feel something.
+
+922
+01:00:08,140 --> 01:00:09,334
+I could almost see the remote.
+
+923
+01:00:09,408 --> 01:00:10,340
+That's good.
+
+924
+01:00:10,409 --> 01:00:12,343
+You've taken your first step...
+
+925
+01:00:12,411 --> 01:00:14,242
+into a larger world.
+
+926
+01:00:18,684 --> 01:00:19,776
+Yes?
+
+927
+01:00:19,852 --> 01:00:22,787
+Our scout ships have
+reached Dantooine.
+
+928
+01:00:22,855 --> 01:00:24,789
+They found the remains
+of a rebel base...
+
+929
+01:00:24,857 --> 01:00:27,257
+but they estimate that it has
+been deserted for some time.
+
+930
+01:00:27,326 --> 01:00:30,887
+They are now conducting an extensive
+search of the surrounding systems.
+
+931
+01:00:30,963 --> 01:00:33,989
+She lied. She lied to us!
+
+932
+01:00:34,066 --> 01:00:36,830
+I told you she would never...
+
+933
+01:00:36,902 --> 01:00:39,336
+consciously betray the rebellion.
+
+934
+01:00:39,405 --> 01:00:41,807
+Terminate her immediately.
+
+935
+01:00:44,610 --> 01:00:45,770
+Stand by, Chewie.
+Here we go.
+
+936
+01:00:45,844 --> 01:00:47,311
+Cut in the sublight engines.
+
+937
+01:00:49,515 --> 01:00:51,142
+What the...
+
+938
+01:00:52,184 --> 01:00:54,175
+Arrghh arrgh!
+
+939
+01:00:54,253 --> 01:00:56,687
+We've come out of hyperspace
+into a meteor shower.
+
+940
+01:00:56,755 --> 01:00:57,983
+Some kind of asteroid collision.
+
+941
+01:00:58,057 --> 01:00:59,251
+It's not on any of the charts.
+
+942
+01:00:59,324 --> 01:01:00,382
+What's going on?
+
+943
+01:01:00,459 --> 01:01:02,825
+Our position's correct,
+except no Alderaan.
+
+944
+01:01:02,895 --> 01:01:04,192
+What do you mean?
+Where is it?
+
+945
+01:01:04,263 --> 01:01:05,457
+That's what I'm trying
+to tell you, kid.
+
+946
+01:01:05,531 --> 01:01:07,055
+It ain't there. It's
+been totally blown away.
+
+947
+01:01:07,132 --> 01:01:08,099
+What? How?
+
+948
+01:01:08,167 --> 01:01:09,862
+Destroyed by the Empire.
+
+949
+01:01:09,935 --> 01:01:12,267
+The entire starfleet couldn't destroy
+the whole planet.
+
+950
+01:01:12,337 --> 01:01:13,998
+It would take 1,000 ships
+with more firepower than...
+
+951
+01:01:14,073 --> 01:01:15,597
+[Beep]
+
+952
+01:01:15,674 --> 01:01:17,505
+There's another ship coming in.
+
+953
+01:01:17,576 --> 01:01:18,600
+Maybe they know what happened.
+
+954
+01:01:18,677 --> 01:01:20,008
+It's an imperial fighter.
+
+955
+01:01:21,547 --> 01:01:22,673
+It followed us!
+
+956
+01:01:22,748 --> 01:01:24,807
+No. It's a short-range fighter.
+
+957
+01:01:24,883 --> 01:01:26,908
+There aren't any bases around here.
+Where did it come from?
+
+958
+01:01:30,155 --> 01:01:31,952
+It sure is leaving in a big hurry.
+
+959
+01:01:32,024 --> 01:01:32,956
+If they identify us,
+we're in big trouble.
+
+960
+01:01:33,025 --> 01:01:33,957
+Not if I can help it.
+
+961
+01:01:34,026 --> 01:01:35,118
+Chewie, jam its transmissions.
+
+962
+01:01:35,194 --> 01:01:36,252
+It would be as well to let it go.
+
+963
+01:01:36,328 --> 01:01:37,260
+It's too far out of range.
+
+964
+01:01:37,329 --> 01:01:38,591
+Not for long.
+
+965
+01:01:41,500 --> 01:01:45,698
+A fighter that size couldn't get
+this deep into space on its own.
+
+966
+01:01:45,771 --> 01:01:48,433
+He must have gotten lost,
+been part of a convoy or something.
+
+967
+01:01:48,507 --> 01:01:50,168
+Well, he ain't gonna
+be around long enough...
+
+968
+01:01:50,242 --> 01:01:51,402
+to tell anybody about us.
+
+969
+01:01:53,879 --> 01:01:55,471
+Luke: Look at him.
+He's heading for that small moon.
+
+970
+01:01:55,547 --> 01:01:58,448
+Han: I think I can get him before
+he gets there. He's almost in range.
+
+971
+01:02:00,018 --> 01:02:02,077
+That's no moon.
+
+972
+01:02:02,154 --> 01:02:03,644
+It's a space station.
+
+973
+01:02:03,722 --> 01:02:05,553
+It's too big to be a space station.
+
+974
+01:02:08,861 --> 01:02:11,329
+I have a very bad feeling about this.
+
+975
+01:02:11,396 --> 01:02:13,193
+Turn the ship around.
+
+976
+01:02:13,265 --> 01:02:15,495
+Yeah. I think you're right.
+Full reverse!
+
+977
+01:02:15,567 --> 01:02:17,762
+Chewie, lock in
+the auxiliary power.
+
+978
+01:02:22,007 --> 01:02:24,475
+Chewie, lock in
+the auxiliary power!
+
+979
+01:02:26,845 --> 01:02:28,608
+Luke: Why are we still
+moving towards it?!
+
+980
+01:02:28,680 --> 01:02:30,511
+We're caught in a tractor beam.
+It's pulling us in!
+
+981
+01:02:30,582 --> 01:02:32,277
+There's got to be
+something you can do!
+
+982
+01:02:32,351 --> 01:02:33,477
+There's nothing
+I can do about it, kid.
+
+983
+01:02:33,552 --> 01:02:34,985
+I'm at full power.
+I'm gonna have to shut down.
+
+984
+01:02:35,053 --> 01:02:36,680
+They're not gonna
+get me without a fight.
+
+985
+01:02:41,226 --> 01:02:42,557
+You can't win...
+
+986
+01:02:42,628 --> 01:02:44,789
+but there are alternatives
+to fighting.
+
+987
+01:03:01,413 --> 01:03:03,574
+Clear Bay 327.
+
+988
+01:03:03,649 --> 01:03:06,049
+We are opening
+the magnetic field.
+
+989
+01:03:20,632 --> 01:03:21,894
+To your stations!
+
+990
+01:03:21,967 --> 01:03:23,298
+Come with me.
+
+991
+01:03:27,206 --> 01:03:28,764
+<i>Close all outboard shields.</i>
+
+992
+01:03:28,840 --> 01:03:30,831
+<i>Close all outboard shields.</i>
+
+993
+01:03:32,277 --> 01:03:33,301
+- [Beep]
+- Yes?
+
+994
+01:03:33,378 --> 01:03:34,709
+<i>We've captured a freighter...</i>
+
+995
+01:03:34,780 --> 01:03:36,304
+<i>entering the remains</i>
+<i>of the Alderaan system.</i>
+
+996
+01:03:36,381 --> 01:03:38,178
+<i>Its markings match</i>
+<i>those of a ship...</i>
+
+997
+01:03:38,250 --> 01:03:40,718
+<i>that blasted its way</i>
+<i>out of Mos Eisley.</i>
+
+998
+01:03:40,786 --> 01:03:44,347
+They must be trying to return
+the stolen plans to the princess.
+
+999
+01:03:44,423 --> 01:03:47,392
+She may yet be of some use to us.
+
+1000
+01:03:52,064 --> 01:03:56,057
+<i>Unlock 1, 5, 7, and 9.</i>
+<i>Release charge.</i>
+
+1001
+01:03:57,903 --> 01:04:00,030
+<i>316, report to control.</i>
+
+1002
+01:04:02,975 --> 01:04:05,000
+There's no one on board, sir.
+
+1003
+01:04:05,077 --> 01:04:07,841
+According to the log, the crew
+abandoned ship right after takeoff.
+
+1004
+01:04:07,913 --> 01:04:09,813
+It must be a decoy, sir.
+
+1005
+01:04:09,881 --> 01:04:11,473
+Several of the escape pods
+have been jettisoned.
+
+1006
+01:04:11,550 --> 01:04:12,482
+Did you find any droids?
+
+1007
+01:04:12,551 --> 01:04:13,518
+No, sir.
+
+1008
+01:04:13,585 --> 01:04:15,450
+If there were any on board,
+they must also have jettisoned.
+
+1009
+01:04:15,520 --> 01:04:17,078
+Send a scanning crew aboard.
+
+1010
+01:04:17,155 --> 01:04:18,986
+I want every part
+of this ship checked.
+
+1011
+01:04:19,057 --> 01:04:20,081
+Yes, sir.
+
+1012
+01:04:20,158 --> 01:04:21,591
+I sense something...
+
+1013
+01:04:21,660 --> 01:04:24,652
+a presence I've not felt since...
+
+1014
+01:04:27,299 --> 01:04:28,891
+Get me a scanning crew in here
+on the double.
+
+1015
+01:04:28,967 --> 01:04:30,696
+I want every part
+of this ship checked.
+
+1016
+01:04:50,455 --> 01:04:52,423
+Boy, it's lucky you had
+these compartments.
+
+1017
+01:04:52,491 --> 01:04:53,788
+I use them for smuggling.
+
+1018
+01:04:53,859 --> 01:04:55,690
+I never thought I'd
+be smuggling myself in 'em.
+
+1019
+01:04:55,761 --> 01:04:57,160
+This is ridiculous.
+
+1020
+01:04:57,229 --> 01:04:58,526
+Even if I could take off...
+
+1021
+01:04:58,597 --> 01:05:00,121
+I'd never get past
+the tractor beam.
+
+1022
+01:05:00,198 --> 01:05:01,495
+Leave that to me.
+
+1023
+01:05:01,566 --> 01:05:04,467
+Damn fool, I knew
+that you were gonna say that.
+
+1024
+01:05:04,536 --> 01:05:05,867
+Who's the more foolish...
+
+1025
+01:05:05,937 --> 01:05:07,996
+the fool or the fool
+who follows him?
+
+1026
+01:05:08,073 --> 01:05:09,563
+Argh!
+
+1027
+01:05:16,748 --> 01:05:18,181
+The ship's all yours.
+
+1028
+01:05:18,250 --> 01:05:20,184
+If the scanners pick up anything...
+
+1029
+01:05:20,252 --> 01:05:22,186
+report it immediately.
+
+1030
+01:05:22,254 --> 01:05:24,085
+All right, let's go.
+
+1031
+01:05:36,935 --> 01:05:38,926
+[Thud]
+
+1032
+01:05:39,004 --> 01:05:40,437
+Han: Hey, down there!
+
+1033
+01:05:42,441 --> 01:05:44,534
+Could you give us a hand
+with this?
+
+1034
+01:05:49,381 --> 01:05:51,542
+[Zap Zap]
+
+1035
+01:05:53,018 --> 01:05:56,044
+TK-421, why aren't you
+at your post?
+
+1036
+01:05:56,121 --> 01:05:58,453
+TK-421, do you copy?
+
+1037
+01:06:10,702 --> 01:06:12,567
+Take over.
+We've got a bad transmitter.
+
+1038
+01:06:12,637 --> 01:06:14,502
+I'll see what I can do.
+
+1039
+01:06:17,209 --> 01:06:19,074
+Grrr!
+
+1040
+01:06:30,822 --> 01:06:33,882
+Between his howling and your blasting
+everything in sight...
+
+1041
+01:06:33,959 --> 01:06:36,655
+it's a wonder the whole station
+doesn't know we're here.
+
+1042
+01:06:36,728 --> 01:06:37,956
+Bring them on!
+
+1043
+01:06:38,029 --> 01:06:39,394
+I'd prefer a straight fight
+to all this sneakin' around.
+
+1044
+01:06:39,464 --> 01:06:41,523
+We've found the computer outlet, sir.
+
+1045
+01:06:41,600 --> 01:06:44,398
+Plug in. He should be able to interpret
+the entire imperial network.
+
+1046
+01:06:44,469 --> 01:06:46,198
+<i>[Beep Blip]</i>
+
+1047
+01:06:49,741 --> 01:06:52,209
+<i>[Blip Bleep Whistle]</i>
+
+1048
+01:06:54,579 --> 01:06:57,275
+He says he's found
+the main controls...
+
+1049
+01:06:57,349 --> 01:06:59,783
+to the power beam that's
+holding the ship here.
+
+1050
+01:06:59,851 --> 01:07:02,046
+He'll try to make the precise location
+appear on the monitor.
+
+1051
+01:07:10,762 --> 01:07:13,629
+I don't think you boys can help.
+
+1052
+01:07:13,698 --> 01:07:15,461
+I must go alone.
+
+1053
+01:07:15,534 --> 01:07:17,001
+Whatever you say.
+
+1054
+01:07:17,068 --> 01:07:19,036
+I've done more than I bargained for
+on this trip already.
+
+1055
+01:07:19,104 --> 01:07:20,401
+I want to go with you.
+
+1056
+01:07:20,472 --> 01:07:23,100
+Be patient, Luke.
+Stay and watch over the droids.
+
+1057
+01:07:23,175 --> 01:07:24,665
+They must be delivered safely...
+
+1058
+01:07:24,743 --> 01:07:27,803
+or other star systems will suffer
+the same fate as Alderaan.
+
+1059
+01:07:27,879 --> 01:07:31,975
+Your destiny lies along
+a different path from mine.
+
+1060
+01:07:35,153 --> 01:07:38,987
+The Force will be with you always.
+
+1061
+01:07:45,360 --> 01:07:47,453
+Argh argh argh!
+
+1062
+01:07:47,529 --> 01:07:49,121
+You said it, Chewie.
+
+1063
+01:07:49,198 --> 01:07:52,690
+Where did you dig up
+that old fossil?
+
+1064
+01:07:52,768 --> 01:07:54,633
+Ben is a great man.
+
+1065
+01:07:54,703 --> 01:07:57,297
+Yeah, great at getting us
+into trouble.
+
+1066
+01:07:57,372 --> 01:07:58,737
+I didn't hear you give any ideas.
+
+1067
+01:07:58,807 --> 01:08:00,240
+Well, anything's better
+than just hangin' around...
+
+1068
+01:08:00,309 --> 01:08:01,503
+waiting for 'em to pick us up.
+
+1069
+01:08:01,577 --> 01:08:02,509
+Who do you think...
+
+1070
+01:08:02,578 --> 01:08:03,670
+<i>[Beep Beep]</i>
+
+1071
+01:08:03,745 --> 01:08:05,178
+What is it?
+
+1072
+01:08:05,247 --> 01:08:07,340
+I'm afraid I'm not quite sure, sir.
+
+1073
+01:08:07,416 --> 01:08:09,816
+He says "I've found her"
+and keeps repeating "She's here."
+
+1074
+01:08:09,885 --> 01:08:12,649
+Well, who... who has he found?
+
+1075
+01:08:12,721 --> 01:08:13,688
+Princess Leia.
+
+1076
+01:08:13,755 --> 01:08:15,484
+The princess?
+She's here?!
+
+1077
+01:08:15,557 --> 01:08:16,546
+Princess?
+
+1078
+01:08:16,625 --> 01:08:17,887
+Where? Where is she?
+
+1079
+01:08:17,960 --> 01:08:19,291
+Han: Princess? What's going on?
+
+1080
+01:08:19,361 --> 01:08:20,623
+<i>[Beep Blip]</i>
+
+1081
+01:08:20,696 --> 01:08:23,961
+<i>[Bleep Blip Beep]</i>
+
+1082
+01:08:24,032 --> 01:08:27,490
+Level 5, Detention Block AA-23.
+
+1083
+01:08:27,569 --> 01:08:29,594
+<i>[Beep Beep Blip]</i>
+
+1084
+01:08:31,573 --> 01:08:34,974
+I'm afraid she's scheduled
+to be terminated.
+
+1085
+01:08:35,043 --> 01:08:36,101
+Oh, no!
+
+1086
+01:08:36,178 --> 01:08:37,577
+Luke: We've got to do something!
+
+1087
+01:08:37,646 --> 01:08:39,273
+What are you talking about?
+
+1088
+01:08:39,348 --> 01:08:40,610
+The droids belong to her.
+
+1089
+01:08:40,682 --> 01:08:41,614
+She's the one in the message.
+
+1090
+01:08:41,683 --> 01:08:42,911
+We got to help her.
+
+1091
+01:08:42,985 --> 01:08:44,077
+Now look, don't get
+any funny ideas.
+
+1092
+01:08:44,153 --> 01:08:45,415
+The old man wants us
+to wait right here.
+
+1093
+01:08:45,487 --> 01:08:46,749
+But he didn't know
+she was here.
+
+1094
+01:08:46,822 --> 01:08:49,188
+Just find a way back into that
+detention block.
+
+1095
+01:08:49,258 --> 01:08:50,452
+I'm not going anywhere.
+
+1096
+01:08:50,526 --> 01:08:51,493
+They're going to execute her.
+
+1097
+01:08:51,560 --> 01:08:52,993
+Look, a few minutes ago, you said...
+
+1098
+01:08:53,061 --> 01:08:54,119
+you didn't want to just wait here
+to be captured.
+
+1099
+01:08:54,196 --> 01:08:55,163
+Now all you want to do is stay?
+
+1100
+01:08:55,230 --> 01:08:57,027
+Marching into the detention area...
+
+1101
+01:08:57,099 --> 01:08:58,259
+is not what I had in mind.
+
+1102
+01:08:58,333 --> 01:08:59,425
+But they're gonna kill her!
+
+1103
+01:08:59,501 --> 01:09:01,162
+Better her than me.
+
+1104
+01:09:08,977 --> 01:09:10,308
+She's rich.
+
+1105
+01:09:10,379 --> 01:09:12,847
+Argh!
+
+1106
+01:09:12,915 --> 01:09:14,143
+Rich?
+
+1107
+01:09:14,216 --> 01:09:15,808
+Mm-hmm. Rich, powerful.
+
+1108
+01:09:15,884 --> 01:09:18,978
+Listen, if you were to rescue her,
+the reward would be...
+
+1109
+01:09:19,054 --> 01:09:20,146
+What?
+
+1110
+01:09:20,222 --> 01:09:21,814
+Well, more well
+than you can imagine.
+
+1111
+01:09:21,890 --> 01:09:24,290
+I don't know.
+I can imagine quite a bit.
+
+1112
+01:09:24,359 --> 01:09:25,485
+You'll get it.
+
+1113
+01:09:25,561 --> 01:09:26,619
+I better.
+
+1114
+01:09:26,695 --> 01:09:27,992
+You will.
+
+1115
+01:09:28,063 --> 01:09:29,826
+All right, kid.
+You better be right about this.
+
+1116
+01:09:29,898 --> 01:09:30,990
+All right.
+
+1117
+01:09:31,066 --> 01:09:31,998
+What's your plan?
+
+1118
+01:09:32,067 --> 01:09:33,261
+Um...
+
+1119
+01:09:33,335 --> 01:09:37,066
+will you?
+
+1120
+01:09:37,139 --> 01:09:39,164
+O.K.
+
+1121
+01:09:39,241 --> 01:09:41,471
+Now... I'm gonna
+put these on you.
+
+1122
+01:09:41,543 --> 01:09:42,532
+Grrr!
+
+1123
+01:09:42,611 --> 01:09:46,638
+OK Han, you... you put those on.
+
+1124
+01:09:46,715 --> 01:09:47,704
+Don't worry, Chewie.
+
+1125
+01:09:47,783 --> 01:09:49,375
+I think I know
+what he has in mind.
+
+1126
+01:09:49,451 --> 01:09:52,284
+Master Luke, sir,
+pardon me for asking...
+
+1127
+01:09:52,354 --> 01:09:55,221
+but what should R2 and I do
+if we're discovered here?
+
+1128
+01:09:55,290 --> 01:09:56,780
+Lock the door.
+
+1129
+01:09:56,858 --> 01:09:59,156
+And hope they don't have blasters.
+
+1130
+01:09:59,228 --> 01:10:00,957
+That isn't very reassuring.
+
+1131
+01:10:01,029 --> 01:10:02,360
+<i>[Beep Whistle]</i>
+
+1132
+01:10:06,668 --> 01:10:07,828
+Grrr!
+
+1133
+01:10:21,416 --> 01:10:22,849
+<i>517 to scanner control.</i>
+
+1134
+01:10:22,918 --> 01:10:26,251
+<i>517 to scanner control.</i>
+
+1135
+01:10:29,758 --> 01:10:31,817
+<i>316, report to control.</i>
+
+1136
+01:10:35,130 --> 01:10:37,690
+<i>53 to upper bay door.</i>
+
+1137
+01:10:37,766 --> 01:10:40,428
+<i>53 to upper bay door.</i>
+
+1138
+01:10:52,414 --> 01:10:54,712
+Luke: I can't see a thing
+in this helmet.
+
+1139
+01:11:24,913 --> 01:11:27,575
+Han: This is not gonna work.
+
+1140
+01:11:27,649 --> 01:11:28,843
+Luke: Why didn't you say so before?
+
+1141
+01:11:28,917 --> 01:11:30,908
+Han: I did say so before.
+
+1142
+01:11:45,934 --> 01:11:49,335
+Where are you taking this... thing?
+
+1143
+01:11:49,404 --> 01:11:52,168
+Luke: Prisoner transfer
+from Cell Block 1138.
+
+1144
+01:11:52,240 --> 01:11:54,765
+I wasn't notified.
+
+1145
+01:11:54,843 --> 01:11:57,004
+I'll have to clear it.
+
+1146
+01:12:02,117 --> 01:12:03,379
+Argh!
+
+1147
+01:12:03,452 --> 01:12:04,851
+Han: Look out! He's loose!
+
+1148
+01:12:04,920 --> 01:12:05,818
+Luke: He'll tear us all apart!
+
+1149
+01:12:05,887 --> 01:12:07,184
+I'll get him!
+
+1150
+01:12:30,746 --> 01:12:31,474
+Look out!
+
+1151
+01:12:37,819 --> 01:12:38,615
+Arrgh!
+
+1152
+01:12:38,687 --> 01:12:41,713
+[Beep Beep Beep]
+
+1153
+01:12:41,790 --> 01:12:44,281
+Han: We gotta find out which cell
+this princess of yours is in.
+
+1154
+01:12:44,359 --> 01:12:45,792
+Here it is... 2187.
+
+1155
+01:12:45,861 --> 01:12:48,455
+You go and get her.
+I'll hold them here.
+
+1156
+01:12:48,530 --> 01:12:51,294
+[Beep Beep Beep]
+
+1157
+01:12:51,366 --> 01:12:53,800
+Uh... Uh, everything's
+under control.
+
+1158
+01:12:53,869 --> 01:12:55,131
+Situation normal.
+
+1159
+01:12:55,203 --> 01:12:56,465
+<i>What happened?</i>
+
+1160
+01:12:56,538 --> 01:12:58,972
+Had a slight weapons malfunction...
+
+1161
+01:12:59,040 --> 01:13:01,304
+but, uh, everything's
+perfectly all right now.
+
+1162
+01:13:01,376 --> 01:13:04,174
+We're fine... We're all fine
+here now. Thank you.
+
+1163
+01:13:04,246 --> 01:13:05,474
+How are you?
+
+1164
+01:13:05,547 --> 01:13:07,481
+<i>We're sending a squad up.</i>
+
+1165
+01:13:07,549 --> 01:13:08,982
+Uh, negative, negative!
+
+1166
+01:13:09,050 --> 01:13:11,678
+We have a... a reactor leak
+here, uh, now.
+
+1167
+01:13:11,753 --> 01:13:12,879
+Give us a few minutes
+to lock it down.
+
+1168
+01:13:12,954 --> 01:13:14,819
+Uh, large leak, very dangerous.
+
+1169
+01:13:14,890 --> 01:13:17,654
+<i>Who is this? What's your</i>
+<i>operating number?</i>
+
+1170
+01:13:17,726 --> 01:13:18,886
+Uh...
+
+1171
+01:13:20,061 --> 01:13:21,289
+Boring conversation anyway.
+
+1172
+01:13:21,363 --> 01:13:24,230
+Luke! We're gonna have company!
+
+1173
+01:13:37,612 --> 01:13:40,137
+Aren't you a little short
+for a stormtrooper?
+
+1174
+01:13:40,215 --> 01:13:41,147
+Huh?
+
+1175
+01:13:41,216 --> 01:13:42,808
+Oh, the uniform.
+
+1176
+01:13:44,486 --> 01:13:46,545
+I'm Luke Skywalker.
+I'm here to rescue you.
+
+1177
+01:13:46,621 --> 01:13:48,088
+You're who?
+
+1178
+01:13:48,156 --> 01:13:49,316
+I'm here to rescue you.
+I've got your R2 unit.
+
+1179
+01:13:49,391 --> 01:13:50,551
+I'm here with Ben Kenobi.
+
+1180
+01:13:50,625 --> 01:13:51,819
+Ben Kenobi?!
+Where is he?
+
+1181
+01:13:51,893 --> 01:13:52,882
+Come on!
+
+1182
+01:13:54,729 --> 01:13:56,128
+He is here.
+
+1183
+01:13:56,198 --> 01:13:58,598
+Obi-Wan Kenobi?
+
+1184
+01:13:58,667 --> 01:13:59,929
+What makes you think so?
+
+1185
+01:14:00,001 --> 01:14:02,595
+A tremor in the Force.
+
+1186
+01:14:02,671 --> 01:14:03,729
+The last time I felt it...
+
+1187
+01:14:03,805 --> 01:14:06,103
+was in the presence
+of my old master.
+
+1188
+01:14:06,174 --> 01:14:08,665
+Surely he must be dead by now.
+
+1189
+01:14:08,743 --> 01:14:11,644
+Don't underestimate the Force.
+
+1190
+01:14:11,713 --> 01:14:13,647
+The Jedi are extinct.
+
+1191
+01:14:13,715 --> 01:14:15,979
+- Their fire has gone out of the universe.
+- [Beep]
+
+1192
+01:14:16,051 --> 01:14:19,509
+You, my friend, are all that's left
+of their religion.
+
+1193
+01:14:19,588 --> 01:14:21,146
+Yes.
+
+1194
+01:14:21,223 --> 01:14:22,190
+<i>We have an emergency alert...</i>
+
+1195
+01:14:22,257 --> 01:14:25,021
+<i>in Detention Block AA-23.</i>
+
+1196
+01:14:25,093 --> 01:14:26,287
+The princess?
+
+1197
+01:14:26,361 --> 01:14:27,692
+Put all sections on alert.
+
+1198
+01:14:27,762 --> 01:14:29,286
+Obi-Wan is here.
+
+1199
+01:14:29,364 --> 01:14:31,389
+The Force is with him.
+
+1200
+01:14:31,466 --> 01:14:32,524
+If you're right...
+
+1201
+01:14:32,601 --> 01:14:34,569
+he must not be
+allowed to escape.
+
+1202
+01:14:34,636 --> 01:14:36,194
+Escape is not his plan.
+
+1203
+01:14:36,271 --> 01:14:37,966
+I must face him alone.
+
+1204
+01:14:44,412 --> 01:14:46,505
+Argh!
+
+1205
+01:14:46,581 --> 01:14:48,811
+Get behind me!
+Get behind me!
+
+1206
+01:15:00,228 --> 01:15:01,354
+Watch your left.
+
+1207
+01:15:01,429 --> 01:15:02,987
+They went down the cell bay.
+
+1208
+01:15:05,767 --> 01:15:07,166
+Can't get out that way.
+
+1209
+01:15:07,235 --> 01:15:08,862
+Looks like you managed to cut off
+our only escape route.
+
+1210
+01:15:08,937 --> 01:15:13,340
+Maybe you'd like it back in your cell,
+Your Highness.
+
+1211
+01:15:13,408 --> 01:15:14,670
+C-3PO, C-3PO!
+
+1212
+01:15:14,743 --> 01:15:16,176
+<i>Yes, sir?</i>
+
+1213
+01:15:16,244 --> 01:15:18,041
+Are there any other ways
+out of the cell bay?
+
+1214
+01:15:18,113 --> 01:15:19,842
+We've been cut off!
+
+1215
+01:15:22,050 --> 01:15:24,314
+What was that?
+I didn't copy.
+
+1216
+01:15:24,386 --> 01:15:27,753
+I said all systems have been alerted
+to your presence, sir.
+
+1217
+01:15:27,822 --> 01:15:29,653
+The main entrance seems
+to be the only way in or out.
+
+1218
+01:15:29,724 --> 01:15:32,750
+All other information
+on your level is restricted.
+
+1219
+01:15:32,827 --> 01:15:34,385
+Stormtrooper:
+Open up in there!
+
+1220
+01:15:34,462 --> 01:15:36,362
+Open up in there!
+
+1221
+01:15:36,431 --> 01:15:38,160
+Oh, no!
+
+1222
+01:15:38,233 --> 01:15:39,825
+There isn't any other way out!
+
+1223
+01:15:41,903 --> 01:15:43,666
+Argh!
+
+1224
+01:15:45,407 --> 01:15:47,602
+I can't hold them off forever!
+Now what?!
+
+1225
+01:15:47,676 --> 01:15:49,507
+This is some rescue!
+
+1226
+01:15:49,578 --> 01:15:51,239
+You came in here, and you didn't
+have a plan for getting out?
+
+1227
+01:15:51,313 --> 01:15:53,372
+He's the brains, sweetheart!
+
+1228
+01:15:53,448 --> 01:15:54,642
+Well, I didn't...
+
+1229
+01:15:56,318 --> 01:15:57,342
+What the hell are you doing?
+
+1230
+01:15:57,419 --> 01:15:59,853
+Somebody has to save our skins.
+
+1231
+01:16:02,057 --> 01:16:03,854
+Into the garbage chute, flyboy.
+
+1232
+01:16:10,632 --> 01:16:12,361
+- Get in there!
+- Arrgh!
+
+1233
+01:16:12,434 --> 01:16:15,301
+Get in there, you big furry oaf!
+
+1234
+01:16:15,370 --> 01:16:16,564
+I don't care what you smell.
+
+1235
+01:16:16,638 --> 01:16:19,505
+Get in there, and
+don't worry about it.
+
+1236
+01:16:22,143 --> 01:16:23,610
+Wonderful girl!
+
+1237
+01:16:25,714 --> 01:16:26,646
+Either I'm going to kill her...
+
+1238
+01:16:26,715 --> 01:16:28,945
+or I'm beginning to like her.
+
+1239
+01:16:30,452 --> 01:16:33,319
+Get in there!
+
+1240
+01:16:36,024 --> 01:16:38,219
+Aah!
+
+1241
+01:16:40,028 --> 01:16:41,154
+Ah!
+
+1242
+01:16:41,229 --> 01:16:42,753
+Argh!
+
+1243
+01:16:44,599 --> 01:16:47,397
+The garbage chute was
+a really wonderful idea.
+
+1244
+01:16:47,469 --> 01:16:51,064
+What an incredible smell
+you've discovered!
+
+1245
+01:16:53,642 --> 01:16:55,906
+Let's get out of here.
+
+1246
+01:16:55,977 --> 01:16:57,308
+Get away from there.
+
+1247
+01:16:57,379 --> 01:16:58,311
+No, wait!
+
+1248
+01:17:05,086 --> 01:17:06,053
+Will you forget it?!
+I already tried it!
+
+1249
+01:17:06,121 --> 01:17:07,486
+It's magnetically sealed.
+
+1250
+01:17:07,555 --> 01:17:09,853
+Put that thing away!
+You're gonna get us all killed!
+
+1251
+01:17:09,924 --> 01:17:11,892
+Absolutely, Your Worship.
+
+1252
+01:17:11,960 --> 01:17:14,326
+Look, I had everything under control
+till you led us down here!
+
+1253
+01:17:14,396 --> 01:17:15,954
+Ya know, it's not
+gonna take 'em long...
+
+1254
+01:17:16,031 --> 01:17:17,555
+to figure out
+what happened to us!
+
+1255
+01:17:17,632 --> 01:17:19,566
+It could be worse.
+
+1256
+01:17:19,634 --> 01:17:20,623
+Woorr!
+
+1257
+01:17:23,271 --> 01:17:24,602
+It's worse.
+
+1258
+01:17:24,673 --> 01:17:26,197
+Luke: There's something alive in here.
+
+1259
+01:17:26,274 --> 01:17:27,707
+Han: That's your imagination.
+
+1260
+01:17:27,776 --> 01:17:30,609
+Something just moved past my leg.
+
+1261
+01:17:32,280 --> 01:17:34,373
+Look! Did you see that?
+
+1262
+01:17:34,449 --> 01:17:35,381
+What?
+
+1263
+01:17:35,450 --> 01:17:37,179
+Grrr!
+
+1264
+01:17:55,704 --> 01:17:56,602
+Woorr!
+
+1265
+01:17:56,671 --> 01:17:57,603
+Kid!
+
+1266
+01:17:57,672 --> 01:17:58,604
+Luke!
+
+1267
+01:17:58,673 --> 01:18:00,163
+Leia: Luke!
+
+1268
+01:18:00,241 --> 01:18:01,208
+Luke!
+
+1269
+01:18:02,410 --> 01:18:03,843
+Luke!
+
+1270
+01:18:07,282 --> 01:18:08,476
+Leia: Aah!
+
+1271
+01:18:08,550 --> 01:18:09,346
+Woorr!
+
+1272
+01:18:09,417 --> 01:18:13,046
+Luke! Luke, grab hold of this!
+
+1273
+01:18:13,121 --> 01:18:15,555
+Blast it!
+My gun's jammed.
+
+1274
+01:18:15,623 --> 01:18:17,284
+Where?
+
+1275
+01:18:17,358 --> 01:18:18,382
+Anywhere!
+
+1276
+01:18:26,201 --> 01:18:27,225
+Luke, Luke!
+
+1277
+01:18:46,688 --> 01:18:48,679
+[Clanking]
+
+1278
+01:18:50,992 --> 01:18:52,619
+Help him!
+
+1279
+01:18:52,694 --> 01:18:53,854
+What happened?
+
+1280
+01:18:53,928 --> 01:18:54,952
+I don't know.
+
+1281
+01:18:55,029 --> 01:18:57,361
+It just let go of me
+and disappeared.
+
+1282
+01:19:03,638 --> 01:19:07,369
+I got a bad feeling about this.
+
+1283
+01:19:07,442 --> 01:19:09,706
+Grrr!
+
+1284
+01:19:09,778 --> 01:19:11,712
+[Clanking]
+
+1285
+01:19:11,780 --> 01:19:12,712
+The walls are moving!
+
+1286
+01:19:12,781 --> 01:19:14,146
+Don't just stand there!
+
+1287
+01:19:14,215 --> 01:19:16,706
+Try and brace it with something.
+
+1288
+01:19:21,790 --> 01:19:23,815
+Grrr!
+
+1289
+01:19:23,892 --> 01:19:25,382
+Help me!
+
+1290
+01:19:38,039 --> 01:19:39,097
+Wait a minute!
+
+1291
+01:19:41,876 --> 01:19:43,605
+
+1292
+01:19:43,678 --> 01:19:46,078
+Come in, 3PO!
+
+1293
+01:19:46,147 --> 01:19:47,671
+<i>3PO!</i>
+
+1294
+01:19:47,749 --> 01:19:49,614
+<i>Where could he be?</i>
+
+1295
+01:19:54,289 --> 01:19:56,280
+Take over. See to him.
+
+1296
+01:19:58,293 --> 01:20:00,284
+Look, there.
+
+1297
+01:20:02,130 --> 01:20:03,597
+They're madmen.
+
+1298
+01:20:03,665 --> 01:20:04,927
+They're heading for the prison level.
+
+1299
+01:20:04,999 --> 01:20:06,557
+If you hurry, you might catch them.
+
+1300
+01:20:06,634 --> 01:20:08,124
+Follow me.
+
+1301
+01:20:12,240 --> 01:20:14,299
+You stand guard.
+
+1302
+01:20:18,146 --> 01:20:19,807
+Come on.
+
+1303
+01:20:21,816 --> 01:20:23,283
+<i>[Whistle Blip Beep]</i>
+
+1304
+01:20:23,351 --> 01:20:24,818
+Oh!
+
+1305
+01:20:28,323 --> 01:20:31,759
+All this excitement has overrun
+the circuits in my counterpart here.
+
+1306
+01:20:31,826 --> 01:20:35,284
+If you don't mind, I'd like to take him
+down to maintenance.
+
+1307
+01:20:35,363 --> 01:20:36,853
+All right.
+
+1308
+01:20:48,810 --> 01:20:49,742
+
+1309
+01:20:49,811 --> 01:20:51,210
+Come in, 3PO!
+
+1310
+01:20:51,279 --> 01:20:52,746
+
+1311
+01:20:52,814 --> 01:20:54,247
+Get on top!
+
+1312
+01:20:54,315 --> 01:20:55,509
+I can't.
+
+1313
+01:20:55,583 --> 01:20:58,484
+Where could he be?! 3PO!
+
+1314
+01:20:58,553 --> 01:21:00,680
+
+1315
+01:21:00,755 --> 01:21:02,017
+They aren't here.
+
+1316
+01:21:02,090 --> 01:21:03,352
+Something must have
+happened to them.
+
+1317
+01:21:03,424 --> 01:21:05,016
+See if they've been captured.
+
+1318
+01:21:05,093 --> 01:21:06,117
+Hurry.
+
+1319
+01:21:06,194 --> 01:21:08,185
+<i>[Whistle Blip Beep]</i>
+
+1320
+01:21:09,564 --> 01:21:11,191
+One thing's for sure...
+
+1321
+01:21:11,266 --> 01:21:12,699
+we're all gonna be a lot thinner.
+
+1322
+01:21:15,436 --> 01:21:17,461
+Get on top of it.
+
+1323
+01:21:17,538 --> 01:21:18,596
+I'm trying.
+
+1324
+01:21:23,611 --> 01:21:25,476
+Thank goodness they haven't found them.
+
+1325
+01:21:25,546 --> 01:21:26,604
+Where could they be?
+
+1326
+01:21:26,681 --> 01:21:29,047
+<i>[Whistle Blip Beep]</i>
+
+1327
+01:21:29,117 --> 01:21:30,675
+"Use the comlink"?
+
+1328
+01:21:30,752 --> 01:21:33,516
+Oh, my. I forgot.
+I turned it off.
+
+1329
+01:21:36,190 --> 01:21:38,852
+Are you there, sir?
+
+1330
+01:21:38,927 --> 01:21:40,724
+
+1331
+01:21:40,795 --> 01:21:41,727
+We've had some problems.
+
+1332
+01:21:41,796 --> 01:21:43,127
+Will you shut up
+and listen to me?!
+
+1333
+01:21:43,197 --> 01:21:45,062
+Shut down all
+the garbage mashers...
+
+1334
+01:21:45,133 --> 01:21:46,122
+on the detention level, will ya?!
+
+1335
+01:21:46,200 --> 01:21:47,667
+Do you copy!?
+
+1336
+01:21:47,735 --> 01:21:51,398
+Shut down all the garbage mashers
+on the detention level!
+
+1337
+01:21:51,472 --> 01:21:54,066
+Shut down all the garbage mashers
+on the detention level!
+
+1338
+01:21:54,142 --> 01:21:55,871
+No! Shut them all down. Hurry!
+
+1339
+01:21:55,944 --> 01:21:56,968
+<i>[Bleep Bleep Whistle]</i>
+
+1340
+01:21:58,980 --> 01:22:01,141
+<i>[Beep Blip Blip]</i>
+
+1341
+01:22:08,323 --> 01:22:09,290
+What?
+
+1342
+01:22:09,357 --> 01:22:10,881
+Ha ha!
+
+1343
+01:22:10,959 --> 01:22:12,927
+[Screaming]
+
+1344
+01:22:12,994 --> 01:22:15,360
+Listen to them.
+They're dying, R2!
+
+1345
+01:22:15,430 --> 01:22:16,863
+Curse my metal body!
+
+1346
+01:22:16,931 --> 01:22:20,833
+I wasn't fast enough.
+It's all my fault! My poor master.
+
+1347
+01:22:20,902 --> 01:22:22,494
+We're all right! You did great!
+
+1348
+01:22:22,570 --> 01:22:25,038
+Hey! Open the pressure
+maintenance hatch...
+
+1349
+01:22:25,106 --> 01:22:27,301
+on unit number...
+Where are we?
+
+1350
+01:22:27,375 --> 01:22:30,742
+
+1351
+01:23:15,089 --> 01:23:18,115
+If we can just avoid
+any more female advice...
+
+1352
+01:23:18,192 --> 01:23:20,456
+we ought to be able
+to get outta here.
+
+1353
+01:23:20,528 --> 01:23:22,052
+Well, let's get moving.
+
+1354
+01:23:22,130 --> 01:23:23,154
+Grrr!
+
+1355
+01:23:23,231 --> 01:23:25,165
+Where are you going?
+
+1356
+01:23:25,233 --> 01:23:26,325
+Aw...
+
+1357
+01:23:26,401 --> 01:23:27,834
+No, wait! They'll hear!
+
+1358
+01:23:29,037 --> 01:23:30,971
+Come here, you big coward.
+
+1359
+01:23:31,039 --> 01:23:32,336
+Chewie, come here.
+
+1360
+01:23:32,407 --> 01:23:33,499
+Listen...
+
+1361
+01:23:33,574 --> 01:23:36,202
+I don't know who you are
+or where you came from...
+
+1362
+01:23:36,277 --> 01:23:39,246
+but from now on, you do
+as I tell you, OK?
+
+1363
+01:23:39,313 --> 01:23:41,281
+Look, Your Worshipfulness...
+
+1364
+01:23:41,349 --> 01:23:43,283
+let's get one thing straight.
+
+1365
+01:23:43,351 --> 01:23:46,218
+I take orders from
+just one person... me.
+
+1366
+01:23:46,287 --> 01:23:48,346
+It's a wonder you're still alive.
+
+1367
+01:23:48,423 --> 01:23:51,722
+Will somebody get this big
+walking carpet out of my way?
+
+1368
+01:23:51,793 --> 01:23:55,058
+No reward is worth this.
+
+1369
+01:24:04,005 --> 01:24:06,235
+Give me regular reports, please.
+
+1370
+01:24:06,307 --> 01:24:07,433
+Right.
+
+1371
+01:24:09,610 --> 01:24:11,009
+Do you know what's going on?
+
+1372
+01:24:11,079 --> 01:24:12,876
+Maybe it's another drill.
+
+1373
+01:24:16,751 --> 01:24:19,584
+You seen that new VT-16?
+
+1374
+01:24:19,654 --> 01:24:22,054
+Yeah. Some of the other guys
+were telling me about it.
+
+1375
+01:24:22,123 --> 01:24:24,250
+They say it's... it's quite a thing to see...
+
+1376
+01:24:24,325 --> 01:24:26,452
+What was that?
+
+1377
+01:24:26,527 --> 01:24:28,119
+Ah, it's nothing. Outgassing.
+
+1378
+01:24:28,196 --> 01:24:29,185
+Don't worry about it.
+
+1379
+01:24:34,535 --> 01:24:35,627
+There she is.
+
+1380
+01:24:35,703 --> 01:24:36,965
+C-3PO? Do you copy?
+
+1381
+01:24:37,038 --> 01:24:37,970
+Yes, sir.
+
+1382
+01:24:38,039 --> 01:24:40,098
+- Are you safe?
+- For the moment.
+
+1383
+01:24:40,174 --> 01:24:42,540
+We're in the main hangar
+across from the ship.
+
+1384
+01:24:44,512 --> 01:24:46,139
+We're right above you.
+Stand by.
+
+1385
+01:24:46,214 --> 01:24:47,943
+You came in that thing?
+
+1386
+01:24:48,015 --> 01:24:49,107
+You're braver than I thought.
+
+1387
+01:24:49,183 --> 01:24:50,514
+Nice! Come on.
+
+1388
+01:24:54,689 --> 01:24:55,587
+It's them!
+
+1389
+01:24:55,656 --> 01:24:56,384
+Blast them!
+
+1390
+01:24:57,725 --> 01:24:59,317
+Get back to the ship!
+
+1391
+01:24:59,393 --> 01:25:00,325
+Luke: Where are you going?
+Come back!
+
+1392
+01:25:00,394 --> 01:25:01,452
+Leia: He certainly has courage.
+
+1393
+01:25:01,529 --> 01:25:02,928
+What good will it do us...
+
+1394
+01:25:02,997 --> 01:25:05,227
+if he gets himself killed?
+Come on.
+
+1395
+01:25:05,299 --> 01:25:08,894
+Aah!
+
+1396
+01:25:10,404 --> 01:25:12,634
+Aah!
+
+1397
+01:25:28,890 --> 01:25:30,084
+Whoop!
+
+1398
+01:25:30,158 --> 01:25:32,752
+I think we took a wrong turn.
+
+1399
+01:25:37,098 --> 01:25:38,030
+There's no lock.
+
+1400
+01:25:42,069 --> 01:25:43,366
+That oughta hold them
+for a while.
+
+1401
+01:25:43,437 --> 01:25:44,927
+Quick! We've got to get across.
+
+1402
+01:25:45,006 --> 01:25:46,803
+Find the controls
+that extend the bridge.
+
+1403
+01:25:46,874 --> 01:25:48,307
+I think I just blasted it.
+
+1404
+01:25:48,376 --> 01:25:50,173
+They're coming through!
+
+1405
+01:26:12,533 --> 01:26:13,522
+Here, hold this.
+
+1406
+01:26:30,418 --> 01:26:31,578
+Here they come.
+
+1407
+01:26:41,729 --> 01:26:43,526
+For luck.
+
+1408
+01:26:49,403 --> 01:26:52,372
+We think they may be splitting up.
+
+1409
+01:26:52,440 --> 01:26:55,705
+They may be on Level 5 and 6 now, sir.
+
+1410
+01:27:09,223 --> 01:27:10,383
+Where could they be?
+
+1411
+01:27:10,458 --> 01:27:12,688
+<i>[Whistle Blip Beep]</i>
+
+1412
+01:27:24,438 --> 01:27:26,702
+Open the blast doors!
+Open the blast doors!
+
+1413
+01:27:45,059 --> 01:27:47,493
+I've been waiting for you, Obi-Wan.
+
+1414
+01:27:47,561 --> 01:27:49,119
+We meet again at last.
+
+1415
+01:27:49,196 --> 01:27:52,324
+The circle is now complete.
+
+1416
+01:27:52,400 --> 01:27:54,925
+When I left you,
+I was but the learner.
+
+1417
+01:27:55,002 --> 01:27:57,095
+Now <i>I</i> am the master.
+
+1418
+01:27:57,171 --> 01:28:00,106
+Only a master of evil, Darth.
+
+1419
+01:28:19,493 --> 01:28:21,791
+Your powers are weak, old man.
+
+1420
+01:28:21,862 --> 01:28:23,489
+You can't win, Darth.
+
+1421
+01:28:23,564 --> 01:28:25,532
+If you strike me down...
+
+1422
+01:28:25,599 --> 01:28:29,000
+I shall become more powerful
+than you can possibly imagine.
+
+1423
+01:28:35,676 --> 01:28:38,474
+You should not have come back.
+
+1424
+01:29:04,238 --> 01:29:06,968
+Didn't we just leave this party?
+
+1425
+01:29:08,642 --> 01:29:09,870
+What kept you?
+
+1426
+01:29:09,944 --> 01:29:10,876
+We, uh, ran into some old friends.
+
+1427
+01:29:10,945 --> 01:29:11,877
+The ship all right?
+
+1428
+01:29:11,946 --> 01:29:13,470
+It seems OK,
+if we can get to it.
+
+1429
+01:29:13,547 --> 01:29:15,640
+I just hope the old man got
+the tractor beam out of commission.
+
+1430
+01:29:30,164 --> 01:29:31,392
+Leia: Look!
+
+1431
+01:29:35,002 --> 01:29:36,902
+Come on, R2, we're going.
+
+1432
+01:29:36,971 --> 01:29:38,666
+<i>[Beep Beep]</i>
+
+1433
+01:29:38,739 --> 01:29:39,831
+Now's our chance! Go!
+
+1434
+01:29:43,677 --> 01:29:44,666
+Ben?
+
+1435
+01:30:00,194 --> 01:30:01,923
+No!
+
+1436
+01:30:10,004 --> 01:30:10,936
+Come on!
+
+1437
+01:30:11,005 --> 01:30:12,165
+Leia: Come on!
+
+1438
+01:30:12,239 --> 01:30:13,729
+Come on!
+
+1439
+01:30:13,808 --> 01:30:15,002
+Luke, it's too late!
+
+1440
+01:30:15,075 --> 01:30:16,872
+Han: Blast the door, kid!
+
+1441
+01:30:26,520 --> 01:30:28,886
+Obi-Wan: <i>Run, Luke, run!</i>
+
+1442
+01:30:30,958 --> 01:30:33,859
+I hope that old man got that
+tractor beam out of commission...
+
+1443
+01:30:33,928 --> 01:30:36,556
+or this is gonna be a real short trip.
+OK Hit it!
+
+1444
+01:30:46,974 --> 01:30:48,908
+Aargh!
+
+1445
+01:31:07,094 --> 01:31:09,562
+We're coming up
+on their sentry ships.
+
+1446
+01:31:09,630 --> 01:31:11,120
+Hold them off.
+
+1447
+01:31:11,198 --> 01:31:14,895
+Angle the deflector shields
+while I charge up the main guns.
+
+1448
+01:31:22,443 --> 01:31:24,934
+I can't believe he's gone.
+
+1449
+01:31:27,581 --> 01:31:30,072
+There wasn't anything
+you could have done.
+
+1450
+01:31:30,150 --> 01:31:33,119
+Come on, buddy.
+We're not out of this yet.
+
+1451
+01:31:49,203 --> 01:31:52,263
+You in, kid?
+OK, stay sharp.
+
+1452
+01:32:03,117 --> 01:32:04,243
+Here they come.
+
+1453
+01:32:22,236 --> 01:32:24,101
+They're coming in too fast!
+
+1454
+01:32:32,079 --> 01:32:33,603
+We've lost the lateral controls!
+
+1455
+01:32:33,681 --> 01:32:35,945
+Don't worry.
+She'll hold together.
+
+1456
+01:32:37,451 --> 01:32:39,442
+Hear me, baby?
+Hold together.
+
+1457
+01:32:56,537 --> 01:32:57,504
+Ha ha!
+
+1458
+01:33:01,575 --> 01:33:03,167
+Got him! I got him!
+
+1459
+01:33:03,243 --> 01:33:05,643
+Great, kid!
+Don't get cocky.
+
+1460
+01:33:06,814 --> 01:33:08,577
+There's still two more
+of them out there!
+
+1461
+01:33:42,483 --> 01:33:43,848
+That's it! We did it!
+
+1462
+01:33:43,917 --> 01:33:46,181
+We did it!
+
+1463
+01:33:46,253 --> 01:33:48,813
+Help! I think I'm melting!
+This is all your fault!
+
+1464
+01:33:48,889 --> 01:33:51,824
+<i>[Whistle Bleep Blip]</i>
+
+1465
+01:33:56,730 --> 01:33:58,163
+Are they away?
+
+1466
+01:33:58,232 --> 01:34:01,326
+They've just made the jump
+into hyperspace.
+
+1467
+01:34:01,402 --> 01:34:05,771
+You're sure the homing beacon
+is secure aboard their ship?
+
+1468
+01:34:05,839 --> 01:34:08,569
+I'm taking an awful risk, Vader.
+
+1469
+01:34:08,642 --> 01:34:10,405
+This had better work.
+
+1470
+01:34:10,577 --> 01:34:13,307
+Not a bad bit of rescuing, huh?
+
+1471
+01:34:13,380 --> 01:34:16,543
+You know, sometimes
+I amaze even myself.
+
+1472
+01:34:16,617 --> 01:34:18,915
+That doesn't sound too hard.
+
+1473
+01:34:18,986 --> 01:34:20,351
+They let us go.
+
+1474
+01:34:20,421 --> 01:34:21,718
+It's the only explanation...
+
+1475
+01:34:21,789 --> 01:34:23,381
+for the ease of our escape.
+
+1476
+01:34:23,457 --> 01:34:24,583
+Easy? You call that easy?
+
+1477
+01:34:24,658 --> 01:34:25,682
+They're tracking us.
+
+1478
+01:34:25,759 --> 01:34:27,454
+Not this ship, sister.
+
+1479
+01:34:27,528 --> 01:34:31,259
+At least the information
+in R2 is still intact.
+
+1480
+01:34:31,331 --> 01:34:32,992
+What's so important?
+What's he carrying?
+
+1481
+01:34:33,067 --> 01:34:36,002
+The technical readouts
+of that battle station.
+
+1482
+01:34:36,070 --> 01:34:38,664
+I only hope that
+when the data's analyzed...
+
+1483
+01:34:38,739 --> 01:34:40,400
+a weakness can be found.
+
+1484
+01:34:40,474 --> 01:34:41,998
+It's not over yet.
+
+1485
+01:34:42,076 --> 01:34:43,873
+It is for me, sister.
+
+1486
+01:34:43,944 --> 01:34:45,707
+Look, I ain't in this
+for your revolution...
+
+1487
+01:34:45,779 --> 01:34:47,644
+and I'm not in it for you, Princess.
+
+1488
+01:34:47,715 --> 01:34:48,977
+I expect to be well paid.
+
+1489
+01:34:49,049 --> 01:34:50,277
+I'm in it for the money.
+
+1490
+01:34:50,350 --> 01:34:52,375
+You needn't worry
+about your reward.
+
+1491
+01:34:52,453 --> 01:34:54,080
+If money is all that you love...
+
+1492
+01:34:54,154 --> 01:34:56,645
+then that's what you'll receive.
+
+1493
+01:34:58,659 --> 01:35:00,627
+Your friend is quite a mercenary.
+
+1494
+01:35:00,694 --> 01:35:02,958
+I wonder if he really cares
+about anything...
+
+1495
+01:35:03,030 --> 01:35:04,588
+or anybody.
+
+1496
+01:35:04,665 --> 01:35:06,155
+I care.
+
+1497
+01:35:12,673 --> 01:35:15,233
+So...
+
+1498
+01:35:15,309 --> 01:35:16,833
+what do you think of her, Han?
+
+1499
+01:35:16,910 --> 01:35:18,810
+I'm trying not to, kid.
+
+1500
+01:35:18,879 --> 01:35:20,938
+Good.
+
+1501
+01:35:24,284 --> 01:35:27,253
+Still, she's got a lot of spirit.
+
+1502
+01:35:29,356 --> 01:35:30,789
+I don't know.
+What do you think?
+
+1503
+01:35:30,858 --> 01:35:32,416
+You think a princess
+and a guy like me...
+
+1504
+01:35:32,493 --> 01:35:34,290
+No!
+
+1505
+01:36:20,541 --> 01:36:21,473
+You're safe.
+
+1506
+01:36:21,542 --> 01:36:22,873
+When we heard about Alderaan...
+
+1507
+01:36:22,943 --> 01:36:24,069
+we feared the worst.
+
+1508
+01:36:24,144 --> 01:36:25,975
+We have no time
+for sorrows, Commander.
+
+1509
+01:36:26,046 --> 01:36:27,877
+You must use the information
+in this R2 unit...
+
+1510
+01:36:27,948 --> 01:36:28,937
+to help plan the attack.
+
+1511
+01:36:29,016 --> 01:36:30,506
+It's our only hope.
+
+1512
+01:36:51,238 --> 01:36:52,170
+[Beep]
+
+1513
+01:36:52,239 --> 01:36:53,399
+Yes.
+
+1514
+01:36:53,473 --> 01:36:54,770
+<i>We're approaching</i>
+<i>the planet Yavin.</i>
+
+1515
+01:36:54,842 --> 01:36:57,106
+<i>The rebel base is on a moon</i>
+<i>on the far side.</i>
+
+1516
+01:36:57,177 --> 01:36:59,771
+<i>We are preparing</i>
+<i>to orbit the planet.</i>
+
+1517
+01:37:07,955 --> 01:37:10,549
+The battle station
+is heavily shielded...
+
+1518
+01:37:10,624 --> 01:37:12,455
+and carries a firepower...
+
+1519
+01:37:12,526 --> 01:37:14,494
+greater than half the starfleet.
+
+1520
+01:37:14,561 --> 01:37:18,930
+Its defenses are designed around
+a direct large-scale assault.
+
+1521
+01:37:18,999 --> 01:37:24,301
+A small, one-man fighter should be able
+to penetrate the outer defense.
+
+1522
+01:37:24,371 --> 01:37:26,566
+Pilot: Pardon me for asking, sir...
+
+1523
+01:37:26,640 --> 01:37:29,632
+but what good are snub fighters
+going to be against that?
+
+1524
+01:37:29,710 --> 01:37:33,373
+The Empire doesn't consider
+a small, one-man fighter...
+
+1525
+01:37:33,447 --> 01:37:34,414
+to be any threat...
+
+1526
+01:37:34,481 --> 01:37:37,279
+or they'd have a tighter defense.
+
+1527
+01:37:37,351 --> 01:37:40,445
+An analysis of the plans
+provided by Princess Leia...
+
+1528
+01:37:40,520 --> 01:37:43,819
+has demonstrated a weakness
+in the battle station.
+
+1529
+01:37:43,891 --> 01:37:46,655
+The approach will not be easy.
+
+1530
+01:37:46,727 --> 01:37:49,924
+You're required to maneuver
+straight down this trench...
+
+1531
+01:37:49,997 --> 01:37:53,398
+and skim the surface
+to this point.
+
+1532
+01:37:53,467 --> 01:37:56,197
+The target area
+is only 2 meters wide.
+
+1533
+01:37:56,270 --> 01:37:58,465
+It's a small thermal exhaust port...
+
+1534
+01:37:58,538 --> 01:38:01,098
+right below the main port.
+
+1535
+01:38:01,174 --> 01:38:04,337
+The shaft leads directly
+to the reactor system.
+
+1536
+01:38:04,411 --> 01:38:07,107
+A precise hit will start
+a chain reaction...
+
+1537
+01:38:07,180 --> 01:38:09,444
+which should destroy the station.
+
+1538
+01:38:09,516 --> 01:38:13,145
+Only a precise hit will
+set up a chain reaction.
+
+1539
+01:38:13,220 --> 01:38:14,585
+The shaft is ray-shielded...
+
+1540
+01:38:14,655 --> 01:38:16,418
+so you'll have to use proton torpedoes.
+
+1541
+01:38:16,490 --> 01:38:18,981
+That's impossible,
+even for a computer.
+
+1542
+01:38:19,059 --> 01:38:22,517
+It's not impossible. I used to bull's-eye
+womp rats in my T-16 back home.
+
+1543
+01:38:22,596 --> 01:38:25,030
+Luke: They're not much bigger
+than 2 meters.
+
+1544
+01:38:25,098 --> 01:38:28,534
+Then man your ships,
+and may the Force be with you.
+
+1545
+01:38:36,543 --> 01:38:39,034
+<i>Orbiting the planet</i>
+<i>at maximum velocity.</i>
+
+1546
+01:38:39,112 --> 01:38:41,080
+<i>The moon with the rebel base...</i>
+
+1547
+01:38:41,148 --> 01:38:43,514
+<i>will be in range in 30 minutes.</i>
+
+1548
+01:38:43,583 --> 01:38:45,949
+This will be a day long remembered.
+
+1549
+01:38:46,019 --> 01:38:48,487
+It has seen the end of Kenobi...
+
+1550
+01:38:48,555 --> 01:38:53,117
+and will soon see the end
+of the rebellion.
+
+1551
+01:38:56,630 --> 01:39:00,031
+<i>All flight crews,</i>
+<i>man your stations.</i>
+
+1552
+01:39:00,100 --> 01:39:03,035
+<i>All flight crews,</i>
+<i>man your stations.</i>
+
+1553
+01:39:05,405 --> 01:39:08,533
+So... you got your reward
+and you're just leaving, then?
+
+1554
+01:39:08,608 --> 01:39:10,098
+That's right. Yeah.
+
+1555
+01:39:10,177 --> 01:39:14,170
+I got some old debts I got
+to pay off with this stuff.
+
+1556
+01:39:14,247 --> 01:39:15,771
+And even if I didn't...
+
+1557
+01:39:15,849 --> 01:39:18,545
+you don't think I'd be fool enough
+to stick around here, do ya?
+
+1558
+01:39:18,618 --> 01:39:20,279
+Why don't you come with us?
+
+1559
+01:39:20,354 --> 01:39:22,254
+You're pretty good in a fight.
+We could use ya.
+
+1560
+01:39:22,322 --> 01:39:25,257
+Come on. Why don't you
+take a look around?
+
+1561
+01:39:25,325 --> 01:39:26,690
+You know what's about to happen...
+
+1562
+01:39:26,760 --> 01:39:28,091
+what they're up against.
+
+1563
+01:39:28,161 --> 01:39:29,560
+They could use
+a good pilot like you.
+
+1564
+01:39:29,629 --> 01:39:30,994
+You're turning
+your back on them.
+
+1565
+01:39:31,064 --> 01:39:33,498
+What good's a reward
+if you ain't around to use it?
+
+1566
+01:39:33,567 --> 01:39:35,467
+Besides, attacking
+that battle station...
+
+1567
+01:39:35,535 --> 01:39:36,661
+ain't my idea of courage.
+
+1568
+01:39:36,737 --> 01:39:39,467
+It's more like... suicide.
+
+1569
+01:39:40,907 --> 01:39:41,839
+All right.
+
+1570
+01:39:41,908 --> 01:39:44,138
+Take care of yourself, Han.
+
+1571
+01:39:44,211 --> 01:39:46,907
+I guess that's what
+you're best at, isn't it?
+
+1572
+01:39:46,980 --> 01:39:48,345
+Hey, Luke.
+
+1573
+01:39:51,618 --> 01:39:54,052
+May the Force be with you.
+
+1574
+01:39:56,990 --> 01:39:58,014
+Argh!
+
+1575
+01:39:58,091 --> 01:40:00,423
+Argh!
+
+1576
+01:40:00,494 --> 01:40:01,859
+What are you looking at?
+
+1577
+01:40:01,928 --> 01:40:03,725
+I know what I'm doing.
+
+1578
+01:40:08,111 --> 01:40:11,603
+<i>All pilots to your stations.</i>
+
+1579
+01:40:11,681 --> 01:40:13,672
+<i>All pilots to your stations.</i>
+
+1580
+01:40:18,888 --> 01:40:20,378
+What's wrong?
+
+1581
+01:40:20,457 --> 01:40:21,822
+Oh, it's Han.
+
+1582
+01:40:21,891 --> 01:40:24,325
+I don't know.
+I really thought he'd change his mind.
+
+1583
+01:40:24,394 --> 01:40:26,021
+He's got to follow his own path.
+
+1584
+01:40:26,096 --> 01:40:27,996
+No one can choose it for him.
+
+1585
+01:40:28,064 --> 01:40:32,194
+I only wish Ben were here.
+
+1586
+01:40:39,509 --> 01:40:41,500
+<i>Open main launch tubes.</i>
+
+1587
+01:40:43,113 --> 01:40:45,980
+<i>Main launch tubes opening, sir.</i>
+
+1588
+01:40:51,421 --> 01:40:53,150
+Hey, this R2 unit of yours
+seems a bit beat up.
+
+1589
+01:40:53,223 --> 01:40:54,383
+You want a new one?
+
+1590
+01:40:54,457 --> 01:40:55,924
+Not on your life.
+
+1591
+01:40:55,992 --> 01:40:57,619
+That little droid and I have
+been through a lot together.
+
+1592
+01:40:57,694 --> 01:40:58,718
+You OK, R2?
+
+1593
+01:40:58,795 --> 01:41:00,319
+<i>[Blip Beep]</i>
+
+1594
+01:41:00,396 --> 01:41:01,624
+Good.
+
+1595
+01:41:02,832 --> 01:41:06,165
+<i>Gold squadron,</i>
+<i>begin takeoff procedure.</i>
+
+1596
+01:41:06,236 --> 01:41:08,864
+Hang on tight, R2.
+You've got to come back.
+
+1597
+01:41:08,938 --> 01:41:11,065
+<i>[Beep Blip Beep]</i>
+
+1598
+01:41:11,141 --> 01:41:13,166
+You wouldn't want my life
+to get boring, would you?
+
+1599
+01:41:13,243 --> 01:41:14,801
+<i>[Beep Beep Beep]</i>
+
+1600
+01:42:01,491 --> 01:42:05,723
+Obi-Wan:
+<i>Luke, the Force will be with you.</i>
+
+1601
+01:42:16,172 --> 01:42:17,696
+<i>Standby alert.</i>
+
+1602
+01:42:17,774 --> 01:42:20,038
+<i>Death Star approaching.</i>
+
+1603
+01:42:20,109 --> 01:42:23,272
+<i>Estimated time to firing range,</i>
+<i>15 minutes.</i>
+
+1604
+01:42:36,392 --> 01:42:37,620
+All wings report in.
+
+1605
+01:42:37,694 --> 01:42:38,661
+Red 10 standing by.
+
+1606
+01:42:38,728 --> 01:42:39,786
+Red Seven standing by.
+
+1607
+01:42:39,862 --> 01:42:40,988
+Red Three standing by.
+
+1608
+01:42:41,064 --> 01:42:42,292
+Red Six standing by.
+
+1609
+01:42:42,365 --> 01:42:43,832
+Red Nine standing by.
+
+1610
+01:42:43,900 --> 01:42:44,889
+Red Two standing by.
+
+1611
+01:42:44,968 --> 01:42:45,992
+Red 11 standing by.
+
+1612
+01:42:46,069 --> 01:42:47,934
+Red Five standing by.
+
+1613
+01:42:48,004 --> 01:42:49,232
+<i>[Beep Beep]</i>
+
+1614
+01:42:49,305 --> 01:42:51,239
+Lock S-foils in attack position.
+
+1615
+01:42:55,478 --> 01:42:57,503
+We're passing through
+the magnetic field.
+
+1616
+01:42:57,580 --> 01:42:58,604
+Hold tight.
+
+1617
+01:42:58,681 --> 01:43:01,946
+Switch your deflectors on.
+Double front.
+
+1618
+01:43:04,921 --> 01:43:06,718
+Look at the size of that thing!
+
+1619
+01:43:06,789 --> 01:43:09,417
+Cut the chatter, Red Two.
+Accelerate to attack speed.
+
+1620
+01:43:12,795 --> 01:43:13,853
+This is it, boys.
+
+1621
+01:43:13,930 --> 01:43:15,557
+Red Leader, this is Gold Leader.
+
+1622
+01:43:15,632 --> 01:43:16,860
+I copy, Gold Leader.
+
+1623
+01:43:16,933 --> 01:43:18,491
+We're starting for
+the target shaft now.
+
+1624
+01:43:18,568 --> 01:43:19,535
+We're in position.
+
+1625
+01:43:19,602 --> 01:43:20,796
+I'm going to cut across the axis...
+
+1626
+01:43:20,870 --> 01:43:22,064
+and try and draw their fire.
+
+1627
+01:43:36,486 --> 01:43:38,147
+Heavy fire, boss, 23 degrees.
+
+1628
+01:43:38,221 --> 01:43:39,779
+I see it. Stay low.
+
+1629
+01:43:47,196 --> 01:43:48,720
+This is Red Five. I'm going in.
+
+1630
+01:43:53,202 --> 01:43:54,328
+Luke, pull up!
+
+1631
+01:43:56,005 --> 01:43:56,937
+Are you all right?
+
+1632
+01:43:57,006 --> 01:43:58,337
+I got a little cooked, but I'm O.K.
+
+1633
+01:44:04,213 --> 01:44:05,908
+We count 30 rebel ships, Lord Vader...
+
+1634
+01:44:05,982 --> 01:44:06,949
+but they're so small...
+
+1635
+01:44:07,016 --> 01:44:08,210
+they're evading our turbolasers.
+
+1636
+01:44:08,284 --> 01:44:10,275
+We'll have to destroy
+them ship to ship.
+
+1637
+01:44:10,353 --> 01:44:12,378
+Get the crews to their fighters.
+
+1638
+01:44:14,991 --> 01:44:17,186
+Watch yourself.
+There's a lot of fire coming...
+
+1639
+01:44:17,260 --> 01:44:19,228
+from the right side
+of that deflection tower.
+
+1640
+01:44:19,295 --> 01:44:20,193
+I'm on it.
+
+1641
+01:44:20,263 --> 01:44:22,356
+I'm going in.
+Cover me, Porkins.
+
+1642
+01:44:22,432 --> 01:44:23,729
+I'm right with you,
+Red Three.
+
+1643
+01:44:30,106 --> 01:44:31,403
+I've got a problem here.
+
+1644
+01:44:31,474 --> 01:44:32,406
+Eject.
+
+1645
+01:44:32,475 --> 01:44:33,407
+I can hold it.
+
+1646
+01:44:33,476 --> 01:44:34,408
+Pull up!
+
+1647
+01:44:34,477 --> 01:44:37,241
+No, I'm all... Aah!
+
+1648
+01:44:39,716 --> 01:44:41,843
+<i>The rebel base</i>
+<i>will be in firing range...</i>
+
+1649
+01:44:41,918 --> 01:44:43,442
+<i>in seven minutes.</i>
+
+1650
+01:44:46,522 --> 01:44:49,389
+Obi-Wan:
+<i>Luke, trust your feelings.</i>
+
+1651
+01:44:57,133 --> 01:45:01,194
+Squad leaders, we've
+picked up a new group of signals.
+
+1652
+01:45:01,270 --> 01:45:02,965
+Enemy fighters coming your way.
+
+1653
+01:45:03,039 --> 01:45:04,734
+My scope's negative.
+I don't see anything.
+
+1654
+01:45:04,807 --> 01:45:06,001
+Pick up your visual scanning.
+
+1655
+01:45:06,075 --> 01:45:07,064
+Here they come.
+
+1656
+01:45:10,279 --> 01:45:12,008
+Watch it. You've got one
+on your tail.
+
+1657
+01:45:17,353 --> 01:45:18,342
+I'm hit!
+
+1658
+01:45:19,689 --> 01:45:20,883
+You've picked one up!
+Watch it!
+
+1659
+01:45:20,957 --> 01:45:22,288
+I can't see it!
+
+1660
+01:45:24,227 --> 01:45:25,956
+He's on me tight.
+I can't shake him!
+
+1661
+01:45:27,663 --> 01:45:28,652
+I'll be right there.
+
+1662
+01:45:40,810 --> 01:45:42,744
+Several fighters have broken off...
+
+1663
+01:45:42,812 --> 01:45:45,303
+from the main group.
+Come with me.
+
+1664
+01:45:48,251 --> 01:45:50,776
+Fall in! Fall in!
+
+1665
+01:45:50,853 --> 01:45:51,877
+Watch your back, Luke.
+
+1666
+01:45:51,954 --> 01:45:52,886
+Watch your back.
+
+1667
+01:45:52,955 --> 01:45:54,320
+Fighters above you, coming in.
+
+1668
+01:46:00,630 --> 01:46:01,756
+I'm hit, but not bad.
+
+1669
+01:46:01,831 --> 01:46:03,264
+R2, see what you can do with it.
+
+1670
+01:46:03,332 --> 01:46:05,562
+Hang on back there.
+
+1671
+01:46:05,635 --> 01:46:08,229
+Red Six, can you see Red Five?
+
+1672
+01:46:08,304 --> 01:46:09,828
+There's a heavy fire zone.
+
+1673
+01:46:09,906 --> 01:46:10,804
+Red Five, where are you?
+
+1674
+01:46:10,873 --> 01:46:12,340
+I can't shake him!
+
+1675
+01:46:16,379 --> 01:46:17,869
+I'm on him, Luke. Hold on.
+
+1676
+01:46:21,117 --> 01:46:22,744
+Blast it, Biggs! Where are you?
+
+1677
+01:46:29,759 --> 01:46:30,885
+Thanks, Wedge.
+
+1678
+01:46:30,960 --> 01:46:32,222
+Good shooting, Wedge.
+
+1679
+01:46:32,295 --> 01:46:34,559
+Red Leader,
+this is Gold Leader.
+
+1680
+01:46:34,630 --> 01:46:35,756
+We're starting our attack run.
+
+1681
+01:46:37,567 --> 01:46:39,967
+I copy, Gold Leader.
+Move into position.
+
+1682
+01:46:42,371 --> 01:46:44,669
+Stay in attack formation.
+
+1683
+01:46:44,740 --> 01:46:47,641
+The exhaust port
+is marked and locked in.
+
+1684
+01:46:53,483 --> 01:46:54,745
+Switch all power...
+
+1685
+01:46:54,817 --> 01:46:57,308
+to front deflector screen.
+
+1686
+01:46:57,386 --> 01:46:58,876
+Switch all power...
+
+1687
+01:46:58,955 --> 01:47:00,923
+to front deflector screen.
+
+1688
+01:47:04,660 --> 01:47:06,423
+How many guns do you think,
+Gold Five?
+
+1689
+01:47:06,496 --> 01:47:07,690
+Say about 20 guns...
+
+1690
+01:47:07,763 --> 01:47:09,754
+some on the surface,
+some on the towers.
+
+1691
+01:47:09,832 --> 01:47:12,699
+<i>Death Star will be in range</i>
+<i>in five minutes.</i>
+
+1692
+01:47:14,770 --> 01:47:17,830
+Switch to targeting computer.
+
+1693
+01:47:20,276 --> 01:47:22,335
+Computer locked.
+Getting a signal.
+
+1694
+01:47:24,347 --> 01:47:26,838
+The guns!
+They've stopped!
+
+1695
+01:47:28,518 --> 01:47:29,951
+Stabilize your rear deflectors.
+
+1696
+01:47:30,019 --> 01:47:31,714
+Watch for enemy fighters.
+
+1697
+01:47:31,787 --> 01:47:33,618
+They're coming in!
+Three marks at 210.
+
+1698
+01:47:35,591 --> 01:47:37,786
+I'll take them myself.
+Cover me.
+
+1699
+01:47:37,860 --> 01:47:39,157
+Yes, sir.
+
+1700
+01:47:53,676 --> 01:47:54,802
+It's no good.
+I can't maneuver.
+
+1701
+01:47:54,877 --> 01:47:55,935
+Stay on target.
+
+1702
+01:47:56,012 --> 01:47:56,944
+We're too close.
+
+1703
+01:47:57,013 --> 01:47:58,105
+Stay on target.
+
+1704
+01:47:59,882 --> 01:48:00,871
+Loosen up!
+
+1705
+01:48:03,920 --> 01:48:06,718
+Gold Five to Red Leader,
+lost Tiree, lost Hutch.
+
+1706
+01:48:06,789 --> 01:48:08,086
+I copy, Gold Leader.
+
+1707
+01:48:08,157 --> 01:48:09,146
+They came from behind.
+
+1708
+01:48:13,829 --> 01:48:15,763
+We've analyzed their attack, sir...
+
+1709
+01:48:15,831 --> 01:48:18,265
+and there is a danger.
+
+1710
+01:48:18,334 --> 01:48:20,802
+Should I have your
+ship standing by?
+
+1711
+01:48:20,870 --> 01:48:23,805
+Evacuate in our moment of triumph?
+
+1712
+01:48:23,873 --> 01:48:25,636
+I think you overestimate
+their chances.
+
+1713
+01:48:25,708 --> 01:48:28,438
+<i>Rebel base, three minutes</i>
+<i>and closing.</i>
+
+1714
+01:48:28,511 --> 01:48:31,036
+Red boys, this is Red Leader.
+
+1715
+01:48:31,113 --> 01:48:32,546
+Rendezvous at mark 6.1.
+
+1716
+01:48:32,615 --> 01:48:34,810
+This is Red Two flying toward you.
+
+1717
+01:48:34,884 --> 01:48:36,818
+Red Three standing by.
+
+1718
+01:48:36,886 --> 01:48:38,513
+Red Leader, this is Base One.
+
+1719
+01:48:38,588 --> 01:48:40,146
+Keep half your group
+out of range...
+
+1720
+01:48:40,222 --> 01:48:41,416
+for the next run.
+
+1721
+01:48:41,490 --> 01:48:43,981
+Copy, Base One. Luke,
+take Red Two and Three.
+
+1722
+01:48:44,060 --> 01:48:47,393
+Hold up here and wait for
+my signal to start your run.
+
+1723
+01:48:55,204 --> 01:48:57,035
+This is it!
+
+1724
+01:49:01,611 --> 01:49:03,704
+We should be able to see it by now.
+
+1725
+01:49:05,381 --> 01:49:07,178
+Keep your eyes open
+for those fighters.
+
+1726
+01:49:08,918 --> 01:49:10,112
+There's too much interference.
+
+1727
+01:49:10,186 --> 01:49:11,380
+Red Five, can you see them
+from where you are?
+
+1728
+01:49:11,454 --> 01:49:13,422
+No sign of any...
+Wait. Coming in.35.
+
+1729
+01:49:13,489 --> 01:49:14,478
+I see them.
+
+1730
+01:49:15,992 --> 01:49:17,084
+I'm in range.
+
+1731
+01:49:18,361 --> 01:49:19,350
+Target's coming up.
+
+1732
+01:49:22,665 --> 01:49:24,826
+Just hold them off
+for a few seconds.
+
+1733
+01:49:24,900 --> 01:49:27,232
+Close up formation.
+
+1734
+01:49:28,571 --> 01:49:30,766
+Almost there.
+
+1735
+01:49:39,849 --> 01:49:41,817
+You'd better let her loose.
+They're right behind me.
+
+1736
+01:49:41,884 --> 01:49:43,112
+Almost there.
+
+1737
+01:49:44,520 --> 01:49:46,181
+I can't hold them.
+
+1738
+01:49:47,423 --> 01:49:49,118
+Aah!
+
+1739
+01:49:54,397 --> 01:49:55,887
+It's away!
+
+1740
+01:49:59,702 --> 01:50:01,260
+Man: It's a hit!
+
+1741
+01:50:01,337 --> 01:50:03,430
+Negative, negative.
+It didn't go in.
+
+1742
+01:50:03,506 --> 01:50:06,168
+It just impacted on the surface.
+
+1743
+01:50:12,648 --> 01:50:14,309
+Red Leader, we're right above you.
+
+1744
+01:50:14,383 --> 01:50:16,715
+Turn to.05.
+We'll cover for you.
+
+1745
+01:50:16,786 --> 01:50:20,313
+Stay there. I just lost
+my starboard engine.
+
+1746
+01:50:20,389 --> 01:50:22,653
+Get set up for your attack run.
+
+1747
+01:50:27,296 --> 01:50:29,025
+Aah!
+
+1748
+01:50:35,438 --> 01:50:38,601
+<i>Rebel base,</i>
+<i>one minute and closing.</i>
+
+1749
+01:50:38,674 --> 01:50:40,972
+Luke: Biggs, Wedge, let's close it up.
+
+1750
+01:50:41,043 --> 01:50:42,874
+We're going in full throttle.
+
+1751
+01:50:42,945 --> 01:50:44,378
+That ought to keep those
+fighters off our back.
+
+1752
+01:50:44,447 --> 01:50:46,574
+Right with you, boss.
+
+1753
+01:50:46,649 --> 01:50:48,981
+Luke, at that speed, will you be able
+to pull out in time?
+
+1754
+01:50:49,051 --> 01:50:51,076
+It'll be just like
+Beggars Canyon back home.
+
+1755
+01:50:58,394 --> 01:51:00,658
+We'll stay back
+far enough to cover you.
+
+1756
+01:51:00,730 --> 01:51:01,719
+My scope shows the tower...
+
+1757
+01:51:01,797 --> 01:51:03,321
+but I can't see the exhaust port.
+
+1758
+01:51:03,399 --> 01:51:04,866
+Are you sure
+the computer can hit it?
+
+1759
+01:51:08,337 --> 01:51:10,362
+Watch yourself.
+Increase speed, full throttle.
+
+1760
+01:51:10,439 --> 01:51:11,736
+What about that tower?
+
+1761
+01:51:11,807 --> 01:51:12,967
+You worry about those fighters!
+
+1762
+01:51:13,042 --> 01:51:14,270
+I'll worry about the tower!
+
+1763
+01:51:19,849 --> 01:51:22,875
+R2, that stabilizer's
+broken loose again.
+
+1764
+01:51:22,952 --> 01:51:24,283
+See if you can't lock it down.
+
+1765
+01:51:24,353 --> 01:51:26,844
+<i>[Beep Blip Beep]</i>
+
+1766
+01:51:32,962 --> 01:51:35,192
+Fighters coming in.3.
+
+1767
+01:51:43,205 --> 01:51:45,696
+I'm hit!
+I can't stay with you!
+
+1768
+01:51:45,775 --> 01:51:48,141
+Get clear, Wedge.
+You can't do any more good back there.
+
+1769
+01:51:48,210 --> 01:51:49,199
+Sorry.
+
+1770
+01:51:50,279 --> 01:51:52,213
+Let him go.
+Stay on the leader.
+
+1771
+01:51:55,184 --> 01:51:56,674
+Hurry, Luke. They're coming in
+much faster this time.
+
+1772
+01:51:56,752 --> 01:51:57,980
+We can't hold them.
+
+1773
+01:52:01,557 --> 01:52:02,956
+R2, try and increase the power.
+
+1774
+01:52:03,025 --> 01:52:04,322
+<i>[Beep Beep Beep]</i>
+
+1775
+01:52:09,665 --> 01:52:10,859
+Hurry up, Luke!
+
+1776
+01:52:10,933 --> 01:52:12,491
+Quick! Quick!
+
+1777
+01:52:20,009 --> 01:52:22,569
+<i>Rebel base, 30 seconds and closing.</i>
+
+1778
+01:52:22,645 --> 01:52:23,737
+I'm on the leader.
+
+1779
+01:52:27,216 --> 01:52:28,615
+Hang on, R2.
+
+1780
+01:52:44,099 --> 01:52:46,499
+Obi-Wan: <i>Use the Force, Luke.</i>
+
+1781
+01:52:49,338 --> 01:52:51,363
+<i>Let go, Luke.</i>
+
+1782
+01:52:53,442 --> 01:52:55,808
+The Force is strong with this one.
+
+1783
+01:52:55,878 --> 01:52:57,470
+<i>Luke, trust me.</i>
+
+1784
+01:53:03,018 --> 01:53:04,383
+His computer's off.
+
+1785
+01:53:04,453 --> 01:53:06,387
+Luke, you switched off
+your targeting computer!
+
+1786
+01:53:06,455 --> 01:53:08,116
+What's wrong?
+
+1787
+01:53:08,190 --> 01:53:09,817
+Luke: Nothing. I'm all right.
+
+1788
+01:53:13,128 --> 01:53:14,459
+<i>[Beep Blip Beep]</i>
+
+1789
+01:53:20,135 --> 01:53:22,660
+<i>[Eeeeee]</i>
+
+1790
+01:53:22,738 --> 01:53:23,966
+I've lost R2!
+
+1791
+01:53:25,541 --> 01:53:28,408
+<i>The Death Star</i>
+<i>has cleared the planet.</i>
+
+1792
+01:53:28,477 --> 01:53:31,344
+<i>The Death Star</i>
+<i>has cleared the planet.</i>
+
+1793
+01:53:31,413 --> 01:53:33,074
+<i>Rebel base in range.</i>
+
+1794
+01:53:33,148 --> 01:53:35,673
+You may fire when ready.
+
+1795
+01:53:35,751 --> 01:53:37,981
+<i>Commence primary ignition.</i>
+
+1796
+01:53:51,100 --> 01:53:52,761
+I have you now.
+
+1797
+01:53:55,070 --> 01:53:56,196
+What?
+
+1798
+01:53:56,272 --> 01:53:57,261
+Yahoo!
+
+1799
+01:53:58,841 --> 01:54:00,433
+Look out!
+
+1800
+01:54:06,515 --> 01:54:09,348
+You're all clear, kid!
+Now let's blow this thing and go home!
+
+1801
+01:54:16,158 --> 01:54:17,625
+<i>Stand by.</i>
+
+1802
+01:54:20,629 --> 01:54:22,119
+<i>Stand by.</i>
+
+1803
+01:54:32,708 --> 01:54:33,640
+Great shot, kid!
+
+1804
+01:54:33,709 --> 01:54:35,939
+That was one in a million!
+
+1805
+01:54:36,011 --> 01:54:40,539
+Obi-Wan: <i>Remember, the Force</i>
+<i>will be with you always.</i>
+
+1806
+01:54:52,428 --> 01:54:56,421
+[Cheering]
+
+1807
+01:54:58,934 --> 01:55:00,424
+Luke!
+
+1808
+01:55:04,373 --> 01:55:05,806
+Hey! Hey!
+
+1809
+01:55:05,874 --> 01:55:07,671
+I knew you'd come back.
+I just knew it.
+
+1810
+01:55:07,743 --> 01:55:09,142
+Well, I wasn't going to let you
+get all the credit...
+
+1811
+01:55:09,211 --> 01:55:10,405
+and take all the reward.
+
+1812
+01:55:10,479 --> 01:55:13,175
+Hey, I knew there was
+more to you than money.
+
+1813
+01:55:13,248 --> 01:55:14,476
+Oh, no!
+
+1814
+01:55:14,550 --> 01:55:17,018
+C-3PO: Oh, my. R2, can you hear me?
+
+1815
+01:55:17,086 --> 01:55:20,522
+Say something.
+You can repair him, can't you?
+
+1816
+01:55:20,589 --> 01:55:22,454
+We'll get to work
+on him right away.
+
+1817
+01:55:22,524 --> 01:55:23,889
+You must repair him.
+
+1818
+01:55:23,959 --> 01:55:25,893
+Sir, if any of my circuits
+or gears will help...
+
+1819
+01:55:25,961 --> 01:55:26,893
+I'll gladly donate them.
+
+1820
+01:55:26,962 --> 01:55:28,156
+He'll be all right.
+
+1821
+01:56:02,598 --> 01:56:04,156
+Argh!
+
+1822
+01:56:50,245 --> 01:56:51,735
+<i>[Whistle]</i>
+
+1823
+01:56:51,814 --> 01:56:52,803
+<i>[Beep Beep]</i>
+
+1824
+01:57:06,662 --> 01:57:09,290
+Argh!
+
+1825
+01:57:16,038 --> 01:57:18,905
+Argh!
