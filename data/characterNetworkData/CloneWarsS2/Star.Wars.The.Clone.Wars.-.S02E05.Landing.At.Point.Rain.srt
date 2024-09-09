@@ -1,0 +1,1128 @@
+1
+00:00:18,393 --> 00:00:19,601
+<i>Counterattack!</i>
+
+2
+00:00:19,728 --> 00:00:21,103
+<i>With the clone army stretched</i>
+
+3
+00:00:21,229 --> 00:00:24,314
+<i>in a desperate attempt
+to engage General Grievous' starfleet,</i>
+
+4
+00:00:24,441 --> 00:00:26,734
+<i>Separatist planets
+that were once thought secure</i>
+
+5
+00:00:26,776 --> 00:00:29,486
+<i>are now rising up against the Republic.</i>
+
+6
+00:00:29,612 --> 00:00:32,656
+<i>On Geonosis,
+Separatist leader Poggle the Lesser,</i>
+
+7
+00:00:32,782 --> 00:00:37,619
+<i>safe in his newly ray-shielded factories,
+creates thousands of terrible new weapons</i>
+
+8
+00:00:37,704 --> 00:00:41,248
+<i>which march off the assembly line
+against the outnumbered clone army.</i>
+
+9
+00:00:42,042 --> 00:00:46,295
+<i>The Jedi, resolute in their effort
+to restore order to the Republic,</i>
+
+10
+00:00:46,379 --> 00:00:49,381
+<i>mount a massive invasion
+to retake Geonosis</i>
+
+11
+00:00:49,466 --> 00:00:53,218
+<i>and shut down Poggle's factories of terror
+once and for all.</i>
+
+12
+00:00:55,305 --> 00:00:58,140
+l cannot believe we're back here again.
+
+13
+00:00:58,224 --> 00:00:59,767
+lt is unfortunate.
+
+14
+00:00:59,809 --> 00:01:03,645
+The resistance from the native Geonosians
+was stronger than we anticipated.
+
+15
+00:01:03,772 --> 00:01:06,732
+The same can be said
+for their loyalty to Count Dooku.
+
+16
+00:01:06,816 --> 00:01:08,984
+A fact that is often overlooked.
+
+17
+00:01:09,069 --> 00:01:10,444
+You're late.
+
+18
+00:01:10,487 --> 00:01:14,448
+Sorry, Master, Ahsoka and l were
+busy routing the Seppies near Dorin.
+
+19
+00:01:14,491 --> 00:01:17,326
+My squadron alone had 55 kills.
+
+20
+00:01:17,660 --> 00:01:20,329
+Yeah, but mine had 76.
+
+21
+00:01:20,622 --> 00:01:21,663
+Showoff.
+
+22
+00:01:21,790 --> 00:01:24,124
+Well, l'm glad you two are
+enjoying yourselves.
+
+23
+00:01:24,167 --> 00:01:26,585
+Hey, it's just a little
+friendly competition, Master,
+
+24
+00:01:26,669 --> 00:01:27,836
+nothing to worry about.
+
+25
+00:01:27,921 --> 00:01:31,173
+What l worry about is the way
+this war seems to be drawing out
+
+26
+00:01:31,257 --> 00:01:33,300
+with no end in sight.
+
+27
+00:01:33,384 --> 00:01:37,429
+Which is why it is crucial our invasion
+of Geonosis meets with success.
+
+28
+00:01:37,514 --> 00:01:40,766
+Agreed. Ahsoka,
+contact the Outer Rim Command.
+
+29
+00:01:40,850 --> 00:01:42,184
+We're ready for our briefing.
+
+30
+00:01:42,268 --> 00:01:43,977
+They're already waiting for us.
+
+31
+00:01:45,146 --> 00:01:46,438
+Our ships are in position
+
+32
+00:01:46,523 --> 00:01:49,608
+and we are ready to begin our campaign
+against the Geonosians.
+
+33
+00:01:49,692 --> 00:01:52,820
+<i>And what about Poggle?
+Any report on his location?</i>
+
+34
+00:01:53,196 --> 00:01:56,657
+lt seems he's holed up
+at the primary droid foundry here.
+
+35
+00:01:56,741 --> 00:01:59,201
+The factory is protected
+by a shield generator.
+
+36
+00:01:59,285 --> 00:02:02,412
+Anakin, Ki-Adi and l
+shall attempt a three-pronged attack
+
+37
+00:02:02,497 --> 00:02:06,208
+through their defense lines
+to a staging area just short of the shield.
+
+38
+00:02:06,292 --> 00:02:09,128
+Once we've landed,
+we shall knock out the shield generator.
+
+39
+00:02:09,212 --> 00:02:11,255
+That is our primary target.
+
+40
+00:02:11,339 --> 00:02:15,384
+<i>lsn't it risky committing three generals
+to one area of the attack?</i>
+
+41
+00:02:16,136 --> 00:02:19,388
+<i>lf something went wrong,
+we could be dealt a serious blow.</i>
+
+42
+00:02:19,472 --> 00:02:22,641
+<i>To ensure that rise again
+Geonosis does not,</i>
+
+43
+00:02:22,725 --> 00:02:24,309
+<i>capture Poggle we must.</i>
+
+44
+00:02:24,853 --> 00:02:29,815
+Of course. As always, l shall leave
+the strategy to you, Master Jedi.
+
+45
+00:02:29,899 --> 00:02:31,650
+Our thanks, Chancellor.
+
+46
+00:02:31,734 --> 00:02:33,569
+<i>May the Force be with you.</i>
+
+47
+00:02:35,572 --> 00:02:38,782
+Good. Cody, these are the coordinates
+for the rendezvous.
+
+48
+00:02:38,867 --> 00:02:41,994
+Yes, sir, when we hit the ground,
+we'll create a perimeter there.
+
+49
+00:02:42,078 --> 00:02:44,872
+Getting past their defenses here
+will be the trick.
+
+50
+00:02:44,956 --> 00:02:47,833
+General Mundi will come across
+the defensive lines from the north.
+
+51
+00:02:47,917 --> 00:02:50,169
+We will make our assault
+through the middle.
+
+52
+00:02:50,253 --> 00:02:54,756
+General Skywalker will make his attack
+on the defensive lines from the south,
+
+53
+00:02:54,841 --> 00:02:59,011
+and we'll meet at the rendezvous point
+at 0700 exactly.
+
+54
+00:02:59,095 --> 00:03:00,470
+lf we meet with strong resistance
+
+55
+00:03:00,597 --> 00:03:02,598
+and are forced down
+away from the landing zone,
+
+56
+00:03:02,724 --> 00:03:06,768
+hold out until we join our forces
+before attacking the shield generator.
+
+57
+00:03:06,811 --> 00:03:09,146
+Their frontlines are heavily fortified.
+
+58
+00:03:09,272 --> 00:03:12,274
+Look at that giant wall
+with all the gun emplacements.
+
+59
+00:03:12,400 --> 00:03:14,610
+That won't be easy to get past.
+
+60
+00:03:14,652 --> 00:03:16,945
+Don't worry.
+We're not going anywhere near that.
+
+61
+00:03:16,988 --> 00:03:20,908
+Come, now. What happened
+to all the enthusiasm l saw earlier?
+
+62
+00:03:20,950 --> 00:03:22,451
+Don't worry about us.
+
+63
+00:03:22,577 --> 00:03:25,662
+You just make sure you get yourself
+to that landing zone in one piece.
+
+64
+00:03:25,788 --> 00:03:28,957
+Yes, l shall be waiting for you,
+when you finally arrive.
+
+65
+00:03:29,083 --> 00:03:32,753
+<i>Gentlemen, if you are quite finished,
+we have a battle to begin.</i>
+
+66
+00:03:33,421 --> 00:03:34,755
+Quite right.
+
+67
+00:03:34,797 --> 00:03:37,424
+Cody, prep the gunships.
+l'll meet you in the hangar.
+
+68
+00:03:37,467 --> 00:03:38,800
+Yes, sir.
+
+69
+00:04:00,156 --> 00:04:03,492
+No, sir, l wasn't involved
+in the first assault on Geonosis.
+
+70
+00:04:03,618 --> 00:04:06,828
+Well, you didn't miss much.
+Last time, l was chained to a pole
+
+71
+00:04:06,955 --> 00:04:09,498
+and attacked
+by several humongous monsters.
+
+72
+00:04:09,624 --> 00:04:13,377
+- That sounds entertaining.
+- lt was,
+
+73
+00:04:13,503 --> 00:04:14,670
+for the Geonosians.
+
+74
+00:04:56,004 --> 00:04:58,255
+- We all ready, Rex?
+- Yes, sir.
+
+75
+00:04:58,381 --> 00:05:00,090
+General Kenobi is already underway.
+
+76
+00:05:00,216 --> 00:05:02,718
+Well, he's got a head start.
+We'll have to catch up.
+
+77
+00:05:06,764 --> 00:05:08,015
+Good luck, General.
+
+78
+00:05:08,599 --> 00:05:11,018
+There is no such thing as luck.
+
+79
+00:05:24,282 --> 00:05:25,741
+Good thing those bugs can't aim.
+
+80
+00:05:46,429 --> 00:05:47,763
+The flak is too heavy.
+
+81
+00:05:47,889 --> 00:05:50,265
+<i>We're down! Repeat, down!
+Location five...</i>
+
+82
+00:05:51,434 --> 00:05:53,560
+l just lost contact with Skywalker's team.
+
+83
+00:05:54,228 --> 00:05:56,938
+Come on!
+Get up, we have to keep moving!
+
+84
+00:06:00,360 --> 00:06:01,902
+Here they come!
+
+85
+00:06:02,278 --> 00:06:04,029
+Watch it! Watch it!
+
+86
+00:06:11,871 --> 00:06:14,206
+They're falling back! Come on!
+
+87
+00:06:21,422 --> 00:06:23,256
+Get the tanks on the ground! Now!
+
+88
+00:06:26,803 --> 00:06:28,762
+Cody, get the tanks down.
+Come in, Cody!
+
+89
+00:06:32,683 --> 00:06:35,018
+<i>Cody, come in! Get the tanks down!</i>
+
+90
+00:06:35,144 --> 00:06:37,771
+Copy that. Pilot, begin landing sequence.
+
+91
+00:06:37,980 --> 00:06:39,898
+Copy that, Commander.
+Have fun down there.
+
+92
+00:06:49,826 --> 00:06:51,201
+Move it! Move it!
+
+93
+00:06:51,452 --> 00:06:53,161
+Here they come!
+Bugs incoming!
+
+94
+00:06:53,204 --> 00:06:54,704
+Man down! Man down!
+
+95
+00:06:54,831 --> 00:06:56,998
+General Kenobi, don't land!
+The zone is hot!
+
+96
+00:06:58,626 --> 00:07:00,335
+But there's nowhere else to go!
+
+97
+00:07:07,510 --> 00:07:09,719
+We're hit! We're going down!
+
+98
+00:07:14,642 --> 00:07:15,851
+Brace yourselves!
+
+99
+00:07:27,280 --> 00:07:29,489
+- Bogie, point three five.
+- l'm on it, leader.
+
+100
+00:07:31,868 --> 00:07:33,285
+Nice work.
+
+101
+00:07:36,164 --> 00:07:37,581
+What are our losses, Captain?
+
+102
+00:07:37,915 --> 00:07:39,374
+We got hit pretty hard.
+
+103
+00:07:39,459 --> 00:07:42,627
+l think only Kenobi's forces made it
+through the flak to the landing zone.
+
+104
+00:07:42,879 --> 00:07:44,212
+And what about Skywalker?
+
+105
+00:07:44,464 --> 00:07:47,632
+Captain Rex reported
+they're still in the middle of a firefight.
+
+106
+00:07:47,717 --> 00:07:49,217
+Skywalker's tanks are gone
+
+107
+00:07:49,302 --> 00:07:52,304
+and they're trying to contact
+General Kenobi's forces for support.
+
+108
+00:07:52,388 --> 00:07:54,431
+ln the meantime, they'll press on
+to the rendezvous point.
+
+109
+00:07:55,141 --> 00:07:58,101
+Very well. Load the injured onto the tanks.
+
+110
+00:07:58,895 --> 00:08:00,353
+We'll make for that ridge.
+
+111
+00:08:00,563 --> 00:08:02,397
+With any luck,
+we can meet up with Skywalker
+
+112
+00:08:02,482 --> 00:08:04,357
+on his way to Kenobi's position.
+
+113
+00:08:10,364 --> 00:08:12,866
+Okay, Cody,
+l'll speak with General Skywalker.
+
+114
+00:08:12,950 --> 00:08:16,411
+Rex, what's the word?
+Can Obi-Wan send support or not?
+
+115
+00:08:16,496 --> 00:08:17,621
+l don't think so, sir.
+
+116
+00:08:17,705 --> 00:08:20,081
+Cody says General Kenobi never reached
+the landing site.
+
+117
+00:08:20,166 --> 00:08:21,833
+They think his gunship got shot down.
+
+118
+00:08:21,918 --> 00:08:24,794
+Great. The one time
+l actually ask Obi-Wan for help,
+
+119
+00:08:24,879 --> 00:08:26,004
+he's nowhere to be found!
+
+120
+00:08:26,088 --> 00:08:28,465
+Well, what if something happened
+to General Kenobi?
+
+121
+00:08:28,549 --> 00:08:30,842
+- He could be injured or...
+- No time for that kind of talk.
+
+122
+00:08:30,927 --> 00:08:33,345
+Rex, we need to mobilize, now!
+
+123
+00:08:33,429 --> 00:08:35,764
+Get the men together.
+We're going to rush the guns.
+
+124
+00:08:35,848 --> 00:08:37,015
+Yes, sir.
+
+125
+00:08:37,099 --> 00:08:38,683
+Ahsoka, you're with me.
+
+126
+00:08:38,768 --> 00:08:40,644
+We need to give Rex cover
+when we attack.
+
+127
+00:08:40,728 --> 00:08:42,729
+Got it, just give the word.
+
+128
+00:08:42,813 --> 00:08:44,773
+Hey, l'm worried about him, too,
+
+129
+00:08:44,857 --> 00:08:47,067
+but you have to keep your mind
+in the here and now,
+
+130
+00:08:47,151 --> 00:08:49,694
+otherwise we'll never be able
+to help Obi-Wan.
+
+131
+00:08:52,198 --> 00:08:54,241
+- All here, sir.
+- Ready? Now!
+
+132
+00:08:54,325 --> 00:08:56,535
+Go, go, go, go! Take them out!
+Take them all out!
+
+133
+00:09:03,209 --> 00:09:05,252
+Not good. The bugs are splitting up.
+
+134
+00:09:05,336 --> 00:09:07,879
+- Boil, reporting as ordered sir.
+- Waxer, reporting as ordered sir.
+
+135
+00:09:07,964 --> 00:09:09,673
+We've got a downed gunship
+five clicks east.
+
+136
+00:09:09,757 --> 00:09:10,924
+We believe it's General Kenobi's.
+
+137
+00:09:11,008 --> 00:09:13,218
+l need you to get out there
+and check for survivors.
+
+138
+00:09:13,302 --> 00:09:14,886
+- Sir, yes, sir!
+- Sir, yes, sir!
+
+139
+00:09:29,235 --> 00:09:33,029
+- Why do we always get the fun missions?
+- Oh, this isn't the fun part.
+
+140
+00:09:33,114 --> 00:09:34,990
+Getting back to the square is the fun part.
+
+141
+00:09:38,077 --> 00:09:43,582
+Waxer, Boil, am l glad to see you!
+Trapper and l are the only ones still alive.
+
+142
+00:09:43,666 --> 00:09:44,958
+Good to see you, sir!
+
+143
+00:09:45,042 --> 00:09:47,919
+Commander Cody has established
+the square just beyond this position.
+
+144
+00:09:48,004 --> 00:09:50,755
+The bugs are on the move
+and trying to surround us as we speak, sir.
+
+145
+00:09:54,135 --> 00:09:55,719
+They've got the General.
+
+146
+00:09:55,803 --> 00:09:59,472
+AT-TE 636, lay down cover fire
+at point three five.
+
+147
+00:10:09,358 --> 00:10:10,650
+Take it down! Take it down!
+
+148
+00:10:17,867 --> 00:10:21,369
+- Are you injured, General?
+- No, no, nothing too serious.
+
+149
+00:10:21,454 --> 00:10:25,206
+- What's the situation here?
+- We've got no air cover.
+
+150
+00:10:25,291 --> 00:10:27,459
+Two generals on the ground
+beyond our position.
+
+151
+00:10:27,543 --> 00:10:29,377
+And a mess of bugs surrounding us.
+
+152
+00:10:29,462 --> 00:10:31,921
+The enemy was more than prepared
+for our attack, sir.
+
+153
+00:10:32,048 --> 00:10:33,757
+They knew our every move.
+
+154
+00:10:33,883 --> 00:10:36,384
+Well, l'm sure General Skywalker
+and General Mundi
+
+155
+00:10:36,427 --> 00:10:37,927
+will make it to our position.
+
+156
+00:10:38,054 --> 00:10:41,389
+We just have to make sure we're still here
+when they arrive.
+
+157
+00:11:03,412 --> 00:11:06,831
+Negative, Captain. We will be unable
+to provide any air support at this time.
+
+158
+00:11:07,291 --> 00:11:08,583
+l understand that, sir,
+
+159
+00:11:08,668 --> 00:11:10,335
+but we have three attack forces
+on the ground
+
+160
+00:11:10,419 --> 00:11:12,170
+and only one at the landing zone.
+
+161
+00:11:12,338 --> 00:11:17,175
+This is a planetary-wide invasion, Captain.
+lf l divert resources to your position,
+
+162
+00:11:17,259 --> 00:11:19,928
+it will mean sacrificing
+other areas of the campaign.
+
+163
+00:11:20,262 --> 00:11:23,348
+<i>All we can do at this time
+is help you find General Skywalker.</i>
+
+164
+00:11:23,432 --> 00:11:26,434
+All right, sir. l'll report to the General.
+Commander Jet, out.
+
+165
+00:11:26,894 --> 00:11:29,270
+Give me every fighter you can scrape up.
+
+166
+00:11:30,189 --> 00:11:32,399
+Have you located
+General Skywalker's position?
+
+167
+00:11:32,650 --> 00:11:35,318
+We think he's somewhere
+along the eastern barrier.
+
+168
+00:11:35,403 --> 00:11:38,154
+That's not a barrier, it's a fortress.
+
+169
+00:11:46,080 --> 00:11:47,122
+Gentlemen, tackle...
+
+170
+00:11:49,208 --> 00:11:53,169
+Well, this is another fine mess
+you've gotten us into.
+
+171
+00:11:53,254 --> 00:11:55,588
+What? Hey, it's not my fault!
+
+172
+00:11:55,673 --> 00:11:57,841
+You were supposed to study
+the holomaps!
+
+173
+00:11:57,925 --> 00:11:59,342
+l did!
+
+174
+00:11:59,427 --> 00:12:02,929
+Remember when l reminded you
+about the giant wall,
+
+175
+00:12:03,013 --> 00:12:07,434
+and you said, "Don't worry, Snips,
+we won't be anywhere near that"?
+
+176
+00:12:07,518 --> 00:12:09,477
+Just get ready to climb!
+
+177
+00:12:10,813 --> 00:12:13,481
+General, l left a squad to protect the tanks.
+
+178
+00:12:13,566 --> 00:12:16,234
+Are you sure this is
+the shortest way to the landing zone?
+
+179
+00:12:16,318 --> 00:12:20,780
+No, l'm not sure, Commander.
+All l can do is trust my instincts.
+
+180
+00:12:34,545 --> 00:12:37,005
+Wait a minute, wait a minute.
+l have a wing vibration up ahead.
+
+181
+00:12:58,027 --> 00:13:01,780
+Don't stop! We must push on! Forward!
+
+182
+00:13:03,032 --> 00:13:05,867
+- So, what's the plan, General?
+- Just keep us covered, Rex.
+
+183
+00:13:05,993 --> 00:13:08,453
+There's too much laser fire
+for all of us to make the climb.
+
+184
+00:13:08,537 --> 00:13:11,956
+Ahsoka and l will handle this.
+Just be ready when that wall comes down.
+
+185
+00:13:59,880 --> 00:14:02,006
+How many droids
+have you shut down so far?
+
+186
+00:14:02,091 --> 00:14:05,802
+- Twenty-five.
+- Ah, you're falling behind. Let's go!
+
+187
+00:14:23,237 --> 00:14:25,113
+Focus on the droids on top of the wall!
+
+188
+00:14:32,413 --> 00:14:33,454
+Man down!
+
+189
+00:15:01,650 --> 00:15:05,445
+Look for a hatch. We need to put
+the explosives inside the wall.
+
+190
+00:15:06,780 --> 00:15:08,156
+Found one!
+
+191
+00:15:32,222 --> 00:15:34,223
+Hey, did you get them?
+
+192
+00:15:34,350 --> 00:15:36,100
+- Catch!
+- Huh?
+
+193
+00:15:36,852 --> 00:15:37,852
+No!
+
+194
+00:15:38,395 --> 00:15:40,647
+- Come on, Rex.
+- Up and away!
+
+195
+00:15:46,737 --> 00:15:47,904
+Help!
+
+196
+00:16:09,385 --> 00:16:13,429
+- Next time, just tell me to jump.
+- Now, where's the fun in that?
+
+197
+00:16:13,931 --> 00:16:17,558
+- Come on, we can't keep Obi-Wan waiting.
+- You heard him, lads. Let's go!
+
+198
+00:16:28,028 --> 00:16:30,780
+We're almost through.
+Bring in the flamethrowers!
+
+199
+00:16:41,458 --> 00:16:42,542
+Look! What's that?
+
+200
+00:16:51,635 --> 00:16:53,511
+<i>Master Mundi, do you read me?</i>
+
+201
+00:16:53,804 --> 00:16:55,304
+We're here, Skywalker.
+
+202
+00:16:55,389 --> 00:16:58,725
+We took a slight detour that put us
+out of communications for a bit.
+
+203
+00:16:58,809 --> 00:17:00,977
+<i>This has been a day for detours, Master.</i>
+
+204
+00:17:01,061 --> 00:17:03,396
+lndeed, but now the road is clear.
+
+205
+00:17:03,480 --> 00:17:06,649
+l can see the landing zone.
+lt does not look good.
+
+206
+00:17:07,776 --> 00:17:09,110
+Can you get me Admiral Yularen?
+
+207
+00:17:13,282 --> 00:17:15,116
+<i>Admiral, we're at the breaking point.</i>
+
+208
+00:17:15,200 --> 00:17:17,076
+<i>You've got to get some fighters
+down here.</i>
+
+209
+00:17:17,161 --> 00:17:20,621
+You are in luck, General Skywalker.
+l have one squadron available.
+
+210
+00:17:29,506 --> 00:17:32,008
+Retreat! Go! Go! Go!
+
+211
+00:17:39,975 --> 00:17:43,061
+Fire through! Make every shot
+count! Give it all you got!
+
+212
+00:17:45,397 --> 00:17:48,691
+Reinforcements!
+The reinforcements have arrived!
+
+213
+00:17:57,534 --> 00:18:02,080
+Go, go, go! Move it! Move it!
+Hurry up, lads! Let's go!
+
+214
+00:18:05,125 --> 00:18:07,418
+Hurry! Hurry! Here they are.
+
+215
+00:18:07,503 --> 00:18:09,045
+Move it! Move it!
+
+216
+00:18:10,923 --> 00:18:12,507
+Master Kenobi!
+
+217
+00:18:13,717 --> 00:18:17,678
+- Well, what happened to you?
+- l might ask you the same question.
+
+218
+00:18:18,222 --> 00:18:21,682
+Our combined forces should be enough
+to destroy the shield generator.
+
+219
+00:18:21,767 --> 00:18:25,269
+Anakin, you'll need to take a small squad
+through the shield,
+
+220
+00:18:25,354 --> 00:18:28,189
+as close as you can get
+to their gun emplacements.
+
+221
+00:18:28,273 --> 00:18:31,234
+From there, you'll be able
+to temporarily jam their scanners
+
+222
+00:18:31,318 --> 00:18:34,112
+so they are unable
+to target the incoming tanks.
+
+223
+00:18:34,404 --> 00:18:36,364
+Once the tanks knock out the shield,
+
+224
+00:18:36,448 --> 00:18:40,368
+Master Mundi can bring
+the rest of the troops in with the gunships.
+
+225
+00:18:40,452 --> 00:18:41,994
+Consider it done, Master.
+
+226
+00:18:49,503 --> 00:18:51,546
+All units are in position, sir.
+
+227
+00:18:52,548 --> 00:18:54,674
+Tell Skywalker to start the attack.
+
+228
+00:18:55,050 --> 00:18:56,425
+Begin the attack.
+
+229
+00:19:36,008 --> 00:19:39,093
+Let's jam their scanners.
+Droid poppers, ready.
+
+230
+00:19:45,976 --> 00:19:50,062
+- Looks like it's working.
+- lt won't last long. Bring up the tanks!
+
+231
+00:20:32,481 --> 00:20:34,440
+So, Master, what was your total?
+
+232
+00:20:35,651 --> 00:20:38,236
+- Not now, Ahsoka.
+- Come on!
+
+233
+00:20:38,320 --> 00:20:40,404
+Are you afraid you lost this time?
+
+234
+00:20:40,489 --> 00:20:43,491
+Fine. Fifty-five, that's my count. And you?
+
+235
+00:20:45,494 --> 00:20:47,912
+Sixty. Looks like l won.
+
+236
+00:20:49,331 --> 00:20:52,416
+Yeah, but l called in the air strike. Tie!
+
+237
+00:20:53,001 --> 00:20:54,502
+You're impossible!
+
+238
+00:20:55,003 --> 00:20:56,170
+l'll never understand
+
+239
+00:20:56,213 --> 00:20:59,757
+how you can simplify these battles
+into some kind of game.
+
+240
+00:21:02,344 --> 00:21:05,596
+Well, take care of yourselves.
+l expect to see both of you back here
+
+241
+00:21:05,681 --> 00:21:08,057
+by the time l've destroyed
+the main factory.
+
+242
+00:21:08,183 --> 00:21:09,684
+We shall do our best.
+
+243
+00:21:09,768 --> 00:21:13,104
+- Sixty-five, Skywalker.
+- l'm sorry?
+
+244
+00:21:13,188 --> 00:21:15,439
+My total. Sixty-five.
+
+245
+00:21:16,066 --> 00:21:17,400
+So what do l win?
+
+246
+00:21:22,406 --> 00:21:24,532
+My everlasting respect, Master Mundi.
+
+247
+00:21:25,033 --> 00:21:26,158
+Oh.
+
+248
+00:21:26,201 --> 00:21:30,371
+That is a gift Anakin rarely bestows,
+l assure you.
+

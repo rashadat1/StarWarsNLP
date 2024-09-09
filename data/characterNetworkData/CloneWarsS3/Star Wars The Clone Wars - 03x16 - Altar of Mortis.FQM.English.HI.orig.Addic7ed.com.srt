@@ -1,0 +1,289 @@
+[0][100]{c:$0000ff}Subtitles downloaded by MiniSubDownloader:|{c:$ff7070}{y:u}http://strong-gg.info
+[171][189]??
+[191][222]Sent to discover the origin|of a mysterious distress call.
+[223][262]Obi-Wan Kenobi, Anakin Skywalker,|and his padawan, ahsoka tano.
+[262][284]All stranded on a distant planet.
+[286][307]Later they discover three beings,
+[308][352]more powerful with the force|than any jedi have seen before.
+[353][379]The father keeps a fragile|balance between his daughter,
+[380][412]who allies with the light side,|and the son, who drifts ever
+[413][435]closer to the dark.
+[435][467]With his strength failing, the|father asks Anakin to stay and
+[468][513]take his place, preserving the|balance between light and dark,
+[513][556]but after passing a perilous|test, Skywalker refuses.
+[557][582]Now, we find our heroes about|to depart for their journey
+[582][616]home...|Or so they think.
+[756][777]Anakin.
+[777][795]Anakin.
+[796][809]Anakin.
+[809][829][Gasps]
+[945][975]It's true what they say.
+[976][1010]You are the chosen one.
+[1011][1031]Join me.
+[1031][1108]Together we can change the balance|of the universe, my friend.
+[1109][1150]You must know I will never|join the dark side willingly.
+[1150][1199]How simple you make it, light|and dark, as if there is
+[1200][1236]one without the other.
+[1236][1293]Aligned, you and I can restore|balance wherever we go,
+[1294][1320]peace to the universe.
+[1320][1341]By becoming a sith.
+[1341][1362]Never.
+[1362][1422]We will destroy the sith and the jedi.
+[1446][1469][Roaring]
+[1489][1521][Gasps]
+[1521][1545]Were you having a nightmare?
+[1546][1570]Something like that.
+[1571][1604]If you're done napping, I|could use a little help here.
+[1605][1615]I'm coming.
+[1615][1622][Gasps]
+[1622][1665][Groaning]
+[1665][1688]Leaving so soon?
+[1689][1708]Not without this, you won't.
+[1734][1751]Ahsoka!
+[1752][1774][Screaming]
+[1792][1802]What's going on?
+[1803][1817]The son took ahsoka.
+[1817][1837]What in the blazes are|you talking about?
+[1837][1844]Move.
+[1844][1867]Let me fly.
+[1946][1953][Screams]
+[1954][1975][Snarling]
+[2305][2325]Look out!
+[2463][2493][Electricity crackling]
+[2520][2535]I didn't think you saw it.
+[2536][2553]It was a giant tower.
+[2553][2573]Of course I saw it.
+[2636][2656]Any sign of him?
+[2656][2669]No.
+[2669][2703]But I think it's obvious|where he's taken her.
+[2741][2753]We must hurry.
+[2754][2778]Anakin, this wasn't a mistake.
+[2778][2795]He brought us here for a reason.
+[2795][2812]We must not get involved.
+[2813][2838]Any conflict here could have|dramatic repercussions for the
+[2838][2851]universe at large.
+[2851][2860]I don't care.
+[2861][2878]He's too powerful for ahsoka.
+[2878][2893]I won't leave her alone.
+[2893][2929]We are in the middle of something|we don't truly understand.
+[2929][2954]We'd be wise to confer|with the father first.
+[2954][2967]There's no time.
+[2967][2995]This is what he wants, to divide us.
+[2995][3017]It's my fault he took her.
+[3017][3040]You must feel how strong this|part of the planet is with the
+[3040][3056]dark side.
+[3056][3080]The father will know what to do.
+[3080][3100]He can't help us.
+[3163][3189]You cannot keep me here.
+[3190][3200]You hear me?
+[3200][3222]Save your energy.
+[3223][3258]You have been left to die.
+[3258][3279]Then I will escape.
+[3279][3293]Impossible.
+[3293][3305][Chuckles]
+[3305][3347]I have been here for more years|than I care to remember.
+[3348][3366]I am a jedi.
+[3367][3385]We don't give up easily.
+[3386][3401]Jedi?
+[3401][3414]Huh.
+[3414][3436]But so young.
+[3436][3477]Where is your master?
+[3477][3499]He will come for me.
+[3499][3531]And if he does not?
+[3531][3549]He will.
+[3549][3588]What makes you so sure?
+[3589][3618][Mechanical whirring]
+[3618][3632]Thank you.
+[3632][3650]The chains?
+[3650][3679]The chains are the easy part.
+[3679][3725]It's what goes on in here that's hard.
+[3725][3743]Don't you see, child?
+[3743][3778]You are alone now.
+[3779][3848]If you are to survive, you|must forget your master.
+[3848][3892]I don't think I...|Ow!
+[3892][3908]What have you done?
+[3909][3953]You are mine now.
+[3953][3974][Gasps]
+[4154][4172]Anakin.
+[4172][4197]Always on the move.
+[4197][4225]How do I even find the father?
+[4390][4430]You are growing stronger, my son.
+[4430][4452]Am I, father?
+[4452][4492]Vanity, however, is getting|the better of you.
+[4492][4509]How so?
+[4509][4542]You have done what is forbidden.
+[4569][4604]You've chosen the dark side and|allowed it to feed your anger
+[4604][4623]and desire for power.
+[4623][4663]By bringing the chosen one here,|you've shown me my potential.
+[4663][4683]You've only yourself to blame.
+[4683][4702]Do not do this, son.
+[4703][4726]Do not become what you should not.
+[4726][4764]Be strong, I implore you,|or else I will be forced
+[4765][4783]to contain you.
+[4783][4810]You look frail, father.
+[4811][4851]I am not dead yet.
+[4852][4909]Well, perhaps I am tired of waiting.
+[4909][4940]I hate you!
+[5008][5041]Father!
+[5275][5292]We will leave him to rest.
+[5292][5306]I must talk to him.
+[5306][5327]Not until he's stronger.
+[5327][5356]But your brother is losing|himself to the dark side.
+[5356][5371]He's taken our friend.
+[5372][5395]Then he must have his reasons.
+[5395][5428]The same reason he had for|attempting to murder your father?
+[5428][5444]He would never do such a thing.
+[5444][5460]But I saw him.
+[5460][5478]It is not his fault.
+[5479][5512]My nature is to do what is|selfless, but my brother's will
+[5513][5533]always be to do what is selfish.
+[5533][5559]Then know you must help us.
+[5560][5592]I cannot interfere with|the ways of the force.
+[5592][5622]My father forbids it.
+[5623][5646]Your brother will flee this|place and wreak havoc on the
+[5646][5658]universe.
+[5658][5695]You and Anakin combined|have the power to stop him.
+[5712][5748]Come with me.
+[5748][5778][Thunder booming]
+[6186][6209]I can go no further.
+[6209][6239]When you reach the altar, it|will give you what you need.
+[6240][6270]I-I don't understand.
+[6270][6314]He who wields the blade will|be able to control my brother.
+[6603][6633][Thunder booming]
+[6677][6695][Grunts]
+[6695][6715][Panting]
+[6839][6868]Ahsoka.
+[6869][6889]Ahsoka, it's me.
+[6890][6898]You're safe now.
+[6898][6913]Let's go.
+[6914][6953]Are you proud of me, master?
+[6954][6973]What?
+[6973][6993]Uh, of course, snips.
+[6993][7003]Course I'm proud of you.
+[7003][7030]Now, let's get out of here.
+[7031][7068]He's right, right about everything.
+[7069][7090]You must join him.
+[7091][7125]He only wants what's|best for the universe.
+[7126][7147]Hey, what's wrong with you?
+[7148][7180]Always with the criticism, master.
+[7181][7229]Never really believing|in me, trusting me.
+[7230][7260]Well, I don't need you anymore.
+[7261][7273]Ahsoka.
+[7273][7292]Ahsoka, listen to me.
+[7293][7305]He has done something to you.
+[7305][7317]Snap out of it.
+[7317][7331]This isn't you, ahsoka.
+[7331][7347]Isn't it?
+[7347][7380]I feel more like myself|than I ever have.
+[7381][7407]He asked me to give you a message.
+[7408][7452]He said if you don't join|him, he will kill me.
+[7453][7465][Laughs]
+[7466][7480]I won't let him.
+[7480][7518]Then you will be forced to kill me.
+[7773][7793]Sister.
+[7793][7818]What a pleasant surprise.
+[7818][7838]And you brought a friend.
+[7839][7855]What have you done, brother?
+[7855][7878]Done?
+[7878][7932]I have done what is right...|Or what is wrong, depending on
+[7933][7948]your point of view.
+[7948][7968]Our father is dying.
+[7969][7985]Did you do it?
+[7986][8043]He is just so selfish and was|taking too long to die, so
+[8043][8069]I decided to move things along.
+[8070][8104]Now, why are you here?
+[8104][8127]I won't let you leave this planet.
+[8127][8160]You are not strong|enough to keep me here.
+[8161][8180]Not alone, she isn't.
+[8181][8234]Are you referring to your|friend, the chosen one?
+[8234][8258]You might want to check up on him.
+[8258][8319]He's a little preoccupied right now.
+[8319][8348]I don't want to fight you, ahsoka.
+[8402][8450]And now the student|will kill the master.
+[8505][8528]You're getting ahead of|yourself, aren't you, snips?
+[8528][8544]Don'call me that.
+[8545][8565]I hate it when you call me that!
+[8674][8688]Two jedi.
+[8689][8715]Finally, a challenge.
+[8775][8813]Can you feel it, sister?
+[8813][8885]Can you feel the anger,|the hate, the fury?
+[8885][8916]Their conflict is|feeding you, isn't it?
+[8916][8938]I must stop them.
+[8938][8958]No.
+[9068][9117]If you will stand in my way,|then I guess we must fight.
+[9365][9378]Any suggestions?
+[9378][9387]Yes.
+[9388][9418]We cut her free.
+[9419][9432]What is that?
+[9432][9447]It can kill the son.
+[9447][9458][Growls]
+[9459][9487]Where did you get that?
+[9487][9512]Give it to me.
+[9574][9586]Ah!
+[9587][9607][Growls]
+[9630][9650][Grunts]
+[9688][9708]You don't have to do this.
+[9709][9732]Then stand aside.
+[9768][9783]I can't.
+[9783][9803]I won't.
+[10190][10211]Stop this!
+[10303][10354]So glad you could make it to|our little party, father.
+[10355][10388]You will stop this.
+[10388][10424]You are too weak for me, old man.
+[10425][10444]You mean nothing to me anymore.
+[10625][10644]Anakin, now!
+[10727][10794]Everything has transpired|exactly as I planned.
+[10795][10830]You showed them the altar?
+[10830][10848]I am sorry, father.
+[10848][10877]I didn't know how else to stop him.
+[10878][10914]Give it to me, child.
+[10914][10947]Ahsoka, no.
+[11005][11020]Thank you.
+[11021][11062]Your usefulness has come to an end.
+[11088][11108]No!
+[11125][11170]The jedi have brought me the|dagger, and you have brought
+[11170][11189]yourself.
+[11189][11244]Now, father, you will die.
+[11244][11256]Father!
+[11256][11276][Gasps]
+[11328][11362]Why?
+[11501][11516]My daughter.
+[11517][11534]What have I done?
+[11534][11555][Coughs]
+[11555][11578]Do not hate him, father.
+[11600][11619]It is his nature.
+[11620][11640]No.
+[11641][11667]All is lost.
+[11667][11699]The balance has been broken.
+[11699][11739]I thought by bringing|you here, I would...
+[11739][11765]But I have destroyed everything.
+[11797][11815]Can you help her?
+[11815][11834]There is no light.
+[11835][11872]The evil has been unleashed, and|the dark side shall consume
+[11872][11882]her.
+[11882][11900]You must help her.
+[11901][11932]I cannot undo what is done.
+[11932][11948]There is no hope.
+[11949][11959]Yes, there is.
+[11959][11979]There's always hope.
+[12228][12275]Then let my daughter's last|act be to breathe life
+[12275][12299]into your friend.
+[12476][12509][Coughing]
+[12531][12541][Laughs]
+[12542][12557]Hey, snips.
+[12558][12599]What's going on?
+[12599][12625]Uh, not much.
+[12625][12645]It's good to see you.
+[12681][12726]As the balance in this world|crumbles, so shall war escalate
+[12727][12756]in your galaxy.
+[12757][12798]As my son has descended into the|dark side, so have the sith
+[12799][12817]gained strength.
+[12818][12832]We will stop your son.
+[12832][12844]No.
+[12845][12867]You must go now.
+[12867][12893]He needs your ship|to leave the planet.
+[12893][12922]You must leave before he can take it.
+[12923][12938]What about you?
+[12938][13010]I shall mourn all that I have|done. And all that is yet to be.
+[13013][13043][Thunder booming]
+[13043][13243]{c:$0000ff}Subtitles downloaded by MiniSubDownloader:|{c:$ff7070}{y:u}http://strong-gg.info

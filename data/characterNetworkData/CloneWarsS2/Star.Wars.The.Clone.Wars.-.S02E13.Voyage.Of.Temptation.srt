@@ -1,0 +1,1146 @@
+1
+00:00:18,101 --> 00:00:19,476
+<i>A royal welcome!</i>
+
+2
+00:00:19,602 --> 00:00:21,061
+<i>Sent to investigate allegations</i>
+
+3
+00:00:21,104 --> 00:00:23,814
+<i>that Mandalore was joining
+Count Dooku's Separatists,</i>
+
+4
+00:00:23,940 --> 00:00:26,483
+<i>Obi-Wan Kenobi was reunited
+with an old friend,</i>
+
+5
+00:00:26,609 --> 00:00:28,777
+<i>the Duchess Satine of Kalevala.</i>
+
+6
+00:00:28,903 --> 00:00:30,904
+<i>While Satine claimed
+Mandalore's intentions</i>
+
+7
+00:00:30,947 --> 00:00:35,409
+<i>were to remain neutral during the war,
+an attack on the capital city led Obi-Wan</i>
+
+8
+00:00:35,452 --> 00:00:39,371
+<i>to the discovery of a terrorist organization
+known as Death Watch.</i>
+
+9
+00:00:39,456 --> 00:00:41,290
+<i>Now the Duchess travels to the Senate</i>
+
+10
+00:00:41,374 --> 00:00:44,084
+<i>so she can plead her case
+against her involvement in the war</i>
+
+11
+00:00:44,169 --> 00:00:47,296
+<i>as the Jedi prepare a defense
+against her opponents.</i>
+
+12
+00:00:47,380 --> 00:00:48,797
+You know your marching orders.
+
+13
+00:00:48,882 --> 00:00:51,925
+The safety of the Duchess Satine is
+of the utmost importance.
+
+14
+00:00:52,010 --> 00:00:53,343
+The Death Watch will stop at nothing
+
+15
+00:00:53,428 --> 00:00:56,555
+to assassinate her
+before she pleads her case to the Senate.
+
+16
+00:00:56,639 --> 00:01:00,976
+The Death Watch may be backed
+by the Separatists, so stay sharp.
+
+17
+00:01:01,019 --> 00:01:04,313
+Artoo, use your scanners to probe
+for any suspicious droid activity.
+
+18
+00:01:05,482 --> 00:01:08,358
+- Anything else, sir?
+- No, that will be all.
+
+19
+00:01:11,529 --> 00:01:12,571
+Yes?
+
+20
+00:01:12,655 --> 00:01:14,907
+<i>The Duchess
+and her retinue requests your presence.</i>
+
+21
+00:01:14,991 --> 00:01:16,158
+Very well.
+
+22
+00:01:22,791 --> 00:01:25,334
+l sense some anxiety from you
+about the Duchess.
+
+23
+00:01:25,460 --> 00:01:27,836
+- She couldn't be in safer hands.
+- Yes, l know.
+
+24
+00:01:27,962 --> 00:01:31,799
+- Then why...
+- Never mind. lt's all in the past.
+
+25
+00:01:31,841 --> 00:01:36,386
+- Oh, so you're close to her?
+- l knew her. A long time ago.
+
+26
+00:01:48,942 --> 00:01:51,777
+All secure here.
+Let's move on to the next sector.
+
+27
+00:02:03,540 --> 00:02:05,749
+War is intolerable!
+
+28
+00:02:05,875 --> 00:02:09,545
+We have been deceived into thinking
+that we must be a part of it.
+
+29
+00:02:10,380 --> 00:02:12,548
+l say the moment
+we committed to fighting,
+
+30
+00:02:12,632 --> 00:02:14,550
+we already lost.
+
+31
+00:02:14,634 --> 00:02:15,717
+Excuse me, Your Grace,
+
+32
+00:02:15,844 --> 00:02:19,555
+are you suggesting we oppose the war
+on humanitarian grounds?
+
+33
+00:02:19,681 --> 00:02:23,225
+l'm going to oppose it
+as an affront to life itself.
+
+34
+00:02:23,309 --> 00:02:26,687
+As the designated regent
+of 1,500 systems,
+
+35
+00:02:26,729 --> 00:02:28,730
+l speak for thousands of worlds
+
+36
+00:02:28,815 --> 00:02:32,151
+that have urged me to allow them
+to stay neutral in this war.
+
+37
+00:02:32,235 --> 00:02:35,112
+And yet some might argue
+that the strongest defense
+
+38
+00:02:35,196 --> 00:02:37,614
+is a swift and decisive offense.
+
+39
+00:02:42,036 --> 00:02:45,873
+You are quite the general now,
+aren't you, Master Kenobi?
+
+40
+00:02:45,957 --> 00:02:49,918
+Forgive me for interrupting,Your Highness,
+l meant no disrespect.
+
+41
+00:02:50,003 --> 00:02:51,336
+Really?
+
+42
+00:02:51,421 --> 00:02:53,088
+Senators, l presume you are acquainted
+
+43
+00:02:53,173 --> 00:02:58,010
+with the collection of half-truths
+and hyperbole known as Obi-Wan Kenobi?
+
+44
+00:02:58,094 --> 00:03:02,306
+- Your Highness is too kind.
+- You're right. l am.
+
+45
+00:03:04,392 --> 00:03:08,270
+Allow me to introduce
+my fellow Jedi, Anakin Skywalker.
+
+46
+00:03:08,313 --> 00:03:09,938
+Your servant, my lady.
+
+47
+00:03:10,773 --> 00:03:14,943
+l remember a time when Jedi were
+not generals, but peacekeepers.
+
+48
+00:03:15,028 --> 00:03:19,615
+We are protectors, Highness.
+Yours at the moment. We fight for peace.
+
+49
+00:03:19,657 --> 00:03:22,451
+What an amusing contradiction.
+
+50
+00:03:22,493 --> 00:03:26,538
+What Master Skywalker means is that we
+are acting at the behest of Your Highness
+
+51
+00:03:26,623 --> 00:03:28,874
+to protect you from the Death Watch
+and the Separatists,
+
+52
+00:03:28,958 --> 00:03:30,918
+who don't share
+your neutral point of view.
+
+53
+00:03:31,002 --> 00:03:32,878
+l asked for no such thing.
+
+54
+00:03:32,962 --> 00:03:36,715
+That may be so,
+but a majority of your court did.
+
+55
+00:03:38,885 --> 00:03:42,888
+l do not remember you
+as one to hide behind excuses.
+
+56
+00:03:42,972 --> 00:03:46,975
+l do not remember you
+as one to shrink from responsibilities.
+
+57
+00:03:47,727 --> 00:03:52,648
+l am certain we all agree
+Duchess Satine and General Kenobi
+
+58
+00:03:52,774 --> 00:03:56,318
+have proven there are two sides
+to every dilemma.
+
+59
+00:03:56,361 --> 00:03:57,486
+lndeed.
+
+60
+00:03:57,612 --> 00:04:01,198
+Now, in regard to the Senate vote,
+we think...
+
+61
+00:04:01,324 --> 00:04:04,826
+l think a multitude makes discord,
+not good council.
+
+62
+00:04:04,869 --> 00:04:07,120
+Right again, my lady.
+
+63
+00:04:07,163 --> 00:04:11,667
+There may be two sides to every dilemma,
+but the Duchess only favors hers.
+
+64
+00:04:20,468 --> 00:04:21,927
+l'll check out the south quadrant.
+
+65
+00:04:22,011 --> 00:04:25,806
+- Careful over there, it's dark.
+- Yeah, very funny, Mixer.
+
+66
+00:04:42,615 --> 00:04:45,826
+Stop messing around. That's not funny.
+
+67
+00:04:49,956 --> 00:04:51,873
+Droids.
+
+68
+00:04:55,253 --> 00:04:59,339
+A Republic military presence is the only
+sure defense against the Separatists.
+
+69
+00:04:59,882 --> 00:05:02,801
+Even extremists can be reasoned with.
+
+70
+00:05:02,885 --> 00:05:06,972
+Perhaps, if one can be heard
+over the clanking of their battle droids.
+
+71
+00:05:07,056 --> 00:05:10,851
+- The sarcasm of a soldier.
+- The delusion of a dreamer.
+
+72
+00:05:11,311 --> 00:05:14,980
+Duchess, Master Jedi, it's been a long trip.
+
+73
+00:05:15,064 --> 00:05:18,525
+l think we could all use
+a little rest and refreshment.
+
+74
+00:05:19,569 --> 00:05:24,906
+Hear, hear. Now let us put politics aside
+until after dinner.
+
+75
+00:05:25,742 --> 00:05:27,242
+- Fine!
+- Fine!
+
+76
+00:05:35,585 --> 00:05:38,295
+Stand by for lightspeed. Engage.
+
+77
+00:05:41,257 --> 00:05:44,217
+My side's secure.
+What do you got, Redeye?
+
+78
+00:05:44,427 --> 00:05:45,886
+Redeye, do you copy?
+
+79
+00:06:01,903 --> 00:06:06,198
+- You and Satine have a history.
+- An extended mission when l was younger.
+
+80
+00:06:06,282 --> 00:06:08,909
+Master Qui-Gon and l spent
+a year on Mandalore,
+
+81
+00:06:08,993 --> 00:06:12,746
+protecting the Duchess from insurgents
+who had threatened her world.
+
+82
+00:06:17,043 --> 00:06:19,419
+They sent bounty hunters after us.
+
+83
+00:06:19,504 --> 00:06:22,547
+We were always on the run,
+living hand to mouth,
+
+84
+00:06:22,632 --> 00:06:26,218
+- never sure what the next day would bring.
+- Sounds romantic.
+
+85
+00:06:44,320 --> 00:06:49,074
+A civil war killed most of Satine's people,
+hence her aversion to violence.
+
+86
+00:06:49,158 --> 00:06:51,284
+When she returned,
+she took on the difficult task
+
+87
+00:06:51,327 --> 00:06:54,496
+- of rebuilding her world alone.
+- You didn't stay to help her?
+
+88
+00:06:54,539 --> 00:06:56,623
+That would have been problematic.
+
+89
+00:06:58,334 --> 00:07:01,294
+My duty as a Jedi
+demanded l be elsewhere.
+
+90
+00:07:02,839 --> 00:07:04,005
+Demanded?
+
+91
+00:07:04,090 --> 00:07:08,093
+But it's obvious you had feelings for her.
+Surely that would affect your decision.
+
+92
+00:07:08,177 --> 00:07:11,555
+Oh, it did. l live by the Jedi Code.
+
+93
+00:07:11,639 --> 00:07:16,643
+Of course. As Master Yoda says,
+"A Jedi must not form attachments."
+
+94
+00:07:16,727 --> 00:07:20,897
+Yes. But he usually leaves out
+the undercurrent of remorse.
+
+95
+00:07:20,982 --> 00:07:22,023
+Yes, Captain?
+
+96
+00:07:22,400 --> 00:07:25,277
+General, something's wrong
+with Skywalker's astromech.
+
+97
+00:07:25,361 --> 00:07:29,239
+Scared him real good, sir.
+l've also lost contact with two of my men.
+
+98
+00:07:29,323 --> 00:07:31,408
+l'm on my way down to assist you.
+
+99
+00:07:31,492 --> 00:07:34,744
+l'll go, Master. lf there's something
+dangerous down there,
+
+100
+00:07:34,829 --> 00:07:36,580
+the clones and l can handle it.
+
+101
+00:07:39,750 --> 00:07:44,379
+Deep-fried nuna leg. Mmm! Delicious.
+
+102
+00:07:47,425 --> 00:07:49,384
+l beg your pardon, Senators,
+
+103
+00:07:49,469 --> 00:07:52,596
+our men are investigating
+a situation belowdecks.
+
+104
+00:07:52,722 --> 00:07:55,891
+l respectfully ask you to wait here
+until it is settled.
+
+105
+00:07:57,810 --> 00:08:00,729
+All right, men. What's the problem?
+l'm missing dinner.
+
+106
+00:08:00,771 --> 00:08:04,107
+We're not sure yet, sir. But there's still
+no sign of Mixer and Redeye.
+
+107
+00:08:05,318 --> 00:08:06,401
+What's the matter, buddy?
+
+108
+00:08:07,612 --> 00:08:09,446
+l know, l know. But l'm here now.
+
+109
+00:08:09,989 --> 00:08:12,491
+Use your scanners.
+See if something's out of place.
+
+110
+00:08:26,589 --> 00:08:29,257
+Well, what have we here?
+
+111
+00:08:29,383 --> 00:08:32,385
+Looks like the contents of this box
+are missing.
+
+112
+00:08:32,428 --> 00:08:34,429
+Or it got up and walked away.
+
+113
+00:08:34,555 --> 00:08:38,308
+All right, fan out, separate squads.
+l'll contact Obi-Wan.
+
+114
+00:08:42,480 --> 00:08:44,189
+Please excuse me.
+
+115
+00:08:45,942 --> 00:08:47,776
+Anakin, what have you found?
+
+116
+00:08:47,860 --> 00:08:51,112
+<i>There's a large open container,
+and the contents are missing.</i>
+
+117
+00:08:51,197 --> 00:08:53,240
+<i>And l still have two men unaccounted for.</i>
+
+118
+00:08:53,324 --> 00:08:57,577
+That's not good. Keep things quiet,
+l'll stay with the senators.
+
+119
+00:08:57,995 --> 00:08:59,120
+Got it.
+
+120
+00:09:00,289 --> 00:09:02,123
+What's up? Did you find something?
+
+121
+00:09:12,301 --> 00:09:15,762
+There you are. Redeye, where have you
+been? You've had us all worried.
+
+122
+00:09:17,974 --> 00:09:19,099
+Redeye?
+
+123
+00:09:46,294 --> 00:09:48,336
+The lift!
+
+124
+00:09:56,178 --> 00:09:58,346
+Obi-Wan!
+There's assassin probes down here!
+
+125
+00:09:58,639 --> 00:10:00,974
+<i>One made it up the lift.
+l'll try to hold the others here.</i>
+
+126
+00:10:01,017 --> 00:10:03,184
+Quickly! Secure the lifts!
+
+127
+00:10:09,233 --> 00:10:11,151
+Help!
+
+128
+00:10:20,328 --> 00:10:21,578
+There might be one left.
+
+129
+00:10:21,704 --> 00:10:23,288
+- Let's spread out and find it.
+- Watch it!
+
+130
+00:10:34,634 --> 00:10:37,302
+- They're everywhere!
+- Get behind me!
+
+131
+00:10:38,804 --> 00:10:40,597
+Get it off!
+
+132
+00:10:54,278 --> 00:10:56,613
+Do you always carry a deactivator?
+
+133
+00:10:58,699 --> 00:11:01,618
+Just because l'm a pacifist
+doesn't mean l won't defend myself.
+
+134
+00:11:01,702 --> 00:11:03,411
+Now you sound like a Jedi.
+
+135
+00:11:11,796 --> 00:11:14,005
+Good work, men. You too, buddy.
+
+136
+00:11:16,342 --> 00:11:20,261
+Assassin droid.
+How did that monster end up in the hold?
+
+137
+00:11:20,304 --> 00:11:23,014
+The question is,
+who smuggled him onboard?
+
+138
+00:11:26,352 --> 00:11:29,646
+Just like that swarm of venom-mites
+on Draboon, remember?
+
+139
+00:11:29,730 --> 00:11:32,607
+How could l forget? l still have the scar.
+
+140
+00:11:33,442 --> 00:11:34,776
+Begging your pardon, Duchess,
+
+141
+00:11:34,819 --> 00:11:37,821
+l distinctly remember
+carrying you to safety.
+
+142
+00:11:37,947 --> 00:11:41,116
+l meant the scar l got
+after you fell and dropped me.
+
+143
+00:11:41,200 --> 00:11:42,784
+Oh. Yes.
+
+144
+00:11:43,703 --> 00:11:46,371
+l'm looking for the droid
+that services the cargo bay.
+
+145
+00:11:46,455 --> 00:11:51,126
+Uh, yes, sir. Are all those creatures dead?
+
+146
+00:11:51,168 --> 00:11:53,253
+That's what l'm trying to find out.
+
+147
+00:11:53,295 --> 00:11:55,296
+You're in charge
+of the cargo manifest, right?
+
+148
+00:11:55,423 --> 00:12:00,343
+- Uh, yes, l have it right here.
+- Well, where did they come from?
+
+149
+00:12:01,595 --> 00:12:04,347
+lt is right here on the manifest.
+
+150
+00:12:05,015 --> 00:12:06,808
+"For immediate delivery to Coruscant.
+
+151
+00:12:06,892 --> 00:12:08,768
+"One container marked medical supplies."
+
+152
+00:12:08,811 --> 00:12:12,647
+There's no name on this chart!
+There's no indication of who shipped it.
+
+153
+00:12:12,773 --> 00:12:15,275
+No, sir, just the Senate stamp,
+
+154
+00:12:15,317 --> 00:12:19,279
+always accepted for transport here
+aboard the <i>Coronet</i>.
+
+155
+00:12:26,412 --> 00:12:30,248
+One of our four distinguished senators
+appears to be a traitor.
+
+156
+00:12:30,332 --> 00:12:31,666
+l sense it, too.
+
+157
+00:12:34,503 --> 00:12:37,839
+lt looks like one of our little visitors
+is still alive.
+
+158
+00:12:37,923 --> 00:12:40,508
+l have an idea how to expose the turncoat.
+
+159
+00:12:40,634 --> 00:12:44,137
+Return to the hull of the ship.
+Destroy the last assassin droids.
+
+160
+00:12:44,221 --> 00:12:46,890
+l'll find out
+which of the senators is the traitor.
+
+161
+00:12:50,853 --> 00:12:55,398
+- Duchess, you're not eating.
+- l have no appetite.
+
+162
+00:12:55,483 --> 00:12:59,235
+Begging your pardon,
+you must keep up your strength.
+
+163
+00:12:59,320 --> 00:13:01,863
+By all means, be my guest, Senator.
+
+164
+00:13:02,656 --> 00:13:07,786
+lf you insist. Ah, dessert! Excellent!
+
+165
+00:13:07,870 --> 00:13:09,954
+This morsel might prove too much
+
+166
+00:13:10,039 --> 00:13:13,124
+even for the legendary appetite
+of Orn Free Taa.
+
+167
+00:13:14,627 --> 00:13:15,877
+Enjoy.
+
+168
+00:13:17,171 --> 00:13:20,882
+On second thought,
+it wouldn't agree with me.
+
+169
+00:13:20,966 --> 00:13:24,969
+My theory is
+our little friend will attack the Duchess
+
+170
+00:13:25,054 --> 00:13:27,639
+and anyone who defends her.
+
+171
+00:13:27,723 --> 00:13:31,267
+Anyone that is,
+except the traitor who programmed it.
+
+172
+00:13:31,560 --> 00:13:34,687
+Take it away! Please!
+
+173
+00:13:34,772 --> 00:13:37,816
+Obi-Wan, this line of questioning
+borders on torture!
+
+174
+00:13:44,406 --> 00:13:48,409
+l assure our pacifist Duchess
+that all is under control.
+
+175
+00:13:48,494 --> 00:13:50,912
+l'm trying to expose a bigger threat.
+
+176
+00:13:51,831 --> 00:13:53,289
+lnteresting.
+
+177
+00:13:53,415 --> 00:13:57,752
+The droid displays unusual hostility
+toward the honorable Kin Robb,
+
+178
+00:14:02,883 --> 00:14:06,219
+but it seems to like you, Senator Merrik.
+
+179
+00:14:07,263 --> 00:14:08,763
+Well, Prince?
+
+180
+00:14:10,975 --> 00:14:12,600
+Really, General Kenobi,
+
+181
+00:14:12,643 --> 00:14:13,893
+you're quite clever!
+
+182
+00:14:29,451 --> 00:14:31,244
+You're coming with me.
+
+183
+00:14:38,252 --> 00:14:42,589
+Anakin! Tal Merrik is the traitor,
+and he's taken Satine hostage.
+
+184
+00:14:43,048 --> 00:14:46,551
+Copy that, but l've got
+problems of my own right now.
+
+185
+00:14:51,807 --> 00:14:55,894
+- Cody, Rex, have you found anything?
+- All quiet over here, sir.
+
+186
+00:15:00,149 --> 00:15:01,524
+Wait a minute.
+
+187
+00:15:17,333 --> 00:15:18,416
+Thanks, little guy.
+
+188
+00:15:18,959 --> 00:15:21,502
+Well, we found the little ones.
+What about the mother?
+
+189
+00:15:21,629 --> 00:15:22,670
+Haven't seen it.
+
+190
+00:15:49,949 --> 00:15:51,699
+No! Please! l beg you!
+
+191
+00:15:52,701 --> 00:15:56,287
+- Monster! You're a horrid monster!
+- Get used to it.
+
+192
+00:16:00,459 --> 00:16:01,542
+Did you find them?
+
+193
+00:16:01,627 --> 00:16:04,253
+No, but l've stationed troopers
+at every escape pod.
+
+194
+00:16:04,338 --> 00:16:07,924
+Merrik will try to signal his allies for help.
+We have to find him.
+
+195
+00:16:11,845 --> 00:16:15,473
+This may not be the time to ask,
+but were you and Satine ever...
+
+196
+00:16:15,557 --> 00:16:19,185
+l don't see how that has any bearing
+on the situation at hand.
+
+197
+00:16:27,861 --> 00:16:30,905
+- <i>Death Watch Command.</i>
+- Tal Merrik here.
+
+198
+00:16:30,990 --> 00:16:34,742
+<i>Senator Merrik.
+Have you completed your mission?</i>
+
+199
+00:16:34,827 --> 00:16:38,705
+Yes, sir. l have the Duchess,
+but l'll need help getting her away.
+
+200
+00:16:38,789 --> 00:16:42,417
+<i>Very good.
+Reinforcements are on their way.</i>
+
+201
+00:16:59,476 --> 00:17:02,311
+l'll take care of this, Obi-Wan.
+You, go find your girlfriend.
+
+202
+00:17:02,438 --> 00:17:04,856
+Right. No, Anakin, she's not my...
+
+203
+00:17:17,286 --> 00:17:19,787
+Come in, Kenobi, you're expected.
+
+204
+00:17:19,872 --> 00:17:23,916
+Tal Merrik, you are under arrest.
+Release the Duchess.
+
+205
+00:17:24,001 --> 00:17:28,212
+Hmm. l took the precaution of wiring
+the ship's engines to explode.
+
+206
+00:17:28,297 --> 00:17:31,132
+l press this remote and we all die.
+
+207
+00:17:31,258 --> 00:17:33,301
+Obi, if you have any respect for me,
+
+208
+00:17:33,427 --> 00:17:36,971
+you will not take such risks
+with so many people's lives at stake.
+
+209
+00:17:37,097 --> 00:17:39,140
+Satine, don't.
+
+210
+00:18:17,805 --> 00:18:19,514
+This is Merrik.
+
+211
+00:18:19,598 --> 00:18:24,143
+Stand by to disengage.
+Say farewell, Duchess.
+
+212
+00:18:24,228 --> 00:18:27,647
+Obi-Wan, it looks like
+l may never see you again.
+
+213
+00:18:27,731 --> 00:18:31,526
+l don't know quite how to say this,
+but l've loved you
+
+214
+00:18:31,610 --> 00:18:34,904
+from the moment you came to my aid
+all those years ago.
+
+215
+00:18:34,988 --> 00:18:36,697
+l don't believe this.
+
+216
+00:18:37,032 --> 00:18:40,451
+Satine, this is hardly
+the time or place for...
+
+217
+00:18:43,038 --> 00:18:48,209
+All right. Had you said the word,
+l would have left the Jedi Order.
+
+218
+00:18:48,794 --> 00:18:52,046
+That is touching. Truly it is.
+
+219
+00:18:52,131 --> 00:18:55,383
+But it's making me sick,
+and we really must be going.
+
+220
+00:18:55,467 --> 00:18:59,679
+You have the romantic soul
+of a slug, Merrik.
+
+221
+00:19:01,473 --> 00:19:04,058
+And slugs are so often trod upon.
+
+222
+00:19:05,310 --> 00:19:07,186
+lnteresting turnabout,
+
+223
+00:19:07,271 --> 00:19:10,439
+but even if l do not deliver the Duchess
+alive to the Separatists,
+
+224
+00:19:10,566 --> 00:19:12,233
+l still win.
+
+225
+00:19:12,317 --> 00:19:16,654
+The second l'm away, l'll hit the remote
+and blow the <i>Coronet</i> to bits.
+
+226
+00:19:16,738 --> 00:19:18,614
+l will not allow that.
+
+227
+00:19:18,740 --> 00:19:20,908
+What will you do? lf you shoot me,
+
+228
+00:19:20,951 --> 00:19:26,247
+you prove yourself a hypocrite
+to every pacifist ideal you hold dear.
+
+229
+00:19:26,832 --> 00:19:30,334
+And you, Kenobi,
+you are no stranger to violence.
+
+230
+00:19:30,419 --> 00:19:34,130
+You'd be hailed as a hero
+by everyone on this ship.
+
+231
+00:19:34,256 --> 00:19:35,882
+Almost everyone.
+
+232
+00:19:38,719 --> 00:19:40,761
+Come on, then. Who will strike first
+
+233
+00:19:40,804 --> 00:19:44,098
+and brand themselves
+a cold-blooded killer?
+
+234
+00:19:54,443 --> 00:19:57,820
+- Anakin...
+- What? He was gonna blow up the ship.
+
+235
+00:20:02,284 --> 00:20:03,409
+Obi-Wan, l...
+
+236
+00:20:03,452 --> 00:20:06,704
+General Skywalker, the last of the droids
+have been defeated, sir.
+
+237
+00:20:07,372 --> 00:20:09,081
+Very good, Cody.
+
+238
+00:20:10,584 --> 00:20:13,628
+l must get back
+to the business of diplomacy.
+
+239
+00:20:15,881 --> 00:20:18,966
+As you say, Duchess, some other time.
+
+240
+00:20:53,710 --> 00:20:55,628
+A job well done, Master Jedi.
+
+241
+00:20:56,171 --> 00:20:59,382
+- Thank you, Chancellor.
+- Your Excellency.
+
+242
+00:21:09,268 --> 00:21:13,521
+How ironic to meet again
+only to find we're on opposing sides.
+
+243
+00:21:13,563 --> 00:21:16,190
+The needs of your people are
+all that matter.
+
+244
+00:21:16,233 --> 00:21:19,694
+They couldn't be in better hands
+with you to guide their future.
+
+245
+00:21:19,778 --> 00:21:23,406
+Kind words indeed
+from a mindful and committed Jedi.
+
+246
+00:21:24,199 --> 00:21:26,242
+- And yet...
+- What?
+
+247
+00:21:26,368 --> 00:21:31,539
+- l'm still not sure about the beard.
+- Why? What's wrong with it?
+
+248
+00:21:31,581 --> 00:21:34,542
+lt hides too much of your handsome face.
+
+249
+00:21:37,754 --> 00:21:40,298
+What was that all about?
+
+250
+00:21:42,384 --> 00:21:45,386
+- A very remarkable woman.
+- She is indeed.
+

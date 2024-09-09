@@ -1,0 +1,780 @@
+1
+00:00:18,727 --> 00:00:21,854
+<i>Desperate times call
+for desperate measures!</i>
+
+2
+00:00:21,938 --> 00:00:24,773
+<i>ln one of the longest
+and fiercest battles of the war,</i>
+
+3
+00:00:24,858 --> 00:00:28,861
+<i>Separatist forces are on the verge
+of claiming the planet Malastare.</i>
+
+4
+00:00:28,945 --> 00:00:30,946
+<i>lf the Republic loses this planet,</i>
+
+5
+00:00:31,072 --> 00:00:36,201
+<i>it will cost them vital fuel resources
+necessary for maintaining their armies.</i>
+
+6
+00:00:36,286 --> 00:00:39,121
+<i>ln a final effort
+to turn the tide of this battle,</i>
+
+7
+00:00:39,247 --> 00:00:41,957
+<i>Supreme Chancellor Palpatine
+has authorized</i>
+
+8
+00:00:42,042 --> 00:00:46,295
+<i>the use of the Republic's newest weapon,
+the electro-proton bomb.</i>
+
+9
+00:00:47,213 --> 00:00:51,467
+<i>Now at the imperial palace of Doge Urus,
+the leader of the Dugs,</i>
+
+10
+00:00:51,551 --> 00:00:53,260
+<i>the Jedi count down the minutes</i>
+
+11
+00:00:53,303 --> 00:00:56,555
+<i>until the detonation
+of their doomsday device.</i>
+
+12
+00:01:07,609 --> 00:01:09,109
+That's a lot of clankers.
+
+13
+00:01:19,704 --> 00:01:23,832
+l won't allow my people
+to become Separatist slaves.
+
+14
+00:01:23,958 --> 00:01:27,002
+<i>l assure you, Doge Urus,
+that will not happen.</i>
+
+15
+00:01:27,128 --> 00:01:28,295
+<i>Dr. Boll has stated</i>
+
+16
+00:01:28,338 --> 00:01:32,341
+<i>that only droids will be affecTed
+by the bomb's electron field.</i>
+
+17
+00:01:32,467 --> 00:01:36,512
+Yes. The clones and your people
+will be quite safe.
+
+18
+00:01:36,554 --> 00:01:39,640
+We have accounted
+for every probable outcome.
+
+19
+00:01:39,682 --> 00:01:43,060
+lt's the improbable
+that concerns me, Doctor.
+
+20
+00:01:43,186 --> 00:01:45,020
+There must be other options.
+
+21
+00:01:45,146 --> 00:01:50,192
+<i>l'm afraid not.
+This bomb is our only hope for vicTory now.</i>
+
+22
+00:01:50,944 --> 00:01:53,153
+The droids are on the move.
+
+23
+00:01:56,116 --> 00:01:57,825
+Go! Go!
+
+24
+00:02:02,330 --> 00:02:05,541
+We just need to hold them back
+until the bomb drops.
+
+25
+00:02:12,799 --> 00:02:14,216
+Blast them!
+
+26
+00:02:26,563 --> 00:02:28,147
+Hold the line!
+
+27
+00:02:29,315 --> 00:02:31,316
+We've got fighters inbound!
+
+28
+00:02:41,786 --> 00:02:43,245
+Tell the bombers to take off.
+
+29
+00:03:29,459 --> 00:03:31,376
+Approaching drop zone.
+
+30
+00:03:35,757 --> 00:03:37,257
+Everyone, stay tight.
+
+31
+00:03:37,759 --> 00:03:40,093
+Remember,
+you've only got one shot at this.
+
+32
+00:03:40,386 --> 00:03:41,803
+Bombs away.
+
+33
+00:03:49,270 --> 00:03:50,687
+Uh-oh.
+
+34
+00:04:24,722 --> 00:04:26,098
+Here it comes!
+
+35
+00:04:28,434 --> 00:04:30,018
+<i>l'm losing my transmission.</i>
+
+36
+00:04:42,699 --> 00:04:45,367
+Well, Doc, looks like it worked.
+
+37
+00:04:49,205 --> 00:04:50,706
+The ground is sinking.
+
+38
+00:04:55,795 --> 00:04:57,212
+Run for it!
+
+39
+00:05:39,839 --> 00:05:42,758
+The droid army was completely
+neutralized by the bomb.
+
+40
+00:05:42,967 --> 00:05:46,553
+But the blast created a sinkhole
+which engulfed many of our troopers.
+
+41
+00:05:46,637 --> 00:05:48,722
+We have search parties
+looking for them now.
+
+42
+00:05:48,806 --> 00:05:51,933
+<i>And the Dugs?
+Have they signed the treaty?</i>
+
+43
+00:05:52,018 --> 00:05:56,271
+No, Chancellor,
+the treaty must be passed by the council.
+
+44
+00:05:56,773 --> 00:05:58,065
+<i>We need that treaty signed</i>
+
+45
+00:05:58,149 --> 00:06:02,235
+<i>so we can gain access
+to the fuel reserves here on Malastare.</i>
+
+46
+00:06:02,320 --> 00:06:05,155
+<i>Without it, our armies shall be vulnerable.</i>
+
+47
+00:06:05,239 --> 00:06:07,491
+l will do my best.
+
+48
+00:06:09,494 --> 00:06:13,830
+Sir, we have a report from the front.
+They've lost contact with the rescue team.
+
+49
+00:06:15,208 --> 00:06:18,210
+One problem
+always seems to replace another.
+
+50
+00:06:22,715 --> 00:06:29,137
+l hope your bomb has not upset
+the delicate balance of our planet.
+
+51
+00:06:39,315 --> 00:06:44,361
+You deal with the treaty and Doge Urus.
+l'll help the rescue team in the crater.
+
+52
+00:07:05,174 --> 00:07:09,845
+Split up. lf you see anything, contact me.
+
+53
+00:07:36,497 --> 00:07:38,123
+General Windu, we found them!
+
+54
+00:07:40,710 --> 00:07:44,713
+- We've got what we...
+- We're on a very tight timeline here.
+
+55
+00:07:44,755 --> 00:07:47,549
+How long do you think it'll take
+to get the treaty ratified?
+
+56
+00:07:47,592 --> 00:07:52,429
+We are waiting for two more members
+of the council to arrive.
+
+57
+00:07:52,555 --> 00:07:54,723
+They will sign the treaty.
+
+58
+00:07:55,391 --> 00:07:57,225
+We appreciate your cooperation.
+
+59
+00:07:57,268 --> 00:08:00,395
+Without your fuel,
+our offensive will grind to a halt.
+
+60
+00:08:00,730 --> 00:08:05,233
+This is the beginning of a great alliance.
+
+61
+00:08:10,281 --> 00:08:12,240
+What happened down here, trooper?
+
+62
+00:08:12,366 --> 00:08:17,746
+General, there's something down here
+with us, and it's not Seppies.
+
+63
+00:08:17,914 --> 00:08:20,874
+Calm yourself, soldier. We'll check it out.
+
+64
+00:08:21,751 --> 00:08:24,711
+Trapper, Ponds, Hawkeye, come with me.
+
+65
+00:08:28,591 --> 00:08:34,596
+Skywalker, something strange is going on.
+l think you should come down here.
+
+66
+00:08:34,722 --> 00:08:37,599
+l'm on my way. Artoo, start up my fighter.
+
+67
+00:08:38,226 --> 00:08:39,476
+lf you'll excuse me...
+
+68
+00:08:44,815 --> 00:08:47,734
+Sir, there's nothing around here
+but rocks and debris.
+
+69
+00:08:47,777 --> 00:08:50,278
+l have a bad feeling about this.
+
+70
+00:09:33,281 --> 00:09:34,322
+Skywalker!
+
+71
+00:09:34,699 --> 00:09:36,825
+- l'm here. What the...
+- <i>We need your help!</i>
+
+72
+00:09:47,169 --> 00:09:49,838
+Artoo, l can't see. Turn on your beacon.
+
+73
+00:09:50,798 --> 00:09:51,840
+Never mind.
+
+74
+00:09:59,348 --> 00:10:00,807
+What the heck is that thing?
+
+75
+00:10:02,018 --> 00:10:04,311
+Now's our chance. Let's go!
+
+76
+00:10:17,074 --> 00:10:19,659
+l've never seen anything like it!
+
+77
+00:10:48,397 --> 00:10:50,190
+Artoo, get out of here.
+
+78
+00:11:01,911 --> 00:11:03,453
+What? Uh-oh.
+
+79
+00:11:22,098 --> 00:11:24,391
+We're going to need some heavy artillery.
+
+80
+00:11:33,734 --> 00:11:37,153
+Don't worry about me, l'm all right.
+
+81
+00:11:37,655 --> 00:11:41,408
+- Where's your starfighter?
+- That thing ate it.
+
+82
+00:11:41,450 --> 00:11:44,786
+That thing, it is a Zillo Beast.
+
+83
+00:11:44,829 --> 00:11:49,457
+They once roamed Malastare,
+devouring our ancestors.
+
+84
+00:11:49,959 --> 00:11:54,629
+When the Dugs first started
+harvesting the fuel in the planet's core,
+
+85
+00:11:54,672 --> 00:11:56,756
+they were killed off.
+
+86
+00:11:56,799 --> 00:12:01,803
+They are supposed to be extinct.
+Apparently, they're not.
+
+87
+00:12:25,953 --> 00:12:27,495
+His weakness...
+
+88
+00:12:30,166 --> 00:12:31,666
+What's going on out there?
+
+89
+00:12:31,709 --> 00:12:35,462
+lt is an internal matter.
+None of your concern.
+
+90
+00:12:35,838 --> 00:12:41,926
+- Your men are killing a unique life form.
+- lt is a dangerous, bloodthirsty monster!
+
+91
+00:12:42,595 --> 00:12:47,599
+- Did you forget that it tried to kill you?
+- lt was under attack.
+
+92
+00:12:47,683 --> 00:12:50,518
+lt had lived peacefully below the surface
+for all these years.
+
+93
+00:12:50,644 --> 00:12:54,105
+Until you unleashed it with your bomb!
+
+94
+00:12:54,190 --> 00:12:57,984
+We dropped that bomb
+to save your planet, at your request!
+
+95
+00:12:58,027 --> 00:13:01,529
+To save our fuel for you to buy.
+
+96
+00:13:01,614 --> 00:13:07,202
+lf you want us to sign your treaty,
+then you must help us destroy the beast.
+
+97
+00:13:07,703 --> 00:13:12,332
+What purpose would it serve to kill it?
+lf it really is the last of its kind...
+
+98
+00:13:12,374 --> 00:13:14,375
+lt is our duty!
+
+99
+00:13:14,460 --> 00:13:18,713
+Our ancestors warned us
+that one would return someday
+
+100
+00:13:18,798 --> 00:13:22,550
+and destroy our entire civilization.
+
+101
+00:13:22,968 --> 00:13:25,512
+Will you help us or not?
+
+102
+00:13:26,514 --> 00:13:30,183
+l respect your traditions
+and your ancestors,
+
+103
+00:13:30,226 --> 00:13:34,646
+but we cannot allow the destruction
+of an innocent life form.
+
+104
+00:13:35,189 --> 00:13:38,316
+Then there will be no treaty.
+
+105
+00:13:41,904 --> 00:13:45,198
+Master Windu,
+are you certain this argument is worth it?
+
+106
+00:13:45,241 --> 00:13:49,077
+l mean, after all, it's just one creature.
+Remember what the Chancellor said.
+
+107
+00:13:49,203 --> 00:13:52,205
+lt isn't the creature. lt's the principle.
+
+108
+00:13:52,540 --> 00:13:56,459
+Allowing the Dugs to kill it
+violates what we stand for as Jedi.
+
+109
+00:13:56,836 --> 00:13:59,045
+But if we choose to defend the creature,
+
+110
+00:13:59,129 --> 00:14:01,840
+we lose all hope
+of securing a treaty with the Dugs.
+
+111
+00:14:06,512 --> 00:14:12,517
+We'll handle this our way,
+no matter what these Jedi think.
+
+112
+00:14:17,147 --> 00:14:21,943
+<i>How remarkable!
+l have never seen anything quite like it.</i>
+
+113
+00:14:22,319 --> 00:14:25,989
+l recommend that we transport it
+off the planet as soon as possible.
+
+114
+00:14:26,073 --> 00:14:29,325
+We can find a place for it to live
+undisturbed in the Outer Rim.
+
+115
+00:14:30,119 --> 00:14:32,579
+<i>And what do the Dugs have to say
+on this matter?</i>
+
+116
+00:14:33,038 --> 00:14:35,456
+They want us to help them destroy it.
+
+117
+00:14:35,749 --> 00:14:40,420
+<i>Then by all means help them.
+This creature is of no importance to us.</i>
+
+118
+00:14:40,504 --> 00:14:44,215
+<i>We cannot be alienating the Dugs
+at this crucial time.</i>
+
+119
+00:14:44,425 --> 00:14:47,635
+lt is not the Jedi way
+to take an innocent life.
+
+120
+00:14:48,262 --> 00:14:52,432
+- Especially if it is the last of its kind.
+- Chancellor Palpatine,
+
+121
+00:14:52,516 --> 00:14:56,102
+l think it would be in our best interest
+to study this creature.
+
+122
+00:14:56,312 --> 00:15:00,690
+lts outer scales are virtually impenetrable.
+None of our weapons could harm it.
+
+123
+00:15:01,108 --> 00:15:02,984
+Even my lightsaber couldn't cut it.
+
+124
+00:15:03,193 --> 00:15:06,321
+lf we could somehow duplicate that
+for our ships...
+
+125
+00:15:06,655 --> 00:15:08,615
+<i>An impenetrable armor.</i>
+
+126
+00:15:09,325 --> 00:15:12,160
+What if we let the Dugs think we killed it?
+
+127
+00:15:12,328 --> 00:15:14,287
+Then we could have the treaty
+and the creature.
+
+128
+00:15:14,371 --> 00:15:17,957
+- <i>Yes, Anakin, go on.</i>
+- When l was climbing on the creature,
+
+129
+00:15:18,042 --> 00:15:20,877
+l noticed small gaps
+between the armor and its scales.
+
+130
+00:15:20,961 --> 00:15:24,839
+Maybe a stun cannon or a pulse
+could penetrate through the skin
+
+131
+00:15:24,924 --> 00:15:29,135
+and short-circuit its nervous system.
+Like putting it into a deep sleep.
+
+132
+00:15:29,219 --> 00:15:32,096
+He's right. lt would appear to be dead.
+
+133
+00:15:32,181 --> 00:15:36,225
+We could transport it to a secure location
+before it wakes up.
+
+134
+00:15:36,352 --> 00:15:38,394
+The Dugs would never know
+the difference.
+
+135
+00:15:38,520 --> 00:15:42,231
+<i>That may be the only way
+we shall get this treaty signed</i>
+
+136
+00:15:42,524 --> 00:15:45,401
+<i>and rest Master Windu's conscience.</i>
+
+137
+00:15:59,708 --> 00:16:04,796
+l'm glad you finally decided
+to see things our way, Jedi.
+
+138
+00:16:05,297 --> 00:16:10,885
+But you're a fool if you think your weapons
+will even scratch Zillo Beast.
+
+139
+00:16:11,387 --> 00:16:16,057
+These are no ordinary weapons.
+Your Zillo Beast will be no match for them.
+
+140
+00:16:16,725 --> 00:16:21,104
+Maybe true. But our way is already proven.
+
+141
+00:16:21,563 --> 00:16:22,605
+Your way?
+
+142
+00:16:23,816 --> 00:16:25,400
+Open the valve!
+
+143
+00:16:59,727 --> 00:17:02,437
+Our fuel is deadly to the beast.
+
+144
+00:17:02,771 --> 00:17:06,816
+lt killed them in the past.
+lt will kill this one now.
+
+145
+00:17:07,109 --> 00:17:10,111
+You're only going to provoke it.
+You'll drive it out of that hole,
+
+146
+00:17:10,154 --> 00:17:14,449
+- and then it'll be harder to deal with.
+- We'll handle it, Jedi.
+
+147
+00:17:34,470 --> 00:17:39,140
+- Order them to stop!
+- What? What do you mean, stop?
+
+148
+00:17:44,688 --> 00:17:49,025
+- l said, order them to stop!
+- Or what?
+
+149
+00:17:49,151 --> 00:17:55,406
+We are innocent life forms, too,
+are we not?
+
+150
+00:18:17,763 --> 00:18:19,305
+Charge up the rays!
+
+151
+00:18:43,872 --> 00:18:45,039
+Fire.
+
+152
+00:18:55,717 --> 00:18:57,051
+Back up. Back up!
+
+153
+00:19:06,562 --> 00:19:08,062
+This isn't working!
+
+154
+00:19:38,427 --> 00:19:41,596
+Whose bright idea was this, anyway?
+
+155
+00:19:47,060 --> 00:19:49,645
+Keep the beam on him, he's getting tired.
+
+156
+00:20:13,003 --> 00:20:15,171
+Hey, it worked!
+
+157
+00:20:15,589 --> 00:20:18,132
+- Are you sure?
+- Yes, l'm sure.
+
+158
+00:20:18,842 --> 00:20:20,426
+You go first.
+
+159
+00:20:27,142 --> 00:20:30,436
+Now we just have to get him out of here.
+
+160
+00:20:44,368 --> 00:20:46,661
+<i>Welcome to the Republic, Doge Urus.</i>
+
+161
+00:20:47,079 --> 00:20:51,207
+<i>l am sure this business arrangement
+will be mutually beneficial.</i>
+
+162
+00:20:53,418 --> 00:20:56,003
+The beast has been loaded
+onto the transport.
+
+163
+00:20:56,046 --> 00:20:58,422
+Have you selected a planet for relocation?
+
+164
+00:20:58,507 --> 00:21:01,676
+<i>There has been a slight change of plans.</i>
+
+165
+00:21:01,760 --> 00:21:07,014
+<i>The scientific community has reviewed
+the data on this rather unique creature.</i>
+
+166
+00:21:07,516 --> 00:21:11,435
+<i>They believe it should be further studied
+in a more controlled environment</i>
+
+167
+00:21:11,520 --> 00:21:14,063
+<i>before it is released into the wild.</i>
+
+168
+00:21:14,189 --> 00:21:18,901
+- And where is this controlled environment?
+- <i>On Coruscant.</i>
+
+169
+00:21:20,028 --> 00:21:24,949
+<i>Master Windu, you and General Skywalker
+shall safely bring the beast here.</i>
+
+170
+00:21:30,706 --> 00:21:33,082
+Well, you made the right choice.
+
+171
+00:21:33,166 --> 00:21:36,252
+We got our fuel, you saved your creature,
+and now he'll be safe.
+
+172
+00:21:37,546 --> 00:21:40,881
+Let's hope we can say the same
+about Coruscant.
+

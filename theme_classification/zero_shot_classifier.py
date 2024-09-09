@@ -2,7 +2,10 @@ import transformers, torch, nltk, os, sys, pathlib
 import numpy as np
 import pandas as pd
 
+# file path for this script
 folder_path = pathlib.Path(__file__).parent.resolve()
+# go one level up to the entire project folder for starwarsnlp so 
+# we can import from the utils folder
 sys.path.append(os.path.join(folder_path,'/../'))
 from utils import datasetProcessing
 

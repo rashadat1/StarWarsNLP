@@ -1,0 +1,839 @@
+1
+00:00:18,601 --> 00:00:19,935
+<i>Revenge!</i>
+
+2
+00:00:20,020 --> 00:00:23,522
+<i>Boba Fett, son of the notorious
+bounty hunter Jango Fett,</i>
+
+3
+00:00:23,606 --> 00:00:28,444
+<i>infiltrated a Jedi cruiser in an attempt
+to assassinate General Mace Windu,</i>
+
+4
+00:00:28,528 --> 00:00:31,155
+<i>the man who killed his father.</i>
+
+5
+00:00:31,239 --> 00:00:33,449
+<i>After a near miss at Windu's quarters,</i>
+
+6
+00:00:33,533 --> 00:00:35,826
+<i>Boba was forced
+to destroy the Jedi cruiser</i>
+
+7
+00:00:35,952 --> 00:00:39,663
+<i>and escape with the help
+of notorious bounty hunter Aurra Sing.</i>
+
+8
+00:00:40,665 --> 00:00:43,375
+<i>Now, having lost contact
+with Admiral Kilian</i>
+
+9
+00:00:43,460 --> 00:00:45,502
+<i>when his doomed starship crashed,</i>
+
+10
+00:00:45,587 --> 00:00:50,007
+<i>the Jedi search for survivors
+with the aid of a Republic rescue ship.</i>
+
+11
+00:00:53,595 --> 00:00:56,972
+General Windu, we're picking up
+the last of the survivors now.
+
+12
+00:00:57,057 --> 00:01:00,267
+lt's critical to get them
+to a hospital station as soon as possible.
+
+13
+00:01:00,351 --> 00:01:03,562
+We'll contact you as soon as our search
+for Admiral Kilian is complete.
+
+14
+00:01:05,482 --> 00:01:06,523
+Let's go, Artoo.
+
+15
+00:01:16,367 --> 00:01:19,369
+We're coming up on the crash site.
+Let's hope Admiral Kilian
+
+16
+00:01:19,454 --> 00:01:21,997
+and the command crew
+are still in one piece.
+
+17
+00:01:27,462 --> 00:01:30,339
+Hmm. Looks pretty bad,
+but the bridge seems to be intact.
+
+18
+00:01:30,673 --> 00:01:33,509
+Set down behind the cruiser,
+we'll approach on foot.
+
+19
+00:01:49,359 --> 00:01:51,485
+You're not kidding,
+little buddy.
+
+20
+00:01:51,528 --> 00:01:53,529
+l don't like the feel of this place either.
+
+21
+00:01:53,571 --> 00:01:56,281
+Your astromech is programmed to feel?
+
+22
+00:01:56,366 --> 00:02:01,703
+Artoo is kind of a special case.
+He's got a lot of personality, that's all.
+
+23
+00:02:02,872 --> 00:02:05,040
+You encourage it too much.
+
+24
+00:02:15,176 --> 00:02:20,514
+R8, start scanning the area for signs of life
+and calculate an entry point to the cruiser.
+
+25
+00:02:25,311 --> 00:02:27,604
+You're right, Artoo, it doesn't look good.
+
+26
+00:02:36,823 --> 00:02:39,700
+- A bit jittery, isn't it?
+- He must have seen something.
+
+27
+00:02:41,995 --> 00:02:44,872
+Come on,
+it looks like R8 has found an entry point.
+
+28
+00:02:51,921 --> 00:02:54,840
+There would have been a command crew
+left aboard to try and land this ship.
+
+29
+00:02:54,924 --> 00:02:58,177
+Admiral Kilian and then
+at least three navigational officers.
+
+30
+00:02:58,261 --> 00:03:00,053
+Commander Ponds stayed as well.
+
+31
+00:03:19,908 --> 00:03:21,408
+What did you find, little guy?
+
+32
+00:03:23,119 --> 00:03:24,786
+Mace, over here!
+
+33
+00:03:30,126 --> 00:03:34,796
+Hmm. This man did not die in the crash,
+he was executed.
+
+34
+00:03:36,591 --> 00:03:38,759
+There's another one over here.
+Same thing.
+
+35
+00:03:39,802 --> 00:03:43,889
+We know the assassins were after me.
+Perhaps they returned to look for my body.
+
+36
+00:03:44,432 --> 00:03:47,142
+We need to get to the bridge
+to find Admiral Kilian.
+
+37
+00:03:47,227 --> 00:03:50,187
+Send the droids to scan
+for any survivors down here.
+
+38
+00:03:50,271 --> 00:03:51,730
+Maybe the killer missed one.
+
+39
+00:03:51,814 --> 00:03:53,982
+l know there's a lot of interference,
+
+40
+00:03:54,067 --> 00:03:55,692
+but do your best.
+
+41
+00:03:55,777 --> 00:03:57,152
+Skywalker!
+
+42
+00:04:33,982 --> 00:04:37,776
+They're dead.
+Executed like the troopers below.
+
+43
+00:04:39,779 --> 00:04:42,239
+But l don't see Admiral Kilian
+or Commander Ponds.
+
+44
+00:04:42,740 --> 00:04:45,701
+They must have been sucked into space
+when the cabin lost pressure.
+
+45
+00:04:49,664 --> 00:04:53,083
+<i>Captain, there's no sign
+of any life down here.</i>
+
+46
+00:04:53,167 --> 00:04:56,420
+<i>l'm afraid Admiral Kilian
+and Commander Ponds are lost.</i>
+
+47
+00:04:56,879 --> 00:05:00,340
+Take the survivors back to the
+hospital station. We'll meet you there.
+
+48
+00:05:00,883 --> 00:05:02,801
+- <i>Mace out.</i>
+- Captain Silver out.
+
+49
+00:05:03,553 --> 00:05:05,220
+Head for home. Light speed.
+
+50
+00:06:03,446 --> 00:06:05,947
+ls that a Mandalorian helmet?
+
+51
+00:06:14,665 --> 00:06:16,333
+What is that doing here?
+
+52
+00:06:18,961 --> 00:06:20,462
+Clone cadets.
+
+53
+00:06:23,800 --> 00:06:25,092
+Jango Fett.
+
+54
+00:06:28,513 --> 00:06:29,679
+Boba!
+
+55
+00:06:30,973 --> 00:06:34,142
+Anakin! No! Drop it!
+
+56
+00:06:57,834 --> 00:07:01,002
+Mace is dead. Are you happy now?
+
+57
+00:07:05,716 --> 00:07:07,217
+l want to make sure he's dead.
+
+58
+00:07:07,301 --> 00:07:09,803
+There's nothing left of Windu to find, Boba.
+
+59
+00:07:11,347 --> 00:07:13,181
+l want to get off this planet now.
+
+60
+00:07:14,892 --> 00:07:16,893
+This place is crawling with gundarks,
+
+61
+00:07:16,978 --> 00:07:20,814
+and besides, we've got these hostages
+to drag along with us now.
+
+62
+00:07:21,149 --> 00:07:25,068
+This extra baggage will fetch us
+a hefty sum from the Separatists.
+
+63
+00:07:25,486 --> 00:07:29,656
+Well, it's a lot of trouble
+for not enough payout, if you ask me.
+
+64
+00:07:30,575 --> 00:07:34,077
+You haven't even done anything!
+l've taken all the risks.
+
+65
+00:07:34,162 --> 00:07:35,620
+Quiet, runt.
+
+66
+00:07:37,707 --> 00:07:39,499
+l wouldn't do that.
+
+67
+00:07:42,712 --> 00:07:46,590
+Count Dooku will pay us well
+if we bring back the Jedi's head.
+
+68
+00:07:46,674 --> 00:07:49,551
+Dooku might pay us for killing Windu.
+
+69
+00:07:49,635 --> 00:07:51,386
+Then we're looking at a profit.
+
+70
+00:07:51,429 --> 00:07:53,472
+Well...
+
+71
+00:07:54,348 --> 00:07:57,517
+Now, relax. Boba is right.
+
+72
+00:07:57,560 --> 00:08:00,395
+To get paid,
+we need proof of Windu's death,
+
+73
+00:08:00,480 --> 00:08:03,982
+and if we killed Skywalker,
+we can ask for double.
+
+74
+00:08:05,485 --> 00:08:09,196
+- Double?
+- Yes, but we need proof.
+
+75
+00:08:09,989 --> 00:08:13,867
+Bossk, take care of our guests
+while we're gone.
+
+76
+00:08:46,692 --> 00:08:48,944
+Artoo! Over here!
+
+77
+00:08:55,576 --> 00:08:57,577
+Good to see you, buddy.
+
+78
+00:09:02,625 --> 00:09:05,669
+Careful, Artoo.
+l'm afraid the whole bridge will collapse.
+
+79
+00:09:06,629 --> 00:09:11,258
+l need you to go back to the fighters
+and call the Temple for help, okay?
+
+80
+00:09:13,135 --> 00:09:14,302
+Okay?
+
+81
+00:09:17,098 --> 00:09:20,684
+Go get help.
+We'll hold out as long as we can.
+
+82
+00:09:21,644 --> 00:09:23,144
+Go on, Artoo.
+
+83
+00:09:24,397 --> 00:09:25,564
+Go on.
+
+84
+00:09:53,593 --> 00:09:55,844
+Come on. We've got to find Windu's body.
+
+85
+00:09:58,097 --> 00:09:59,389
+Careful, Boba.
+
+86
+00:10:08,524 --> 00:10:12,902
+Yeah, careful. l'd hate
+to only split the money three ways.
+
+87
+00:10:40,473 --> 00:10:41,806
+Look out!
+
+88
+00:10:45,478 --> 00:10:48,146
+This place is a death trap!
+
+89
+00:10:48,939 --> 00:10:53,068
+When l hired you, l didn't realize
+that you were such a coward.
+
+90
+00:10:54,320 --> 00:10:56,112
+Well, l don't want to be next.
+
+91
+00:11:00,117 --> 00:11:02,911
+- Blast!
+- The door must have malfunctioned.
+
+92
+00:11:13,506 --> 00:11:17,425
+Skywalker? Skywalker, are you all right?
+
+93
+00:11:17,927 --> 00:11:22,555
+Yeah, l'm okay.
+Except l can't move.
+
+94
+00:11:23,432 --> 00:11:25,100
+Can you get free?
+
+95
+00:11:33,359 --> 00:11:35,902
+l already tried that.
+
+96
+00:11:35,945 --> 00:11:37,946
+You'll bring the whole place down on us.
+
+97
+00:11:38,072 --> 00:11:42,534
+Well, how do we plan
+on getting ourselves out of this mess?
+
+98
+00:11:43,077 --> 00:11:47,080
+Don't worry. l already sent Artoo
+back to the fighters to call for help.
+
+99
+00:11:47,123 --> 00:11:49,249
+l'm sure he has everything under control.
+
+100
+00:11:49,709 --> 00:11:50,792
+Mmm.
+
+101
+00:11:52,294 --> 00:11:55,672
+l'm just saying, l didn't know
+there'd be all this climbing involved.
+
+102
+00:11:55,798 --> 00:11:58,967
+Shut up already. lt wasn't my idea
+for you to tag along anyway.
+
+103
+00:11:59,093 --> 00:12:03,012
+The next one who says anything
+will get a blaster bolt through the brain.
+
+104
+00:12:03,139 --> 00:12:05,640
+But, Aurra...
+Not one more word.
+
+105
+00:12:20,614 --> 00:12:22,449
+lncoming!
+
+106
+00:12:26,078 --> 00:12:29,539
+- What was that?
+- The ship is falling apart around us.
+
+107
+00:12:29,832 --> 00:12:31,916
+This is no good.
+
+108
+00:12:32,001 --> 00:12:36,379
+lf we can barely survive in here,
+Windu must have been killed in the blast.
+
+109
+00:12:36,505 --> 00:12:39,507
+l'm not quitting now.
+Not when l'm so close.
+
+110
+00:12:54,607 --> 00:12:55,690
+Look out!
+
+111
+00:12:57,777 --> 00:12:59,444
+We're running out of time.
+
+112
+00:13:01,822 --> 00:13:05,617
+That's it. We're out of here.
+No one could survive this place.
+
+113
+00:13:05,701 --> 00:13:07,202
+A Jedi could.
+
+114
+00:13:07,286 --> 00:13:10,789
+l hate to agree with Castas,
+but there is a better way to do this.
+
+115
+00:13:10,873 --> 00:13:12,290
+But, Aurra...
+
+116
+00:13:17,922 --> 00:13:20,381
+Bossk, fire up <i>Slave l</i>.
+
+117
+00:13:21,008 --> 00:13:23,927
+<i>We're going to blast
+what's left of this ship to pieces.</i>
+
+118
+00:13:24,595 --> 00:13:26,930
+l'll be ready when you arrive.
+
+119
+00:13:36,732 --> 00:13:40,652
+- l hate just sitting here.
+- Calm yourself, Skywalker.
+
+120
+00:13:41,570 --> 00:13:45,657
+We'll soon see if the faith you put
+in that droid is worth it.
+
+121
+00:14:33,080 --> 00:14:34,163
+What was that?
+
+122
+00:14:34,540 --> 00:14:40,879
+Scanners picked up an explosion
+near where the Jedi landed.
+
+123
+00:14:41,463 --> 00:14:44,549
+- Windu.
+- Jam any communications off this planet.
+
+124
+00:15:07,406 --> 00:15:12,368
+- The fighter's markings match Windu's.
+- l knew it! l told you he wasn't dead.
+
+125
+00:15:12,494 --> 00:15:13,995
+Bossk, after him.
+
+126
+00:15:25,841 --> 00:15:28,009
+l don't like the sound of that.
+
+127
+00:15:29,678 --> 00:15:30,720
+Artoo?
+
+128
+00:15:31,722 --> 00:15:35,141
+l thought your astromech
+was supposed to call for help,
+
+129
+00:15:35,225 --> 00:15:37,518
+not take off and leave us here.
+
+130
+00:15:41,899 --> 00:15:44,567
+Come on, Artoo, l'm counting on you.
+
+131
+00:16:00,751 --> 00:16:02,001
+Hold it steady.
+
+132
+00:16:07,549 --> 00:16:09,926
+We've knocked out his communications.
+
+133
+00:16:22,439 --> 00:16:25,733
+Two rings, mark three-five,
+they're powering up.
+
+134
+00:16:25,776 --> 00:16:27,652
+lf we can take out the rings,
+he'll be trapped.
+
+135
+00:16:28,570 --> 00:16:31,280
+- Which one?
+- Destroy them both!
+
+136
+00:16:31,949 --> 00:16:36,244
+We can't get range.
+You'll get one shot at this, kid.
+
+137
+00:16:42,084 --> 00:16:43,918
+l've got you, Windu.
+
+138
+00:16:48,507 --> 00:16:49,882
+No!
+
+139
+00:16:53,512 --> 00:16:56,764
+Well, there goes a fortune. Nice work, kid.
+
+140
+00:17:01,353 --> 00:17:03,271
+What's our next move?
+
+141
+00:17:03,313 --> 00:17:05,523
+Great! Well, this has gone well.
+
+142
+00:17:07,276 --> 00:17:11,320
+Windu will be back here with a fleet.
+He'll hunt us down.
+
+143
+00:17:11,447 --> 00:17:14,699
+Don't count on it.
+The Jedi don't carry grudges.
+
+144
+00:17:17,244 --> 00:17:20,204
+But l have ways of motivating him.
+
+145
+00:17:22,458 --> 00:17:25,960
+We'll make Windu come to us next time,
+on our terms.
+
+146
+00:17:26,545 --> 00:17:29,130
+Now, let's get out of here.
+l want to regroup.
+
+147
+00:17:48,025 --> 00:17:51,319
+We shall reinforce our fleet
+along the Hydian Way,
+
+148
+00:17:51,403 --> 00:17:55,823
+this should prevent Grievous from...
+
+149
+00:17:56,784 --> 00:17:57,992
+Artoo?
+
+150
+00:18:05,417 --> 00:18:08,169
+Stop it! Artoo, what's wrong?
+
+151
+00:18:10,172 --> 00:18:14,967
+- Ahsoka, you know this droid?
+- lt's Anakin's droid, R2-D2.
+
+152
+00:18:15,677 --> 00:18:21,057
+Well, then, Artoo, deliver the message
+you so obviously need to communicate.
+
+153
+00:18:23,227 --> 00:18:28,147
+<i>l need you to go back to the fighters
+and call the Temple for help, okay?</i>
+
+154
+00:18:29,775 --> 00:18:31,025
+<i>Okay?</i>
+
+155
+00:18:31,151 --> 00:18:33,778
+Prepare my ship.
+We shall leave immediately.
+
+156
+00:18:47,209 --> 00:18:49,210
+Whose helmet is that anyway?
+
+157
+00:18:49,294 --> 00:18:52,880
+lt belongs to a bounty hunter
+l killed on Geonosis,
+
+158
+00:18:53,006 --> 00:18:55,216
+by the name of Jango Fett.
+
+159
+00:18:55,300 --> 00:18:58,636
+You mean the clone template?
+
+160
+00:18:58,720 --> 00:19:02,348
+Yes. Strangely enough he had a son,
+
+161
+00:19:03,350 --> 00:19:05,893
+or at least a clone he regarded as a son.
+
+162
+00:19:06,562 --> 00:19:08,688
+His name is Boba Fett.
+
+163
+00:19:08,897 --> 00:19:13,025
+l remember now. Obi-Wan listed him
+in his report on Kamino.
+
+164
+00:19:14,069 --> 00:19:16,946
+Boba was on Geonosis
+when his father died.
+
+165
+00:19:17,573 --> 00:19:19,407
+He watched as l killed him.
+
+166
+00:19:20,576 --> 00:19:24,245
+- That would complicate things.
+- lndeed.
+
+167
+00:19:36,592 --> 00:19:39,260
+Your astromech has been gone too long.
+
+168
+00:19:39,386 --> 00:19:41,596
+He must have failed
+to deliver your message.
+
+169
+00:19:41,638 --> 00:19:44,640
+Artoo will come through.
+
+170
+00:20:02,284 --> 00:20:04,452
+There! ln the bridge, l can see them.
+
+171
+00:20:05,787 --> 00:20:08,414
+Ahsoka, hold the ship steady.
+
+172
+00:20:18,175 --> 00:20:19,300
+Comet! Let's go!
+
+173
+00:20:23,263 --> 00:20:25,223
+Hurry, Commander Wolffe!
+
+174
+00:20:25,807 --> 00:20:26,891
+Hold tight, General.
+
+175
+00:20:27,142 --> 00:20:28,267
+We're losing it, sir.
+
+176
+00:20:36,151 --> 00:20:37,318
+Jump!
+
+177
+00:20:39,363 --> 00:20:40,446
+Cut the lines!
+
+178
+00:20:41,865 --> 00:20:42,907
+Go!
+
+179
+00:21:01,468 --> 00:21:03,177
+Some pretty serious burns,
+
+180
+00:21:03,220 --> 00:21:05,429
+but nothing
+a night in the bacta tank won't fix.
+
+181
+00:21:07,182 --> 00:21:08,516
+Oh, sorry.
+
+182
+00:21:08,684 --> 00:21:11,185
+We were lucky to arrive when we did.
+
+183
+00:21:11,311 --> 00:21:13,312
+Guess we have Artoo to thank for that.
+
+184
+00:21:15,732 --> 00:21:17,483
+Come here, droid.
+
+185
+00:21:19,861 --> 00:21:22,863
+l can see why your master trusts you,
+little one.
+
+186
+00:21:23,740 --> 00:21:25,074
+Good job.
+
+187
+00:21:29,538 --> 00:21:32,707
+That's definitely more praise
+than l ever get.
+
+188
+00:21:32,791 --> 00:21:33,874
+Mmm.
+

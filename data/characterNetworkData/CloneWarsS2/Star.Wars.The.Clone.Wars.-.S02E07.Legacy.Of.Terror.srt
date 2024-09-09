@@ -1,0 +1,1059 @@
+1
+00:00:18,643 --> 00:00:20,394
+<i>Victory on Geonosis!</i>
+
+2
+00:00:20,478 --> 00:00:22,604
+<i>After a massive planetary siege,</i>
+
+3
+00:00:22,689 --> 00:00:26,275
+<i>the Separatist forces on Geonosis
+have finally fallen.</i>
+
+4
+00:00:26,359 --> 00:00:28,819
+<i>Key weapons factories
+have been destroyed,</i>
+
+5
+00:00:28,903 --> 00:00:31,780
+<i>but at a heavy cost to Republic troops.</i>
+
+6
+00:00:31,865 --> 00:00:36,452
+<i>Now, as Jedi Master Luminara Unduli
+and Obi-Wan Kenobi</i>
+
+7
+00:00:36,494 --> 00:00:40,122
+<i>begin a cleanup of the planet,
+they launch an intense campaign</i>
+
+8
+00:00:40,206 --> 00:00:45,210
+<i>to find Separatist leader Poggle the Lesser
+and bring him to justice.</i>
+
+9
+00:00:48,840 --> 00:00:52,468
+Sorry to leave you here, Rex.
+There's still a lot to do.
+
+10
+00:00:52,635 --> 00:00:54,970
+You two have done enough
+destroying that factory.
+
+11
+00:00:55,055 --> 00:00:58,474
+Go get some rest.
+We'll let General Kenobi take it from here.
+
+12
+00:00:58,516 --> 00:01:00,476
+We'll be back before you know it,
+Captain Rex.
+
+13
+00:01:00,560 --> 00:01:02,186
+We're ready, sir.
+
+14
+00:01:20,997 --> 00:01:25,417
+- A hard-won victory.
+- lndeed. And a costly one.
+
+15
+00:01:25,502 --> 00:01:29,671
+We suffer a great many losses
+in these battles. Too many.
+
+16
+00:01:29,756 --> 00:01:33,342
+The battles do appear to be coming
+with growing frequency.
+
+17
+00:01:33,384 --> 00:01:36,345
+- No sign of Poggle, then?
+- Nothing.
+
+18
+00:01:36,805 --> 00:01:40,682
+We have clone squadrons spread out
+all over the area, but no hits yet.
+
+19
+00:01:40,850 --> 00:01:43,185
+l'll go out and find some clue
+as to where he went.
+
+20
+00:01:43,311 --> 00:01:44,478
+l'm sure the clones can handle...
+
+21
+00:01:44,521 --> 00:01:48,023
+Poggle has too much information
+about the Separatists to let him get away.
+
+22
+00:01:48,149 --> 00:01:49,733
+Very well, Master Unduli.
+
+23
+00:01:49,859 --> 00:01:52,861
+Just make sure to leave a bit
+of strategic planning for me
+
+24
+00:01:52,904 --> 00:01:57,199
+when l come back, Master Kenobi.
+l'd hate to feel left out.
+
+25
+00:02:08,503 --> 00:02:09,711
+We lost one!
+
+26
+00:02:13,091 --> 00:02:16,385
+Lord Poggle says leave it.
+We gotta keep moving.
+
+27
+00:02:23,893 --> 00:02:27,062
+What's this?
+l didn't expect to find you up and about.
+
+28
+00:02:27,105 --> 00:02:29,231
+After enough time in a bacta tank,
+
+29
+00:02:29,274 --> 00:02:32,734
+one longs for the mundane comfort
+of star charts.
+
+30
+00:02:33,194 --> 00:02:36,572
+lt seems like it did you some good.
+Your wound looks almost healed.
+
+31
+00:02:36,698 --> 00:02:39,575
+l wish l could say the same
+for most of my men.
+
+32
+00:02:39,659 --> 00:02:43,829
+Well, let's make sure we don't have
+to take Geonosis a third time.
+
+33
+00:02:43,913 --> 00:02:46,915
+Poggle's forces seem to have come
+from the northern hemisphere.
+
+34
+00:02:47,041 --> 00:02:50,252
+And where was Master Unduli's
+last contact made from?
+
+35
+00:02:50,336 --> 00:02:52,504
+This region, farther to the west,
+
+36
+00:02:52,589 --> 00:02:55,424
+but there's nothing out there
+according to our latest intel.
+
+37
+00:02:58,052 --> 00:02:59,511
+- There.
+- Where?
+
+38
+00:02:59,596 --> 00:03:01,430
+150 clicks southeast.
+
+39
+00:03:04,726 --> 00:03:08,061
+<i>lt appears to be a munitions container
+of some kind.</i>
+
+40
+00:03:08,146 --> 00:03:09,897
+lt could just be debris.
+
+41
+00:03:10,231 --> 00:03:13,442
+l don't think so.
+There was no battle in this area.
+
+42
+00:03:13,526 --> 00:03:17,905
+lt looks like Poggle was on a direct course,
+11 mark 72, that way.
+
+43
+00:03:17,989 --> 00:03:20,490
+Headed directly for the Progate Temple.
+
+44
+00:03:20,575 --> 00:03:22,075
+<i>That makes no sense.</i>
+
+45
+00:03:22,160 --> 00:03:24,828
+<i>Nothing in the temple could have survived
+the munitions we used</i>
+
+46
+00:03:24,913 --> 00:03:28,874
+<i>in the first wave of our attack.
+Why would he risk exposure to go there?</i>
+
+47
+00:03:29,167 --> 00:03:30,584
+l'm not yet sure.
+
+48
+00:03:30,668 --> 00:03:34,129
+Perhaps he doesn't realize the extent
+to which we cleared that area.
+
+49
+00:03:34,714 --> 00:03:38,133
+Master Luminara, l'm tracking a sandstorm
+that's heading your way.
+
+50
+00:03:38,218 --> 00:03:39,301
+<i>No matter.</i>
+
+51
+00:03:39,385 --> 00:03:43,222
+<i>Poggle is out in the open, and l intend
+to grab him before he can get off-world.</i>
+
+52
+00:03:43,306 --> 00:03:46,683
+l advise against it.
+You might get lost in the storm.
+
+53
+00:03:47,143 --> 00:03:49,561
+<i>Then we'd have to find
+both you and Poggle.</i>
+
+54
+00:03:49,646 --> 00:03:51,980
+l feel it is a risk worth taking.
+
+55
+00:03:52,065 --> 00:03:53,357
+<i>As you wish.</i>
+
+56
+00:03:54,275 --> 00:03:55,609
+Let's go.
+
+57
+00:04:08,539 --> 00:04:14,253
+- OM-5, are you still there?
+- Yes. l think l'm right next to you.
+
+58
+00:04:14,504 --> 00:04:17,089
+Where is Lord Poggle taking us?
+
+59
+00:04:17,674 --> 00:04:20,509
+OM-5? OM-5!
+
+60
+00:04:24,097 --> 00:04:25,764
+Yes, sir. Right away, sir.
+
+61
+00:04:27,892 --> 00:04:30,394
+Don't leave me.
+
+62
+00:04:34,190 --> 00:04:36,525
+l can't track Poggle in this storm.
+
+63
+00:04:36,609 --> 00:04:40,362
+We'll reach the temple soon.
+We can get out of the storm there.
+
+64
+00:04:53,626 --> 00:04:57,379
+What could be taking her so long?
+Something must have happened.
+
+65
+00:04:57,422 --> 00:05:00,882
+Patience, Skywalker.
+lt's a delicate operation.
+
+66
+00:05:00,925 --> 00:05:03,885
+l'm sure we'll have more information soon.
+
+67
+00:05:05,263 --> 00:05:08,765
+l must admit, l am troubled
+that we've not heard from her.
+
+68
+00:05:08,891 --> 00:05:10,767
+Let's not start worrying yet.
+
+69
+00:05:10,893 --> 00:05:13,937
+Luminara's not one
+to take unnecessary risks.
+
+70
+00:05:26,659 --> 00:05:29,244
+You were right. He's here somewhere.
+
+71
+00:05:47,347 --> 00:05:48,847
+Master Kenobi.
+
+72
+00:05:48,931 --> 00:05:52,559
+We tracked Poggle to the Progate Temple,
+but now there's no sign of him.
+
+73
+00:05:52,602 --> 00:05:55,228
+<i>Go no further until we can send support.</i>
+
+74
+00:05:55,271 --> 00:05:56,772
+<i>The storm is making things difficult.</i>
+
+75
+00:05:56,898 --> 00:05:59,024
+<i>We can barely read
+your transmission as it is.</i>
+
+76
+00:06:09,035 --> 00:06:11,578
+Are you sure he went into the temple?
+
+77
+00:06:11,621 --> 00:06:15,707
+<i>Yes, we saw him enter, but l think
+he's gone down into the catacombs below.</i>
+
+78
+00:06:15,792 --> 00:06:19,127
+Those catacombs go on for miles.
+l fear we may have lost him.
+
+79
+00:06:19,212 --> 00:06:20,545
+Get yourself out of there.
+
+80
+00:06:21,798 --> 00:06:24,049
+Master Unduli? Master Unduli!
+
+81
+00:06:24,133 --> 00:06:26,134
+We've lost the connection.
+
+82
+00:06:26,219 --> 00:06:28,595
+- Where are you going?
+- Take a guess.
+
+83
+00:06:28,638 --> 00:06:31,807
+We'll never get to her in this storm.
+The gunships can't handle it.
+
+84
+00:06:31,933 --> 00:06:36,478
+- We can't wait!
+- l'm sorry, Skywalker. We have no choice.
+
+85
+00:06:36,604 --> 00:06:39,606
+We must be patient
+and trust in Master Unduli.
+
+86
+00:06:39,649 --> 00:06:42,317
+We'll leave as soon as the storm lifts.
+
+87
+00:07:02,755 --> 00:07:04,506
+Stay alert, everyone.
+
+88
+00:07:04,590 --> 00:07:06,842
+Spread out and look around, men.
+
+89
+00:07:09,554 --> 00:07:10,846
+General.
+
+90
+00:07:13,516 --> 00:07:14,683
+Buzz is dead.
+
+91
+00:07:14,809 --> 00:07:17,185
+- Any sign of Luminara?
+- No, sir.
+
+92
+00:07:19,522 --> 00:07:21,398
+There was a struggle.
+
+93
+00:07:26,863 --> 00:07:28,196
+This is not a good sign.
+
+94
+00:07:29,490 --> 00:07:31,366
+Luminara's lightsaber.
+
+95
+00:07:32,326 --> 00:07:34,035
+Poggle didn't do this.
+
+96
+00:07:35,079 --> 00:07:36,705
+But maybe that did.
+
+97
+00:07:37,498 --> 00:07:40,667
+That is one ugly bug.
+
+98
+00:07:41,210 --> 00:07:44,337
+l haven't seen one
+that looks like that before.
+
+99
+00:07:44,380 --> 00:07:48,717
+l don't believe anyone has.
+lt could be the Geonosian queen.
+
+100
+00:07:48,843 --> 00:07:52,387
+- The bugs have a queen?
+- Mmm. Rumored.
+
+101
+00:07:52,722 --> 00:07:54,973
+But we haven't found
+any proof of her existence.
+
+102
+00:07:55,558 --> 00:07:57,058
+Until now.
+
+103
+00:07:57,894 --> 00:07:59,561
+This way.
+
+104
+00:07:59,645 --> 00:08:01,271
+Come on, men, let's move.
+
+105
+00:08:28,090 --> 00:08:29,674
+This leads to a dead end.
+
+106
+00:08:32,637 --> 00:08:34,596
+This one goes down the furthest.
+
+107
+00:08:34,805 --> 00:08:37,974
+- Sir, l'd say that's our best bet.
+- l'll go first.
+
+108
+00:09:41,289 --> 00:09:42,330
+Master Kenobi!
+
+109
+00:09:45,418 --> 00:09:48,420
+<i>lf you're following me,
+you must leave this place. Just get out!</i>
+
+110
+00:09:48,921 --> 00:09:50,380
+l repeat, fall back!
+
+111
+00:09:53,551 --> 00:09:55,260
+She must be close by. Come on!
+
+112
+00:10:05,187 --> 00:10:06,855
+l don't like the looks of this.
+
+113
+00:10:15,990 --> 00:10:17,032
+Look out!
+
+114
+00:10:23,873 --> 00:10:25,123
+l can't stop them!
+
+115
+00:10:35,176 --> 00:10:36,926
+Oh, no! No!
+
+116
+00:10:39,305 --> 00:10:40,847
+Back, everyone! Back!
+
+117
+00:10:40,890 --> 00:10:43,350
+Take out the tunnel supports!
+lt's the only way!
+
+118
+00:10:54,695 --> 00:10:56,905
+What were those things?
+We couldn't kill them.
+
+119
+00:10:57,365 --> 00:11:01,576
+l've heard stories of a Geonosian hive mind
+so powerful, so strong,
+
+120
+00:11:01,702 --> 00:11:06,289
+that it can maintain its connection
+with its warriors even after they have died.
+
+121
+00:11:06,749 --> 00:11:08,708
+And you think
+that's why we couldn't kill them?
+
+122
+00:11:08,751 --> 00:11:11,586
+- Because they're...
+- Already dead, yes.
+
+123
+00:11:11,712 --> 00:11:15,590
+- That can't be true. That's impossible!
+- lmpossible or not,
+
+124
+00:11:15,716 --> 00:11:20,095
+these creatures keep moving
+after we cut them up or shoot them down.
+
+125
+00:11:22,556 --> 00:11:24,599
+Call for reinforcements.
+
+126
+00:11:29,271 --> 00:11:32,357
+- There's no signal.
+- We must be too deep underground.
+
+127
+00:11:33,526 --> 00:11:37,153
+You two, head back to the surface
+and contact General Mundi.
+
+128
+00:11:37,279 --> 00:11:40,281
+- Tell him we need reinforcements.
+- Yes, sir.
+
+129
+00:11:41,784 --> 00:11:44,285
+l won't be unhappy to get out
+from under all this dirt.
+
+130
+00:11:46,288 --> 00:11:48,748
+This place gives me the shivers.
+
+131
+00:11:55,464 --> 00:11:58,258
+Wind's probably
+playing tricks on us, right?
+
+132
+00:11:58,300 --> 00:11:59,634
+Look around. There's nothing...
+
+133
+00:12:00,803 --> 00:12:01,845
+What the...
+
+134
+00:12:02,930 --> 00:12:04,305
+Blast them!
+
+135
+00:12:06,976 --> 00:12:08,309
+They're not going down!
+
+136
+00:12:08,352 --> 00:12:10,103
+We have to turn back!
+
+137
+00:12:15,109 --> 00:12:16,317
+Gearshift!
+
+138
+00:12:36,964 --> 00:12:39,799
+Obviously the thing is a lot more powerful
+than we assumed.
+
+139
+00:12:39,842 --> 00:12:42,635
+l'm going to the surface
+to alert General Mundi myself.
+
+140
+00:12:42,678 --> 00:12:45,472
+l think that would be
+a foolhardy move, Anakin.
+
+141
+00:12:45,514 --> 00:12:47,348
+We can't divide our troops again.
+
+142
+00:12:47,475 --> 00:12:50,018
+We don't have time to double back
+to the surface.
+
+143
+00:12:50,102 --> 00:12:53,521
+Every moment we waste
+puts Luminara in greater danger.
+
+144
+00:13:27,056 --> 00:13:30,475
+The air is warmer here.
+We must be getting close.
+
+145
+00:13:30,559 --> 00:13:33,269
+Forget the heat.
+
+146
+00:13:33,354 --> 00:13:36,272
+- lt smells down here.
+- Keep your voice down.
+
+147
+00:13:36,357 --> 00:13:39,943
+l'm just saying.
+This planet is rotten from the inside out.
+
+148
+00:13:46,575 --> 00:13:49,118
+l've got a bad feeling about this.
+
+149
+00:13:49,245 --> 00:13:51,913
+lt must be the queen.
+
+150
+00:13:51,956 --> 00:13:54,249
+- Any sign of Luminara?
+- l see her.
+
+151
+00:13:54,333 --> 00:13:55,917
+She's suspended near the throne.
+
+152
+00:13:56,126 --> 00:14:00,505
+- Perfect. What about Poggle?
+- He's speaking with the queen.
+
+153
+00:14:01,131 --> 00:14:04,592
+Good. You take the soldiers,
+l'll take the queen.
+
+154
+00:14:05,302 --> 00:14:07,428
+Must you always rush into things?
+
+155
+00:14:07,972 --> 00:14:11,474
+Oh, no. You don't actually want
+to talk to it, do you?
+
+156
+00:14:11,600 --> 00:14:12,725
+Matter of fact, l do.
+
+157
+00:14:12,768 --> 00:14:16,062
+Anakin, don't you wonder
+why they took Luminara captive?
+
+158
+00:14:16,105 --> 00:14:19,440
+- Why not just kill her?
+- She's leverage. She's a hostage.
+
+159
+00:14:19,483 --> 00:14:22,944
+Leverage for what?
+No, there's something else going on here,
+
+160
+00:14:22,987 --> 00:14:24,988
+and these zombies are connected to it.
+
+161
+00:14:25,114 --> 00:14:27,156
+Fine. We'll try it your way.
+
+162
+00:14:27,283 --> 00:14:28,741
+So glad you agree.
+
+163
+00:14:28,784 --> 00:14:30,785
+Cody, set your men up
+around the perimeter.
+
+164
+00:14:30,828 --> 00:14:32,328
+These creatures live in darkness.
+
+165
+00:14:32,454 --> 00:14:35,290
+The light from your helmet
+should blind them temporarily.
+
+166
+00:14:35,416 --> 00:14:36,791
+Turn your lamps on at my signal.
+
+167
+00:14:36,834 --> 00:14:39,919
+They should create enough confusion
+for us to get Luminara out of here.
+
+168
+00:14:39,962 --> 00:14:42,130
+But what happens when the bugs pursue?
+
+169
+00:14:42,172 --> 00:14:44,465
+You've seen them in action, sir.
+We can't kill them.
+
+170
+00:14:44,592 --> 00:14:47,260
+We'll have to bury them.
+lt'll at least slow them down.
+
+171
+00:14:47,303 --> 00:14:50,471
+Shoot out the support pillars
+and this whole place will collapse.
+
+172
+00:14:50,598 --> 00:14:52,098
+Let's go!
+
+173
+00:15:15,456 --> 00:15:17,957
+How did you know
+they wouldn't just attack us?
+
+174
+00:15:20,127 --> 00:15:24,005
+Because l make observations,
+while you think with your lightsaber.
+
+175
+00:15:30,846 --> 00:15:33,181
+Well, that quick thinking of mine
+is usually needed
+
+176
+00:15:33,307 --> 00:15:35,308
+when your observations
+get us into trouble.
+
+177
+00:15:35,351 --> 00:15:39,812
+Anakin, the queen took Luminara hostage.
+She wanted a Jedi, now she has two more.
+
+178
+00:15:40,189 --> 00:15:41,689
+l want to know what she's after.
+
+179
+00:15:45,194 --> 00:15:49,197
+Well, when this doesn't go as planned,
+which it won't, l'll be ready.
+
+180
+00:15:49,323 --> 00:15:50,907
+That is so reassuring.
+
+181
+00:15:54,370 --> 00:15:57,872
+l thought l told you not to follow me,
+Master Kenobi.
+
+182
+00:15:57,998 --> 00:16:00,208
+Yes, well, l took a lesson from Anakin
+
+183
+00:16:00,334 --> 00:16:03,628
+- and decided not to follow orders.
+- Hey!
+
+184
+00:16:04,213 --> 00:16:05,546
+You.
+
+185
+00:16:06,048 --> 00:16:10,009
+You are the creatures
+
+186
+00:16:10,052 --> 00:16:14,055
+that attack Geonosia.
+
+187
+00:16:14,139 --> 00:16:21,062
+Why have you come before me?
+
+188
+00:16:21,522 --> 00:16:25,316
+Your Majesty,
+it is a pleasure to finally meet you.
+
+189
+00:16:25,401 --> 00:16:28,820
+l am Obi-Wan Kenobi,
+and this is Anakin Skywalker.
+
+190
+00:16:28,904 --> 00:16:32,907
+lt is our sad duty to inform you
+that your rule is at an end.
+
+191
+00:16:33,534 --> 00:16:40,331
+You not dictate to me, Jedi!
+
+192
+00:16:41,291 --> 00:16:47,338
+My empire is forever!
+
+193
+00:16:49,091 --> 00:16:51,926
+l'm afraid it does not appear
+that way, Your Grace.
+
+194
+00:16:52,011 --> 00:16:55,888
+You shall release the Jedi Luminara
+and submit to Republic law.
+
+195
+00:17:04,898 --> 00:17:10,862
+l no submit to you!
+
+196
+00:17:12,823 --> 00:17:14,991
+No, patience, Anakin. Wait.
+
+197
+00:17:18,120 --> 00:17:23,791
+Majesty, destroying us shall only make
+the Republic's judgment of you harsher.
+
+198
+00:17:26,295 --> 00:17:30,298
+No, Jedi. No!
+
+199
+00:17:30,340 --> 00:17:34,635
+l no destroy you,
+
+200
+00:17:34,678 --> 00:17:38,556
+l devour you!
+
+201
+00:17:39,308 --> 00:17:42,226
+l control you.
+
+202
+00:17:42,978 --> 00:17:49,942
+l had but one Jedi before
+young Poggle bring me,
+
+203
+00:17:50,694 --> 00:17:56,741
+but now l have three!
+
+204
+00:17:57,659 --> 00:18:02,663
+Now, watch as my child
+
+205
+00:18:02,706 --> 00:18:07,085
+enters your Jedi friend.
+
+206
+00:18:07,169 --> 00:18:10,338
+And once inside,
+
+207
+00:18:10,380 --> 00:18:16,344
+her mind becomes my mind,
+
+208
+00:18:16,428 --> 00:18:21,099
+her thoughts, my thoughts.
+
+209
+00:18:21,558 --> 00:18:25,061
+lt's a sort of mind control, a hive mind.
+She thinks she can possess us.
+
+210
+00:18:25,187 --> 00:18:27,438
+Great. Find out everything
+you wanted to know yet?
+
+211
+00:18:27,523 --> 00:18:29,273
+No, wait, l want to see how it works.
+
+212
+00:18:29,358 --> 00:18:32,026
+l don't think Luminara wants to see
+how it works.
+
+213
+00:18:32,069 --> 00:18:33,528
+No, l don't.
+
+214
+00:18:33,612 --> 00:18:35,738
+l'm curious. The more we know, the better.
+
+215
+00:18:37,616 --> 00:18:38,866
+l disagree!
+
+216
+00:18:39,118 --> 00:18:40,910
+- So do l.
+- Come, now, the nose or the ear?
+
+217
+00:18:41,036 --> 00:18:42,203
+Which do you think it will enter?
+
+218
+00:18:45,541 --> 00:18:48,709
+- l think the nose.
+- l hope this is part of the plan.
+
+219
+00:18:50,129 --> 00:18:52,088
+lsn't it always? Cody! Now!
+
+220
+00:19:10,399 --> 00:19:12,316
+You're coming with us, Poggle!
+
+221
+00:19:23,245 --> 00:19:24,328
+Obi-Wan, look out!
+
+222
+00:19:25,581 --> 00:19:27,248
+What? Anakin, no!
+
+223
+00:19:27,791 --> 00:19:29,167
+Got it.
+
+224
+00:19:29,751 --> 00:19:32,086
+What are you doing?
+l was going to study that!
+
+225
+00:19:32,129 --> 00:19:34,922
+Study the bottom of my boot.
+Come on, let's get out of here!
+
+226
+00:19:35,132 --> 00:19:36,465
+Here they come!
+
+227
+00:19:41,889 --> 00:19:42,972
+Take out the supports!
+
+228
+00:20:05,913 --> 00:20:07,163
+They're still coming!
+
+229
+00:20:19,009 --> 00:20:20,343
+This is our way out.
+
+230
+00:20:22,429 --> 00:20:23,763
+Start climbing.
+
+231
+00:20:41,657 --> 00:20:43,324
+Obi-Wan, look out!
+
+232
+00:21:39,548 --> 00:21:43,384
+All things considered,
+that went better than l expected.
+
+233
+00:21:43,885 --> 00:21:46,512
+l wish we could have gotten
+one of those worms.
+
+234
+00:21:46,555 --> 00:21:50,391
+Knowing how the queen controls
+her minions could have proven valuable.
+
+235
+00:21:50,517 --> 00:21:53,060
+Well, hopefully the secret
+is buried with her.
+

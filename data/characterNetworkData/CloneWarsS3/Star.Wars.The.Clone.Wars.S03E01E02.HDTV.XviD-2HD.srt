@@ -1,0 +1,3343 @@
+1
+00:00:16,326 --> 00:00:18,227
+<i>Clone troopers unite!</i>
+
+2
+00:00:18,261 --> 00:00:20,829
+<i>As war rages across the galaxy,</i>
+
+3
+00:00:20,863 --> 00:00:22,164
+<i>The republic's clone army</i>
+
+4
+00:00:22,198 --> 00:00:23,765
+<i>Strives for victory against the</i>
+
+5
+00:00:23,800 --> 00:00:26,468
+<i>Evil forces of the separatists.</i>
+
+6
+00:00:26,502 --> 00:00:28,971
+<i>Bravery, valor, unity:</i>
+
+7
+00:00:29,005 --> 00:00:30,706
+<i>The lifeblood of victory on the</i>
+
+8
+00:00:30,740 --> 00:00:33,108
+<i>Battlefield and in space.</i>
+
+9
+00:00:33,142 --> 00:00:34,977
+<i>It all begins on the planet</i>
+
+10
+00:00:35,011 --> 00:00:36,545
+<i>Kamino, where jedi general</i>
+
+11
+00:00:36,579 --> 00:00:38,580
+<i>Shaak Ti oversees the training</i>
+
+12
+00:00:38,615 --> 00:00:40,015
+<i>Of clones with the help of</i>
+
+13
+00:00:40,049 --> 00:00:42,417
+<i>Contracted bounty hunters.</i>
+
+14
+00:00:42,452 --> 00:00:44,253
+<i>Bred to be perfect soldiers,</i>
+
+15
+00:00:44,287 --> 00:00:45,654
+<i>These cadets must first be</i>
+
+16
+00:00:45,688 --> 00:00:47,256
+<i>Subjected to intense physical</i>
+
+17
+00:00:47,290 --> 00:00:48,724
+<i>And mental training before</i>
+
+18
+00:00:48,758 --> 00:00:50,726
+<i>Heading off to war...</i>
+
+19
+00:01:05,742 --> 00:01:08,043
+You're clear.
+You're clear!
+
+20
+00:01:08,077 --> 00:01:10,412
+Cover fire!
+
+21
+00:01:14,250 --> 00:01:15,784
+<i>This is command:</i>
+
+22
+00:01:15,818 --> 00:01:16,885
+<i>You must break through enemy</i>
+
+23
+00:01:16,919 --> 00:01:18,954
+<i>Lines and take the tower.</i>
+
+24
+00:01:18,988 --> 00:01:20,456
+Comlink just relayed
+orders from...
+
+25
+00:01:20,491 --> 00:01:22,124
+We all had the orders, Echo!
+
+26
+00:01:22,158 --> 00:01:23,191
+Stop calling me that.
+
+27
+00:01:23,226 --> 00:01:24,960
+Stop repeating every order.
+
+28
+00:01:24,994 --> 00:01:27,562
+Less yappin'; more blastin'.
+
+29
+00:01:29,932 --> 00:01:31,066
+Let's smoke these chrome domes
+
+30
+00:01:31,100 --> 00:01:33,168
+And move on to the citadel.
+
+31
+00:01:33,202 --> 00:01:34,169
+CT-782,
+
+32
+00:01:34,203 --> 00:01:36,138
+You're breaking formation.
+
+33
+00:01:36,172 --> 00:01:38,707
+Just follow my lead, will ya?
+
+34
+00:01:41,911 --> 00:01:43,145
+He's clearing a path.
+
+35
+00:01:43,179 --> 00:01:45,747
+I'm moving.
+
+36
+00:01:48,518 --> 00:01:50,652
+Thanks, CT-27-5555.
+
+37
+00:01:50,687 --> 00:01:51,720
+That was close.
+
+38
+00:01:51,754 --> 00:01:52,721
+It's fives.
+
+39
+00:01:52,755 --> 00:01:55,791
+The name is "fives."
+
+40
+00:01:55,825 --> 00:01:57,225
+Yeah, Five pieces if you
+
+41
+00:01:57,260 --> 00:01:59,061
+Don't keep your head down!
+
+42
+00:01:59,095 --> 00:02:00,929
+How about we follow orders?
+
+43
+00:02:00,963 --> 00:02:02,497
+This is our last practice test.
+
+44
+00:02:02,532 --> 00:02:03,498
+Will you shut up with
+
+45
+00:02:03,533 --> 00:02:04,633
+Instructions?
+
+46
+00:02:04,667 --> 00:02:06,868
+You're not in charge.
+
+47
+00:02:09,906 --> 00:02:11,406
+This particular unit seems
+
+48
+00:02:11,441 --> 00:02:12,808
+To have some trouble.
+
+49
+00:02:12,842 --> 00:02:14,543
+What do you recommend?
+
+50
+00:02:14,577 --> 00:02:16,778
+Well, I'm no jedi, so forgive
+
+51
+00:02:16,813 --> 00:02:18,647
+My bluntness, but I say they
+
+52
+00:02:18,681 --> 00:02:19,548
+Fail.
+
+53
+00:02:19,582 --> 00:02:20,682
+Send 'em down to maintenance
+
+54
+00:02:20,717 --> 00:02:22,551
+Duty with 99 and the other
+
+55
+00:02:22,585 --> 00:02:23,752
+Rejects.
+
+56
+00:02:23,786 --> 00:02:25,087
+We can't fail them yet.
+
+57
+00:02:25,121 --> 00:02:26,121
+Remember, this is only a
+
+58
+00:02:26,155 --> 00:02:27,255
+Practice test.
+
+59
+00:02:27,290 --> 00:02:29,157
+And besides, the citadel course
+
+60
+00:02:29,192 --> 00:02:30,092
+Was constructed to be a
+
+61
+00:02:30,126 --> 00:02:32,060
+Difficult challenge.
+
+62
+00:02:32,095 --> 00:02:33,395
+Although I don't agree with
+
+63
+00:02:33,429 --> 00:02:36,631
+His sentiment, bric isn't wrong.
+
+64
+00:02:36,666 --> 00:02:39,368
+These cadets are far from ready.
+
+65
+00:02:41,304 --> 00:02:42,904
+I can't hit anything from
+
+66
+00:02:42,939 --> 00:02:44,306
+Here.
+
+67
+00:02:44,340 --> 00:02:46,441
+No, we have to follow orders.
+
+68
+00:02:47,543 --> 00:02:49,411
+The one they call "Echo"
+
+69
+00:02:49,445 --> 00:02:52,013
+Never adapts to the situation.
+
+70
+00:02:58,621 --> 00:03:00,856
+CT-782 seems to follow his
+
+71
+00:03:00,890 --> 00:03:02,090
+Own path.
+
+72
+00:03:02,125 --> 00:03:04,059
+He can't do it all alone.
+
+73
+00:03:04,093 --> 00:03:06,395
+You go; I'll cover you.
+
+74
+00:03:06,429 --> 00:03:08,063
+I'm a better shot. You go.
+
+75
+00:03:08,097 --> 00:03:11,233
+No, you go!
+
+76
+00:03:12,735 --> 00:03:15,771
+Look at those two.
+
+77
+00:03:15,805 --> 00:03:17,105
+End up dead.
+
+78
+00:03:17,140 --> 00:03:19,741
+Uh, and the last one...
+
+79
+00:03:24,247 --> 00:03:26,782
+I surrender. I surrender.
+
+80
+00:03:26,816 --> 00:03:28,817
+Need I say more?
+
+81
+00:03:28,851 --> 00:03:29,818
+If these cadets can't get
+
+82
+00:03:29,852 --> 00:03:30,852
+Past their shortsighted
+
+83
+00:03:30,887 --> 00:03:32,921
+Selfishness, they will never
+
+84
+00:03:32,955 --> 00:03:34,723
+Come together.
+
+85
+00:03:34,757 --> 00:03:37,125
+Unity wins war, gentlemen.
+
+86
+00:03:37,160 --> 00:03:38,960
+Computer, end exercise for
+
+87
+00:03:38,995 --> 00:03:41,396
+Domino squad.
+
+88
+00:03:41,431 --> 00:03:43,131
+99, would you please send a
+
+89
+00:03:43,166 --> 00:03:44,633
+Cleaning crew to the training
+
+90
+00:03:44,667 --> 00:03:47,169
+Ground?
+
+91
+00:03:47,203 --> 00:03:49,771
+We'll take care of the mess.
+
+92
+00:03:49,806 --> 00:03:51,206
+You should tell that 99 to
+
+93
+00:03:51,240 --> 00:03:53,041
+Drag away the mess called
+
+94
+00:03:53,075 --> 00:03:56,011
+Domino squad.
+
+95
+00:03:58,648 --> 00:04:01,316
+We almost had it this time.
+
+96
+00:04:01,350 --> 00:04:02,350
+Oh, yeah, and we all look
+
+97
+00:04:02,385 --> 00:04:03,718
+Nothing alike either.
+
+98
+00:04:03,753 --> 00:04:05,954
+Sorry about the mess, 99.
+
+99
+00:04:05,988 --> 00:04:07,856
+Uh, it's okay, boys.
+
+100
+00:04:07,890 --> 00:04:10,192
+Nice try.
+
+101
+00:04:13,062 --> 00:04:14,663
+So I says to her, "baby,
+
+102
+00:04:14,697 --> 00:04:16,331
+You and me could really"...
+
+103
+00:04:16,365 --> 00:04:20,669
+You've never even met a girl.
+
+104
+00:04:20,703 --> 00:04:21,903
+You know, you shouldn't
+
+105
+00:04:21,938 --> 00:04:25,040
+Worry because most clones pass.
+
+106
+00:04:25,074 --> 00:04:26,241
+Yeah, but not all of us,
+
+107
+00:04:26,275 --> 00:04:29,644
+Right, shortie?
+
+108
+00:04:32,148 --> 00:04:33,281
+Guys, we've got to follow
+
+109
+00:04:33,316 --> 00:04:33,949
+Orders.
+
+110
+00:04:33,983 --> 00:04:35,150
+Come on.
+
+111
+00:04:35,184 --> 00:04:36,384
+I don't know.
+
+112
+00:04:36,419 --> 00:04:37,752
+I think it went rather well.
+
+113
+00:04:37,787 --> 00:04:39,054
+Quit joking around.
+
+114
+00:04:39,088 --> 00:04:41,490
+Can we please stop arguing?
+
+115
+00:04:41,524 --> 00:04:43,124
+Can you stop being droid bait
+
+116
+00:04:43,159 --> 00:04:44,159
+Out there?
+
+117
+00:04:44,193 --> 00:04:45,760
+You're getting in my way.
+
+118
+00:04:45,795 --> 00:04:47,662
+Actually, our way.
+
+119
+00:04:47,697 --> 00:04:48,363
+Well, you want to be the
+
+120
+00:04:48,397 --> 00:04:49,631
+Best, then you got to think
+
+121
+00:04:49,665 --> 00:04:50,765
+Like it.
+
+122
+00:04:50,800 --> 00:04:51,967
+And I'm thinking like an arc
+
+123
+00:04:52,001 --> 00:04:55,504
+Trooper.
+
+124
+00:04:55,538 --> 00:04:59,674
+Care to repeat that, Echo?
+
+125
+00:04:59,709 --> 00:05:01,076
+Come on. Get him, Hevy!
+
+126
+00:05:01,110 --> 00:05:02,143
+Smack that know-it-all!
+
+127
+00:05:02,178 --> 00:05:03,478
+Cut it out.
+
+128
+00:05:03,513 --> 00:05:04,546
+If you two would focus on
+
+129
+00:05:04,580 --> 00:05:06,248
+Fighting droids as much as you
+
+130
+00:05:06,282 --> 00:05:07,649
+Do fighting each other, you
+
+131
+00:05:07,683 --> 00:05:10,051
+Might stand a chance out there.
+
+132
+00:05:10,086 --> 00:05:11,853
+Sorry, master chief.
+
+133
+00:05:11,888 --> 00:05:15,357
+Well, master chief,
+
+134
+00:05:15,391 --> 00:05:16,491
+Our training.
+
+135
+00:05:16,526 --> 00:05:17,959
+I'd rather be taught by a jedi
+
+136
+00:05:17,994 --> 00:05:19,461
+Than some mercenary bounty
+
+137
+00:05:19,495 --> 00:05:20,562
+Hunter.
+
+138
+00:05:20,596 --> 00:05:22,264
+Jedi don't have the time to
+
+139
+00:05:22,298 --> 00:05:24,299
+Train grunts like you.
+
+140
+00:05:24,333 --> 00:05:26,368
+That's why they hired me.
+
+141
+00:05:30,706 --> 00:05:32,607
+Listen, boys, when you were
+
+142
+00:05:32,642 --> 00:05:34,376
+Assigned to me, I had high hopes
+
+143
+00:05:34,410 --> 00:05:35,977
+For you.
+
+144
+00:05:36,012 --> 00:05:37,245
+Now we're approaching the end
+
+145
+00:05:37,280 --> 00:05:38,413
+Of your training, and you
+
+146
+00:05:38,447 --> 00:05:41,416
+Haven't advanced nearly enough.
+
+147
+00:05:41,450 --> 00:05:43,952
+Even this bad batcher, 99, has
+
+148
+00:05:43,986 --> 00:05:46,154
+More sense than you guys do, and
+
+149
+00:05:46,188 --> 00:05:48,957
+He's a maintenance clone.
+
+150
+00:05:48,991 --> 00:05:50,258
+You...you don't give them
+
+151
+00:05:50,293 --> 00:05:51,426
+Enough credit.
+
+152
+00:05:51,460 --> 00:05:55,864
+You're all a waste of my time.
+
+153
+00:06:04,740 --> 00:06:06,641
+I understand your concerns,
+
+154
+00:06:06,675 --> 00:06:08,743
+Master jedi.
+
+155
+00:06:08,777 --> 00:06:10,011
+Ever since the unfortunate
+
+156
+00:06:10,045 --> 00:06:12,380
+Death of Jango Fett, we have
+
+157
+00:06:12,414 --> 00:06:14,082
+Had to stretch his DNA to
+
+158
+00:06:14,116 --> 00:06:16,451
+Produce more clones.
+
+159
+00:06:16,485 --> 00:06:17,719
+A jedi does not feel
+
+160
+00:06:17,753 --> 00:06:19,821
+Concern, Lama Su.
+
+161
+00:06:19,855 --> 00:06:21,389
+However, I have noticed this
+
+162
+00:06:21,423 --> 00:06:23,458
+Unit of clones have been...
+
+163
+00:06:23,492 --> 00:06:25,126
+Deficient?
+
+164
+00:06:25,160 --> 00:06:26,327
+My only thought is for you to
+
+165
+00:06:26,362 --> 00:06:29,397
+Search the galaxy and find a
+
+166
+00:06:29,431 --> 00:06:31,232
+Suitable donor for your future
+
+167
+00:06:31,267 --> 00:06:33,768
+Clones.
+
+168
+00:06:36,305 --> 00:06:37,272
+And what of the clones
+
+169
+00:06:37,306 --> 00:06:38,840
+Produced so far?
+
+170
+00:06:38,874 --> 00:06:40,875
+As you know, there is no one
+
+171
+00:06:40,910 --> 00:06:43,111
+Way to make a clone.
+
+172
+00:06:43,145 --> 00:06:45,880
+Sometimes our efforts are less
+
+173
+00:06:45,915 --> 00:06:48,016
+Than successful.
+
+174
+00:06:48,050 --> 00:06:50,585
+Are you suggesting we just
+
+175
+00:06:50,619 --> 00:06:53,187
+Cast off the domino squad?
+
+176
+00:06:53,222 --> 00:06:55,189
+They're living beings, not
+
+177
+00:06:55,224 --> 00:06:57,191
+Objects.
+
+178
+00:06:57,226 --> 00:06:58,893
+You jedi show too much
+
+179
+00:06:58,928 --> 00:07:01,062
+Compassion.
+
+180
+00:07:01,096 --> 00:07:03,331
+Nevertheless, as general in
+
+181
+00:07:03,365 --> 00:07:05,934
+Charge of training, the decision
+
+182
+00:07:05,968 --> 00:07:07,502
+On what to do with them would
+
+183
+00:07:07,536 --> 00:07:10,772
+Be yours, master jedi.
+
+184
+00:07:25,421 --> 00:07:27,288
+Gentlemen, who wants to be
+
+185
+00:07:27,323 --> 00:07:29,190
+An arc trooper?
+
+186
+00:07:29,224 --> 00:07:30,258
+I do, sir!
+
+187
+00:07:30,292 --> 00:07:31,659
+You have to pass your final
+
+188
+00:07:31,694 --> 00:07:32,994
+Test first.
+
+189
+00:07:33,028 --> 00:07:34,195
+I want you to meet commander
+
+190
+00:07:34,229 --> 00:07:36,965
+Colt of the rancor battalion.
+
+191
+00:07:36,999 --> 00:07:38,032
+I want you troopers to
+
+192
+00:07:38,067 --> 00:07:39,567
+Remember, we're shoulder to
+
+193
+00:07:39,601 --> 00:07:42,270
+Shoulder on those front lines.
+
+194
+00:07:42,304 --> 00:07:43,304
+Brothers.
+
+195
+00:07:43,339 --> 00:07:44,906
+And sometimes we may quarrel,
+
+196
+00:07:44,940 --> 00:07:46,741
+But no matter what, we are
+
+197
+00:07:46,775 --> 00:07:48,843
+United.
+
+198
+00:07:48,877 --> 00:07:50,478
+Rule one:
+
+199
+00:07:50,512 --> 00:07:52,447
+We fight together.
+
+200
+00:07:52,481 --> 00:07:55,516
+So who's ready to step up first?
+
+201
+00:07:55,551 --> 00:07:56,718
+Let's start with the unit that
+
+202
+00:07:56,752 --> 00:07:58,419
+Ran the practice test in record
+
+203
+00:07:58,454 --> 00:07:59,520
+Time...
+
+204
+00:07:59,555 --> 00:08:01,456
+Arc trooper time.
+
+205
+00:08:01,490 --> 00:08:03,391
+Think he means us, boys?
+
+206
+00:08:03,425 --> 00:08:07,161
+Bravo unit, step up.
+
+207
+00:08:07,196 --> 00:08:10,031
+Well, bravo for bravo squad.
+
+208
+00:08:10,065 --> 00:08:11,132
+Show an arc trooper how it's
+
+209
+00:08:11,166 --> 00:08:13,134
+Done.
+
+210
+00:08:17,439 --> 00:08:18,606
+Come on, boys.
+
+211
+00:08:18,640 --> 00:08:20,041
+Maybe we can learn something.
+
+212
+00:08:20,075 --> 00:08:22,844
+Shut up, Echo.
+
+213
+00:08:29,818 --> 00:08:31,119
+Start the citadel challenge,
+
+214
+00:08:31,153 --> 00:08:34,589
+Version thx, variable 1138.
+
+215
+00:08:44,767 --> 00:08:45,900
+Go right!
+
+216
+00:08:45,934 --> 00:08:48,236
+Clankers!
+
+217
+00:08:55,544 --> 00:08:57,712
+We're better than these guys.
+
+218
+00:09:02,451 --> 00:09:04,118
+Okay, this is it.
+
+219
+00:09:04,153 --> 00:09:07,121
+Go for it.
+
+220
+00:09:16,765 --> 00:09:20,368
+He's going to make it.
+
+221
+00:09:29,711 --> 00:09:31,045
+I'm impressed.
+
+222
+00:09:31,080 --> 00:09:32,980
+You trained 'em well.
+
+223
+00:09:33,015 --> 00:09:34,215
+Who's next?
+
+224
+00:09:34,249 --> 00:09:36,250
+The domino squad.
+
+225
+00:09:37,052 --> 00:09:40,488
+And how are they?
+
+226
+00:09:42,191 --> 00:09:43,558
+We can do this, guys.
+
+227
+00:09:43,592 --> 00:09:44,792
+All we have to do is follow
+
+228
+00:09:44,827 --> 00:09:47,829
+Orders.
+
+229
+00:09:53,502 --> 00:09:54,702
+Check it out, guys.
+
+230
+00:09:54,736 --> 00:09:56,137
+Time to watch the dominoes
+
+231
+00:09:56,171 --> 00:10:00,174
+Fall.
+
+232
+00:10:00,209 --> 00:10:01,742
+They are so much better
+
+233
+00:10:01,777 --> 00:10:02,577
+Than us.
+
+234
+00:10:02,611 --> 00:10:04,445
+Knock it off.
+
+235
+00:10:04,480 --> 00:10:06,114
+Begin the program.
+
+236
+00:10:06,148 --> 00:10:08,416
+Let's not take it easy on them.
+
+237
+00:10:19,194 --> 00:10:19,994
+They're getting farther
+
+238
+00:10:20,028 --> 00:10:21,028
+Than normal.
+
+239
+00:10:21,063 --> 00:10:23,664
+Maybe so, but they're sloppy.
+
+240
+00:10:23,699 --> 00:10:25,600
+This is nothing.
+
+241
+00:10:25,634 --> 00:10:26,400
+Give them their next set of
+
+242
+00:10:26,435 --> 00:10:27,602
+Orders and watch the chaos
+
+243
+00:10:27,636 --> 00:10:28,936
+Ensue.
+
+244
+00:10:28,971 --> 00:10:30,371
+I'm telling you, these guys
+
+245
+00:10:30,405 --> 00:10:32,373
+Just aren't ready.
+
+246
+00:10:35,911 --> 00:10:37,111
+I'll flank left.
+
+247
+00:10:37,146 --> 00:10:39,280
+You flank right.
+
+248
+00:10:39,314 --> 00:10:40,081
+Take it easy.
+
+249
+00:10:40,115 --> 00:10:41,115
+I'm on your side.
+
+250
+00:10:41,150 --> 00:10:41,883
+Get it?
+
+251
+00:10:41,917 --> 00:10:44,752
+Your side, huh?
+
+252
+00:10:44,786 --> 00:10:48,856
+Pretty unorthodox.
+
+253
+00:10:48,891 --> 00:10:52,460
+Droidbait, behind you!
+
+254
+00:10:52,494 --> 00:10:54,428
+Man down!
+
+255
+00:10:54,463 --> 00:10:55,630
+Forget him!
+
+256
+00:10:55,664 --> 00:10:59,267
+I'm breaking for the citadel.
+
+257
+00:11:01,236 --> 00:11:02,103
+Hurry!
+
+258
+00:11:02,137 --> 00:11:04,272
+Guys, I think he's injured.
+
+259
+00:11:04,306 --> 00:11:05,139
+Leave him.
+
+260
+00:11:05,174 --> 00:11:07,341
+Come on!
+
+261
+00:11:09,111 --> 00:11:11,579
+We're gonna pass this time.
+
+262
+00:11:13,782 --> 00:11:16,584
+Okay, I spoke too soon.
+
+263
+00:11:19,855 --> 00:11:21,923
+That would be putting it
+
+264
+00:11:21,957 --> 00:11:23,891
+Broke formation, disobeyed
+
+265
+00:11:23,926 --> 00:11:25,393
+Orders, and you left a man
+
+266
+00:11:25,427 --> 00:11:26,594
+Behind.
+
+267
+00:11:26,628 --> 00:11:28,729
+You broke rule number one.
+
+268
+00:11:28,764 --> 00:11:31,132
+I'm sorry, domino squad.
+
+269
+00:11:31,166 --> 00:11:36,070
+This is an automatic failure.
+
+270
+00:11:36,104 --> 00:11:36,904
+I told you this was going to
+
+271
+00:11:36,939 --> 00:11:38,339
+Happen.
+
+272
+00:11:38,373 --> 00:11:39,106
+We've wasted enough time on
+
+273
+00:11:39,141 --> 00:11:40,508
+Those losers.
+
+274
+00:11:40,542 --> 00:11:43,311
+Their failure is our failure.
+
+275
+00:11:43,345 --> 00:11:44,478
+I've made a request to general
+
+276
+00:11:44,513 --> 00:11:45,780
+Shaak Ti that the domino squad
+
+277
+00:11:45,814 --> 00:11:47,281
+Be allowed to repeat the final
+
+278
+00:11:47,316 --> 00:11:48,583
+Test.
+
+279
+00:11:48,617 --> 00:11:50,685
+Why do you care about them?
+
+280
+00:11:50,719 --> 00:11:52,386
+Why don't you?
+
+281
+00:11:52,421 --> 00:11:54,422
+I care about getting paid.
+
+282
+00:11:54,456 --> 00:11:55,356
+It's a shame the bounty
+
+283
+00:11:55,390 --> 00:11:56,591
+Hunter in you sees this only as
+
+284
+00:11:56,625 --> 00:11:57,625
+A job.
+
+285
+00:11:57,659 --> 00:12:02,363
+More like an impossible task.
+
+286
+00:12:02,397 --> 00:12:03,497
+These cadets will be the
+
+287
+00:12:03,532 --> 00:12:05,132
+Finest troopers we've trained.
+
+288
+00:12:05,167 --> 00:12:06,801
+I have faith in them.
+
+289
+00:12:06,835 --> 00:12:08,069
+Faith?
+
+290
+00:12:08,103 --> 00:12:09,804
+Oh, you can't be serious,
+
+291
+00:12:09,838 --> 00:12:10,771
+El-Les.
+
+292
+00:12:10,806 --> 00:12:11,639
+We should treat them as a
+
+293
+00:12:11,673 --> 00:12:13,241
+Special challenge, bric.
+
+294
+00:12:13,275 --> 00:12:14,175
+We should treat them as
+
+295
+00:12:14,209 --> 00:12:15,710
+Failures.
+
+296
+00:12:15,744 --> 00:12:17,011
+Besides, I've already requested
+
+297
+00:12:17,045 --> 00:12:18,479
+That they be moved to cleanup
+
+298
+00:12:18,513 --> 00:12:19,547
+And maintenance.
+
+299
+00:12:19,581 --> 00:12:20,748
+That's all they're going to be
+
+300
+00:12:20,782 --> 00:12:22,550
+Good for.
+
+301
+00:12:22,584 --> 00:12:23,517
+Then I guess the general has
+
+302
+00:12:23,552 --> 00:12:25,519
+A decision to make.
+
+303
+00:12:38,467 --> 00:12:41,435
+General, may we have a word?
+
+304
+00:12:41,470 --> 00:12:42,603
+You are here to discuss your
+
+305
+00:12:42,638 --> 00:12:44,939
+Squad, aren't you?
+
+306
+00:12:44,973 --> 00:12:45,640
+How did you...
+
+307
+00:12:45,674 --> 00:12:47,808
+Ah, jedi, mate.
+
+308
+00:12:47,843 --> 00:12:49,644
+One doesn't need to be a jedi
+
+309
+00:12:49,678 --> 00:12:52,346
+To feel the stress on your mind.
+
+310
+00:12:52,381 --> 00:12:53,581
+General, we would like to
+
+311
+00:12:53,615 --> 00:12:55,349
+Request a transfer to another
+
+312
+00:12:55,384 --> 00:12:56,284
+Squad.
+
+313
+00:12:56,318 --> 00:12:59,020
+Bravo squad, perhaps?
+
+314
+00:12:59,054 --> 00:13:00,655
+I am a jedi, where the
+
+315
+00:13:00,689 --> 00:13:02,156
+Individual and the group are
+
+316
+00:13:02,190 --> 00:13:04,959
+One in the same, much like you
+
+317
+00:13:04,993 --> 00:13:06,260
+Clones.
+
+318
+00:13:06,295 --> 00:13:08,195
+Which is why Fives and I are
+
+319
+00:13:08,230 --> 00:13:09,664
+Looking out for each other.
+
+320
+00:13:09,698 --> 00:13:11,299
+As individuals,
+
+321
+00:13:11,333 --> 00:13:13,634
+But not as a group.
+
+322
+00:13:13,669 --> 00:13:16,103
+You are where you need to be.
+
+323
+00:13:16,138 --> 00:13:18,172
+Solve your problems as a whole,
+
+324
+00:13:18,206 --> 00:13:20,841
+Not as individuals.
+
+325
+00:13:20,876 --> 00:13:22,643
+I have decided to allow you and
+
+326
+00:13:22,678 --> 00:13:24,345
+The rest of your squad to take
+
+327
+00:13:24,379 --> 00:13:26,347
+The test again tomorrow.
+
+328
+00:13:45,935 --> 00:13:47,970
+You wanted to see me, sir?
+
+329
+00:13:48,004 --> 00:13:49,638
+Near as I can tell, you're
+
+330
+00:13:49,672 --> 00:13:51,140
+The reason your squad's a
+
+331
+00:13:51,174 --> 00:13:52,274
+Failure.
+
+332
+00:13:52,308 --> 00:13:54,476
+Ah, well, I'll take that as
+
+333
+00:13:54,511 --> 00:13:55,944
+A compliment.
+
+334
+00:13:55,979 --> 00:13:57,312
+It's all a big joke to you,
+
+335
+00:13:57,347 --> 00:13:58,647
+Right?
+
+336
+00:13:58,681 --> 00:14:00,015
+Like those little nicknames you
+
+337
+00:14:00,050 --> 00:14:01,917
+And your clone brothers give
+
+338
+00:14:01,951 --> 00:14:02,918
+Each other.
+
+339
+00:14:02,952 --> 00:14:04,653
+Oh, I could think
+
+340
+00:14:04,687 --> 00:14:06,655
+Of one for you right now, sir.
+
+341
+00:14:06,689 --> 00:14:08,490
+Oh, funny.
+
+342
+00:14:08,525 --> 00:14:09,892
+But I think it's all just
+
+343
+00:14:09,926 --> 00:14:11,527
+A cover.
+
+344
+00:14:11,561 --> 00:14:14,630
+You hate me, don't you?
+
+345
+00:14:14,664 --> 00:14:15,497
+No, no, no.
+
+346
+00:14:15,532 --> 00:14:16,832
+How could I hate you for doing
+
+347
+00:14:16,866 --> 00:14:17,933
+Your job?
+
+348
+00:14:17,967 --> 00:14:19,401
+You're just pushing me, sir.
+
+349
+00:14:19,436 --> 00:14:22,971
+No, this is me pushing you.
+
+350
+00:14:23,006 --> 00:14:24,440
+Come on, clone.
+
+351
+00:14:24,474 --> 00:14:25,474
+Hit me.
+
+352
+00:14:25,508 --> 00:14:27,376
+Hit me, you joker.
+
+353
+00:14:27,410 --> 00:14:28,577
+Can't take anything seriously,
+
+354
+00:14:28,611 --> 00:14:29,778
+Can you?
+
+355
+00:14:29,813 --> 00:14:32,414
+You're a real cutup, aren't you?
+
+356
+00:14:32,449 --> 00:14:35,117
+Come on!
+
+357
+00:14:35,151 --> 00:14:36,418
+Thank you, sir.
+
+358
+00:14:36,453 --> 00:14:39,755
+For what?
+
+359
+00:14:39,789 --> 00:14:43,392
+For my name: Cutup.
+
+360
+00:14:43,426 --> 00:14:45,127
+I like the sound of it.
+
+361
+00:14:45,161 --> 00:14:47,396
+Out of my sight, cadet.
+
+362
+00:14:47,430 --> 00:14:48,730
+One way or another, you'll be
+
+363
+00:14:48,765 --> 00:14:50,399
+Out of this army.
+
+364
+00:14:50,433 --> 00:14:55,471
+Count on it.
+
+365
+00:15:17,560 --> 00:15:20,429
+Hevy, you going somewhere?
+
+366
+00:15:20,463 --> 00:15:22,264
+Get out of here.
+
+367
+00:15:22,298 --> 00:15:25,134
+You're going awol, aren't
+
+368
+00:15:25,168 --> 00:15:27,369
+Just go back to sleep, 99.
+
+369
+00:15:27,403 --> 00:15:28,737
+This doesn't concern you.
+
+370
+00:15:28,771 --> 00:15:30,672
+But you can't do this to
+
+371
+00:15:30,707 --> 00:15:32,074
+Your squad.
+
+372
+00:15:32,108 --> 00:15:33,775
+My squad?
+
+373
+00:15:33,810 --> 00:15:35,777
+We're nothing but a bad batch.
+
+374
+00:15:35,812 --> 00:15:37,513
+Failures.
+
+375
+00:15:37,547 --> 00:15:39,581
+Like you.
+
+376
+00:15:39,616 --> 00:15:41,817
+Yeah, but how can I be
+
+377
+00:15:41,851 --> 00:15:43,986
+A failure when I...I never even
+
+378
+00:15:44,020 --> 00:15:45,554
+Got my chance?
+
+379
+00:15:45,588 --> 00:15:48,390
+A chance you're throwing away.
+
+380
+00:15:48,424 --> 00:15:49,992
+You're always trying to be the
+
+381
+00:15:50,026 --> 00:15:51,493
+Anchor, Hevy.
+
+382
+00:15:51,528 --> 00:15:53,629
+You know, do it on your own.
+
+383
+00:15:53,663 --> 00:15:55,998
+Well, maybe you should embrace
+
+384
+00:15:56,032 --> 00:15:59,468
+The fact that you have a team.
+
+385
+00:15:59,502 --> 00:16:01,904
+See, I never had that.
+
+386
+00:16:01,938 --> 00:16:04,506
+But you need them,
+
+387
+00:16:04,541 --> 00:16:06,441
+And they need you.
+
+388
+00:16:06,476 --> 00:16:07,876
+Why carry such a heavy burden
+
+389
+00:16:07,911 --> 00:16:10,078
+On your own when you have your
+
+390
+00:16:10,113 --> 00:16:13,048
+Brothers at your side, Hevy?
+
+391
+00:16:13,082 --> 00:16:13,715
+Hevy?
+
+392
+00:16:13,750 --> 00:16:15,884
+Would...stop calling me that!
+
+393
+00:16:15,919 --> 00:16:17,586
+We're just numbers, 99.
+
+394
+00:16:17,620 --> 00:16:19,254
+Just numbers.
+
+395
+00:16:19,289 --> 00:16:21,023
+Not to me.
+
+396
+00:16:21,057 --> 00:16:24,860
+To me, you've always had a name.
+
+397
+00:16:34,837 --> 00:16:37,806
+Hey, where's CT-782?
+
+398
+00:16:37,840 --> 00:16:40,809
+Yeah, where is CT-782?
+
+399
+00:16:40,843 --> 00:16:42,644
+If he is not here, we will
+
+400
+00:16:42,679 --> 00:16:44,546
+Fail.
+
+401
+00:16:44,581 --> 00:16:46,949
+Not today, brothers.
+
+402
+00:16:46,983 --> 00:16:51,086
+Today we pass.
+
+403
+00:16:51,120 --> 00:16:52,454
+And one more thing:
+
+404
+00:16:52,488 --> 00:16:54,456
+The name's Hevy.
+
+405
+00:17:05,134 --> 00:17:07,069
+Orders came in clear, mates.
+
+406
+00:17:07,103 --> 00:17:08,503
+Nothing to repeat, Echo?
+
+407
+00:17:08,538 --> 00:17:09,738
+Not today.
+
+408
+00:17:09,772 --> 00:17:10,872
+How's that shoulder treating
+
+409
+00:17:10,907 --> 00:17:11,540
+You?
+
+410
+00:17:11,574 --> 00:17:13,041
+I'll live.
+
+411
+00:17:13,076 --> 00:17:14,243
+We all know what we have
+
+412
+00:17:14,277 --> 00:17:16,245
+To do.
+
+413
+00:17:37,367 --> 00:17:38,467
+That's it, boys.
+
+414
+00:17:38,501 --> 00:17:39,935
+Stay together!
+
+415
+00:17:39,969 --> 00:17:43,071
+Fives, on your left.
+
+416
+00:17:43,106 --> 00:17:44,273
+Thanks, cutup.
+
+417
+00:17:44,307 --> 00:17:45,641
+No problem, brother.
+
+418
+00:17:45,675 --> 00:17:46,608
+They seem to be working
+
+419
+00:17:46,643 --> 00:17:47,743
+Together.
+
+420
+00:17:47,777 --> 00:17:49,111
+Still early.
+
+421
+00:17:49,145 --> 00:17:52,080
+A lot can change.
+
+422
+00:18:04,260 --> 00:18:04,926
+Keep it up.
+
+423
+00:18:04,961 --> 00:18:06,128
+We're doing great.
+
+424
+00:18:06,162 --> 00:18:07,763
+We might actually pass.
+
+425
+00:18:07,797 --> 00:18:09,698
+Not so fast; still got the
+
+426
+00:18:09,732 --> 00:18:12,534
+Citadel.
+
+427
+00:18:26,916 --> 00:18:27,849
+All right, prep the
+
+428
+00:18:27,884 --> 00:18:28,950
+Ascension cables.
+
+429
+00:18:28,985 --> 00:18:31,286
+Let's scale this thing.
+
+430
+00:18:31,321 --> 00:18:31,987
+Wait a tick.
+
+431
+00:18:32,021 --> 00:18:33,722
+Where are the cables?
+
+432
+00:18:33,756 --> 00:18:34,890
+They're not in our belts.
+
+433
+00:18:34,924 --> 00:18:36,725
+Just when things seemed easy.
+
+434
+00:18:36,759 --> 00:18:38,427
+Well, we can't scale the face
+
+435
+00:18:38,461 --> 00:18:39,594
+Without them.
+
+436
+00:18:39,629 --> 00:18:40,662
+We'll fail the test if we can't
+
+437
+00:18:40,697 --> 00:18:41,396
+Finish.
+
+438
+00:18:41,431 --> 00:18:42,831
+What's going on?
+
+439
+00:18:42,865 --> 00:18:43,699
+Where are their ascension
+
+440
+00:18:43,733 --> 00:18:44,666
+Cables?
+
+441
+00:18:44,701 --> 00:18:48,737
+Must have gotten lost.
+
+442
+00:18:48,771 --> 00:18:50,572
+What did you do?
+
+443
+00:18:50,606 --> 00:18:52,407
+I thought you had faith
+
+444
+00:18:52,442 --> 00:18:54,443
+They'd be the best, right?
+
+445
+00:18:54,477 --> 00:18:56,078
+Well, the best pass,
+
+446
+00:18:56,112 --> 00:18:58,547
+No matter what.
+
+447
+00:18:58,581 --> 00:18:59,548
+General, you have to stop
+
+448
+00:18:59,582 --> 00:19:00,215
+This.
+
+449
+00:19:00,249 --> 00:19:02,084
+This is unfair to the cadets.
+
+450
+00:19:02,118 --> 00:19:03,418
+Adversity in war is
+
+451
+00:19:03,453 --> 00:19:05,420
+A constant, el-Les.
+
+452
+00:19:05,455 --> 00:19:06,722
+But bric has cheated.
+
+453
+00:19:06,756 --> 00:19:08,156
+The enemy won't play fair
+
+454
+00:19:08,191 --> 00:19:09,591
+Either.
+
+455
+00:19:09,625 --> 00:19:11,059
+So this is it?
+
+456
+00:19:11,094 --> 00:19:12,194
+Not exactly.
+
+457
+00:19:12,228 --> 00:19:13,428
+Those guns up there...
+
+458
+00:19:13,463 --> 00:19:14,796
+We can use them as a step to
+
+459
+00:19:14,831 --> 00:19:17,466
+The next level, form a chain,
+
+460
+00:19:17,500 --> 00:19:18,700
+And use each other
+
+461
+00:19:18,735 --> 00:19:19,801
+To scale this face.
+
+462
+00:19:19,836 --> 00:19:21,103
+Use the guns?
+
+463
+00:19:21,137 --> 00:19:22,437
+Are you crazy?
+
+464
+00:19:22,472 --> 00:19:23,238
+Trust me.
+
+465
+00:19:23,272 --> 00:19:24,906
+I know weapons.
+
+466
+00:19:24,941 --> 00:19:26,074
+I'm gonna draw their fire.
+
+467
+00:19:26,109 --> 00:19:28,910
+You guys blast 'em.
+
+468
+00:19:47,597 --> 00:19:51,066
+Well, I'll be...
+
+469
+00:19:51,100 --> 00:19:52,300
+Creative little clones, aren't
+
+470
+00:19:52,335 --> 00:19:53,101
+They?
+
+471
+00:19:53,136 --> 00:19:54,302
+No unit has shown such
+
+472
+00:19:54,337 --> 00:20:00,675
+Ingenuity.
+
+473
+00:20:01,944 --> 00:20:02,577
+We did it!
+
+474
+00:20:04,480 --> 00:20:05,380
+I knew we could do it, boys!
+
+475
+00:20:05,415 --> 00:20:06,181
+We made it!
+
+476
+00:20:06,215 --> 00:20:09,651
+Bric, your actions have
+
+477
+00:20:09,685 --> 00:20:12,154
+Brought out the best in these
+
+478
+00:20:12,188 --> 00:20:12,888
+Looks like they were
+
+479
+00:20:12,922 --> 00:20:14,723
+Well-Trained, perhaps the
+
+480
+00:20:14,757 --> 00:20:16,858
+Finest soldiers I've ever seen.
+
+481
+00:20:16,893 --> 00:20:18,994
+Well, maybe you were right,
+
+482
+00:20:19,028 --> 00:20:23,465
+El-Les.
+
+483
+00:20:23,499 --> 00:20:24,433
+Congratulations.
+
+484
+00:20:24,467 --> 00:20:26,034
+You've graduated.
+
+485
+00:20:26,068 --> 00:20:28,203
+At ease.
+
+486
+00:20:30,640 --> 00:20:33,108
+Next stop, arc trooper.
+
+487
+00:20:33,142 --> 00:20:34,276
+Yeah, how 'bout we face some
+
+488
+00:20:34,310 --> 00:20:35,710
+Combat first?
+
+489
+00:20:35,745 --> 00:20:37,279
+You were right, you know,
+
+490
+00:20:37,313 --> 00:20:39,047
+About everything.
+
+491
+00:20:39,081 --> 00:20:40,148
+I heard you were quite
+
+492
+00:20:40,183 --> 00:20:41,850
+The leader out there.
+
+493
+00:20:41,884 --> 00:20:43,051
+No leaders.
+
+494
+00:20:43,085 --> 00:20:45,253
+We are a team.
+
+495
+00:20:45,288 --> 00:20:47,556
+All of us, 99.
+
+496
+00:20:47,590 --> 00:20:48,490
+The army's lucky to have
+
+497
+00:20:48,524 --> 00:20:50,559
+A clone like you, Hevy.
+
+498
+00:20:50,593 --> 00:20:55,831
+Not as lucky as I am to have
+
+499
+00:20:55,865 --> 00:20:58,300
+Well, this is good-Bye,
+
+500
+00:20:58,334 --> 00:21:00,202
+I guess.
+
+501
+00:21:00,236 --> 00:21:02,938
+Hevy ships out, and 99 stays
+
+502
+00:21:02,972 --> 00:21:04,105
+Here.
+
+503
+00:21:04,140 --> 00:21:05,373
+Eh, we'll see each other
+
+504
+00:21:05,408 --> 00:21:06,475
+Again.
+
+505
+00:21:06,509 --> 00:21:08,210
+I mean, how else am I supposed
+
+506
+00:21:08,244 --> 00:21:10,278
+To get this back from you?
+
+507
+00:21:12,882 --> 00:21:14,716
+You deserve it.
+
+508
+00:21:14,750 --> 00:21:16,885
+You're one of us.
+
+509
+00:21:22,758 --> 00:21:25,026
+Today is your graduation.
+
+510
+00:21:25,061 --> 00:21:26,261
+From here, you ship out to
+
+511
+00:21:26,295 --> 00:21:28,497
+Fight against the separatists
+
+512
+00:21:28,531 --> 00:21:30,232
+And restore peace to the
+
+513
+00:21:30,266 --> 00:21:31,266
+Republic.
+
+514
+00:21:31,300 --> 00:21:33,168
+Congratulations.
+
+515
+00:21:33,202 --> 00:21:35,136
+You are no longer cadets.
+
+516
+00:21:35,171 --> 00:21:36,972
+You are troopers.
+
+517
+00:21:37,006 --> 00:21:39,875
+May the force be with you.
+
+518
+00:21:39,909 --> 00:21:41,610
+Attention!
+
+519
+00:21:41,644 --> 00:21:45,313
+Helmets on!
+
+520
+00:22:00,164 --> 00:22:01,665
+<i>Separatist attack!</i>
+
+521
+00:22:01,699 --> 00:22:02,499
+<i>After the destruction of</i>
+
+522
+00:22:02,533 --> 00:22:03,800
+<i>The republic outpost on the</i>
+
+523
+00:22:03,834 --> 00:22:05,735
+<i>Rishi moon, general Grievous</i>
+
+524
+00:22:05,770 --> 00:22:07,070
+<i>And Asajj Ventress plan</i>
+
+525
+00:22:07,104 --> 00:22:08,939
+<i>An attack the planet Kamino,</i>
+
+526
+00:22:08,973 --> 00:22:11,174
+<i>Home of the cloning factories.</i>
+
+527
+00:22:11,208 --> 00:22:12,509
+<i>Meanwhile, aboard a jedi</i>
+
+528
+00:22:12,543 --> 00:22:13,977
+<i>Cruiser, jedi knights</i>
+
+529
+00:22:14,011 --> 00:22:15,578
+<i>Anakin Skywalker and Obi-Wan</i>
+
+530
+00:22:15,613 --> 00:22:17,914
+<i>Kenobi examine an intercepted</i>
+
+531
+00:22:17,949 --> 00:22:20,016
+<i>Message from general Grievous.</i>
+
+532
+00:22:20,051 --> 00:22:21,217
+We are decrypting the audio,
+
+533
+00:22:21,252 --> 00:22:22,252
+Sir.
+
+534
+00:22:22,286 --> 00:22:23,954
+The clone planet of Kamino
+
+535
+00:22:23,988 --> 00:22:26,523
+Will be a dangerous target.
+
+536
+00:22:26,557 --> 00:22:28,258
+Just make sure you hold up
+
+537
+00:22:28,292 --> 00:22:30,260
+Your half of the mission.
+
+538
+00:22:30,294 --> 00:22:31,795
+We must stop the production
+
+539
+00:22:31,829 --> 00:22:33,096
+Of new clones
+
+540
+00:22:33,130 --> 00:22:35,332
+If we are to win this war.
+
+541
+00:22:36,801 --> 00:22:38,201
+Kamino.
+
+542
+00:22:38,235 --> 00:22:39,035
+They're going to attack
+
+543
+00:22:39,070 --> 00:22:40,870
+Our home planet.
+
+544
+00:22:40,905 --> 00:22:42,072
+The separatists are taking
+
+545
+00:22:42,106 --> 00:22:43,006
+Quite the chance
+
+546
+00:22:43,040 --> 00:22:45,008
+Even considering this.
+
+547
+00:22:45,042 --> 00:22:45,809
+With all due respect,
+
+548
+00:22:45,843 --> 00:22:47,510
+General, if someone comes
+
+549
+00:22:47,545 --> 00:22:49,512
+To our home, they better
+
+550
+00:22:49,547 --> 00:22:51,281
+Be carrying a big blaster.
+
+551
+00:22:51,315 --> 00:22:52,449
+I concur with captain rex,
+
+552
+00:22:52,483 --> 00:22:53,149
+Sir.
+
+553
+00:22:53,184 --> 00:22:55,418
+This is rsonal for us clones.
+
+554
+00:22:55,453 --> 00:22:56,252
+We'll make sure Kamino
+
+555
+00:22:56,287 --> 00:22:57,253
+Is secure.
+
+556
+00:22:57,288 --> 00:22:59,322
+Tell your troopers in the 501st
+
+557
+00:22:59,357 --> 00:23:00,557
+They're going home.
+
+558
+00:23:00,591 --> 00:23:02,559
+Yes, sir.
+
+559
+00:23:10,201 --> 00:23:12,369
+All is ready, general.
+
+560
+00:23:12,403 --> 00:23:13,570
+Good.
+
+561
+00:23:13,604 --> 00:23:15,238
+We will attack tipoca city
+
+562
+00:23:15,272 --> 00:23:16,473
+First.
+
+563
+00:23:16,507 --> 00:23:18,108
+I have the exact locations
+
+564
+00:23:18,142 --> 00:23:20,243
+Of both the clone dna room
+
+565
+00:23:20,277 --> 00:23:22,445
+And the clone trooper barracks.
+
+566
+00:23:22,480 --> 00:23:23,980
+Both shall be annihilated
+
+567
+00:23:24,015 --> 00:23:26,016
+Under my hand.
+
+568
+00:23:26,050 --> 00:23:27,884
+Our hands, general.
+
+569
+00:23:27,918 --> 00:23:29,452
+Count dooku assigned us both
+
+570
+00:23:29,487 --> 00:23:30,854
+This task.
+
+571
+00:23:30,888 --> 00:23:32,989
+But of course, assassin.
+
+572
+00:23:33,024 --> 00:23:36,426
+I look forward to meeting you.
+
+573
+00:23:36,460 --> 00:23:38,094
+Are the aqua droids prepared
+
+574
+00:23:38,129 --> 00:23:40,030
+For phase two of the plan?
+
+575
+00:23:40,064 --> 00:23:42,265
+Yes, mistress.
+
+576
+00:24:11,829 --> 00:24:13,997
+Masters Kenobi and Skywalker,
+
+577
+00:24:14,031 --> 00:24:15,899
+Welcome to Kamino.
+
+578
+00:24:15,933 --> 00:24:17,901
+Greetings, generals.
+
+579
+00:24:17,935 --> 00:24:18,735
+I wish our arrival
+
+580
+00:24:18,769 --> 00:24:20,970
+Wasn't under such circumstances.
+
+581
+00:24:21,005 --> 00:24:22,372
+We believe Grievous is planning
+
+582
+00:24:22,406 --> 00:24:24,841
+A separatist attack on Kamino.
+
+583
+00:24:24,875 --> 00:24:26,576
+But the republic blockade
+
+584
+00:24:26,610 --> 00:24:28,812
+Is far too strong.
+
+585
+00:24:28,846 --> 00:24:31,014
+They would not dare.
+
+586
+00:24:33,617 --> 00:24:35,385
+Ah, look around, Fives.
+
+587
+00:24:35,419 --> 00:24:36,386
+Feels like yesterday
+
+588
+00:24:36,420 --> 00:24:38,354
+We were here,
+
+589
+00:24:38,389 --> 00:24:40,356
+Heading to target practice.
+
+590
+00:24:40,391 --> 00:24:42,258
+Heh, remember that?
+
+591
+00:24:42,293 --> 00:24:43,593
+Do I ever.
+
+592
+00:24:46,363 --> 00:24:47,831
+Hey, 99.
+
+593
+00:24:47,865 --> 00:24:49,699
+Ha, Echo.
+
+594
+00:24:49,733 --> 00:24:51,201
+Fives.
+
+595
+00:24:51,235 --> 00:24:53,203
+You actually remember us.
+
+596
+00:24:53,237 --> 00:24:54,671
+Oh, I remember all my
+
+597
+00:24:54,705 --> 00:24:56,272
+Brothers.
+
+598
+00:24:56,307 --> 00:24:58,007
+Is Hevy here?
+
+599
+00:24:58,042 --> 00:24:59,642
+Where's he?
+
+600
+00:24:59,677 --> 00:25:01,478
+There was an incident
+
+601
+00:25:01,512 --> 00:25:03,713
+On the Rishi moon outpost.
+
+602
+00:25:03,747 --> 00:25:05,582
+He saved our lives,
+
+603
+00:25:05,616 --> 00:25:07,784
+But he gave up his own.
+
+604
+00:25:09,386 --> 00:25:12,989
+Uh, let's see!
+
+605
+00:25:13,023 --> 00:25:16,326
+Hevy gave you his medal?
+
+606
+00:25:16,360 --> 00:25:18,161
+So why have you returned
+
+607
+00:25:18,195 --> 00:25:19,395
+To Kamino?
+
+608
+00:25:19,430 --> 00:25:20,830
+The generals received word
+
+609
+00:25:20,865 --> 00:25:22,832
+Of an impending attack here.
+
+610
+00:25:22,867 --> 00:25:25,735
+Well, how can I help?
+
+611
+00:25:35,179 --> 00:25:38,848
+Attack formation Echo-3.
+
+612
+00:25:38,883 --> 00:25:39,782
+Status.
+
+613
+00:25:39,817 --> 00:25:41,784
+Deflector shields raised.
+
+614
+00:25:41,819 --> 00:25:43,253
+Destroyers in position.
+
+615
+00:25:43,287 --> 00:25:45,788
+Forward cannons ready.
+
+616
+00:25:45,823 --> 00:25:49,058
+Landing craft prepared.
+
+617
+00:25:49,093 --> 00:25:51,961
+All ships are in position.
+
+618
+00:25:51,996 --> 00:25:55,598
+Commence attack.
+
+619
+00:26:03,574 --> 00:26:04,474
+The separatist fleet
+
+620
+00:26:04,508 --> 00:26:06,142
+Is pressing their attack, sir.
+
+621
+00:26:06,177 --> 00:26:07,010
+Contact command
+
+622
+00:26:07,044 --> 00:26:08,344
+At tipoca city.
+
+623
+00:26:20,224 --> 00:26:23,459
+Shore up our defenses.
+
+624
+00:26:23,494 --> 00:26:24,727
+The fleet is not as large
+
+625
+00:26:24,762 --> 00:26:26,229
+As I expected.
+
+626
+00:26:26,263 --> 00:26:28,598
+Begin the air strike.
+
+627
+00:26:35,973 --> 00:26:37,106
+Good to see you, general.
+
+628
+00:26:37,141 --> 00:26:38,508
+Ready to have some fun?
+
+629
+00:26:38,542 --> 00:26:39,943
+You know me, broadside.
+
+630
+00:26:39,977 --> 00:26:40,910
+I'd rather be up here
+
+631
+00:26:40,945 --> 00:26:42,679
+Than stuck in a command center.
+
+632
+00:27:03,968 --> 00:27:06,169
+Warning! Falling debris.
+
+633
+00:27:06,203 --> 00:27:07,170
+Grievous appears to be
+
+634
+00:27:07,204 --> 00:27:08,671
+Sacrificing his transports
+
+635
+00:27:08,706 --> 00:27:09,806
+In favor of protecting
+
+636
+00:27:09,840 --> 00:27:11,174
+His command ship.
+
+637
+00:27:11,208 --> 00:27:14,377
+Something's not right.
+
+638
+00:27:28,125 --> 00:27:30,393
+Reinforcements have arrived.
+
+639
+00:27:30,427 --> 00:27:31,694
+Send out the aqua droids
+
+640
+00:27:31,729 --> 00:27:34,163
+To assemble the assault craft.
+
+641
+00:27:35,633 --> 00:27:37,000
+Focus on the cruisers.
+
+642
+00:27:50,147 --> 00:27:51,080
+I'm gonna press the attack,
+
+643
+00:27:51,115 --> 00:27:52,148
+Master.
+
+644
+00:27:52,182 --> 00:27:52,949
+No, Anakin.
+
+645
+00:27:52,983 --> 00:27:53,850
+Wait.
+
+646
+00:27:53,884 --> 00:27:55,118
+It's too easy.
+
+647
+00:27:55,152 --> 00:27:56,352
+Not even Grievous would attack
+
+648
+00:27:56,387 --> 00:27:57,720
+So recklessly.
+
+649
+00:27:57,755 --> 00:27:59,055
+Master, the battle's up here
+
+650
+00:27:59,089 --> 00:28:01,157
+In space, not down there.
+
+651
+00:28:01,191 --> 00:28:02,458
+The debris from the destroyed
+
+652
+00:28:02,493 --> 00:28:04,861
+Separatist ships is the key.
+
+653
+00:28:04,895 --> 00:28:06,629
+What are you thinking?
+
+654
+00:28:06,664 --> 00:28:07,630
+I think I'd like to go
+
+655
+00:28:07,665 --> 00:28:09,632
+For a swim.
+
+656
+00:28:22,579 --> 00:28:24,547
+Nothing as of yet.
+
+657
+00:28:24,581 --> 00:28:25,548
+Only you could be worried
+
+658
+00:28:25,582 --> 00:28:26,516
+About the ships I already
+
+659
+00:28:26,550 --> 00:28:27,650
+Shot down.
+
+660
+00:28:30,354 --> 00:28:33,323
+Wait a minute.
+
+661
+00:28:34,992 --> 00:28:36,292
+Aqua droids.
+
+662
+00:28:36,327 --> 00:28:37,193
+Looks as though they're
+
+663
+00:28:37,227 --> 00:28:39,195
+Assembling assault craft.
+
+664
+00:28:46,036 --> 00:28:47,603
+Anakin, I was right.
+
+665
+00:28:47,638 --> 00:28:48,571
+Those downed transports
+
+666
+00:28:48,605 --> 00:28:49,472
+Were hiding ships for
+
+667
+00:28:49,506 --> 00:28:51,007
+An underwater assault.
+
+668
+00:28:51,041 --> 00:28:53,609
+Anakin, come in!
+
+669
+00:28:53,644 --> 00:28:55,111
+Hold it right there.
+
+670
+00:28:55,145 --> 00:28:57,113
+Do not move.
+
+671
+00:29:37,893 --> 00:29:39,561
+Thanks for the lift, friend.
+
+672
+00:29:49,638 --> 00:29:51,306
+Anakin, the city is under
+
+673
+00:29:51,340 --> 00:29:52,207
+Attack.
+
+674
+00:29:52,241 --> 00:29:54,309
+I need you down here now!
+
+675
+00:29:56,212 --> 00:29:57,178
+On my way.
+
+676
+00:30:05,487 --> 00:30:07,021
+Sir, you sent for us?
+
+677
+00:30:07,056 --> 00:30:08,089
+It's a dangerous assignment,
+
+678
+00:30:08,123 --> 00:30:09,290
+But I want you two up
+
+679
+00:30:09,325 --> 00:30:10,291
+On the bridge in sniper
+
+680
+00:30:10,326 --> 00:30:11,459
+Positions.
+
+681
+00:30:11,493 --> 00:30:12,126
+Yes, sir.
+
+682
+00:30:12,161 --> 00:30:14,829
+We're on it.
+
+683
+00:30:32,147 --> 00:30:33,147
+Watch out!
+
+684
+00:31:37,813 --> 00:31:40,114
+99, get out of here!
+
+685
+00:31:41,083 --> 00:31:43,117
+This is no place for you.
+
+686
+00:31:51,393 --> 00:31:52,360
+There aren't enough droids
+
+687
+00:31:52,394 --> 00:31:53,795
+Here to capture the city.
+
+688
+00:31:53,829 --> 00:31:55,563
+They're trying to distract us.
+
+689
+00:31:55,597 --> 00:31:57,398
+Go protect the dna chamber.
+
+690
+00:31:57,433 --> 00:31:58,900
+I'll deal with Grievous.
+
+691
+00:31:58,934 --> 00:32:00,902
+Got it.
+
+692
+00:32:15,117 --> 00:32:16,184
+Fives, keep firing.
+
+693
+00:32:16,218 --> 00:32:18,519
+We can beat these guys.
+
+694
+00:32:18,554 --> 00:32:20,521
+Zap!
+
+695
+00:32:20,556 --> 00:32:21,456
+99.
+
+696
+00:32:21,490 --> 00:32:23,458
+I...I brought you some ammo.
+
+697
+00:32:23,492 --> 00:32:24,225
+Is there a better spot
+
+698
+00:32:24,259 --> 00:32:25,460
+Than this, a better defensive
+
+699
+00:32:25,494 --> 00:32:26,361
+Position we can take?
+
+700
+00:32:26,395 --> 00:32:27,795
+Droids! Behind us!
+
+701
+00:32:28,530 --> 00:32:31,833
+Look! Grenades!
+
+702
+00:32:34,536 --> 00:32:35,603
+Thanks, 99.
+
+703
+00:32:35,637 --> 00:32:36,771
+Good job.
+
+704
+00:32:36,805 --> 00:32:37,739
+Look out.
+
+705
+00:32:37,773 --> 00:32:40,475
+There's more.
+
+706
+00:32:40,509 --> 00:32:41,542
+Cadets.
+
+707
+00:32:41,577 --> 00:32:42,710
+What are you doing here?
+
+708
+00:32:42,745 --> 00:32:43,511
+We got separated
+
+709
+00:32:43,545 --> 00:32:44,479
+From our group.
+
+710
+00:32:44,513 --> 00:32:45,947
+Where were they taking you?
+
+711
+00:32:45,981 --> 00:32:46,981
+The barracks.
+
+712
+00:32:47,015 --> 00:32:48,149
+Oh, I know the best way
+
+713
+00:32:48,183 --> 00:32:48,883
+There.
+
+714
+00:32:48,917 --> 00:32:50,451
+Keep firing.
+
+715
+00:32:50,486 --> 00:32:51,986
+No mercy!
+
+716
+00:33:21,116 --> 00:33:23,785
+Your skills are impressive.
+
+717
+00:33:23,819 --> 00:33:25,686
+Perhaps a match for my own,
+
+718
+00:33:25,721 --> 00:33:27,455
+Assassin.
+
+719
+00:33:27,489 --> 00:33:28,589
+Count dooku may have taught
+
+720
+00:33:28,624 --> 00:33:30,224
+You how to swing a lightsaber,
+
+721
+00:33:30,259 --> 00:33:32,593
+General, but that hardly
+
+722
+00:33:32,628 --> 00:33:34,695
+Makes you my equal.
+
+723
+00:33:34,730 --> 00:33:36,230
+And yet I am the general
+
+724
+00:33:36,265 --> 00:33:38,399
+In charge of this assault.
+
+725
+00:33:38,434 --> 00:33:39,967
+Remember, assassin,
+
+726
+00:33:40,002 --> 00:33:41,068
+You are to recover
+
+727
+00:33:41,103 --> 00:33:42,970
+The clone dna.
+
+728
+00:33:43,005 --> 00:33:45,139
+Why not just destroy it?
+
+729
+00:33:45,174 --> 00:33:46,874
+Because the dna could unlock
+
+730
+00:33:46,909 --> 00:33:49,343
+New possibilities for us.
+
+731
+00:33:49,378 --> 00:33:50,445
+Keep playing with your
+
+732
+00:33:50,479 --> 00:33:51,579
+Droids.
+
+733
+00:33:51,613 --> 00:33:52,880
+I'll handle breaking into
+
+734
+00:33:52,915 --> 00:33:55,616
+The dna room.
+
+735
+00:33:55,651 --> 00:33:56,884
+Shall I provide you
+
+736
+00:33:56,919 --> 00:33:59,454
+With a droid escort?
+
+737
+00:33:59,488 --> 00:34:01,522
+My dear general,
+
+738
+00:34:01,557 --> 00:34:02,957
+There's nothing you have
+
+739
+00:34:02,991 --> 00:34:05,793
+That I could want.
+
+740
+00:34:18,974 --> 00:34:20,942
+What are we gonna do?
+
+741
+00:34:20,976 --> 00:34:22,310
+A separatist victory
+
+742
+00:34:22,344 --> 00:34:25,379
+Means death for all of us.
+
+743
+00:34:25,414 --> 00:34:26,848
+The cadet is right.
+
+744
+00:34:26,882 --> 00:34:28,382
+What are we gonna do?
+
+745
+00:34:28,417 --> 00:34:32,620
+We fight.
+
+746
+00:34:32,654 --> 00:34:33,521
+But our training's not
+
+747
+00:34:33,555 --> 00:34:34,555
+Finished.
+
+748
+00:34:34,590 --> 00:34:35,690
+Look around.
+
+749
+00:34:35,724 --> 00:34:37,158
+We're one in the same,
+
+750
+00:34:37,192 --> 00:34:39,393
+Same heart, same blood.
+
+751
+00:34:39,428 --> 00:34:41,896
+Your training is in your blood.
+
+752
+00:34:41,930 --> 00:34:43,297
+And my blood's boiling
+
+753
+00:34:43,332 --> 00:34:44,699
+For a fight.
+
+754
+00:34:44,733 --> 00:34:45,933
+This is our home.
+
+755
+00:34:45,968 --> 00:34:48,102
+This is our war.
+
+756
+00:34:48,136 --> 00:34:49,871
+What about weapons?
+
+757
+00:34:49,905 --> 00:34:53,074
+The armory.
+
+758
+00:34:53,108 --> 00:34:54,709
+It's just a few corridors away
+
+759
+00:34:54,743 --> 00:34:55,977
+Here in the barracks.
+
+760
+00:34:56,011 --> 00:34:57,912
+I can retrieve all the firepower
+
+761
+00:34:57,946 --> 00:34:59,080
+That we need.
+
+762
+00:34:59,114 --> 00:35:01,182
+Hah, so who wants to blast
+
+763
+00:35:01,216 --> 00:35:04,519
+Some droids?
+
+764
+00:35:17,933 --> 00:35:19,767
+The droids are spread thin.
+
+765
+00:35:19,801 --> 00:35:22,103
+We must press our offensive now.
+
+766
+00:35:46,128 --> 00:35:47,395
+I was beginning to think
+
+767
+00:35:47,429 --> 00:35:49,964
+My presence went unnoticed.
+
+768
+00:35:49,998 --> 00:35:50,665
+You weren't planning
+
+769
+00:35:50,699 --> 00:35:51,832
+On leaving without saying hello,
+
+770
+00:35:51,867 --> 00:35:54,435
+Were you?
+
+771
+00:35:59,041 --> 00:36:00,741
+Ha, here it is.
+
+772
+00:36:00,776 --> 00:36:02,577
+Everything we need is here.
+
+773
+00:36:02,611 --> 00:36:04,178
+Excellent work, 99.
+
+774
+00:36:04,212 --> 00:36:04,879
+Hurry up.
+
+775
+00:36:04,913 --> 00:36:05,746
+The droids have almost reached
+
+776
+00:36:05,781 --> 00:36:06,581
+The barracks.
+
+777
+00:36:06,615 --> 00:36:09,350
+Let's get into position.
+
+778
+00:36:12,621 --> 00:36:13,821
+Open up.
+
+779
+00:36:13,855 --> 00:36:15,289
+Get those doors open
+
+780
+00:36:15,324 --> 00:36:16,991
+And scare the remaining clones
+
+781
+00:36:17,025 --> 00:36:18,292
+Out of hiding.
+
+782
+00:36:18,327 --> 00:36:19,961
+Roger, roger.
+
+783
+00:36:23,865 --> 00:36:26,534
+Blast them.
+
+784
+00:36:27,836 --> 00:36:31,405
+All too easy.
+
+785
+00:36:31,440 --> 00:36:35,443
+Define "easy," general.
+
+786
+00:36:35,477 --> 00:36:37,845
+Kenobi.
+
+787
+00:37:21,463 --> 00:37:24,465
+Kenobi, Kamino has fallen.
+
+788
+00:37:24,499 --> 00:37:28,202
+Your clone army is doomed.
+
+789
+00:37:28,236 --> 00:37:31,138
+I beg to differ, Grievous.
+
+790
+00:37:59,467 --> 00:38:01,268
+Cadets, now!
+
+791
+00:38:48,449 --> 00:38:49,750
+Last one, commander.
+
+792
+00:38:49,784 --> 00:38:50,784
+Make it count.
+
+793
+00:38:50,818 --> 00:38:53,220
+I'll get more.
+
+794
+00:38:53,254 --> 00:38:54,454
+99, you can't.
+
+795
+00:38:54,489 --> 00:38:56,490
+I'm a soldier like you.
+
+796
+00:38:56,524 --> 00:38:57,324
+This is what
+
+797
+00:38:57,358 --> 00:38:58,492
+I was bred for.
+
+798
+00:39:01,729 --> 00:39:03,330
+99, no!
+
+799
+00:39:18,846 --> 00:39:19,813
+Commander Cody.
+
+800
+00:39:19,847 --> 00:39:22,215
+Yes, sir.
+
+801
+00:39:22,250 --> 00:39:23,150
+The droids have been pushed
+
+802
+00:39:23,184 --> 00:39:24,551
+Back to the main hangar.
+
+803
+00:40:03,958 --> 00:40:05,158
+We've got to stop meeting
+
+804
+00:40:05,193 --> 00:40:06,727
+Like this, my friend.
+
+805
+00:40:22,643 --> 00:40:23,577
+Move it, troopers!
+
+806
+00:40:23,611 --> 00:40:26,346
+On the double!
+
+807
+00:40:26,380 --> 00:40:27,714
+Fire!
+
+808
+00:40:40,361 --> 00:40:43,196
+Look! It's the general!
+
+809
+00:41:07,455 --> 00:41:10,457
+To surrender.
+
+810
+00:41:13,195 --> 00:41:15,562
+Actually I plan to let
+the clones execute you
+
+811
+00:41:15,596 --> 00:41:16,830
+Right now.
+
+812
+00:41:16,864 --> 00:41:18,865
+Not this time.
+
+813
+00:41:30,211 --> 00:41:31,344
+We did it.
+
+814
+00:41:31,379 --> 00:41:34,481
+We held them back.
+
+815
+00:41:34,515 --> 00:41:38,685
+We lost a true soldier.
+
+816
+00:41:38,719 --> 00:41:42,823
+He really was one of us.
+
+817
+00:41:42,857 --> 00:41:47,060
+Echo, Fives.
+
+818
+00:41:47,094 --> 00:41:48,728
+You both really stepped up
+
+819
+00:41:48,763 --> 00:41:50,430
+In the heat of battle.
+
+820
+00:41:50,464 --> 00:41:52,299
+We did what we had to do,
+
+821
+00:41:52,333 --> 00:41:53,266
+Sir,
+
+822
+00:41:53,301 --> 00:41:56,636
+What any clone would have done.
+
+823
+00:41:56,671 --> 00:41:57,771
+Both of you showed valor
+
+824
+00:41:57,805 --> 00:42:00,640
+Out there, real courage.
+
+825
+00:42:00,675 --> 00:42:02,809
+Reminded me of me, actually.
+
+826
+00:42:02,844 --> 00:42:05,145
+Echo, Fives,
+
+827
+00:42:05,179 --> 00:42:06,346
+You're both officially
+
+828
+00:42:06,380 --> 00:42:08,348
+Being made arc troopers.
+
+829
+00:42:11,619 --> 00:42:12,519
+I don't think the separatists
+
+830
+00:42:12,553 --> 00:42:13,253
+Will be coming back here
+
+831
+00:42:13,287 --> 00:42:14,554
+Any time soon.
+
+832
+00:42:14,589 --> 00:42:16,356
+But if they do,
+
+833
+00:42:16,390 --> 00:42:17,924
+Kamino will be lucky
+
+834
+00:42:17,959 --> 00:42:21,226
+To have clones like
+you defending it.
+
+835
+00:42:21,260 --> 00:42:22,796
+Good job, men!
